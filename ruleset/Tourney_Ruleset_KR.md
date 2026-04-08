@@ -9,7 +9,7 @@
 | 원문 작성 | crowned_pvp |
 | 원문 제작 기여 | DEN Rules Committee and Competitive Community |
 | 한국어 번역 | sin, Crong |
-| 1차 검토 | LED |
+| 검토 | LED, Ornstein, Emperor Of Flames |
 
 ---
 

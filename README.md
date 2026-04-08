@@ -8,7 +8,7 @@
 
 This repository contains a reformatted English version and a Korean translation of the official Elden Ring PvP competitive ruleset.
 
-이 레포지토리는 엘든링 PvP 경쟁 룰셋의 영문 정리본 및 한국어 번역본을 포함합니다.
+이 레포지토리는 엘든링 PvP 룰의 영문 정리본 및 한국어 번역본을 포함합니다.
 
 ---
 
@@ -46,4 +46,4 @@ If you have suggestions or corrections regarding the ruleset, please refer to th
 If you have suggestions for the translation, feel free to open an Issue.
 
 룰셋 내용에 대한 의견은 원문 커뮤니티 채널을 통해 전달해 주세요.
-번역에 대한 수정 제안은 Issue를 통해 남겨주시면 감사하겠습니다.
+번역에 대한 수정 제안은 Issue를 통해 남겨주시면 감사하겠습니다!

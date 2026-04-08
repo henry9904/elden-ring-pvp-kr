@@ -32,8 +32,8 @@ This repository contains a reformatted English version and a Korean translation 
 ## 👥 Contributors / 기여자
 
 - **DEN Rules Committee & crowned_pvp** — Original ruleset authors / 원문 작성자
-- **sin** (@kimseonu0101) — Korean translation & Technical review / 한국어 번역 및 기술 검토
-- **Crong** (@henry9904) — Project lead, English remodeling & Translation / 프로젝트 총괄 및 리모델링
+- **sin**  — Korean translation & Technical review / 한국어 번역 및 기술 검토
+- **Crong**  — Project lead, English remodeling & Translation / 프로젝트 총괄 및 리모델링
 - **LED** — Review & Feedback / 한국어 검토 및 피드백
 
 ---

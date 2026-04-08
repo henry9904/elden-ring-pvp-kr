@@ -18,8 +18,8 @@ This repository contains a reformatted English version and Korean translations o
 
 | 문서 | 링크 |
 |------|------|
-| 룰셋 설명 한국어판 / Ruleset Explanation (KR) | [🔗 열기](https://docs.google.com/document/d/1a46GJV2etOHvO8mcXmtXAXa9B8tTml80b4XhBU_x-08/edit?tab=t.0) |
-| 룰셋 설명 영문판 / Ruleset Explanation (EN) | [🔗 열기](https://docs.google.com/document/d/1-ZBznyPk0yW4e7E1Ueo_tBkhQXjJWitsOPEPwASTRKk/edit?tab=t.0) |
+| 토너먼트 룰셋 설명 한국어판 / Tourney Ruleset Explanation (KR) | [🔗 열기](https://docs.google.com/document/d/1a46GJV2etOHvO8mcXmtXAXa9B8tTml80b4XhBU_x-08/edit?tab=t.0) |
+| 토너먼트 룰셋 설명 영문판 / Tourney Ruleset Explanation (EN) | [🔗 열기](https://docs.google.com/document/d/1-ZBznyPk0yW4e7E1Ueo_tBkhQXjJWitsOPEPwASTRKk/edit?tab=t.0) |
 | 결투 제한 규정 한국어판 / Duel Restrictions (KR) | [🔗 열기](https://docs.google.com/document/d/19nzIk1BM0pPc-0tOQ-MzUqjdrQlJVL3PU0Qz2pvPh5s/edit?tab=t.0) |
 | 노만 트윈블레이드 가이드 영문판 / Nohman TB Guide (EN) | [🔗 열기](https://docs.google.com/document/d/1gBohQpaa6Vvch9JIO-WneAlsyONmE64UKFV9eBk4DeI/edit?tab=t.0) |
 | 노만 트윈블레이드 가이드 한국어판 / Nohman TB Guide (KR) | [🔗 열기](https://docs.google.com/document/d/15EpQ8omEbPYKScOr4E2D9S2l6-G0BCyGJPKtdIN1a9I/edit?tab=t.0) |
@@ -29,9 +29,11 @@ This repository contains a reformatted English version and Korean translations o
 | 파일 | 설명 |
 |------|------|
 | [📜 Ruleset_Explanation_Document.pdf](./ruleset/Ruleset_Explanation_Document.pdf) | 영문 원본 PDF / Original English PDF (by crowned_pvp) |
-| [📄 Ruleset_EN.md](./ruleset/Ruleset_EN.md) | 영문 원본 정리본 / Reformatted English original |
-| [📄 Ruleset_KR.md](./ruleset/Ruleset_KR.md) | 룰셋 설명 한국어 번역본 / Korean translation of ruleset explanation |
+| [📄 Tourney_Ruleset_EN.md](./ruleset/Tourney_Ruleset_EN.md) | 토너먼트 룰셋 설명 영문판 / Tournament Ruleset Explanation (EN) |
+| [📄 Tourney_Ruleset_KR.md](./ruleset/Tourney_Ruleset_KR.md) | 토너먼트 룰셋 설명 한국어판 / Tournament Ruleset Explanation (KR) |
 | [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 (번역: sin) / Korean translation of duel restrictions |
+| [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN 결투 제한 규정 영문판 / Standard DEN Duel Restrictions (English) |
+| [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 / Standard DEN Duel Restrictions (Korean) |
 
 ### 📁 guides/
 
@@ -65,6 +67,7 @@ This project is a non-commercial fan translation and guide collection for access
 | 한국어 번역 | sin |
 | 리디자인 | Crong |
 | 1차 검토 | LED |
+| 피드백 | Ornstein, Emperor of Flames |
 
 ---
 

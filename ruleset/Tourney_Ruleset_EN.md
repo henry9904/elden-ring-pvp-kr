@@ -8,7 +8,7 @@
 |------|------|
 | Original Author | crowned_pvp |
 | Korean Translation | sin, Crong |
-| Review | LED |
+| Feedback | LED, Ornstein, Emperor Of Flames |
 
 ---
 

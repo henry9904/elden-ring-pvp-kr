@@ -31,7 +31,6 @@ This repository contains a reformatted English version and Korean translations o
 | [📜 Ruleset_Explanation_Document.pdf](./ruleset/Ruleset_Explanation_Document.pdf) | 영문 원본 PDF / Original English PDF (by crowned_pvp) |
 | [📄 Tourney_Ruleset_EN.md](./ruleset/Tourney_Ruleset_EN.md) | 토너먼트 룰셋 설명 영문판 / Tournament Ruleset Explanation (EN) |
 | [📄 Tourney_Ruleset_KR.md](./ruleset/Tourney_Ruleset_KR.md) | 토너먼트 룰셋 설명 한국어판 / Tournament Ruleset Explanation (KR) |
-| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 (번역: sin) / Korean translation of duel restrictions |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN 결투 제한 규정 영문판 / Standard DEN Duel Restrictions (English) |
 | [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 / Standard DEN Duel Restrictions (Korean) |
 

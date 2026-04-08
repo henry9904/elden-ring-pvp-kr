@@ -14,6 +14,16 @@ This repository contains a reformatted English version and Korean translations o
 
 ## 📂 Files / 파일 목록
 
+### 🌐 Google Docs (브라우저에서 바로 보기 / View in browser)
+
+| 문서 | 링크 |
+|------|------|
+| 룰셋 설명 한국어판 / Ruleset Explanation (KR) | [🔗 열기](https://docs.google.com/document/d/1a46GJV2etOHvO8mcXmtXAXa9B8tTml80b4XhBU_x-08/edit?tab=t.0) |
+| 룰셋 설명 영문판 / Ruleset Explanation (EN) | [🔗 열기](https://docs.google.com/document/d/1-ZBznyPk0yW4e7E1Ueo_tBkhQXjJWitsOPEPwASTRKk/edit?tab=t.0) |
+| 결투 제한 규정 한국어판 / Duel Restrictions (KR) | [🔗 열기](https://docs.google.com/document/d/19nzIk1BM0pPc-0tOQ-MzUqjdrQlJVL3PU0Qz2pvPh5s/edit?tab=t.0) |
+| 노만 트윈블레이드 가이드 영문판 / Nohman TB Guide (EN) | [🔗 열기](https://docs.google.com/document/d/1gBohQpaa6Vvch9JIO-WneAlsyONmE64UKFV9eBk4DeI/edit?tab=t.0) |
+| 노만 트윈블레이드 가이드 한국어판 / Nohman TB Guide (KR) | [🔗 열기](https://docs.google.com/document/d/15EpQ8omEbPYKScOr4E2D9S2l6-G0BCyGJPKtdIN1a9I/edit?tab=t.0) |
+
 ### 📁 ruleset/
 
 | 파일 | 설명 |

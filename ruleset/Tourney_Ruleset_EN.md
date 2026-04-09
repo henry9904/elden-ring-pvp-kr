@@ -14,9 +14,9 @@
 
 ## 📌 Priorities in Rules
 
-### ⚖️ Balancing between skilful gameplay and setup variety
+### ⚖️ Balancing between skillful gameplay and setup variety
 
-Different rules' powerlevels have different levels of skilful gameplay and setup variety so that people have more fun. This is the main reason why we have many of the top setups banned, as the majority of them do not have as much skill expression (like thrusting shields) and the ruleset would become dominated by any single one of them that would be unbanned leaving little room for alternatives. This is also why some setups have damage restrictions rather than outright banning them, as this increases the pool of viable setups. This ruleset isn't the only way to do it and we could definitely move the power-level slider in either direction.
+Different rules' powerlevels have different levels of skillful gameplay and setup variety so that people have more fun. This is the main reason why we have many of the top setups banned, as the majority of them do not have as much skill expression (like thrusting shields) and the ruleset would become dominated by any single one of them that would be unbanned leaving little room for alternatives. This is also why some setups have damage restrictions rather than outright banning them, as this increases the pool of viable setups. This ruleset isn't the only way to do it and we could definitely move the power-level slider in either direction.
 
 ### 📋 Ruleset Bloat
 

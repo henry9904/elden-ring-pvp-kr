@@ -1,12 +1,74 @@
 # 📊 Elden Ring — Stat Breakpoints aka "Soft Caps"
 
 > [!NOTE]
-> Guide written by **Drake Ravenwolf**
-> Korean translation & redesign by **sin** **Crong**
+> Stat Breakpoints by: **Drake Ravenwolf**
+> PvP Stat Analysis by: **sin**
+> Redesign by: **Crong**
 
 ---
 
 ## ⚡ TL;DR — Quick Reference
+
+| Stat | Breakpoints |
+|------|-------------|
+| **Vigor** | 40 / 58 |
+| **Mind** | 40 / 50 *(38 if you want only as much FP as a max upgraded Flask restores)* |
+| **Endurance** | 25 / 40 / 50 / 60 |
+| **Strength** | 20 / 53 / 80 *(2H only: 35 / 53)* |
+| **Dexterity** | 20 / 53 / 80 |
+| **Intelligence / Faith / Arcane** | 20 / 50 / 80 *(for attack power)* |
+| **Casting Scaling** — single-stat catalysts | 60 / 80 |
+| **Casting Scaling** — multi-stat catalysts | 30 / 45 |
+
+---
+
+## 🥊 PvP Stat Type Analysis
+
+> *This section is based on PvP analysis by sin.*
+
+### 💪 Strength
+
+| | |
+|-|-|
+| ✅ **Pros** | Wide weapon selection and 1.5x Strength bonus when two-handing. Heavy infusions scale well |
+| ❌ **Cons** | Attack patterns can become predictable |
+
+### ⚡ Dexterity
+
+| | |
+|-|-|
+| ✅ **Pros** | Strong synergy with Keen infusion weapons |
+| ❌ **Cons** | Narrower weapon selection compared to Strength, and lower stat efficiency |
+
+### 🔮 Intelligence
+
+| | |
+|-|-|
+| ✅ **Pros** | Can use both melee weapons and sorceries |
+| ❌ **Cons** | Usually invested in after STR/DEX, meaning Endurance or other stats may need to be cut. Fewer advantages than Faith when using melee weapons |
+
+### ✨ Faith
+
+| | |
+|-|-|
+| ✅ **Pros** | Access to more damage-boosting options than other builds. Highest raw damage potential |
+| ❌ **Cons** | Usually invested in after STR/DEX, meaning Endurance or other stats may need to be cut |
+
+### 🩸 Arcane
+
+| | |
+|-|-|
+| ✅ **Pros** | Excellent for status effects (bleed, poison, sleep) and physical + elemental weapons |
+| ❌ **Cons** | Low damage on standard infusion weapons not specifically suited to Arcane scaling |
+
+### 🧬 Hybrid (STR/DEX + Elemental)
+
+| | |
+|-|-|
+| ✅ **Pros** | Typically high STR/DEX with a wide weapon pool. Maximizes damage when using swap-heavy playstyles or one or two specialized weapons |
+| ❌ **Cons** | Damage may be lower on most weapons outside a few specific choices |
+
+---
 
 | Stat | Breakpoints |
 |------|-------------|
@@ -47,6 +109,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 | 40 → 58 | Noticeable decrease in efficiency |
 | 58 → 60 | Very little benefit |
 
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
+
 > [!TIP]
 > HP gains ramp up heavily toward 40 — always take Vigor to 40. Going to 58 is situational and generally not recommended.
 
@@ -61,6 +126,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 | 1 → 41 | FP continues to ramp up |
 | 41 → 50 | Diminishing returns begin |
 | 40 | Focus resistance hard decrease |
+
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
 
 > [!TIP]
 > If you use FP, take Mind to 50. At minimum take it to 40. If you want exactly as much FP as a max upgraded Flask restores, stop at **38**.
@@ -77,6 +145,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 | 40 | Robustness hard decrease |
 | 50 | Stamina hard stop |
 | 60 | Equip Load (final stop) |
+
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
 
 > [!TIP]
 > If you primarily cast spells, leave Endurance at 25. Otherwise take it to at least 30. For melee builds, 50 is a strong target for stamina.
@@ -97,6 +168,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 > [!NOTE]
 > **2-Handing** a weapon multiplies your effective Strength by **1.5x**, so stopping at **35** gives an effective value of **52.5**.
 
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
+
 > [!TIP]
 > Take Strength to 20 first, then focus on survivability. Later push to 35 (2H) or 53. Going to 80 is not recommended unless 2-Handing.
 
@@ -111,6 +185,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 | 1 → 20 | Heavily front-loaded |
 | 20 → ~53 | Slower growth |
 | 53+ | Steep decline after 80 |
+
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
 
 > [!TIP]
 > Take Dexterity to 20 first, then focus on survivability before pushing to 53. Going to 80 is generally not worthwhile.
@@ -135,6 +212,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 > [!NOTE]
 > Magic resistance has a hard decrease at 20.
 
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
+
 > [!TIP]
 > Take Intelligence to 20 first, then focus on survivability. If committing to a casting build, go all the way to 50 or 80.
 
@@ -153,6 +233,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 |---------------|-------------|
 | Multi-stat seals | 30 / 45 |
 | Pure Faith seals | 60 / 80 |
+
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
 
 > [!TIP]
 > Take Faith to 20 first, then focus on survivability. If committing to a casting build, go all the way to 50 or 80.
@@ -177,6 +260,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 
 > [!NOTE]
 > Arcane has **no pure catalyst** — only hybrid ones, so casting breakpoints are always 30/45.
+
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
 
 > [!TIP]
 > Take Arcane to 20 first, then focus on survivability before pushing to ~45. Going to 80 is generally not worthwhile.
@@ -242,6 +328,9 @@ Elden Ring handles some stats a little oddly — often the first points you inve
 | 8 | **Analysis → Checksums → MD-5** → copy the generated checksum |
 | 9 | Select block `300` to `30F` → **Paste Write** the checksum |
 | 10 | Save the file and delete `ER0000.sl2.bak` from your SteamID folder |
+
+> [!NOTE]
+> *(The recommendations below reflect the personal opinions of the original author, Drake Ravenwolf.)*
 
 > [!TIP]
 > If this seems complex, look for **EldenRingSaveCopier** — an automated tool that handles this process.

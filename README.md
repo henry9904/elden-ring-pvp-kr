@@ -23,7 +23,7 @@ A community-driven project providing Korean translations and redesigns of the of
 
 | Document / 문서 | Link / 링크 |
 |-----------------|-------------|
-| Duel Restrictions (KR) / 결투 제한 규정 한국어판 | [🔗 Open](https://docs.google.com/document/d/19nzIk1BM0pPc-0tOQ-MzUqjdrQlJVL3PU0Qz2pvPh5s/edit?tab=t.0) |
+| Standard DEN Restrictions (KR) / 결투 제한 규정 한국어판 | [🔗 Open](https://docs.google.com/document/d/19nzIk1BM0pPc-0tOQ-MzUqjdrQlJVL3PU0Qz2pvPh5s/edit?tab=t.0) |
 | Standard DEN Restrictions (EN) / 결투 제한 규정 영문판 | [🔗 Open](https://docs.google.com/document/d/1kpKsYj8lQo7KkaKLnMWRCb6JPuC8Y0_M5h7lkdKNgmU/edit?tab=t.0) |
 
 ### 📋 Tournament Ruleset — Supplementary / 토너먼트 전용 부록
@@ -50,8 +50,9 @@ A community-driven project providing Korean translations and redesigns of the of
 
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
-| [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 (번역: sin) |
+| [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 (by sin) |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
+
 
 #### Tournament Ruleset / 토너먼트 전용 부록
 
@@ -67,6 +68,13 @@ A community-driven project providing Korean translations and redesigns of the of
 |-------------|-------------------|
 | [📄 Nohman_TB_Guide_KR.md](./guides/Nohman_TB_Guide_KR.md) | 노만 트윈블레이드 가이드 한국어판 |
 | [📄 Nohman_TB_Guide_EN.md](./guides/Nohman_TB_Guide_EN.md) | Nohman Twinblade Guide (English) |
+
+### 📁 info/
+
+| File / 파일 | Description / 설명 |
+|-------------|-------------------|
+| [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 (데이터: sin) |
+| [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis (Data: sin) |
 
 ---
 

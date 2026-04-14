@@ -1,8 +1,15 @@
-# 🗡️ Elden Ring PvP — Colossal Greatsword (CGS) Guide
+# 🗡️ Elden Ring PvP — Colossal Greatsword (CGS) Comprehensive Guide
 
 > [!NOTE]
-> This guide is based on original notes by **𝑄𝑅𝑄 [MAC]**.
-> English version redesign by **Crong**.
+> Fundamentals & Theory by: **sin**
+> Practical Guide by: **𝑄𝑅𝑄**
+> Redesign by: **Crong**
+
+---
+
+## ⚡ One-Line Summary
+
+> **CGS is slow but hits hard. You don't attack — you bait the opponent into getting hit.**
 
 ---
 
@@ -10,13 +17,15 @@
 
 | Pros | Cons |
 |------|------|
-| High poise | Slow attack speed |
+| High poise | Very slow attack speed |
 | Long range | Long recovery |
 | High poise damage | Mostly stationary attacks |
 | Massive damage | Weak at close range |
+| Strong in trades | Nearly unusable at high latency |
 
 > [!IMPORTANT]
-> **CGS is a thrusting-focused playstyle.** Simply attacking will get you rolled — always keep roll catch pressure in mind.
+> The ability to keep attacking through hits thanks to strong hyperarmour is the core strength of CGS.
+> Strong against beginners, but **weaknesses become very apparent against skilled opponents.**
 
 ---
 
@@ -30,7 +39,22 @@
 | **Range awareness** | Always be aware of tip range — use it to punish opponent recovery |
 
 > [!WARNING]
-> **Avoid point-blank range.** Even in pressure situations, getting too close puts CGS at a disadvantage.
+> **Avoid point-blank range.** Even during pressure, getting too close puts CGS at a disadvantage.
+
+---
+
+## 🎮 Attack Frame Data
+
+| Attack | Start Frame | Notes |
+|--------|-------------|-------|
+| **Standing R1** | 17f | Wide hitbox but easy to read, long recovery. Very vulnerable to backstab |
+| **Crouching R1** | 17f | Fast and most versatile. **Core attack** |
+| **Rolling R1** | 15f | 2 frames faster than Crouching R1. Used to escape retaliation |
+| **R1 Chain (2nd~3rd hit)** | Slow | Rarely used. Only when hit is guaranteed |
+| **Running / Jump R1** | 20f / 18f | Very readable, long recovery. Wide hitbox useful in specific situations |
+
+> [!TIP]
+> **Crouching R1 is the foundation of CGS play.** Standing R1 is extremely vulnerable to backstabs — use with caution.
 
 ---
 
@@ -42,17 +66,28 @@ Repeatedly crouch and stand while running. The crouched hitbox lingers briefly a
 
 | Use | Description |
 |-----|-------------|
-| **Chase** | Close distance quickly when the opponent retreats |
-| **Thrust combo** | Use the crouched hitbox to get a faster thrust |
+| **Chase** | Close distance quickly when opponent retreats |
+| **Thrust setup** | Use lingering crouch hitbox for faster thrust |
 
 > [!CAUTION]
-> **Guarding during a wave dash cancels the crouch state.** Attacking too late after standing will result in a dash attack instead of a thrust — be precise with timing.
+> **Guarding during a wave dash cancels the crouch state.** Attacking too late after standing results in a dash attack instead — timing is critical.
 
 ---
 
-### 2. Direction Change Attack (Kekki)
+### 2. Guard Cancel (Block Cancel)
 
-Unlock the lock-on during an attack and input a direction to redirect the hitbox for a faster attack.
+Briefly pressing guard cancels the pivot animation and **reduces recovery time**.
+
+| Effect | Description |
+|--------|-------------|
+| Pivot prevention | Prevents brake animation on rotations over 90 degrees |
+| Recovery reduction | Shortens post-attack recovery |
+
+---
+
+### 3. Direction Change Attack (Redirect)
+
+Unlock lock-on during an attack and input a direction to redirect the hitbox faster.
 
 | Application | Effect |
 |-------------|--------|
@@ -61,24 +96,52 @@ Unlock the lock-on during an attack and input a direction to redirect the hitbox
 | Dash attack redirect | Possible |
 
 > [!WARNING]
-> A bad redirect can cause you to miss attacks that would have connected, and can expose you to backstab angles. **High skill ceiling but high reward.**
+> A bad redirect can cause attacks that should connect to whiff and expose you to backstab angles. **High skill ceiling but high reward.**
 
 ---
 
-### 3. Handy Tech
+### 4. Dreamer Spins
 
-Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **increases movement speed for a short time**.
+Combining guard cancel and crouch cancel while sprinting to rotate the character.
+
+| Effect |
+|--------|
+| Hides attack timing |
+| Creates confusion |
+| Baits panic rolls |
+
+> [!NOTE]
+> Limited direct practical application, but a **core component of animation blending.**
+
+---
+
+### 5. Handy Tech
+
+Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **increases movement speed temporarily**.
 
 | Situation | How to use |
 |-----------|-----------|
-| Opponent is spacing from afar | Untwo-hand → dash heavy → hits from unexpected range |
-| Opponent barely out of reach while retreating | Thrust and dash attack can't reach → untwo-hand → dash heavy to close the gap |
+| Opponent spacing from afar | Untwo-hand → dash heavy → hits from unexpected range |
+| Opponent barely out of reach while retreating | Thrust and dash attack can't reach → untwo-hand → dash heavy |
 
 ---
 
-## ⚔️ Thrust Mind Games
+## 🌀 Animation Blending & Mixups
 
-### After a Thrust — Reading Opponent Responses
+CGS attacks have long animations that are easy to read. Blending is essential to hide attack timing.
+
+| Technique | Effect |
+|-----------|--------|
+| **Direction change during crouch attack** | Hides 8 startup frames, leaving only 9 frames to react |
+| **Crouch → Standing delayed attack** | Makes opponent misread as Standing R1 |
+| **Unlock + direction manipulation** | Redirect hitbox direction for follow-up attacks against skilled opponents |
+| **Applying weapon grease** | Makes attack animation visible, baiting panic rolls → increases roll catch chance |
+
+---
+
+## ⚔️ Post-Thrust Mind Games
+
+### Reading Opponent Responses After a Thrust
 
 | Opponent Action | Response |
 |-----------------|----------|
@@ -86,13 +149,13 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 | Rolls immediately | Skip thrust, go for roll catch |
 | Jumps | Thrust immediately or redirect attack |
 
-### If the Opponent Doesn't Roll While You Wait for a Roll Catch
+### If Opponent Doesn't Roll While Waiting for Roll Catch
 
 | Opponent Action | Response |
 |-----------------|----------|
-| Jumps | Predict with Gravitas AoW or roll |
+| Jumps | Predict with Gravitas or roll |
 | Doesn't roll | Use movement to bait a roll, then pressure |
-| Roll catch missed | Prepare for opponent's roll attack, or back off and reset |
+| Roll catch missed | Prepare for roll attack or back off and reset |
 
 ---
 
@@ -104,10 +167,10 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 |--------|-------------|
 | Wave dash approach | Default chase tool |
 | Reverse jump attack | Use jump direction in reverse for approach |
-| Dash heavy long-range attack | Utilize long reach |
+| Dash heavy long-range | Utilize long reach |
 | Dash attack redirect | Direction change to avoid prediction |
 
-### When the Opponent Comes to You
+### When Opponent Comes to You
 
 | Method | Description |
 |--------|-------------|
@@ -115,18 +178,18 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 | Roll to dodge then roll attack | *Don't make it a habit — vulnerable to jump attacks* |
 | When opponent jumps in | Dash heavy counter (requires prediction) |
 
-### When the Opponent Retreats
+### When Opponent Retreats
 
 | Method | Description |
 |--------|-------------|
 | No attacks outside range | Will get countered |
-| Handy tech + dash heavy | Increased movement speed to catch up |
+| Handy tech + dash heavy | Increased movement speed to close gap |
 
-### When the Opponent Attempts a Backstab
+### Backstab Defense
 
 > [!CAUTION]
-> **CGS is weak on your left side.** If the opponent circles to your left, thrusts will miss and expose you to backstab angles.
-> → **Use your offhand weapon to check them.**
+> **CGS is weak on your left side.** If the opponent circles left, thrusts will miss and expose backstab angles.
+> → **Use offhand weapon to check them.** Guard cancel + reposition after attacks can enable counter-backstabs.
 
 ---
 
@@ -136,26 +199,26 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 
 | Use | Description |
 |-----|-------------|
-| Check | Interrupt opponent attacks with offhand strike to stagger |
-| Trade | Offhand stagger → CGS thrust combo, trade favorably using poise |
-| True combo | CGS thrust → offhand attack confirmed combo |
+| Check | Stagger opponent before they attack |
+| Trade | Offhand stagger → CGS thrust combo |
+| True combo | CGS thrust → offhand attack confirmed |
 
 ### Low Poise Damage Weapons (Dagger, Straight Sword)
 
 | Use | Description |
 |-----|-------------|
 | Hit and run | Fast attack then quick roll required |
-| Trade | Hit and run style trading possible |
-| True combo | CGS thrust → offhand attack confirmed combo |
+| Trade | Hit and run style trading |
+| True combo | CGS thrust → offhand attack confirmed |
 
-### Offhand Options When Opponent Dodges Thrusts Well
+### Offhand Weapon Comparison
 
 | Weapon | Pros | Cons |
 |--------|------|------|
-| **Hand Axe** | Strong, high stagger | Slow attack speed, large motion |
+| **Hand Axe** | Strong, high stagger | Slow speed, large motion |
 | **Dagger** | Fast, decent damage | No stagger (high execution difficulty) |
-| **Straight Sword** | Long range, hits hard | Heavy weight, lacks stagger |
-| **Short Spear kick** | High stagger, fast, subtle motion | Damage and range are lacking |
+| **Straight Sword** | Long range, hits hard | Heavy, lacks stagger |
+| **Short Spear kick** | High stagger, fast, subtle motion | Damage and range lacking |
 
 ---
 
@@ -163,18 +226,32 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 
 | AoW | Purpose |
 |-----|---------|
-| **Gravitas** | Counter jump attacks (CGS weakness) / prevents retaliation after missed AoW (superior to Stomp) |
+| **Gravitas** | Counter jump attacks (CGS weakness) / prevents retaliation after missed AoW. Superior to Storm Stomp |
 | **Spear of Fire** | Guaranteed catch when opponent is knocked down |
 | **Impaling Thrust series** | Break out of situations where rolling still gets roll caught |
 | **Thunderbolt** | Input heavy after use for panic roll catch |
-| **Poison Mist** | Swap tool when poison is applied |
-| **Beast Roar** | Block approach or long-range check |
+| **Chilling Mist / Poison Mist** | Useful in trades and hyperarmour situations |
+| **Bestial Snarl** | Block approach or long-range check |
+| **Golden Land** | Damage absorption, chip damage |
+| **Troll's Roar** | Push opponents off ledges (invasion use) |
+
+---
+
+## ⚙️ Weapon Selection
+
+| Weapon | Notes | Details |
+|--------|-------|---------|
+| **Greatsword (Guts GS)** | Longest range, highest damage | STR 54 soft cap. Strong when two-handing. Often called "Guts Greatsword" to avoid confusion with the weapon class |
+| **Zweihander** | Lower damage but suits DEX builds | Low stat requirements, second longest range |
+| **Fire Knight's Greatsword** | Unique combos | High stat requirements, shorter range |
+
+**Recommended stats:** Vigor 60 / Endurance 40 / Strength 54 / Dexterity 18
 
 ---
 
 ## 💎 Talisman Setup
 
-### Current Setup
+### Default Setup
 
 | Slot | Default | Swap Option |
 |------|---------|-------------|
@@ -183,26 +260,28 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 | 3 | Arsenal Charm | — |
 | 4 | Godfrey Icon 2 | — |
 
+### sin's Recommended Setup
+
+- Spear Talisman (counter damage bonus)
+- Crucible Scale Talisman (poise +33.3%)
+- Arsenal Charm (weight management)
+- Two-Handed Sword Talisman (damage boost when two-handing)
+- Erdtree's Favor / Counterforce (crouch and roll attack boost)
+
 ### Swap Guide
 
 | Situation | Choice |
 |-----------|--------|
 | Want to use Greatshield Talisman without HP Talisman | Swap to Erdtree's Favor |
 | Taking more damage than usual | HP Talisman → Shard of Alexander, activate Greatshield Talisman |
+| Against paired straight swords *(experimental)* | Swap to Crucible Scale Talisman → tank one-hand attacks without stagger |
 
 ### Erdtree's Favor vs Spear Talisman
 
 | Talisman | Best For |
 |----------|----------|
 | **Erdtree's Favor** | Aggressive, attack-first playstyle |
-| **Spear Talisman** | Counter-focused playstyle (punishing recovery) |
-| **Two-Handed Sword Talisman** | When ignoring ladder rules |
-
-> [!NOTE]
-> **(Experimental)** Against paired straight swords, equipping **Crucible Scale Talisman** instead of Erdtree's Favor allows you to tank one-hand attacks without getting staggered.
-> - Small weapon one-hand heavy poise damage: **110**
-> - Armor 88 + Crucible Scale = equipped poise **117**
-> → Tank stagger more safely and deal damage in return
+| **Spear Talisman** | Counter-focused playstyle |
 
 ---
 
@@ -210,17 +289,8 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 
 | Infusion | Use Case |
 |----------|----------|
-| **Cold infusion** | If hard-swapping is available, apply frostbite with cold CGS then swap to Heavy CGS → increased damage ceiling |
-| **Poison infusion** | Slowly drain opponent's HP. Can also catch bolus attempts |
-
----
-
-## ⏱️ Timing Notes
-
-| Situation | Timing |
-|-----------|--------|
-| Predicting opponent will roll after a thrust | Jump attack forward immediately → connects |
-| Heavy attack at close range | Can catch panic rolls (heavy catch) |
+| **Cold infusion** | Apply frostbite with cold CGS then hard-swap to Heavy CGS → increased damage ceiling |
+| **Poison infusion** | Slowly drain opponent HP. Can catch bolus attempts |
 
 ---
 
@@ -230,9 +300,10 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 
 | Weapon | Reason |
 |--------|--------|
-| **Shamshir** | Overwhelmingly faster. Very difficult to compete |
+| **Shamshir** | Overwhelmingly faster. Practically unwinnable |
+| **Daggers** | Complete hard counter. Fast attacks and evasion neutralize CGS |
 | **Halberd + Dagger/Axe combo** | Longer range than CGS, better close-range game |
-| **Straight Sword** | Same reason as Shamshir |
+| **Straight Sword / Curved Sword** | Fast recovery and strong attacks |
 | **Paired Straight Swords** | Jump attacks are their primary damage source — exactly CGS's weakness |
 
 ### Favorable Matchups
@@ -246,7 +317,20 @@ Briefly unequipping or re-equipping two-hand stance triggers a soft swap that **
 
 | Mistake | Cause & Fix |
 |---------|-------------|
-| **Dash attack comes out during wave dash** | Guard cancels crouch state / attacking too late after standing also triggers dash attack |
-| **Overthinking it** | Looks complex in writing, but in practice these come out instinctively |
-| **Using dash attack to approach** | Don't use a dash attack that won't connect — approach with movement for thrusts instead |
-| **Keeps getting backstabbed** | Light attacks: 1 hit max / Heavy attacks: 1 hit max / No dash attack or dash heavy at close range / No jump attacks that overshoot past the opponent |
+| **Dash attack comes out during wave dash** | Guard cancels crouch state / attacking too late after standing also triggers it |
+| **Keeps getting backstabbed** | Light/heavy attacks: 1 hit max / No dash attack or dash heavy at close range / No jump attacks that overshoot |
+| **Using dash attack to approach** | Don't use a dash attack that won't connect — use movement for thrust setups instead |
+| **Mindlessly attacking** | CGS is about inducing the opponent's actions, not attacking freely |
+| **Same playstyle at high latency** | At 160ms+, the entire approach needs to change |
+
+---
+
+## 🧠 The Mind Game
+
+CGS play is closer to a **psychological battle** than a straightforward weapon matchup.
+
+- Attack when the opponent least expects it
+- Use movement to create confusion
+- Read the opponent's play pattern and adapt your strategy
+- Use wave dash, spins, and blending to bait panic rolls
+- The moment you start mashing buttons, you've already lost

@@ -50,8 +50,9 @@ A community-driven project providing Korean translations and redesigns of the of
 
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
-| [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 (by sin) |
+| [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
+| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 (by sin) |
 
 #### Tournament Ruleset / 토너먼트 전용 부록
 
@@ -67,6 +68,8 @@ A community-driven project providing Korean translations and redesigns of the of
 |-------------|-------------------|
 | [📄 Nohman_TB_Guide_KR.md](./guides/Nohman_TB_Guide_KR.md) | 노만 트윈블레이드 가이드 한국어판 |
 | [📄 Nohman_TB_Guide_EN.md](./guides/Nohman_TB_Guide_EN.md) | Nohman Twinblade Guide (English) |
+| [📄 Colossal_Greatsword_Guide_KR.md](./guides/Colossal_Greatsword_Guide_KR.md) | 거대 그레이트소드 가이드 한국어판 (by 𝑄𝑅𝑄) |
+| [📄 Colossal_Greatsword_Guide_EN.md](./guides/Colossal_Greatsword_Guide_EN.md) | Colossal Greatsword Guide (English) (by 𝑄𝑅𝑄) |
 
 ### 📁 info/
 
@@ -89,6 +92,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 |------------------|--------------------------|
 | Ruleset & Duel Restrictions / 룰셋 · 결투 제한 규정 | crowned_pvp, DEN Rules Committee and Competitive Community |
 | Twinblade Guide / 트윈블레이드 가이드 | Nohman |
+| Colossal Greatsword Guide / 거대 그레이트소드 가이드 | 𝑄𝑅𝑄 |
 | Stat Analysis / 스탯 분석 | Drake Ravenwolf *(PvP analysis / PvP 분석: sin)* |
 
 ---

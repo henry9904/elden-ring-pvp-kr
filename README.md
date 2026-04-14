@@ -68,8 +68,8 @@ A community-driven project providing Korean translations and redesigns of the of
 |-------------|-------------------|
 | [📄 Nohman_TB_Guide_KR.md](./guides/Nohman_TB_Guide_KR.md) | 노만 트윈블레이드 가이드 한국어판 |
 | [📄 Nohman_TB_Guide_EN.md](./guides/Nohman_TB_Guide_EN.md) | Nohman Twinblade Guide (English) |
-| [📄 Colossal_Greatsword_Guide_KR.md](./guides/Colossal_Greatsword_Guide_KR.md) | 거대 그레이트소드 가이드 한국어판 (by 𝑄𝑅𝑄) |
-| [📄 Colossal_Greatsword_Guide_EN.md](./guides/Colossal_Greatsword_Guide_EN.md) | Colossal Greatsword Guide (English) (by 𝑄𝑅𝑄) |
+| [📄 Colossal_Greatsword_Guide_KR.md](./guides/Colossal_Greatsword_Guide_KR.md) | 특대검 통합 가이드 한국어판 (by sin, 𝑄𝑅𝑄) |
+| [📄 Colossal_Greatsword_Guide_EN.md](./guides/Colossal_Greatsword_Guide_EN.md) | Colossal Greatsword Comprehensive Guide (English) (by sin, 𝑄𝑅𝑄) |
 
 ### 📁 info/
 
@@ -92,7 +92,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 |------------------|--------------------------|
 | Ruleset & Duel Restrictions / 룰셋 · 결투 제한 규정 | crowned_pvp, DEN Rules Committee and Competitive Community |
 | Twinblade Guide / 트윈블레이드 가이드 | Nohman |
-| Colossal Greatsword Guide / 거대 그레이트소드 가이드 | 𝑄𝑅𝑄 |
+| Colossal Greatsword Guide / 특대검 가이드 | sin, 𝑄𝑅𝑄 |
 | Stat Analysis / 스탯 분석 | Drake Ravenwolf *(PvP analysis / PvP 분석: sin)* |
 
 ---

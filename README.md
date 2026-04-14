@@ -77,6 +77,10 @@ A community-driven project providing Korean translations and redesigns of the of
 |-------------|-------------------|
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 (원문: Drake Ravenwolf / PvP 분석: sin) |
 | [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis (Original: Drake Ravenwolf / PvP analysis: sin) |
+| [📄 PvP_Lexicon_KR.md](./info/PvP_Lexicon_KR.md) | PvP 용어 사전 한국어판 (원문: DEN competitive community) |
+| [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP Lexicon (Original: DEN competitive community) |
+| [📜 Elden_Ring_PvP_Lexicon.pdf](./info/Elden_Ring_PvP_Lexicon.pdf) | Original Lexicon PDF (DEN competitive community) |
+| [📝 Elden_Ring_PvP_Lexicon.docx](./info/Elden_Ring_PvP_Lexicon.docx) | Original Lexicon DOCX (DEN competitive community) |
 
 ---
 
@@ -94,6 +98,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 | Twinblade Guide / 트윈블레이드 가이드 | Nohman |
 | Colossal Greatsword Guide / 특대검 가이드 | sin, 𝑄𝑅𝑄 |
 | Stat Analysis / 스탯 분석 | Drake Ravenwolf *(PvP analysis / PvP 분석: sin)* |
+| PvP Lexicon / PvP 용어 사전 | DEN competitive community |
 
 ---
 

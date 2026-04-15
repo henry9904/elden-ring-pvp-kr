@@ -76,7 +76,8 @@ A community-driven project providing Korean translations and redesigns of the of
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
 | [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP 용어 사전 / PvP Terminology Lexicon (by DEN competitive community) |
-| [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | 트루콤보 레퍼런스 / True Combo Reference (by Halvard / Mugen) |
+| [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference (English) (by Halvard / Mugen) |
+| [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 (by Halvard / Mugen) |
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 (원문: Drake Ravenwolf / PvP 분석: sin) |
 | [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis (Original: Drake Ravenwolf / PvP analysis: sin) |
 

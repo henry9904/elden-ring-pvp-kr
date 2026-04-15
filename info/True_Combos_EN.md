@@ -22,7 +22,7 @@
 | `LANDING_R` | Landing attack (from jump) |
 | `BH_LAND` | Both-hand landing attack |
 | `=>` | True combo into next attack |
-| **Combo Tightness** | Time window to input next attack (lower = stricter) |
+| **Combo Tightness** | Input window for next attack (lower = stricter) |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🤚 Pure Off-Hand Combos
+## PURE OFF-HAND COMBOS
 
 ### Setup 1
 
@@ -102,7 +102,7 @@
 
 ---
 
-## 🗡️ Daggers
+## DAGGERS
 
 ### Setup 1
 
@@ -675,7 +675,7 @@
 
 ---
 
-## 🔥 Torches
+## TORCHES
 
 ### Setup 1
 
@@ -801,7 +801,7 @@
 
 ---
 
-## 🐾 Claws
+## CLAWS
 
 ### Setup 1
 
@@ -1212,7 +1212,7 @@
 
 ---
 
-## ⚔️ Straight Swords
+## STRAIGHT SWORDS
 
 ### Setup 1
 
@@ -1533,7 +1533,7 @@
 
 ---
 
-## 🌀 Twinblades
+## TWINBLADES
 
 ### Setup 1
 
@@ -1629,7 +1629,7 @@
 
 ---
 
-## 🗡️ Greatswords
+## GREATSWORDS
 
 ### Setup 1
 
@@ -2359,7 +2359,7 @@
 
 ---
 
-## ⚔️ Colossal Swords
+## COLOSSAL SWORDS
 
 ### Setup 1
 
@@ -2897,7 +2897,7 @@
 
 ---
 
-## 🔱 Thrusting Swords
+## THRUSTING SWORDS
 
 ### Setup 1
 
@@ -3102,7 +3102,7 @@
 
 ---
 
-## ⚔️ Curved Swords
+## CURVED SWORDS
 
 ### Setup 1
 
@@ -3647,7 +3647,7 @@
 
 ---
 
-## 🗡️ Katanas
+## KATANAS
 
 ### Setup 1
 
@@ -3863,7 +3863,7 @@
 
 ---
 
-## 🪓 Axes
+## AXES
 
 ### Setup 1
 
@@ -4192,7 +4192,7 @@
 
 ---
 
-## 🔨 Colossal Weapons
+## COLOSSAL WEAPONS
 
 ### Setup 1
 
@@ -4592,7 +4592,7 @@
 
 ---
 
-## 🪓 Greataxes
+## GREATAXES
 
 ### Setup 1
 
@@ -4868,7 +4868,7 @@
 
 ---
 
-## 🔨 Hammers
+## HAMMERS
 
 ### Setup 1
 
@@ -5075,7 +5075,7 @@
 
 ---
 
-## ⛓️ Flails
+## FLAILS
 
 ### Setup 1
 
@@ -5234,7 +5234,7 @@
 
 ---
 
-## 🔨 Greathammers
+## GREATHAMMERS
 
 ### Setup 1
 
@@ -5289,7 +5289,7 @@
 
 ---
 
-## 🏹 Spears
+## SPEARS
 
 ### Setup 1
 
@@ -5634,7 +5634,7 @@
 
 ---
 
-## 🏹 Greatspears
+## GREATSPEARS
 
 ### Setup 1
 
@@ -6530,7 +6530,7 @@
 
 ---
 
-## ⚔️ Halberds
+## HALBERDS
 
 ### Setup 1
 
@@ -7328,7 +7328,7 @@
 
 ---
 
-## 🔱 Heavy Thrusting Swords
+## HEAVY THRUSTING SWORDS
 
 ### Setup 1
 
@@ -7933,7 +7933,7 @@
 
 ---
 
-## ⚔️ Curved Greatswords
+## CURVED GREATSWORDS
 
 ### Setup 1
 
@@ -8048,7 +8048,7 @@
 
 ---
 
-## 👊 Fists
+## FISTS
 
 ### Setup 1
 
@@ -9358,7 +9358,7 @@
 
 ---
 
-## ⛓️ Whips
+## WHIPS
 
 ### Setup 1
 
@@ -9662,7 +9662,7 @@
 
 ---
 
-## 🛡️ Smallshields
+## SMALLSHIELDS
 
 ### Setup 1
 
@@ -9945,7 +9945,7 @@
 
 ---
 
-## 🛡️ Mediumshields
+## MEDIUMSHIELDS
 
 ### Setup 1
 
@@ -10030,7 +10030,7 @@
 
 ---
 
-## 💀 Reapers
+## REAPERS
 
 ### Setup 1
 

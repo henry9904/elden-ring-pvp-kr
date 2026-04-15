@@ -8,7 +8,7 @@
 > 리디자인: **Crong**
 
 > [!TIP]
-> CR1, JR2, AoW 등 **용어가 낯설다면** → [📖 PvP Lexicon](../info/PvP_Lexicon_EN.md) 참고
+> CR1, JR2, AoW 등 **용어가 낯설다면** → [📖 PvP Lexicon](../info/PvP_Lexicon_KR.md) 참고
 
 ---
 

@@ -30,18 +30,19 @@
 
 | | | |
 |---|---|---|
-| [좌수 순수 콤보](#pure-off-hand-combos) | [단검](#daggers) | [횃불](#torches) |
-| [발톱](#claws) | [직검](#straight-swords) | [쌍날검](#twinblades) |
-| [대검 (그레이트소드)](#greatswords) | [특대검](#colossal-swords) | [자검](#thrusting-swords) |
-| [곡검](#curved-swords) | [도](#katanas) | [도끼](#axes) |
-| [특대 무기](#colossal-weapons) | [대형 도끼](#greataxes) | [해머](#hammers) |
-| [플레일](#flails) | [특대 해머](#greathammers) | [창](#spears) |
-| [대형 창](#greatspears) | [할버드](#halberds) | [대형 자검](#heavy-thrusting-swords) |
-| [곡선 대검](#curved-greatswords) | [주먹](#fists) | [채찍](#whips) |
-| [소형 방패](#smallshields) | [중형 방패](#mediumshields) | [낫](#reapers) |
+| [좌수 순수 콤보](#좌수-순수-콤보-pure-off-hand-combos) | [단검](#단검-daggers) | [횃불](#횃불-torches) |
+| [발톱](#발톱-claws) | [직검](#직검-straight-swords) | [쌍날검](#쌍날검-twinblades) |
+| [대검 (그레이트소드)](#대검-그레이트소드-greatswords) | [특대검](#특대검-colossal-swords) | [자검](#자검-thrusting-swords) |
+| [곡검](#곡검-curved-swords) | [도](#도-katanas) | [도끼](#도끼-axes) |
+| [특대 무기](#특대-무기-colossal-weapons) | [대형 도끼](#대형-도끼-greataxes) | [해머](#해머-hammers) |
+| [플레일](#플레일-flails) | [특대 해머](#특대-해머-greathammers) | [창](#창-spears) |
+| [대형 창](#대형-창-greatspears) | [할버드](#할버드-halberds) | [대형 자검](#대형-자검-heavy-thrusting-swords) |
+| [곡선 대검](#곡선-대검-curved-greatswords) | [주먹](#주먹-fists) | [채찍](#채찍-whips) |
+| [소형 방패](#소형-방패-smallshields) | [중형 방패](#중형-방패-mediumshields) | [낫](#낫-reapers) |
 
 ---
 
+<a id="pure-off-hand-combos"></a>
 ## 좌수 순수 콤보 (PURE OFF-HAND COMBOS)
 
 ### Setup 1
@@ -102,6 +103,7 @@
 
 ---
 
+<a id="daggers"></a>
 ## 단검 (DAGGERS)
 
 ### Setup 1
@@ -675,6 +677,7 @@
 
 ---
 
+<a id="torches"></a>
 ## 횃불 (TORCHES)
 
 ### Setup 1
@@ -801,6 +804,7 @@
 
 ---
 
+<a id="claws"></a>
 ## 발톱 (CLAWS)
 
 ### Setup 1
@@ -1212,6 +1216,7 @@
 
 ---
 
+<a id="straight-swords"></a>
 ## 직검 (STRAIGHT SWORDS)
 
 ### Setup 1
@@ -1533,6 +1538,7 @@
 
 ---
 
+<a id="twinblades"></a>
 ## 쌍날검 (TWINBLADES)
 
 ### Setup 1
@@ -1629,6 +1635,7 @@
 
 ---
 
+<a id="greatswords"></a>
 ## 대검 (그레이트소드) (GREATSWORDS)
 
 ### Setup 1
@@ -2359,6 +2366,7 @@
 
 ---
 
+<a id="colossal-swords"></a>
 ## 특대검 (COLOSSAL SWORDS)
 
 ### Setup 1
@@ -2897,6 +2905,7 @@
 
 ---
 
+<a id="thrusting-swords"></a>
 ## 자검 (THRUSTING SWORDS)
 
 ### Setup 1
@@ -3102,6 +3111,7 @@
 
 ---
 
+<a id="curved-swords"></a>
 ## 곡검 (CURVED SWORDS)
 
 ### Setup 1
@@ -3647,6 +3657,7 @@
 
 ---
 
+<a id="katanas"></a>
 ## 도 (KATANAS)
 
 ### Setup 1
@@ -3863,6 +3874,7 @@
 
 ---
 
+<a id="axes"></a>
 ## 도끼 (AXES)
 
 ### Setup 1
@@ -4192,6 +4204,7 @@
 
 ---
 
+<a id="colossal-weapons"></a>
 ## 특대 무기 (COLOSSAL WEAPONS)
 
 ### Setup 1
@@ -4592,6 +4605,7 @@
 
 ---
 
+<a id="greataxes"></a>
 ## 대형 도끼 (GREATAXES)
 
 ### Setup 1
@@ -4868,6 +4882,7 @@
 
 ---
 
+<a id="hammers"></a>
 ## 해머 (HAMMERS)
 
 ### Setup 1
@@ -5075,6 +5090,7 @@
 
 ---
 
+<a id="flails"></a>
 ## 플레일 (FLAILS)
 
 ### Setup 1
@@ -5234,6 +5250,7 @@
 
 ---
 
+<a id="greathammers"></a>
 ## 특대 해머 (GREATHAMMERS)
 
 ### Setup 1
@@ -5289,6 +5306,7 @@
 
 ---
 
+<a id="spears"></a>
 ## 창 (SPEARS)
 
 ### Setup 1
@@ -5634,6 +5652,7 @@
 
 ---
 
+<a id="greatspears"></a>
 ## 대형 창 (GREATSPEARS)
 
 ### Setup 1
@@ -6530,6 +6549,7 @@
 
 ---
 
+<a id="halberds"></a>
 ## 할버드 (HALBERDS)
 
 ### Setup 1
@@ -7328,6 +7348,7 @@
 
 ---
 
+<a id="heavy-thrusting-swords"></a>
 ## 대형 자검 (HEAVY THRUSTING SWORDS)
 
 ### Setup 1
@@ -7933,6 +7954,7 @@
 
 ---
 
+<a id="curved-greatswords"></a>
 ## 곡선 대검 (CURVED GREATSWORDS)
 
 ### Setup 1
@@ -8048,6 +8070,7 @@
 
 ---
 
+<a id="fists"></a>
 ## 주먹 (FISTS)
 
 ### Setup 1
@@ -9358,6 +9381,7 @@
 
 ---
 
+<a id="whips"></a>
 ## 채찍 (WHIPS)
 
 ### Setup 1
@@ -9662,6 +9686,7 @@
 
 ---
 
+<a id="smallshields"></a>
 ## 소형 방패 (SMALLSHIELDS)
 
 ### Setup 1
@@ -9945,6 +9970,7 @@
 
 ---
 
+<a id="mediumshields"></a>
 ## 중형 방패 (MEDIUMSHIELDS)
 
 ### Setup 1
@@ -10030,6 +10056,7 @@
 
 ---
 
+<a id="reapers"></a>
 ## 낫 (REAPERS)
 
 ### Setup 1

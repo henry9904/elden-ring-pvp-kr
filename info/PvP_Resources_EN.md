@@ -39,7 +39,8 @@
 
 | Tool | Link |
 |------|------|
-| **DEN Maps Download** — navigate to latest version | [🔗 GitHub Releases](https://github.com/AmirSouls/DEN-Maps-Release/releases/tag/1.6.0-beta2) |
+| **Better Multiplayer** (DEN2) — navigate to latest version | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/BetterMultiplayer/releases) |
+| **DEN Maps** (DEN1) — navigate to latest version | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/DEN-Maps-Release/releases/tag/v1.7.0-beta19) |
 | **Steam P2P Info** — see latency between players in your world | [🔗 GitHub Releases](https://github.com/tremwil/SteamP2PInfo/releases) |
 
 > [!CAUTION]

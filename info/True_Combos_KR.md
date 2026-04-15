@@ -3,7 +3,7 @@
 > [!NOTE]
 > 데이터 작성: **Halvard** (Mugen)
 > 마크다운 리디자인: **Crong**
-> 콤보 표기법이 낯설다면 → [📖 PvP 렉시콘](./PvP_Lexicon_EN.md) 참고
+> 콤보 표기법이 낯설다면 → [📖 PvP 렉시콘](./PvP_Lexicon_KR.md) 참고
 
 ---
 

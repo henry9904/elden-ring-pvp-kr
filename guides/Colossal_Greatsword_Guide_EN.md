@@ -1,4 +1,4 @@
-# 🗡️ Elden Ring PvP — Great Ultra Greatsword (GUGs) Comprehensive Guide
+# 🗡️ Elden Ring PvP — Colossal Greatsword Comprehensive Guide
 
 > [!NOTE]
 > Fundamentals & Theory by: **sin**

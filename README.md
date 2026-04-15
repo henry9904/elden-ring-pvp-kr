@@ -75,6 +75,8 @@ A community-driven project providing Korean translations and redesigns of the of
 
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
+| [📄 PvP_Resources_KR.md](./info/PvP_Resources_KR.md) | PvP 참고 자료 및 툴 모음 (by Raven11) |
+| [📄 PvP_Resources_EN.md](./info/PvP_Resources_EN.md) | PvP Resources & Tools (by Raven11) |
 | [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP 용어 사전 / PvP Terminology Lexicon (by DEN competitive community) |
 | [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference (English) (by Halvard / Mugen) |
 | [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 (by Halvard / Mugen) |
@@ -96,6 +98,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 | Ruleset & Duel Restrictions / 룰셋 · 결투 제한 규정 | crowned_pvp, DEN Rules Committee and Competitive Community |
 | Twinblade Guide / 트윈블레이드 가이드 | Nohman |
 | Colossal Greatsword Guide / 특대검 가이드 | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
+| PvP Resources / PvP 참고 자료 | Raven11 |
 | PvP Lexicon / PvP 용어 사전 | DEN competitive community |
 | True Combo Reference / 트루콤보 레퍼런스 | Halvard (Mugen) |
 | Stat Analysis / 스탯 분석 | Drake Ravenwolf *(PvP analysis / PvP 분석: sin)* |

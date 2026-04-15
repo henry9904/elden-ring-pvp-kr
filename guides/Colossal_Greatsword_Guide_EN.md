@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Fundamentals & Theory by: **sin**
-> Practical Guide by: **𝑄𝑅𝑄 [MAC]**
+> Practical Guide by: **𝑄𝑅𝑄**
 > Feedback & Corrections by: **Darcy**
 > Redesign by: **Crong**
 

@@ -1,4 +1,4 @@
-# 🗡️ Elden Ring PvP — Curved Greatsword (CGS) Comprehensive Guide
+# 🗡️ Elden Ring PvP — Great Ultra Greatsword (GUGs) Comprehensive Guide
 
 > [!NOTE]
 > Fundamentals & Theory by: **sin**

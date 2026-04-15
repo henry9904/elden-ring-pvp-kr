@@ -75,12 +75,9 @@ A community-driven project providing Korean translations and redesigns of the of
 
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
+| [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP 용어 사전 / PvP Terminology Lexicon (by DEN competitive community) |
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 (원문: Drake Ravenwolf / PvP 분석: sin) |
 | [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis (Original: Drake Ravenwolf / PvP analysis: sin) |
-| [📄 PvP_Lexicon_KR.md](./info/PvP_Lexicon_KR.md) | PvP 용어 사전 한국어판 (원문: DEN competitive community) |
-| [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP Lexicon (Original: DEN competitive community) |
-| [📜 Elden_Ring_PvP_Lexicon.pdf](./info/Elden_Ring_PvP_Lexicon.pdf) | Original Lexicon PDF (DEN competitive community) |
-| [📝 Elden_Ring_PvP_Lexicon.docx](./info/Elden_Ring_PvP_Lexicon.docx) | Original Lexicon DOCX (DEN competitive community) |
 
 ---
 
@@ -96,9 +93,9 @@ This is a non-commercial fan translation project for accessibility purposes only
 |------------------|--------------------------|
 | Ruleset & Duel Restrictions / 룰셋 · 결투 제한 규정 | crowned_pvp, DEN Rules Committee and Competitive Community |
 | Twinblade Guide / 트윈블레이드 가이드 | Nohman |
-| Colossal Greatsword Guide / 특대검 가이드 | sin, 𝑄𝑅𝑄 |
-| Stat Analysis / 스탯 분석 | Drake Ravenwolf *(PvP analysis / PvP 분석: sin)* |
+| Colossal Greatsword Guide / 특대검 가이드 | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
 | PvP Lexicon / PvP 용어 사전 | DEN competitive community |
+| Stat Analysis / 스탯 분석 | Drake Ravenwolf *(PvP analysis / PvP 분석: sin)* |
 
 ---
 
@@ -109,7 +106,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 | Korean Translation / 한국어 번역 | sin |
 | Redesign / 리디자인 | Crong |
 | Review / 1차 검토 | LED |
-| Feedback / 피드백 | Ornstein, Emperor of Flames |
+| Feedback / 피드백 | Ornstein, Emperor of Flames, Darcy |
 
 ---
 

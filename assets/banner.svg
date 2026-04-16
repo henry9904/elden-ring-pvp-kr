@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280">
+<style>
+  .bg  { fill: #f6f8fa; }
+  .gl  { stroke: #1c2128; }
+  .abl { fill: #0969da; }
+  .ab2 { fill: #8c959f; }
+  .tl  { fill: #1c2128; }
+  .sk  { fill: #57606a; }
+  .se  { fill: #8c959f; }
+  .bb  { fill: #eaeef2; stroke: #d0d7de; stroke-width: 0.5; }
+  .bl  { fill: #57606a; }
+  .d1, .v1 { fill: #b57a14; }
+  .d2, .v2 { fill: #1a7f37; }
+  .d3, .v3 { fill: #0550ae; }
+  .d4, .v4 { fill: #cf222e; }
+  .al  { stroke: #0969da; }
+  @media (prefers-color-scheme: dark) {
+    .bg  { fill: #0d1117; }
+    .gl  { stroke: #c9d1d9; }
+    .abl { fill: #58a6ff; }
+    .ab2 { fill: #6e7681; }
+    .tl  { fill: #e6edf3; }
+    .sk  { fill: #8b949e; }
+    .se  { fill: #6e7681; }
+    .bb  { fill: #21262d; stroke: #30363d; stroke-width: 0.5; }
+    .bl  { fill: #8b949e; }
+    .d1, .v1 { fill: #d4a72c; }
+    .d2, .v2 { fill: #3fb950; }
+    .d3, .v3 { fill: #58a6ff; }
+    .d4, .v4 { fill: #da3633; }
+    .al  { stroke: #58a6ff; }
+  }
+</style>
+
+<!-- Background -->
+<rect class="bg" width="1200" height="280" rx="12"/>
+
+<!-- Subtle grid -->
+<g opacity="0.035">
+  <line class="gl" x1="0"    y1="56"  x2="1200" y2="56"  stroke-width="0.5"/>
+  <line class="gl" x1="0"    y1="112" x2="1200" y2="112" stroke-width="0.5"/>
+  <line class="gl" x1="0"    y1="168" x2="1200" y2="168" stroke-width="0.5"/>
+  <line class="gl" x1="0"    y1="224" x2="1200" y2="224" stroke-width="0.5"/>
+  <line class="gl" x1="150"  y1="0"   x2="150"  y2="280" stroke-width="0.5"/>
+  <line class="gl" x1="300"  y1="0"   x2="300"  y2="280" stroke-width="0.5"/>
+  <line class="gl" x1="450"  y1="0"   x2="450"  y2="280" stroke-width="0.5"/>
+  <line class="gl" x1="600"  y1="0"   x2="600"  y2="280" stroke-width="0.5"/>
+  <line class="gl" x1="750"  y1="0"   x2="750"  y2="280" stroke-width="0.5"/>
+  <line class="gl" x1="900"  y1="0"   x2="900"  y2="280" stroke-width="0.5"/>
+  <line class="gl" x1="1050" y1="0"   x2="1050" y2="280" stroke-width="0.5"/>
+</g>
+
+<!-- Left accent bars -->
+<rect class="abl" x="60"   y="100" width="3" height="80" opacity="0.7" rx="2"/>
+<rect class="ab2" x="68"   y="116" width="3" height="48" opacity="0.5" rx="2"/>
+
+<!-- Right accent bars -->
+<rect class="abl" x="1129" y="100" width="3" height="80" opacity="0.7" rx="2"/>
+<rect class="ab2" x="1137" y="116" width="3" height="48" opacity="0.5" rx="2"/>
+
+<!-- Top accent line -->
+<line class="al" x1="0" y1="0.75" x2="1200" y2="0.75" stroke-width="1.5" opacity="0.3"/>
+
+<!-- Title -->
+<text class="tl" x="600" y="128"
+  font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+  font-size="52" font-weight="700" letter-spacing="-1" text-anchor="middle"
+>Elden Ring PvP KR</text>
+
+<!-- Center divider -->
+<line class="al" x1="420" y1="148" x2="780" y2="148" stroke-width="0.8" opacity="0.25"/>
+
+<!-- Subtitle KR -->
+<text class="sk" x="600" y="174"
+  font-family="'Segoe UI','Malgun Gothic','Apple SD Gothic Neo',sans-serif"
+  font-size="15" text-anchor="middle" letter-spacing="0.5"
+>엘든링 PvP 룰셋 한국어 번역 및 가이드 프로젝트</text>
+
+<!-- Subtitle EN -->
+<text class="se" x="600" y="196"
+  font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+  font-size="13" text-anchor="middle" letter-spacing="0.3"
+>Korean translations &amp; redesigns of Elden Ring PvP rulesets, duel restrictions, and community guides</text>
+
+<!--
+  Badge layout (total group width = 609px, centered at x=600):
+  B1: x=296  w=190  → "Ruleset"      + "Standard DEN"
+  B2: x=494  w=140  → "Guides"       + "KR · EN"
+  B3: x=642  w=120  → "Patch"        + "1.07+"
+  B4: x=770  w=135  → "Community"    + "Fan"
+  gaps = 8px each
+-->
+
+<!-- Badge 1: Ruleset / Standard DEN -->
+<rect class="bb" x="296" y="222" width="190" height="24" rx="12"/>
+<circle class="d1" cx="312" cy="234" r="4"/>
+<text class="bl" x="324" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">Ruleset</text>
+<text class="v1" x="376" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">Standard DEN</text>
+
+<!-- Badge 2: Guides / KR · EN -->
+<rect class="bb" x="494" y="222" width="140" height="24" rx="12"/>
+<circle class="d2" cx="510" cy="234" r="4"/>
+<text class="bl" x="522" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">Guides</text>
+<text class="v2" x="566" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">KR · EN</text>
+
+<!-- Badge 3: Patch / 1.07+ -->
+<rect class="bb" x="642" y="222" width="120" height="24" rx="12"/>
+<circle class="d3" cx="658" cy="234" r="4"/>
+<text class="bl" x="670" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">Patch</text>
+<text class="v3" x="707" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">1.07+</text>
+
+<!-- Badge 4: Community / Fan -->
+<rect class="bb" x="770" y="222" width="135" height="24" rx="12"/>
+<circle class="d4" cx="786" cy="234" r="4"/>
+<text class="bl" x="798" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">Community</text>
+<text class="v4" x="856" y="238"
+  font-family="'Segoe UI',Arial,sans-serif" font-size="11">Fan</text>
+
+<!-- Bottom accent line -->
+<line class="al" x1="0" y1="279.25" x2="1200" y2="279.25" stroke-width="1.5" opacity="0.3"/>
+</svg>

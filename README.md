@@ -64,6 +64,8 @@ A community-driven project providing Korean translations and redesigns of the of
 
 ### 📁 guides/
 
+#### Community Guides / 커뮤니티 가이드
+
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
 | [📄 Nohman_TB_Guide_KR.md](./guides/Nohman_TB_Guide_KR.md) | 노만 트윈블레이드 가이드 한국어판 |
@@ -71,13 +73,27 @@ A community-driven project providing Korean translations and redesigns of the of
 | [📄 Colossal_Greatsword_Guide_KR.md](./guides/Colossal_Greatsword_Guide_KR.md) | 특대검 통합 가이드 한국어판 (by sin, 𝑄𝑅𝑄) |
 | [📄 Colossal_Greatsword_Guide_EN.md](./guides/Colossal_Greatsword_Guide_EN.md) | Colossal Greatsword Comprehensive Guide (English) (by sin, 𝑄𝑅𝑄) |
 
+#### Weapon Guides by eisenwave
+
+| File / 파일 | Description / 설명 |
+|-------------|-------------------|
+| [📄 Straight_Sword_Guide_EN.md](./guides/Straight_Sword_Guide_EN.md) | Straight Sword PvP Guide (English) |
+| [📄 Straight_Sword_Guide_KR.md](./guides/Straight_Sword_Guide_KR.md) | 직검 PvP 가이드 한국어판 🔜 |
+| [📄 Halberd_Guide_EN.md](./guides/Halberd_Guide_EN.md) | Halberd PvP Guide (English) |
+| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 미늘창 PvP 가이드 한국어판 🔜 |
+| [📄 Katana_Guide_EN.md](./guides/Katana_Guide_EN.md) | Katana PvP Guide (English) |
+| [📄 Katana_Guide_KR.md](./guides/Katana_Guide_KR.md) | 카타나 PvP 가이드 한국어판 🔜 |
+
 ### 📁 info/
 
 | File / 파일 | Description / 설명 |
 |-------------|-------------------|
 | [📄 PvP_Resources_KR.md](./info/PvP_Resources_KR.md) | PvP 참고 자료 및 툴 모음 (by Raven11) |
 | [📄 PvP_Resources_EN.md](./info/PvP_Resources_EN.md) | PvP Resources & Tools (by Raven11) |
-| [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP 용어 사전 / PvP Terminology Lexicon (by DEN competitive community) |
+| [📄 PvP_Lexicon_KR.md](./info/PvP_Lexicon_KR.md) | PvP 용어 사전 한국어판 (by DEN competitive community) |
+| [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP Terminology Lexicon (by DEN competitive community) |
+| [📜 Elden_Ring_PvP_Lexicon.pdf](./info/Elden_Ring_PvP_Lexicon.pdf) | Original Lexicon PDF (DEN competitive community) |
+| [📝 Elden_Ring_PvP_Lexicon.docx](./info/Elden_Ring_PvP_Lexicon.docx) | Original Lexicon DOCX (DEN competitive community) |
 | [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference (English) (by Halvard / Mugen) |
 | [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 (by Halvard / Mugen) |
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 (원문: Drake Ravenwolf / PvP 분석: sin) |
@@ -98,6 +114,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 | Ruleset & Duel Restrictions / 룰셋 · 결투 제한 규정 | crowned_pvp, DEN Rules Committee and Competitive Community |
 | Twinblade Guide / 트윈블레이드 가이드 | Nohman |
 | Colossal Greatsword Guide / 특대검 가이드 | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
+| Straight Sword / Halberd / Katana Guide | eisenwave |
 | PvP Resources / PvP 참고 자료 | Raven11 |
 | PvP Lexicon / PvP 용어 사전 | DEN competitive community |
 | True Combo Reference / 트루콤보 레퍼런스 | Halvard (Mugen) |

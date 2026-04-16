@@ -143,8 +143,10 @@
 | [📄 PvP_Lexicon_EN.md](./info/PvP_Lexicon_EN.md) | PvP Terminology Lexicon *(by DEN competitive community)* |
 | [📜 Elden_Ring_PvP_Lexicon.pdf](./info/Elden_Ring_PvP_Lexicon.pdf) | Original Lexicon PDF |
 | [📝 Elden_Ring_PvP_Lexicon.docx](./info/Elden_Ring_PvP_Lexicon.docx) | Original Lexicon DOCX |
-| [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference *(by Halvard / Mugen)* |
-| [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 *(by Halvard / Mugen)* |
+| [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference *(by Hamster)* |
+| [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 *(by Hamster)* |
+| [📄 True_Combos_Mugen_EN.md](./info/True_Combos_Mugen_EN.md) | True Combo Database — Frame Data *(by Halvard / Mugen)* |
+| [📄 True_Combos_Mugen_KR.md](./info/True_Combos_Mugen_KR.md) | 트루콤보 데이터베이스 — 프레임 데이터 한국어판 *(by Halvard / Mugen)* |
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 *(원문: Drake Ravenwolf / PvP 분석: sin)* |
 | [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis *(by Drake Ravenwolf / PvP analysis: sin)* |
 
@@ -166,7 +168,8 @@
 | 직검 · 미늘창 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
 | PvP 참고 자료 / PvP Resources | Raven11 |
 | PvP 용어 사전 / PvP Lexicon | DEN competitive community |
-| 트루콤보 레퍼런스 / True Combo Reference | Halvard (Mugen) |
+| 트루콤보 레퍼런스 / True Combo Reference | Hamster |
+| 트루콤보 데이터베이스 / True Combo Database | Halvard (Mugen) |
 | 스탯 분석 / Stat Analysis | Drake Ravenwolf *(PvP analysis: sin)* |
 
 ---

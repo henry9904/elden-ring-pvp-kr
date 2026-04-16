@@ -1,4 +1,4 @@
-# 🗡️ Elden Ring PvP — Colossal Greatsword Comprehensive Guide
+# 🗡️ Elden Ring PvP — Colossal Greatsword(GUGS) Comprehensive Guide
 
 > [!NOTE]
 > Fundamentals & Theory by: **sin**
@@ -13,7 +13,7 @@
 
 ## ⚡ One-Line Summary
 
-> **CGS is slow but hits hard. You don't attack — you bait the opponent into getting hit.**
+> **GUGS is slow but hits hard. You don't attack — you bait the opponent into getting hit.**
 
 ---
 

@@ -109,10 +109,10 @@ This is a non-commercial fan translation project for accessibility purposes only
 
 | Role / 역할 | Name / 이름 |
 |-------------|-------------|
-| Korean Translation / 한국어 번역 | sin |
 | Redesign / 리디자인 | Crong |
-| Review / 1차 검토 | LED |
-| Feedback / 피드백 | Ornstein, Emperor of Flames, Darcy |
+| Korean Translation / 한국어 번역 | sin |
+| Collaborators | Darcy, Pouya |
+| Feedback / 피드백 | LED, Ornstein, Emperor of Flames, Cielo |
 
 ---
 

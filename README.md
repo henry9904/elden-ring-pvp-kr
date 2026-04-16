@@ -111,7 +111,7 @@ This is a non-commercial fan translation project for accessibility purposes only
 |-------------|-------------|
 | Redesign / 리디자인 | Crong |
 | Korean Translation / 한국어 번역 | sin |
-| Collaborators/ 협업 | Darcy, Pouya |
+| Collaborators / 협업 | Darcy, Pouya, 𝑄𝑅𝑄 |
 | Feedback / 피드백 | LED, Ornstein, Emperor of Flames, Cielo |
 
 ---

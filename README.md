@@ -1,14 +1,10 @@
 <div align="center">
 
-# ⚔️ Elden Ring PvP KR
-
-**엘든링 PvP 룰셋 한국어 번역 및 가이드 프로젝트**
-
-*Korean translations & markdown redesigns of Elden Ring PvP rulesets, duel restrictions, and community guides.*
+<img src="./assets/banner.svg" alt="Elden Ring PvP KR Banner" width="100%"/>
 
 <br>
 
-[![Ruleset](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=)](./ruleset/)
+[![Ruleset](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/)
 [![Guides](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/)
 [![Info](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/)
 [![Lang](https://img.shields.io/badge/Lang-KR_|_EN-3498db?style=for-the-badge)](./README.md)

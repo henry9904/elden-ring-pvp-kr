@@ -51,7 +51,7 @@
 | GUGS | 손도끼 | CR1 | L1 | | | | |
 | GUGS | 관통검 | CR1 | L1 | | | | |
 | GUGS | 찌르기 미늘창 | CR1 | L1 | | | | |
-| GUGS | GKat | CR1 | L1 | | | | |
+| GUGS | 대도 | CR1 | L1 | | | | |
 | GUGS | HTS | CR1 | L1 | | | | |
 | GUGS | 망치 | CR1 | L1 | | | | |
 | GUGS | 주먹 | CR1 | L1 | | | | |

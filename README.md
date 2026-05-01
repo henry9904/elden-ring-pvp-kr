@@ -52,7 +52,6 @@ A community-driven project providing Korean translations and redesigns of the of
 |-------------|-------------------|
 | [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
-| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 (by sin) |
 
 #### Tournament Ruleset / 토너먼트 전용 부록
 

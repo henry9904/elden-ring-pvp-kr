@@ -75,7 +75,6 @@
 |------|-------------------|
 | [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
-| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 *(by sin)* |
 
 </details>
 

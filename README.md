@@ -131,7 +131,7 @@
 | [📄 Straight_Sword_Guide_EN.md](./guides/Straight_Sword_Guide_EN.md) | Straight Sword PvP Guide (English) |
 | [📄 Straight_Sword_Guide_KR.md](./guides/Straight_Sword_Guide_KR.md) | 직검 PvP 가이드 한국어판 |
 | [📄 Halberd_Guide_EN.md](./guides/Halberd_Guide_EN.md) | Halberd PvP Guide (English) |
-| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 미늘창 PvP 가이드 한국어판 |
+| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 할버드 PvP 가이드 한국어판 |
 | [📄 Katana_Guide_EN.md](./guides/Katana_Guide_EN.md) | Katana PvP Guide (English) |
 | [📄 Katana_Guide_KR.md](./guides/Katana_Guide_KR.md) | 카타나 PvP 가이드 한국어판 |
 
@@ -177,7 +177,7 @@
 | 룰셋 · 결투 제한 규정 / Ruleset & Duel Restrictions | crowned_pvp, DEN Rules Committee and Competitive Community |
 | 트윈블레이드 가이드 / Twinblade Guide | Nohman |
 | 특대검 가이드 / Colossal Greatsword Guide | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
-| 직검 · 미늘창 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
+| 직검 · 할버드 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
 | PvP 참고 자료 / PvP Resources | Raven11 |
 | PvP 용어 사전 / PvP Lexicon | DEN competitive community |
 | 트루콤보 레퍼런스 / True Combo Reference | Hamster |

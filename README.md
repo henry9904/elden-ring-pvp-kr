@@ -176,7 +176,7 @@
 |-----------------|-------------------------|
 | 새 세이브 가이드 / New Save Guide | Anti Mage Association *(Momo & Poisson)* |
 | 룰셋 · 결투 제한 규정 / Ruleset & Duel Restrictions | crowned_pvp, DEN Rules Committee and Competitive Community |
-| 트윈블레이드 가이드 / Twinblade Guide | Nohman |
+| 트윈블레이드 가이드 / Twinblade Guide | Nohman & Pouya |
 | 특대검 가이드 / Colossal Greatsword Guide | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
 | 직검 · 미늘창 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
 | PvP 참고 자료 / PvP Resources | Raven11 |

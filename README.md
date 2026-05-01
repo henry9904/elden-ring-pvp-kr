@@ -55,7 +55,7 @@
 
 | 문서 | Document | 링크 |
 |------|----------|:----:|
-| 노만 트윈블레이드 가이드 한국어판 | Nohman TB Guide (KR) | [🔗 Open](https://docs.google.com/document/d/15EpQ8omEbPYKScOr4E2D9S2l6-G0BCyGJPKtdIN1a9I/edit?tab=t.0) |
+| 노만 트윈블레이드 가이드 한국어판 | Nohman TB Guide (KR) | [🔗 Open](https://docs.google.com/document/d/1vVVoG_CsdKEINEuIJ5RE7EUraQFQdmFlTAPTtpG6sj8/edit?tab=t.0) |
 | 노만 트윈블레이드 가이드 영문판 | Nohman TB Guide (EN) | [🔗 Open](https://docs.google.com/document/d/1gBohQpaa6Vvch9JIO-WneAlsyONmE64UKFV9eBk4DeI/edit?tab=t.0) |
 
 </details>
@@ -75,6 +75,7 @@
 |------|-------------------|
 | [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
+| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 *(by sin)* |
 
 </details>
 
@@ -131,7 +132,7 @@
 | [📄 Straight_Sword_Guide_EN.md](./guides/Straight_Sword_Guide_EN.md) | Straight Sword PvP Guide (English) |
 | [📄 Straight_Sword_Guide_KR.md](./guides/Straight_Sword_Guide_KR.md) | 직검 PvP 가이드 한국어판 |
 | [📄 Halberd_Guide_EN.md](./guides/Halberd_Guide_EN.md) | Halberd PvP Guide (English) |
-| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 할버드 PvP 가이드 한국어판 |
+| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 미늘창 PvP 가이드 한국어판 |
 | [📄 Katana_Guide_EN.md](./guides/Katana_Guide_EN.md) | Katana PvP Guide (English) |
 | [📄 Katana_Guide_KR.md](./guides/Katana_Guide_KR.md) | 카타나 PvP 가이드 한국어판 |
 
@@ -177,7 +178,7 @@
 | 룰셋 · 결투 제한 규정 / Ruleset & Duel Restrictions | crowned_pvp, DEN Rules Committee and Competitive Community |
 | 트윈블레이드 가이드 / Twinblade Guide | Nohman |
 | 특대검 가이드 / Colossal Greatsword Guide | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
-| 직검 · 할버드 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
+| 직검 · 미늘창 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
 | PvP 참고 자료 / PvP Resources | Raven11 |
 | PvP 용어 사전 / PvP Lexicon | DEN competitive community |
 | 트루콤보 레퍼런스 / True Combo Reference | Hamster |

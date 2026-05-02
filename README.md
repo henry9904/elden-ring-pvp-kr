@@ -105,6 +105,7 @@
 |------|-------------------|
 | [📄 New_Save_From_Scratch_KR.md](./guides/New_Save_From_Scratch_KR.md) | 새 세이브 처음부터 만들기 *(by Anti Mage Association)* |
 | [📄 New_Save_From_Scratch_EN.md](./guides/New_Save_From_Scratch_EN.md) | New Save From Scratch — CE Setup Guide *(by Anti Mage Association)* |
+| [📄 Build_Guide_KR.md](./guides/Build_Guide_KR.md) | 빌드 제작 가이드 + 템플릿 빌드 *(by Pouya)* |
 | [📄 Build_Guide_EN.md](./guides/Build_Guide_EN.md) | Build Making Guide + Template Builds *(by Pouya)* |
 
 </details>

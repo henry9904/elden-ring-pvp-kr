@@ -75,6 +75,7 @@
 |------|-------------------|
 | [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
+| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 *(by sin)* |
 
 </details>
 
@@ -104,6 +105,7 @@
 |------|-------------------|
 | [📄 New_Save_From_Scratch_KR.md](./guides/New_Save_From_Scratch_KR.md) | 새 세이브 처음부터 만들기 *(by Anti Mage Association)* |
 | [📄 New_Save_From_Scratch_EN.md](./guides/New_Save_From_Scratch_EN.md) | New Save From Scratch — CE Setup Guide *(by Anti Mage Association)* |
+| [📄 Build_Guide_EN.md](./guides/Build_Guide_EN.md) | Build Making Guide + Template Builds *(by Pouya)* |
 
 </details>
 
@@ -131,7 +133,7 @@
 | [📄 Straight_Sword_Guide_EN.md](./guides/Straight_Sword_Guide_EN.md) | Straight Sword PvP Guide (English) |
 | [📄 Straight_Sword_Guide_KR.md](./guides/Straight_Sword_Guide_KR.md) | 직검 PvP 가이드 한국어판 |
 | [📄 Halberd_Guide_EN.md](./guides/Halberd_Guide_EN.md) | Halberd PvP Guide (English) |
-| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 할버드 PvP 가이드 한국어판 |
+| [📄 Halberd_Guide_KR.md](./guides/Halberd_Guide_KR.md) | 미늘창 PvP 가이드 한국어판 |
 | [📄 Katana_Guide_EN.md](./guides/Katana_Guide_EN.md) | Katana PvP Guide (English) |
 | [📄 Katana_Guide_KR.md](./guides/Katana_Guide_KR.md) | 카타나 PvP 가이드 한국어판 |
 
@@ -174,10 +176,11 @@
 | 콘텐츠 / Content | 원작자 / Original Author |
 |-----------------|-------------------------|
 | 새 세이브 가이드 / New Save Guide | Anti Mage Association *(Momo & Poisson)* |
+| 빌드 제작 가이드 / Build Making Guide | Pouya |
 | 룰셋 · 결투 제한 규정 / Ruleset & Duel Restrictions | crowned_pvp, DEN Rules Committee and Competitive Community |
 | 트윈블레이드 가이드 / Twinblade Guide | Nohman & Pouya |
 | 특대검 가이드 / Colossal Greatsword Guide | sin, 𝑄𝑅𝑄 *(Feedback: Darcy)* |
-| 직검 · 할버드 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
+| 직검 · 미늘창 · 카타나 가이드 / Straight Sword · Halberd · Katana Guide | eisenwave |
 | PvP 참고 자료 / PvP Resources | Raven11 |
 | PvP 용어 사전 / PvP Lexicon | DEN competitive community |
 | 트루콤보 레퍼런스 / True Combo Reference | Hamster |

@@ -65,7 +65,7 @@
 > [!IMPORTANT]
 > All ashes of war are **legal**. However, you are limited to **3 uses of ANY ash of war per round** — across all ashes combined.
 
-- Using any ash of war more than 3 times in a round counts as a **round loss** — 📹 [Video reference](https://youtu.be/gIlqG3s6XN4?feature=shared)
+- Using any ash of war more than 3 times in a round counts as a **round loss**
 - Being **interrupted** during the ash of war startup counts as a use
 - **Followups** of an ash of war do not count as additional uses *(e.g. repeated presses of Stormblade without being interrupted, or the follow-up attack of Flaming Strike)*
 

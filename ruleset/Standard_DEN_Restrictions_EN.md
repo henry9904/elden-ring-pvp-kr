@@ -46,7 +46,6 @@
 | **Rot Greases** | Always banned |
 | **Sleep Greases** | Banned on Ripple Weapons |
 | **Poison Greases** | Banned on 2H Shamshir |
-| **All Greases** | Banned on 2H Twinblades |
 
 ---
 
@@ -66,6 +65,7 @@
 | Mainhand 1H Wakizashi |
 | 2H Greatspears *(Mohgwyn's Sacred Spear excluded)* |
 | 2H Star Fists |
+| **2H Twinblades** |
 
 ---
 
@@ -92,7 +92,7 @@
 | 2H / PS Backhand Blade (Class) | — |
 | Smithscript Cirque | — |
 | 2H Cleanrot Knight's Sword | — |
-| Pata | — |
+| Mainhand Pata | Offhand permitted |
 | Claws of Night | — |
 | Smithscript Shield | — |
 | Spread Crossbow | — |
@@ -148,6 +148,7 @@
 | Shriek of Sorrow |
 | Painful Strikes |
 | Chilling Mist *(on cold infused weapons)* |
+| **Savage Claws** |
 
 ---
 
@@ -178,6 +179,7 @@
 | Armor swap poise reset |
 | Block Desync |
 | Offhand drawstring poison grease |
+| **Speedhack (Handy Tech Cancelled Rolls)** |
 
 ---
 

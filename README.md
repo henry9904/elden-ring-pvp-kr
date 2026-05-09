@@ -88,6 +88,8 @@
 |------|-------------------|
 | [📄 Tourney_Ruleset_KR.md](./ruleset/Tourney_Ruleset_KR.md) | 토너먼트 룰셋 설명 한국어판 |
 | [📄 Tourney_Ruleset_EN.md](./ruleset/Tourney_Ruleset_EN.md) | Tournament Ruleset Explanation (English) |
+| [📄 Alternative_Ruleset_EN.md](./ruleset/Alternative_Ruleset_EN.md) | Alternative Ruleset — High Power / 3 Ash Rule (English) |
+| [📄 Alternative_Ruleset_KR.md](./ruleset/Alternative_Ruleset_KR.md) | 얼터너티브 룰셋 — 고파워 / 전회 3회 제한 규칙 |
 | [📜 Ruleset_Explanation_Document.pdf](./ruleset/Ruleset_Explanation_Document.pdf) | Original English PDF *(by crowned_pvp)* |
 
 </details>

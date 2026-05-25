@@ -14,8 +14,8 @@
 
 ### 🌐 [웹사이트에서 보기 / Open the Site →](https://henry9904.github.io/elden-ring-pvp-kr/)
 
-검색·정렬 가능한 **무기 탐색기** 등 인터랙티브 기능은 웹사이트에서 사용할 수 있어요.
-Interactive features (weapon explorer with search/sort) are available on the site.
+검색·정렬 가능한 **무기 탐색기**, **공격 거리 탐색기** 등 인터랙티브 도구는 웹사이트에서 사용할 수 있어요.
+Interactive tools (weapon explorer, attack range explorer) are available on the site.
 
 </div>
 

@@ -67,6 +67,7 @@ nav:
   - 홈 / Home: index.md
   - 🔧 도구 / Tools:
     - 무기 탐색기 / Weapon Explorer: tools/weapon-explorer.md
+    - 공격 거리 탐색기 / Attack Range Explorer: tools/attack-range-explorer.md
   - 한국어:
     - 규정:
       - Standard DEN 결투 제한: ruleset/Standard_DEN_Restrictions_KR.md

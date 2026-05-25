@@ -48,6 +48,9 @@ jobs:
       - name: Check weapons.json is in sync with markdown sources
         run: python tools/extract_weapons.py --check
 
+      - name: Check attack_ranges.json is in sync with CSV source
+        run: python tools/extract_attack_ranges.py --check
+
   build:
     name: Build Site
     runs-on: ubuntu-latest

@@ -35,6 +35,19 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'yes'
 
+  data:
+    name: Verify Weapon Data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Check weapons.json is in sync with markdown sources
+        run: python tools/extract_weapons.py --check
+
   build:
     name: Build Site
     runs-on: ubuntu-latest

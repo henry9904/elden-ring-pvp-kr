@@ -12,8 +12,10 @@
 [![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
 [![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)
 
-[![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
-[![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)
+### 🌐 [웹사이트에서 보기 / Open the Site →](https://henry9904.github.io/elden-ring-pvp-kr/)
+
+검색·정렬 가능한 **무기 탐색기** 등 인터랙티브 기능은 웹사이트에서 사용할 수 있어요.
+Interactive features (weapon explorer with search/sort) are available on the site.
 
 </div>
 

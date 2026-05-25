@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="./assets/banner.svg" alt="Elden Ring PvP KR Banner" width="100%"/>
 
@@ -7,7 +7,10 @@
 [![Ruleset](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/)
 [![Guides](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/)
 [![Info](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/)
-[![Lang](https://img.shields.io/badge/Lang-KR_|_EN-3498db?style=for-the-badge)](./README.md)
+[![Lang](https://img.shields.io/badge/Lang-KR_|_EN-3498db?style=for-the-badge)](./)
+
+[![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
+[![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)
 
 [![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
 [![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)
@@ -27,7 +30,7 @@
 
 ## 🌐 Google Docs / 브라우저에서 바로 보기
 
-<details>
+<details markdown="1">
 <summary><b>📌 Standard DEN Rules — 일반 결투 · 래더</b></summary>
 
 <br>
@@ -39,7 +42,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>📋 Tournament Ruleset — 토너먼트 전용 부록</b></summary>
 
 <br>
@@ -51,7 +54,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🎮 Guides — 가이드</b></summary>
 
 <br>
@@ -69,7 +72,7 @@
 
 ### 📁 `ruleset/`
 
-<details>
+<details markdown="1">
 <summary><b>Standard DEN Rules / 일반 결투 · 래더 규정</b></summary>
 
 <br>
@@ -81,7 +84,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Tournament Ruleset / 토너먼트 전용 부록</b></summary>
 
 <br>
@@ -100,7 +103,7 @@
 
 ### 📁 `guides/`
 
-<details>
+<details markdown="1">
 <summary><b>Getting Started / 시작 가이드</b></summary>
 
 <br>
@@ -114,7 +117,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Community Guides / 커뮤니티 가이드</b></summary>
 
 <br>
@@ -128,7 +131,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Weapon Guides by eisenwave</b></summary>
 
 <br>
@@ -148,7 +151,7 @@
 
 ### 📁 `info/`
 
-<details>
+<details markdown="1">
 <summary><b>Reference & Tools / 참고 자료 및 툴</b></summary>
 
 <br>
@@ -213,7 +216,7 @@
 For ruleset suggestions, please reach out through the original community channel.
 For translation or formatting corrections, feel free to open an **Issue** on this repository.
 
-<div align="center">
+<div align="center" markdown="1">
 
 <br>
 

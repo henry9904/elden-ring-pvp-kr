@@ -1,11 +1,17 @@
 {
   "ignorePatterns": [
-    { "pattern": "^https://docs.google.com" },
-    { "pattern": "^https://www.youtube.com" },
-    { "pattern": "^https://youtu.be" },
-    { "pattern": "^https://discord" },
-    { "pattern": "^https://steamid.io" },
-    { "pattern": "^https://mh-nexus.de" }
+    { "pattern": "^https?://docs.google.com" },
+    { "pattern": "^https?://www.youtube.com" },
+    { "pattern": "^https?://youtu.be" },
+    { "pattern": "^https?://discord" },
+    { "pattern": "^https?://cdn.discordapp.com" },
+    { "pattern": "^https?://steamid.io" },
+    { "pattern": "^https?://mh-nexus.de" },
+    { "pattern": "^https?://straykurtis.com" },
+    { "pattern": "^https?://er-frame-data.nyasu.business" },
+    { "pattern": "^https?://er-inventory.nyasu.business" },
+    { "pattern": "^https?://eip.gg" },
+    { "pattern": "^https?://img.shields.io" }
   ],
   "timeout": "20s",
   "retryOn429": true,

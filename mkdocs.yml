@@ -9,19 +9,22 @@ theme:
   name: material
   language: ko
   favicon: assets/banner.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
   palette:
-    - scheme: default
-      primary: deep orange
-      accent: orange
-      toggle:
-        icon: material/brightness-7
-        name: 다크 모드로 전환
     - scheme: slate
-      primary: deep orange
-      accent: orange
+      primary: deep purple
+      accent: purple
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: 라이트 모드로 전환
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: 다크 모드로 전환
   features:
     - navigation.tabs
     - navigation.sections
@@ -30,7 +33,9 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.code.annotate
     - toc.integrate
+    - navigation.footer
 
 plugins:
   - search:

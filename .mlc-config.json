@@ -1,0 +1,15 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https://docs.google.com" },
+    { "pattern": "^https://www.youtube.com" },
+    { "pattern": "^https://youtu.be" },
+    { "pattern": "^https://discord" },
+    { "pattern": "^https://steamid.io" },
+    { "pattern": "^https://mh-nexus.de" }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}

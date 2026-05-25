@@ -70,19 +70,6 @@
 
 ---
 
-| Stat | Breakpoints |
-|------|-------------|
-| **Vigor** | 40 / 58 |
-| **Mind** | 40 / 50 *(38 if you want only as much FP as a max upgraded Flask restores)* |
-| **Endurance** | 25 / 40 / 50 / 60 |
-| **Strength** | 20 / 53 / 80 *(2H only: 35 / 53)* |
-| **Dexterity** | 20 / 53 / 80 |
-| **Intelligence / Faith / Arcane** | 20 / 50 / 80 *(for attack power)* |
-| **Casting Scaling** — single-stat catalysts | 60 / 80 |
-| **Casting Scaling** — multi-stat catalysts | 30 / 45 |
-
----
-
 ## 📖 Introduction & Methodology
 
 Stat breakpoints are not always intuitive. Many people think 40 and 60 are the default diminishing returns points in all souls-like games, but the data is more complex than that. For instance, in Dark Souls 3 the Vigor breakpoints were 17/26/44.

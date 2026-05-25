@@ -9,6 +9,9 @@
 [![Info](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/)
 [![Lang](https://img.shields.io/badge/Lang-KR_|_EN-3498db?style=for-the-badge)](./README.md)
 
+[![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
+[![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)
+
 </div>
 
 ---
@@ -75,7 +78,6 @@
 |------|-------------------|
 | [📄 Standard_DEN_Restrictions_KR.md](./ruleset/Standard_DEN_Restrictions_KR.md) | Standard DEN 결투 제한 규정 한국어판 |
 | [📄 Standard_DEN_Restrictions_EN.md](./ruleset/Standard_DEN_Restrictions_EN.md) | Standard DEN Duel Restrictions (English) |
-| [📄 Duel_Restrictions_KR.md](./ruleset/Duel_Restrictions_KR.md) | 결투 제한 규정 한국어 번역본 *(by sin)* |
 
 </details>
 

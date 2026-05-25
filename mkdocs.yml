@@ -1,0 +1,100 @@
+site_name: Elden Ring PvP KR
+site_url: https://henry9904.github.io/elden-ring-pvp-kr/
+repo_url: https://github.com/henry9904/elden-ring-pvp-kr
+repo_name: henry9904/elden-ring-pvp-kr
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: ko
+  favicon: assets/banner.svg
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드로 전환
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드로 전환
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+
+plugins:
+  - search:
+      lang:
+        - ko
+        - en
+
+hooks:
+  - hooks/alert_converter.py
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/henry9904/elden-ring-pvp-kr
+
+nav:
+  - 홈 / Home: index.md
+  - 한국어:
+    - 규정:
+      - Standard DEN 결투 제한: ruleset/Standard_DEN_Restrictions_KR.md
+      - 토너먼트 룰셋: ruleset/Tourney_Ruleset_KR.md
+      - 얼터너티브 룰셋: ruleset/Alternative_Ruleset_KR.md
+    - 가이드:
+      - 새 세이브 만들기: guides/New_Save_From_Scratch_KR.md
+      - 빌드 제작 가이드: guides/Build_Guide_KR.md
+      - 노만 트윈블레이드: guides/Nohman_TB_Guide_KR.md
+      - 특대검 가이드: guides/Colossal_Greatsword_Guide_KR.md
+      - 직검 가이드: guides/Straight_Sword_Guide_KR.md
+      - 할버드 가이드: guides/Halberd_Guide_KR.md
+      - 카타나 가이드: guides/Katana_Guide_KR.md
+    - 정보:
+      - PvP 자료 모음: info/PvP_Resources_KR.md
+      - PvP 용어 사전: info/PvP_Lexicon_KR.md
+      - 트루콤보 레퍼런스: info/True_Combos_KR.md
+      - 트루콤보 데이터베이스: info/True_Combos_Mugen_KR.md
+      - 스탯 분석: info/Stat_Analysis_KR.md
+  - English:
+    - Ruleset:
+      - Standard DEN Restrictions: ruleset/Standard_DEN_Restrictions_EN.md
+      - Tournament Ruleset: ruleset/Tourney_Ruleset_EN.md
+      - Alternative Ruleset: ruleset/Alternative_Ruleset_EN.md
+    - Guides:
+      - New Save From Scratch: guides/New_Save_From_Scratch_EN.md
+      - Build Making Guide: guides/Build_Guide_EN.md
+      - Nohman Twinblade Guide: guides/Nohman_TB_Guide_EN.md
+      - Colossal Greatsword Guide: guides/Colossal_Greatsword_Guide_EN.md
+      - Straight Sword Guide: guides/Straight_Sword_Guide_EN.md
+      - Halberd Guide: guides/Halberd_Guide_EN.md
+      - Katana Guide: guides/Katana_Guide_EN.md
+    - Info:
+      - PvP Resources: info/PvP_Resources_EN.md
+      - PvP Lexicon: info/PvP_Lexicon_EN.md
+      - True Combo Reference: info/True_Combos_EN.md
+      - True Combo Database: info/True_Combos_Mugen_EN.md
+      - Stat Analysis: info/Stat_Analysis_EN.md

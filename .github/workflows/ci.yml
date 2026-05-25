@@ -51,6 +51,9 @@ jobs:
       - name: Check attack_ranges.json is in sync with CSV source
         run: python tools/extract_attack_ranges.py --check
 
+      - name: Check animations.json is in sync with CSV source
+        run: python tools/extract_animations.py --check
+
   build:
     name: Build Site
     runs-on: ubuntu-latest

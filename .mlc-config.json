@@ -13,6 +13,12 @@
     { "pattern": "^https?://eip.gg" },
     { "pattern": "^https?://img.shields.io" }
   ],
+  "replacementPatterns": [
+    {
+      "pattern": "^\\./tools/",
+      "replacement": "./docs/tools/"
+    }
+  ],
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 3,

@@ -9,65 +9,150 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
 > 데이터 작성: **Halvard** (Mugen)
 
 <style>
-  .we-controls { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 1rem; align-items: flex-start; }
-  .we-search-wrap { flex: 1; min-width: 240px; }
-  .we-search { width: 100%; padding: 0.55rem 0.85rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; background: var(--md-default-bg-color); color: var(--md-default-fg-color); font-size: 0.9em; }
-  .we-search:focus { outline: 2px solid var(--md-primary-fg-color); outline-offset: -1px; }
-  .we-select { padding: 0.5rem; border-radius: 8px; border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-default-bg-color); color: var(--md-default-fg-color); max-width: 250px; }
-  .we-table { width: 100%; border-collapse: collapse; font-size: 0.88em; margin: 0; }
-  .we-table th, .we-table td { padding: 0.5rem 0.65rem; text-align: left; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
-  .we-table th { cursor: pointer; user-select: none; background: var(--md-default-fg-color--lightest); font-weight: 600; position: sticky; top: 0; }
-  .we-table th:hover { color: var(--md-primary-fg-color); }
-  .we-table tr:hover td { background: var(--md-default-fg-color--lightest); }
-  .we-empty { padding: 2rem; text-align: center; color: var(--md-default-fg-color--light); }
-  .we-meta { font-size: 0.82em; color: var(--md-default-fg-color--light); margin: 0.25rem 0 0.75rem; }
-  .setup-badge { display: inline-block; background: var(--md-primary-fg-color); color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.8em; }
-  .combo-code { font-family: 'JetBrains Mono', monospace; background: var(--md-code-bg-color); padding: 0.2em 0.4em; border-radius: 3px; font-size: 0.9em; color: var(--md-code-fg-color); }
+  /* ── Layout ── */
+  .ce-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+    align-items: center;
+  }
+  .ce-search-wrap { flex: 1; min-width: 220px; }
+  .ce-search {
+    width: 100%;
+    padding: 0.55rem 0.85rem;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 8px;
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    font-size: 0.9em;
+  }
+  .ce-search:focus { outline: 2px solid var(--md-primary-fg-color); outline-offset: -1px; }
+
+  /* ── Chip bar ── */
+  .ce-chip-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.75rem;
+  }
+  .ce-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--md-default-fg-color--lighter);
+    border-radius: 999px;
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    font-size: 0.82em;
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    white-space: nowrap;
+  }
+  .ce-chip:hover { border-color: var(--md-primary-fg-color); color: var(--md-primary-fg-color); }
+  .ce-chip.active {
+    background: var(--md-primary-fg-color);
+    border-color: var(--md-primary-fg-color);
+    color: #fff;
+    font-weight: 600;
+  }
+
+  /* ── Meta ── */
+  .ce-meta { font-size: 0.82em; color: var(--md-default-fg-color--light); margin: 0.25rem 0 0.6rem; }
+
+  /* ── Table ── */
+  .ce-table { width: 100%; border-collapse: collapse; font-size: 0.86em; margin: 0; }
+  .ce-table th, .ce-table td { padding: 0.45rem 0.65rem; text-align: left; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
+  .ce-table th {
+    background: var(--md-default-fg-color--lightest);
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  .ce-table tr:hover td { background: var(--md-default-fg-color--lightest); }
+
+  /* Group header rows */
+  .ce-group-row td {
+    background: var(--md-primary-fg-color--light, #e8f0fe);
+    font-weight: 700;
+    font-size: 0.88em;
+    padding: 0.5rem 0.65rem;
+    letter-spacing: 0.02em;
+    position: sticky;
+    top: 2.3rem;
+    z-index: 1;
+    border-bottom: 2px solid var(--md-primary-fg-color);
+  }
+  [data-md-color-scheme="slate"] .ce-group-row td {
+    background: rgba(var(--md-primary-fg-color--rgb, 99,108,158), 0.18);
+  }
+
+  /* Weapon cells: truncate + full text on hover */
+  .weapon-cell {
+    max-width: 180px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .setup-badge {
+    display: inline-block;
+    background: var(--md-primary-fg-color);
+    color: #fff;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.78em;
+  }
+  .combo-code {
+    font-family: 'JetBrains Mono', monospace;
+    background: var(--md-code-bg-color);
+    padding: 0.15em 0.4em;
+    border-radius: 3px;
+    font-size: 0.88em;
+    color: var(--md-code-fg-color);
+  }
+  .ce-empty { padding: 2rem; text-align: center; color: var(--md-default-fg-color--light); }
 </style>
 
 <div id="combo-explorer">
-  <div class="we-controls">
-    <div class="we-search-wrap">
-      <input type="text" id="we-search" class="we-search" placeholder="🔍 무기명 또는 콤보(예: L1) 검색...">
-    </div>
-    <select id="we-mh-select" class="we-select">
-      <option value="">-- 우수 (Main Hand) 전체 --</option>
-    </select>
-    <select id="we-oh-select" class="we-select">
-      <option value="">-- 좌수 (Off Hand) 전체 --</option>
-    </select>
+  <div class="ce-chip-bar" id="ce-chips">
+    <button class="ce-chip active" data-class="">전체 무기군</button>
   </div>
-  <div class="we-meta" id="we-meta">데이터 로딩 중...</div>
-  <table class="we-table">
-    <thead>
-      <tr>
-        <th>Setup</th>
-        <th>우수 (Main Hand)</th>
-        <th>좌수 (Off Hand)</th>
-        <th>콤보 (Combo)</th>
-        <th>타이트니스 (Tightness)</th>
-      </tr>
-    </thead>
-    <tbody id="we-tbody"></tbody>
-  </table>
-  <div class="we-empty" id="we-empty" hidden>조건에 맞는 콤보가 없습니다.</div>
+  <div class="ce-controls">
+    <div class="ce-search-wrap">
+      <input type="text" id="ce-search" class="ce-search" placeholder="🔍 무기명 또는 콤보 입력 검색 (예: R1, L1, 단검)...">
+    </div>
+  </div>
+  <div class="ce-meta" id="ce-meta">데이터 로딩 중...</div>
+  <div style="overflow-x:auto;">
+    <table class="ce-table">
+      <thead>
+        <tr>
+          <th style="min-width:54px">Setup</th>
+          <th style="min-width:140px">우수 (Main Hand)</th>
+          <th style="min-width:140px">좌수 (Off Hand)</th>
+          <th style="min-width:200px">콤보 (Combo)</th>
+          <th style="min-width:110px">타이트니스 (Tightness)</th>
+        </tr>
+      </thead>
+      <tbody id="ce-tbody"></tbody>
+    </table>
+  </div>
+  <div class="ce-empty" id="ce-empty" hidden>조건에 맞는 콤보가 없습니다.</div>
 </div>
 
 <script>
 (() => {
   const DATA_URL = "../../assets/data/combos_kr.json";
 
-  let combos = [];
-  let mainHands = [];
-  let offHands = [];
-
-  const filters = {
-    search: "",
-    mainHand: "",
-    offHand: ""
-  };
-
-  const $ = (id) => document.getElementById(id);
+  let allCombos = [];
+  let weaponClasses = [];
+  const filters = { search: "", weaponClass: "" };
+  const $ = id => document.getElementById(id);
 
   async function init() {
     try {
@@ -75,11 +160,13 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
 
-      // Flatten the setups into individual combo rows
+      weaponClasses = data.weapon_classes || [];
+
       data.setups.forEach(setup => {
         setup.combos.forEach(c => {
-          combos.push({
+          allCombos.push({
             setup_id: setup.id,
+            weapon_class: setup.weapon_class || "",
             main_hand: setup.main_hand,
             off_hand: setup.off_hand,
             combo: c.combo,
@@ -88,75 +175,105 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
         });
       });
 
-      mainHands = data.main_hands;
-      offHands = data.off_hands;
-
-      buildSelect("we-mh-select", mainHands);
-      buildSelect("we-oh-select", offHands);
-
+      buildChips();
       attachEvents();
       render();
     } catch (err) {
-      $("we-meta").textContent = "데이터 로드 실패: " + err.message;
+      $("ce-meta").textContent = "데이터 로드 실패: " + err.message;
     }
   }
 
-  function buildSelect(id, items) {
-    const sel = $(id);
-    items.forEach(item => {
-      const opt = document.createElement("option");
-      opt.value = item;
-      opt.textContent = item;
-      sel.appendChild(opt);
+  function buildChips() {
+    const bar = $("ce-chips");
+    weaponClasses.forEach(cls => {
+      const btn = document.createElement("button");
+      btn.className = "ce-chip";
+      btn.dataset.class = cls;
+      btn.textContent = cls;
+      btn.addEventListener("click", () => selectChip(btn));
+      bar.appendChild(btn);
+    });
+    bar.querySelector('[data-class=""]').addEventListener("click", function() {
+      selectChip(this);
     });
   }
 
+  function selectChip(el) {
+    $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
+    el.classList.add("active");
+    filters.weaponClass = el.dataset.class;
+    render();
+  }
+
   function attachEvents() {
-    $("we-search").addEventListener("input", (e) => {
+    $("ce-search").addEventListener("input", e => {
       filters.search = e.target.value.toLowerCase();
-      render();
-    });
-    $("we-mh-select").addEventListener("change", (e) => {
-      filters.mainHand = e.target.value;
-      render();
-    });
-    $("we-oh-select").addEventListener("change", (e) => {
-      filters.offHand = e.target.value;
+      // Clear chip selection when typing search
+      if (filters.search) {
+        $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
+        filters.weaponClass = "";
+      }
       render();
     });
   }
 
   function render() {
     const q = filters.search.trim();
-    let result = combos.filter((c) => {
-      if (filters.mainHand && !c.main_hand.includes(filters.mainHand)) return false;
-      if (filters.offHand && !c.off_hand.includes(filters.offHand)) return false;
+    const cls = filters.weaponClass;
+
+    let filtered = allCombos.filter(c => {
+      if (cls && c.weapon_class !== cls) return false;
       if (q) {
-        const hay = `${c.main_hand} ${c.off_hand} ${c.combo} ${c.tightness}`.toLowerCase();
+        const hay = `${c.weapon_class} ${c.main_hand} ${c.off_hand} ${c.combo} ${c.tightness}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
 
-    const tbody = $("we-tbody");
-    tbody.innerHTML = result.map((c) => `
-      <tr>
-        <td><span class="setup-badge">${escapeHtml(c.setup_id)}</span></td>
-        <td>${escapeHtml(c.main_hand)}</td>
-        <td>${escapeHtml(c.off_hand)}</td>
-        <td><span class="combo-code">${escapeHtml(c.combo)}</span></td>
-        <td>${escapeHtml(c.tightness)}</td>
-      </tr>
-    `).join("");
+    // Group by weapon class (preserve archive order)
+    const groups = [];
+    const groupMap = new Map();
+    filtered.forEach(c => {
+      if (!groupMap.has(c.weapon_class)) {
+        const g = { name: c.weapon_class, rows: [] };
+        groups.push(g);
+        groupMap.set(c.weapon_class, g);
+      }
+      groupMap.get(c.weapon_class).rows.push(c);
+    });
 
-    $("we-empty").hidden = result.length > 0;
-    $("we-meta").textContent = `${result.length} / ${combos.length} 콤보 표시 중`;
+    const showGroupHeaders = !cls && groups.length > 1;
+    const tbody = $("ce-tbody");
+    const parts = [];
+
+    groups.forEach(g => {
+      if (showGroupHeaders) {
+        parts.push(
+          `<tr class="ce-group-row"><td colspan="5">${esc(g.name)}</td></tr>`
+        );
+      }
+      g.rows.forEach(r => {
+        parts.push(`<tr>
+          <td><span class="setup-badge">${esc(r.setup_id)}</span></td>
+          <td class="weapon-cell" title="${esc(r.main_hand)}">${esc(r.main_hand)}</td>
+          <td class="weapon-cell" title="${esc(r.off_hand)}">${esc(r.off_hand)}</td>
+          <td><span class="combo-code">${esc(r.combo)}</span></td>
+          <td>${esc(r.tightness)}</td>
+        </tr>`);
+      });
+    });
+
+    tbody.innerHTML = parts.join("");
+    $("ce-empty").hidden = filtered.length > 0;
+
+    const setupCount = new Set(filtered.map(c => `${c.weapon_class}|${c.setup_id}`)).size;
+    $("ce-meta").textContent = filtered.length
+      ? `${filtered.length}개 콤보 / ${setupCount}개 셋업 / ${groups.length}개 무기군 표시 중`
+      : "";
   }
 
-  function escapeHtml(s) {
-    return String(s).replace(/[&<>"']/g, (c) => ({
-      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
-    }[c]));
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[c]);
   }
 
   if (document.readyState === "loading") {

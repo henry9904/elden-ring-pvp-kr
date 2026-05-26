@@ -1,6 +1,35 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "setup_count": 761,
+  "weapon_classes": [
+    "좌수 순수 콤보 (PURE OFF-HAND COMBOS)",
+    "단검 (DAGGERS)",
+    "횃불 (TORCHES)",
+    "발톱 (CLAWS)",
+    "직검 (STRAIGHT SWORDS)",
+    "쌍날검 (TWINBLADES)",
+    "대검 (그레이트소드) (GREATSWORDS)",
+    "특대검 (COLOSSAL SWORDS)",
+    "자검 (THRUSTING SWORDS)",
+    "곡검 (CURVED SWORDS)",
+    "도 (KATANAS)",
+    "도끼 (AXES)",
+    "특대 무기 (COLOSSAL WEAPONS)",
+    "대형 도끼 (GREATAXES)",
+    "해머 (HAMMERS)",
+    "플레일 (FLAILS)",
+    "특대 해머 (GREATHAMMERS)",
+    "창 (SPEARS)",
+    "대형 창 (GREATSPEARS)",
+    "할버드 (HALBERDS)",
+    "대형 자검 (HEAVY THRUSTING SWORDS)",
+    "곡선 대검 (CURVED GREATSWORDS)",
+    "주먹 (FISTS)",
+    "채찍 (WHIPS)",
+    "소형 방패 (SMALLSHIELDS)",
+    "중형 방패 (MEDIUMSHIELDS)",
+    "낫 (REAPERS)"
+  ],
   "main_hands": [
     "가고일의 대도끼",
     "가고일의 도끼창",
@@ -367,6 +396,7 @@
   "setups": [
     {
       "id": "1",
+      "weapon_class": "좌수 순수 콤보 (PURE OFF-HAND COMBOS)",
       "main_hand": "조건 없음 (Any)",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -382,6 +412,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "좌수 순수 콤보 (PURE OFF-HAND COMBOS)",
       "main_hand": "조건 없음 (Any)",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -393,6 +424,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "좌수 순수 콤보 (PURE OFF-HAND COMBOS)",
       "main_hand": "조건 없음 (Any)",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -404,6 +436,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "좌수 순수 콤보 (PURE OFF-HAND COMBOS)",
       "main_hand": "조건 없음 (Any)",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -419,6 +452,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "좌수 순수 콤보 (PURE OFF-HAND COMBOS)",
       "main_hand": "조건 없음 (Any)",
       "off_hand": "모든 낫",
       "combos": [
@@ -434,6 +468,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 단검",
       "combos": [
@@ -445,6 +480,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 검은 칼날, 자비의 단검, 전갈의 침, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 휘석 크리스, 황동 단도, 사명의 칼날",
       "off_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 검은 칼날, 자비의 단검, 전갈의 침, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 휘석 크리스, 황동 단도, 사명의 칼날",
       "combos": [
@@ -460,6 +496,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -475,6 +512,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -486,6 +524,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -497,6 +536,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -508,6 +548,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -519,6 +560,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -530,6 +572,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "자비의 단검, 전갈의 침, 휘석 크리스",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -541,6 +584,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -552,6 +596,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -563,6 +608,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -574,6 +620,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -585,6 +632,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "자비의 단검, 전갈의 침, 휘석 크리스",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -596,6 +644,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -607,6 +656,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -618,6 +668,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -629,6 +680,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -640,6 +692,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -651,6 +704,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -662,6 +716,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -673,6 +728,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -684,6 +740,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -695,6 +752,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -710,6 +768,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -729,6 +788,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -740,6 +800,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "자비의 단검, 전갈의 침, 휘석 크리스",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -755,6 +816,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -766,6 +828,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -777,6 +840,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -788,6 +852,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "자비의 단검, 전갈의 침, 휘석 크리스",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -799,6 +864,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -814,6 +880,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -825,6 +892,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -836,6 +904,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -847,6 +916,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -858,6 +928,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -869,6 +940,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -880,6 +952,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -899,6 +972,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -918,6 +992,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "대거, 패링 대거, 결정 나이프, 친퀘디아, 피 묻은 단도, 레두비아, 축제의 낫, 대형 나이프, 상아 낫, 협차",
       "off_hand": "모든 채찍",
       "combos": [
@@ -929,6 +1004,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "검은 칼날, 황동 단도, 사명의 칼날",
       "off_hand": "모든 채찍",
       "combos": [
@@ -940,6 +1016,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "단검 (DAGGERS)",
       "main_hand": "모든 단검",
       "off_hand": "모든 낫",
       "combos": [
@@ -955,6 +1032,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -966,6 +1044,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -977,6 +1056,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -988,6 +1068,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1007,6 +1088,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -1022,6 +1104,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -1033,6 +1116,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1052,6 +1136,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "모든 채찍",
       "combos": [
@@ -1071,6 +1156,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "횃불 (TORCHES)",
       "main_hand": "모든 횃불",
       "off_hand": "모든 낫",
       "combos": [
@@ -1082,6 +1168,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "combos": [
@@ -1093,6 +1180,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 발톱",
       "combos": [
@@ -1104,6 +1192,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "맹금의 발톱",
       "off_hand": "맹금의 발톱",
       "combos": [
@@ -1119,6 +1208,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 발톱",
       "combos": [
@@ -1130,6 +1220,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "combos": [
@@ -1141,6 +1232,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "맹금의 발톱",
       "off_hand": "맹금의 발톱",
       "combos": [
@@ -1160,6 +1252,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "모든 단검",
       "combos": [
@@ -1171,6 +1264,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 단검",
       "combos": [
@@ -1182,6 +1276,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -1193,6 +1288,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -1204,6 +1300,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -1215,6 +1312,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -1226,6 +1324,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -1237,6 +1336,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "맹금의 발톱",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -1248,6 +1348,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1259,6 +1360,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1270,6 +1372,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1281,6 +1384,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1292,6 +1396,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1303,6 +1408,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1314,6 +1420,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -1329,6 +1436,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -1340,6 +1448,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -1351,6 +1460,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1362,6 +1472,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1373,6 +1484,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1384,6 +1496,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1395,6 +1508,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1406,6 +1520,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "갈고리 발톱, 독사의 송곳니, 사냥개의 발톱",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1417,6 +1532,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 채찍",
       "combos": [
@@ -1436,6 +1552,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "발톱 (CLAWS)",
       "main_hand": "모든 발톱",
       "off_hand": "모든 낫",
       "combos": [
@@ -1447,6 +1564,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "off_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "combos": [
@@ -1458,6 +1576,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "롱소드, 군주군의 직검, 풍화된 직검, 결정검, 귀인의 세검, 숏 소드, 브로드 소드, 지팡이검, 황금 묘비, 비문자의 검, 밤과 불꽃의 검, 카리아 기사의 검, 라줄리의 휘석검, 트리나의 검, 미켈라 기사의 검, 에오히드의 보검, 전쟁매의 발톱, 부패한 결정검",
       "off_hand": "롱소드, 군주군의 직검, 풍화된 직검, 결정검, 귀인의 세검, 숏 소드, 브로드 소드, 지팡이검, 황금 묘비, 비문자의 검, 밤과 불꽃의 검, 카리아 기사의 검, 라줄리의 휘석검, 트리나의 검, 미켈라 기사의 검, 에오히드의 보검, 전쟁매의 발톱, 부패한 결정검",
       "combos": [
@@ -1469,6 +1588,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "의장 직검",
       "off_hand": "의장 직검",
       "combos": [
@@ -1480,6 +1600,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "off_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "combos": [
@@ -1491,6 +1612,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "미켈라 기사의 검",
       "off_hand": "미켈라 기사의 검",
       "combos": [
@@ -1502,6 +1624,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "모든 직검",
       "combos": [
@@ -1517,6 +1640,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "롱소드, 군주군의 직검, 풍화된 직검, 결정검, 귀인의 세검, 의장 직검, 황금 묘비, 비문자의 검, 밤과 불꽃의 검, 트리나의 검, 에오히드의 보검, 부패한 결정검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1528,6 +1652,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "숏 소드",
       "off_hand": "모든 단검",
       "combos": [
@@ -1539,6 +1664,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "브로드 소드, 지팡이검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1550,6 +1676,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1561,6 +1688,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "미켈라 기사의 검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1572,6 +1700,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "롱소드, 군주군의 직검, 풍화된 직검, 결정검, 귀인의 세검, 의장 직검, 황금 묘비, 비문자의 검, 밤과 불꽃의 검, 트리나의 검, 에오히드의 보검, 부패한 결정검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -1583,6 +1712,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "롱소드, 군주군의 직검, 풍화된 직검, 결정검, 귀인의 세검, 의장 직검, 황금 묘비, 비문자의 검, 밤과 불꽃의 검, 트리나의 검, 에오히드의 보검, 부패한 결정검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -1594,6 +1724,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "롱소드, 군주군의 직검, 풍화된 직검, 결정검, 귀인의 세검, 의장 직검, 황금 묘비, 비문자의 검, 밤과 불꽃의 검, 트리나의 검, 에오히드의 보검, 부패한 결정검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -1605,6 +1736,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -1616,6 +1748,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -1627,6 +1760,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -1638,6 +1772,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1657,6 +1792,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -1668,6 +1804,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1683,6 +1820,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -1694,6 +1832,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "카리아 기사의 검, 라줄리의 휘석검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -1705,6 +1844,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -1724,6 +1864,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "직검 (STRAIGHT SWORDS)",
       "main_hand": "모든 직검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -1739,6 +1880,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "신의 살갗 쌍날검",
       "off_hand": "신의 살갗 쌍날검",
       "combos": [
@@ -1754,6 +1896,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "신의 살갗 쌍날검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1769,6 +1912,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "모든 쌍날검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -1780,6 +1924,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "모든 쌍날검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -1791,6 +1936,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "모든 쌍날검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -1806,6 +1952,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "모든 쌍날검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -1817,6 +1964,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "쌍날검 (TWINBLADES)",
       "main_hand": "모든 쌍날검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -1828,6 +1976,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -1847,6 +1996,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "백왕의 검",
       "combos": [
@@ -1858,6 +2008,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "암월의 대검",
       "combos": [
@@ -1869,6 +2020,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "클레이모어",
       "combos": [
@@ -1880,6 +2032,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "나뉘지 않는 쌍생아의 검, 기사 대검, 땅 잃은 기사 대검",
       "off_hand": "나뉘지 않는 쌍생아의 검, 기사 대검, 땅 잃은 기사 대검",
       "combos": [
@@ -1899,6 +2052,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "백왕의 검",
       "combos": [
@@ -1914,6 +2068,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -1925,6 +2080,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 단검",
       "combos": [
@@ -1944,6 +2100,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1955,6 +2112,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 단검",
       "combos": [
@@ -1970,6 +2128,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 단검",
       "combos": [
@@ -1985,6 +2144,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 횃불",
       "combos": [
@@ -1996,6 +2156,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -2007,6 +2168,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -2022,6 +2184,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 횃불",
       "combos": [
@@ -2033,6 +2196,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 발톱",
       "combos": [
@@ -2044,6 +2208,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -2055,6 +2220,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -2070,6 +2236,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 발톱",
       "combos": [
@@ -2081,6 +2248,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 직검",
       "combos": [
@@ -2092,6 +2260,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 직검",
       "combos": [
@@ -2103,6 +2272,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 직검",
       "combos": [
@@ -2114,6 +2284,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 자검",
       "combos": [
@@ -2125,6 +2296,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 자검",
       "combos": [
@@ -2136,6 +2308,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 자검",
       "combos": [
@@ -2147,6 +2320,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 곡검",
       "combos": [
@@ -2158,6 +2332,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 곡검",
       "combos": [
@@ -2169,6 +2344,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 곡검",
       "combos": [
@@ -2180,6 +2356,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 도",
       "combos": [
@@ -2191,6 +2368,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 도",
       "combos": [
@@ -2202,6 +2380,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 도",
       "combos": [
@@ -2213,6 +2392,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -2224,6 +2404,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -2235,6 +2416,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -2246,6 +2428,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -2257,6 +2440,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -2268,6 +2452,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -2279,6 +2464,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -2290,6 +2476,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -2301,6 +2488,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -2312,6 +2500,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -2323,6 +2512,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -2334,6 +2524,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -2345,6 +2536,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -2356,6 +2548,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -2367,6 +2560,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -2378,6 +2572,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -2389,6 +2584,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -2400,6 +2596,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 주먹",
       "combos": [
@@ -2411,6 +2608,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "백왕의 검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -2422,6 +2620,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "암월의 대검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -2437,6 +2636,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "클레이모어",
       "off_hand": "모든 주먹",
       "combos": [
@@ -2448,6 +2648,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -2459,6 +2660,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -2474,6 +2676,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "대검 (그레이트소드) (GREATSWORDS)",
       "main_hand": "모든 그레이트소드 (특대검)",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -2485,6 +2688,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -2504,6 +2708,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "신 사냥의 검",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -2523,6 +2728,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -2538,6 +2744,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "신 사냥의 검",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -2561,6 +2768,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "off_hand": "모든 단검",
       "combos": [
@@ -2576,6 +2784,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 단검",
       "combos": [
@@ -2595,6 +2804,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "츠바이헨더, 트롤 기사의 검",
       "off_hand": "모든 단검",
       "combos": [
@@ -2606,6 +2816,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "신 사냥의 검",
       "off_hand": "모든 단검",
       "combos": [
@@ -2617,6 +2828,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -2636,6 +2848,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -2655,6 +2868,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 직검",
       "combos": [
@@ -2670,6 +2884,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 쌍날검",
       "combos": [
@@ -2685,6 +2900,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -2700,6 +2916,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -2715,6 +2932,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -2730,6 +2948,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 자검",
       "combos": [
@@ -2745,6 +2964,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 곡검",
       "combos": [
@@ -2760,6 +2980,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 도",
       "combos": [
@@ -2775,6 +2996,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -2790,6 +3012,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -2805,6 +3028,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -2820,6 +3044,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -2835,6 +3060,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -2850,6 +3076,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -2865,6 +3092,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 플레일",
       "combos": [
@@ -2880,6 +3108,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -2895,6 +3124,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 창",
       "combos": [
@@ -2910,6 +3140,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -2925,6 +3156,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -2940,6 +3172,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -2955,6 +3188,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -2970,6 +3204,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -2985,6 +3220,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -3000,6 +3236,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -3015,6 +3252,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -3034,6 +3272,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "모든 특대검",
       "off_hand": "모든 낫",
       "combos": [
@@ -3049,6 +3288,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3060,6 +3300,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "특대검 (COLOSSAL SWORDS)",
       "main_hand": "신 사냥의 검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3071,6 +3312,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "로지에르의 자검",
       "combos": [
@@ -3094,6 +3336,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "모든 자검",
       "off_hand": "모든 단검",
       "combos": [
@@ -3105,6 +3348,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "모든 자검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -3116,6 +3360,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -3127,6 +3372,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "모든 자검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3138,6 +3384,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "귀부기사의 검, 레이피어, 개미가시 레이피어",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3149,6 +3396,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3160,6 +3408,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "모든 자검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -3175,6 +3424,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -3194,6 +3444,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -3205,6 +3456,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "모든 자검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -3216,6 +3468,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -3227,6 +3480,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -3246,6 +3500,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "모든 자검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -3257,6 +3512,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "자검 (THRUSTING SWORDS)",
       "main_hand": "로지에르의 자검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -3268,6 +3524,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "수인의 곡검",
       "combos": [
@@ -3283,6 +3540,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "샴쉬르, 시미터",
       "off_hand": "샴쉬르, 시미터",
       "combos": [
@@ -3294,6 +3552,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "수인의 곡검",
       "combos": [
@@ -3305,6 +3564,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 단검",
       "combos": [
@@ -3320,6 +3580,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 펄선, 산적의 곡검, 시체 뒤지는 자의 곡검, 뱀신 곡검, 그로스메서, 샴쉬르, 시미터, 용암도, 유수 곡검, 아스텔의 날개, 일식의 쇼텔, 사마귀 칼",
       "off_hand": "모든 단검",
       "combos": [
@@ -3331,6 +3592,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 단검",
       "combos": [
@@ -3342,6 +3604,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 횃불",
       "combos": [
@@ -3357,6 +3620,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -3368,6 +3632,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 발톱",
       "combos": [
@@ -3383,6 +3648,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -3394,6 +3660,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 직검",
       "combos": [
@@ -3405,6 +3672,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 직검",
       "combos": [
@@ -3416,6 +3684,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 쌍날검",
       "combos": [
@@ -3427,6 +3696,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -3438,6 +3708,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -3449,6 +3720,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 자검",
       "combos": [
@@ -3460,6 +3732,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 자검",
       "combos": [
@@ -3471,6 +3744,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 곡검",
       "combos": [
@@ -3482,6 +3756,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 도",
       "combos": [
@@ -3493,6 +3768,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 도",
       "combos": [
@@ -3504,6 +3780,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -3515,6 +3792,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -3526,6 +3804,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -3537,6 +3816,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -3548,6 +3828,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -3559,6 +3840,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -3570,6 +3852,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -3581,6 +3864,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 플레일",
       "combos": [
@@ -3592,6 +3876,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -3603,6 +3888,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 창",
       "combos": [
@@ -3614,6 +3900,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -3625,6 +3912,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -3636,6 +3924,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -3647,6 +3936,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "녹스의 유수검, 쇼텔, 일식의 쇼텔",
       "off_hand": "모든 주먹",
       "combos": [
@@ -3662,6 +3952,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "수인의 곡검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -3673,6 +3964,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "모든 곡검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -3684,6 +3976,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "모든 곡검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3695,6 +3988,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "모든 곡검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -3714,6 +4008,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "모든 곡검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -3725,6 +4020,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "모든 곡검",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -3744,6 +4040,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "곡검 (CURVED SWORDS)",
       "main_hand": "모든 곡검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -3759,6 +4056,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 도",
       "combos": [
@@ -3770,6 +4068,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "타도, 긴 이빨, 말레니아의 의수도, 시산혈하, 명도 월은, 용비늘 검",
       "off_hand": "모든 단검",
       "combos": [
@@ -3781,6 +4080,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "타도, 말레니아의 의수도, 시산혈하, 명도 월은, 용비늘 검",
       "off_hand": "모든 단검",
       "combos": [
@@ -3792,6 +4092,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 단검",
       "combos": [
@@ -3807,6 +4108,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "운철도",
       "off_hand": "모든 단검",
       "combos": [
@@ -3818,6 +4120,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "뱀뼈의 도",
       "off_hand": "모든 단검",
       "combos": [
@@ -3829,6 +4132,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 횃불",
       "combos": [
@@ -3840,6 +4144,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 발톱",
       "combos": [
@@ -3851,6 +4156,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 주먹",
       "combos": [
@@ -3862,6 +4168,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -3873,6 +4180,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -3884,6 +4192,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -3903,6 +4212,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -3914,6 +4224,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -3925,6 +4236,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -3944,6 +4256,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "도 (KATANAS)",
       "main_hand": "모든 도",
       "off_hand": "모든 채찍",
       "combos": [
@@ -3959,6 +4272,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -3970,6 +4284,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -3981,6 +4296,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -3992,6 +4308,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "파문의 검, 뒤틀린 도끼",
       "off_hand": "파문의 검, 뒤틀린 도끼",
       "combos": [
@@ -4003,6 +4320,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -4014,6 +4332,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4025,6 +4344,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4036,6 +4356,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4047,6 +4368,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4058,6 +4380,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4069,6 +4392,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4080,6 +4404,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4099,6 +4424,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4118,6 +4444,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -4129,6 +4456,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4148,6 +4476,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -4159,6 +4488,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -4170,6 +4500,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -4181,6 +4512,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -4200,6 +4532,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -4219,6 +4552,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -4238,6 +4572,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "off_hand": "모든 채찍",
       "combos": [
@@ -4253,6 +4588,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "off_hand": "모든 채찍",
       "combos": [
@@ -4268,6 +4604,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "도끼 (AXES)",
       "main_hand": "철 나대, 축제의 나대",
       "off_hand": "모든 채찍",
       "combos": [
@@ -4283,6 +4620,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "기자의 수레바퀴",
       "combos": [
@@ -4294,6 +4632,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 단검",
       "combos": [
@@ -4309,6 +4648,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 횃불",
       "combos": [
@@ -4324,6 +4664,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 발톱",
       "combos": [
@@ -4339,6 +4680,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 직검",
       "combos": [
@@ -4354,6 +4696,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 쌍날검",
       "combos": [
@@ -4365,6 +4708,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -4376,6 +4720,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -4387,6 +4732,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -4398,6 +4744,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 자검",
       "combos": [
@@ -4413,6 +4760,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 곡검",
       "combos": [
@@ -4424,6 +4772,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 도",
       "combos": [
@@ -4439,6 +4788,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -4450,6 +4800,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -4465,6 +4816,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -4476,6 +4828,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4487,6 +4840,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -4498,6 +4852,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -4509,6 +4864,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 플레일",
       "combos": [
@@ -4520,6 +4876,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -4531,6 +4888,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 창",
       "combos": [
@@ -4542,6 +4900,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4553,6 +4912,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4564,6 +4924,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -4575,6 +4936,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -4586,6 +4948,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -4597,6 +4960,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -4608,6 +4972,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -4619,6 +4984,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 주먹",
       "combos": [
@@ -4634,6 +5000,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "특대 무기 (COLOSSAL WEAPONS)",
       "main_hand": "기자의 수레바퀴",
       "off_hand": "모든 낫",
       "combos": [
@@ -4645,6 +5012,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4656,6 +5024,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 단검",
       "combos": [
@@ -4667,6 +5036,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "그레이트 액스, 흉조잡이의 큰 칼, 긴 자루 도끼, 녹슨 닻, 처형인의 대도끼, 가고일의 대도끼, 가고일의 흑도끼, 날개 달린 큰 뿔, 큰 식칼",
       "off_hand": "모든 단검",
       "combos": [
@@ -4678,6 +5048,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 횃불",
       "combos": [
@@ -4689,6 +5060,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "그레이트 액스, 흉조잡이의 큰 칼, 긴 자루 도끼, 녹슨 닻, 처형인의 대도끼, 가고일의 대도끼, 가고일의 흑도끼, 날개 달린 큰 뿔, 큰 식칼",
       "off_hand": "모든 횃불",
       "combos": [
@@ -4700,6 +5072,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 발톱",
       "combos": [
@@ -4711,6 +5084,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "그레이트 액스, 흉조잡이의 큰 칼, 긴 자루 도끼, 녹슨 닻, 처형인의 대도끼, 가고일의 대도끼, 가고일의 흑도끼, 날개 달린 큰 뿔, 큰 식칼",
       "off_hand": "모든 발톱",
       "combos": [
@@ -4722,6 +5096,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 직검",
       "combos": [
@@ -4733,6 +5108,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 자검",
       "combos": [
@@ -4744,6 +5120,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 곡검",
       "combos": [
@@ -4755,6 +5132,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 도",
       "combos": [
@@ -4766,6 +5144,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -4777,6 +5156,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -4788,6 +5168,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -4799,6 +5180,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -4810,6 +5192,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -4821,6 +5204,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 주먹",
       "combos": [
@@ -4832,6 +5216,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "그레이트 액스, 흉조잡이의 큰 칼, 긴 자루 도끼, 녹슨 닻, 처형인의 대도끼, 가고일의 대도끼, 가고일의 흑도끼, 날개 달린 큰 뿔, 큰 식칼",
       "off_hand": "모든 주먹",
       "combos": [
@@ -4843,6 +5228,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4854,6 +5240,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4869,6 +5256,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "대형 도끼 (GREATAXES)",
       "main_hand": "모든 대형 도끼",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -4880,6 +5268,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "가시 곤봉",
       "off_hand": "가시 곤봉",
       "combos": [
@@ -4891,6 +5280,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "모닝 스타, 기드온의 왕홀",
       "off_hand": "모든 단검",
       "combos": [
@@ -4902,6 +5292,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "수도승의 화염 망치",
       "off_hand": "모든 단검",
       "combos": [
@@ -4913,6 +5304,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4924,6 +5316,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "곤봉, 돌 곤봉",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -4935,6 +5328,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4946,6 +5340,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "곤봉, 돌 곤봉",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -4957,6 +5352,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4976,6 +5372,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "곤봉, 돌 곤봉",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -4995,6 +5392,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -5006,6 +5404,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "곤봉, 돌 곤봉",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -5017,6 +5416,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -5036,6 +5436,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "곤봉, 돌 곤봉",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -5055,6 +5456,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "off_hand": "모든 채찍",
       "combos": [
@@ -5070,6 +5472,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "해머 (HAMMERS)",
       "main_hand": "곤봉, 돌 곤봉",
       "off_hand": "모든 채찍",
       "combos": [
@@ -5085,6 +5488,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 플레일",
       "combos": [
@@ -5096,6 +5500,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 단검",
       "combos": [
@@ -5107,6 +5512,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5118,6 +5524,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5129,6 +5536,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 직검",
       "combos": [
@@ -5140,6 +5548,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 자검",
       "combos": [
@@ -5151,6 +5560,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 도",
       "combos": [
@@ -5162,6 +5572,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -5173,6 +5584,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 주먹",
       "combos": [
@@ -5184,6 +5596,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -5195,6 +5608,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -5210,6 +5624,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "플레일 (FLAILS)",
       "main_hand": "모든 플레일",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -5221,6 +5636,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "특대 해머 (GREATHAMMERS)",
       "main_hand": "모든 특대 해머",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -5232,6 +5648,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "특대 해머 (GREATHAMMERS)",
       "main_hand": "모든 특대 해머",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -5243,6 +5660,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "특대 해머 (GREATHAMMERS)",
       "main_hand": "모든 특대 해머",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -5258,6 +5676,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "특대 해머 (GREATHAMMERS)",
       "main_hand": "모든 특대 해머",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -5269,6 +5688,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "쇼트 스피어, 귀부기사의 창",
       "combos": [
@@ -5280,6 +5700,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5291,6 +5712,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "모든 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5302,6 +5724,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "창, 결정창, 진흙인의 작살, 축제의 갈비뼈 갈퀴, 횃불대, 이단 심문관의 촛대, 철창, 부패한 결정창, 그랑삭스의 벼락, 십문자도",
       "off_hand": "모든 단검",
       "combos": [
@@ -5317,6 +5740,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "파르티잔, 가시 창, 죽음 의례의 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5332,6 +5756,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5343,6 +5768,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "모든 창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5354,6 +5780,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "파르티잔, 가시 창, 죽음 의례의 창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5369,6 +5796,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5380,6 +5808,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "모든 창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5391,6 +5820,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "파르티잔, 가시 창, 죽음 의례의 창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5406,6 +5836,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 직검",
       "combos": [
@@ -5417,6 +5848,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 자검",
       "combos": [
@@ -5428,6 +5860,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 곡검",
       "combos": [
@@ -5439,6 +5872,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 도",
       "combos": [
@@ -5450,6 +5884,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -5461,6 +5896,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -5472,6 +5908,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -5483,6 +5920,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -5494,6 +5932,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -5505,6 +5944,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -5516,6 +5956,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 귀부기사의 창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -5527,6 +5968,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "모든 창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -5538,6 +5980,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "파르티잔, 가시 창, 죽음 의례의 창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -5553,6 +5996,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "쇼트 스피어, 창, 결정창, 진흙인의 작살, 축제의 갈비뼈 갈퀴, 횃불대, 이단 심문관의 촛대, 철창, 부패한 결정창, 귀부기사의 창, 파르티잔, 가시 창, 파이크, 그랑삭스의 벼락, 죽음 의례의 창",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -5564,6 +6008,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "창 (SPEARS)",
       "main_hand": "십문자도",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -5575,6 +6020,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5590,6 +6036,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 단검",
       "combos": [
@@ -5605,6 +6052,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5616,6 +6064,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 실루리아의 창, 바이크의 전투 창, 랜스, 트리스피어",
       "off_hand": "모든 단검",
       "combos": [
@@ -5627,6 +6076,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5638,6 +6088,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "큰 뱀 사냥꾼",
       "off_hand": "모든 단검",
       "combos": [
@@ -5653,6 +6104,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 단검",
       "combos": [
@@ -5668,6 +6120,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5683,6 +6136,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5698,6 +6152,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5709,6 +6164,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -5720,6 +6176,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5735,6 +6192,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5750,6 +6208,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5761,6 +6220,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -5772,6 +6232,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 직검",
       "combos": [
@@ -5783,6 +6244,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 직검",
       "combos": [
@@ -5798,6 +6260,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 직검",
       "combos": [
@@ -5809,6 +6272,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 직검",
       "combos": [
@@ -5820,6 +6284,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 쌍날검",
       "combos": [
@@ -5835,6 +6300,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -5850,6 +6316,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -5861,6 +6328,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -5876,6 +6344,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 자검",
       "combos": [
@@ -5887,6 +6356,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 자검",
       "combos": [
@@ -5902,6 +6372,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 자검",
       "combos": [
@@ -5913,6 +6384,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 자검",
       "combos": [
@@ -5924,6 +6396,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 곡검",
       "combos": [
@@ -5935,6 +6408,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 곡검",
       "combos": [
@@ -5946,6 +6420,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 곡검",
       "combos": [
@@ -5957,6 +6432,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 도",
       "combos": [
@@ -5968,6 +6444,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 도",
       "combos": [
@@ -5983,6 +6460,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 도",
       "combos": [
@@ -5994,6 +6472,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 도",
       "combos": [
@@ -6005,6 +6484,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -6016,6 +6496,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -6027,6 +6508,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -6038,6 +6520,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -6049,6 +6532,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -6064,6 +6548,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -6075,6 +6560,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -6086,6 +6572,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -6097,6 +6584,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -6108,6 +6596,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -6119,6 +6608,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -6134,6 +6624,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -6145,6 +6636,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -6156,6 +6648,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -6167,6 +6660,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -6178,6 +6672,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -6189,6 +6684,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -6200,6 +6696,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 플레일",
       "combos": [
@@ -6215,6 +6712,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -6230,6 +6728,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 창",
       "combos": [
@@ -6245,6 +6744,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -6256,6 +6756,7 @@
     },
     {
       "id": "56",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -6271,6 +6772,7 @@
     },
     {
       "id": "57",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -6282,6 +6784,7 @@
     },
     {
       "id": "58",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -6293,6 +6796,7 @@
     },
     {
       "id": "59",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -6304,6 +6808,7 @@
     },
     {
       "id": "60",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -6315,6 +6820,7 @@
     },
     {
       "id": "61",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -6330,6 +6836,7 @@
     },
     {
       "id": "62",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -6345,6 +6852,7 @@
     },
     {
       "id": "63",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모그윈의 성창, 랜스",
       "off_hand": "모든 주먹",
       "combos": [
@@ -6360,6 +6868,7 @@
     },
     {
       "id": "64",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -6371,6 +6880,7 @@
     },
     {
       "id": "65",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "바이크의 전투 창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -6382,6 +6892,7 @@
     },
     {
       "id": "66",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 낫",
       "combos": [
@@ -6393,6 +6904,7 @@
     },
     {
       "id": "67",
+      "weapon_class": "대형 창 (GREATSPEARS)",
       "main_hand": "모든 대형 창",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -6404,6 +6916,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -6415,6 +6928,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -6426,6 +6940,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "로레타의 전투 낫, 수호자의 검창",
       "off_hand": "로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -6441,6 +6956,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -6452,6 +6968,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -6463,6 +6980,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창, 로레타의 전투 낫, 수호자의 검창",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창, 로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -6474,6 +6992,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 할버드",
       "combos": [
@@ -6485,6 +7004,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -6496,6 +7016,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -6507,6 +7028,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "로레타의 전투 낫, 수호자의 검창",
       "off_hand": "로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -6518,6 +7040,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 단검",
       "combos": [
@@ -6541,6 +7064,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 단검",
       "combos": [
@@ -6560,6 +7084,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "모든 단검",
       "combos": [
@@ -6579,6 +7104,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -6598,6 +7124,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 횃불",
       "combos": [
@@ -6609,6 +7136,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "모든 횃불",
       "combos": [
@@ -6620,6 +7148,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -6639,6 +7168,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 발톱",
       "combos": [
@@ -6650,6 +7180,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "모든 발톱",
       "combos": [
@@ -6661,6 +7192,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 직검",
       "combos": [
@@ -6680,6 +7212,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 직검",
       "combos": [
@@ -6691,6 +7224,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 쌍날검",
       "combos": [
@@ -6702,6 +7236,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -6713,6 +7248,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "그레이트소드, 파수견의 대검, 트롤의 황금검, 말리케스의 흑검, 츠바이헨더, 트롤 기사의 검, 별 부수는 대검, 왕가의 그레이트소드, 유적의 대검, 검 잇기의 대검",
       "combos": [
@@ -6724,6 +7260,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -6735,6 +7272,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 자검",
       "combos": [
@@ -6754,6 +7292,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 자검",
       "combos": [
@@ -6765,6 +7304,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 곡검",
       "combos": [
@@ -6780,6 +7320,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 곡검",
       "combos": [
@@ -6791,6 +7332,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 도",
       "combos": [
@@ -6810,6 +7352,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 도",
       "combos": [
@@ -6821,6 +7364,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -6836,6 +7380,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -6847,6 +7392,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -6866,6 +7412,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -6877,6 +7424,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -6892,6 +7440,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -6903,6 +7452,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -6914,6 +7464,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -6929,6 +7480,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -6940,6 +7492,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -6955,6 +7508,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -6966,6 +7520,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 플레일",
       "combos": [
@@ -6977,6 +7532,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -6988,6 +7544,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 창",
       "combos": [
@@ -6999,6 +7556,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -7010,6 +7568,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -7021,6 +7580,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "로레타의 전투 낫, 수호자의 검창",
       "combos": [
@@ -7032,6 +7592,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -7047,6 +7608,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -7058,6 +7620,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -7069,6 +7632,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7088,6 +7652,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7099,6 +7664,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7110,6 +7676,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "모든 할버드",
       "off_hand": "모든 낫",
       "combos": [
@@ -7121,6 +7688,7 @@
     },
     {
       "id": "56",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -7132,6 +7700,7 @@
     },
     {
       "id": "57",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "로레타의 전투 낫, 수호자의 검창",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -7143,6 +7712,7 @@
     },
     {
       "id": "58",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -7158,6 +7728,7 @@
     },
     {
       "id": "59",
+      "weapon_class": "할버드 (HALBERDS)",
       "main_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -7169,6 +7740,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -7184,6 +7756,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "신의 살갗 꿰매기",
       "combos": [
@@ -7203,6 +7776,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "피의 헬리케, 용왕의 암검",
       "off_hand": "피의 헬리케, 용왕의 암검",
       "combos": [
@@ -7214,6 +7788,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "신의 살갗 꿰매기",
       "combos": [
@@ -7225,6 +7800,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 단검",
       "combos": [
@@ -7236,6 +7812,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "피의 헬리케, 용왕의 암검",
       "off_hand": "모든 단검",
       "combos": [
@@ -7247,6 +7824,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 단검",
       "combos": [
@@ -7262,6 +7840,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 단검",
       "combos": [
@@ -7277,6 +7856,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -7288,6 +7868,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "피의 헬리케, 용왕의 암검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -7299,6 +7880,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 횃불",
       "combos": [
@@ -7314,6 +7896,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -7325,6 +7908,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "피의 헬리케, 용왕의 암검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -7336,6 +7920,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 발톱",
       "combos": [
@@ -7351,6 +7936,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 직검",
       "combos": [
@@ -7362,6 +7948,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 직검",
       "combos": [
@@ -7377,6 +7964,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -7388,6 +7976,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 자검",
       "combos": [
@@ -7399,6 +7988,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 자검",
       "combos": [
@@ -7414,6 +8004,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 곡검",
       "combos": [
@@ -7425,6 +8016,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 곡검",
       "combos": [
@@ -7440,6 +8032,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 도",
       "combos": [
@@ -7451,6 +8044,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 도",
       "combos": [
@@ -7466,6 +8060,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -7477,6 +8072,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -7488,6 +8084,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -7499,6 +8096,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -7514,6 +8112,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -7529,6 +8128,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -7544,6 +8144,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -7555,6 +8156,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -7566,6 +8168,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -7577,6 +8180,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -7592,6 +8196,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -7607,6 +8212,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 플레일",
       "combos": [
@@ -7618,6 +8224,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -7629,6 +8236,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -7640,6 +8248,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7651,6 +8260,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "피의 헬리케, 용왕의 암검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7662,6 +8272,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "신의 살갗 꿰매기",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7677,6 +8288,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -7688,6 +8300,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -7699,6 +8312,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -7714,6 +8328,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -7725,6 +8340,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "대형 자검 (HEAVY THRUSTING SWORDS)",
       "main_hand": "모든 대형 자검",
       "off_hand": "모든 채찍",
       "combos": [
@@ -7736,6 +8352,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -7767,6 +8384,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "토룡의 비늘검, 흉조의 대도",
       "off_hand": "토룡의 비늘검, 흉조의 대도",
       "combos": [
@@ -7786,6 +8404,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "off_hand": "모든 단검",
       "combos": [
@@ -7801,6 +8420,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "모든 곡선 대검",
       "off_hand": "모든 단검",
       "combos": [
@@ -7816,6 +8436,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "모든 곡선 대검",
       "off_hand": "모든 횃불",
       "combos": [
@@ -7827,6 +8448,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "모든 곡선 대검",
       "off_hand": "모든 발톱",
       "combos": [
@@ -7838,6 +8460,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "모든 곡선 대검",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7849,6 +8472,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "곡선 대검 (CURVED GREATSWORDS)",
       "main_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -7860,6 +8484,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "combos": [
@@ -7871,6 +8496,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권",
       "combos": [
@@ -7882,6 +8508,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "combos": [
@@ -7897,6 +8524,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "세스타스, 스파이크 세스타스",
       "combos": [
@@ -7924,6 +8552,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "combos": [
@@ -7943,6 +8572,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 주먹",
       "combos": [
@@ -7954,6 +8584,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권",
       "combos": [
@@ -7965,6 +8596,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "세스타스, 스파이크 세스타스",
       "combos": [
@@ -7988,6 +8620,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "combos": [
@@ -8003,6 +8636,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 단검",
       "combos": [
@@ -8014,6 +8648,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 단검",
       "combos": [
@@ -8025,6 +8660,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 단검",
       "combos": [
@@ -8040,6 +8676,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 단검",
       "combos": [
@@ -8051,6 +8688,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 횃불",
       "combos": [
@@ -8062,6 +8700,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 횃불",
       "combos": [
@@ -8077,6 +8716,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 횃불",
       "combos": [
@@ -8088,6 +8728,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 발톱",
       "combos": [
@@ -8099,6 +8740,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 발톱",
       "combos": [
@@ -8114,6 +8756,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 발톱",
       "combos": [
@@ -8125,6 +8768,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 직검",
       "combos": [
@@ -8136,6 +8780,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 직검",
       "combos": [
@@ -8147,6 +8792,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 직검",
       "combos": [
@@ -8158,6 +8804,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 쌍날검",
       "combos": [
@@ -8169,6 +8816,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -8180,6 +8828,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -8191,6 +8840,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -8202,6 +8852,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "신 사냥의 검",
       "combos": [
@@ -8213,6 +8864,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 자검",
       "combos": [
@@ -8224,6 +8876,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 자검",
       "combos": [
@@ -8235,6 +8888,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 자검",
       "combos": [
@@ -8246,6 +8900,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 곡검",
       "combos": [
@@ -8257,6 +8912,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 곡검",
       "combos": [
@@ -8268,6 +8924,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 곡검",
       "combos": [
@@ -8279,6 +8936,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 도",
       "combos": [
@@ -8290,6 +8948,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 도",
       "combos": [
@@ -8301,6 +8960,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 도",
       "combos": [
@@ -8312,6 +8972,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -8323,6 +8984,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -8334,6 +8996,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -8345,6 +9008,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -8356,6 +9020,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -8367,6 +9032,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -8378,6 +9044,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -8389,6 +9056,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -8400,6 +9068,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -8411,6 +9080,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -8422,6 +9092,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -8433,6 +9104,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -8444,6 +9116,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -8455,6 +9128,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -8466,6 +9140,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -8477,6 +9152,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -8488,6 +9164,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -8499,6 +9176,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -8510,6 +9188,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 플레일",
       "combos": [
@@ -8521,6 +9200,7 @@
     },
     {
       "id": "56",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 플레일",
       "combos": [
@@ -8532,6 +9212,7 @@
     },
     {
       "id": "57",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 플레일",
       "combos": [
@@ -8543,6 +9224,7 @@
     },
     {
       "id": "58",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -8554,6 +9236,7 @@
     },
     {
       "id": "59",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -8565,6 +9248,7 @@
     },
     {
       "id": "60",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -8576,6 +9260,7 @@
     },
     {
       "id": "61",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 창",
       "combos": [
@@ -8587,6 +9272,7 @@
     },
     {
       "id": "62",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8598,6 +9284,7 @@
     },
     {
       "id": "63",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -8609,6 +9296,7 @@
     },
     {
       "id": "64",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -8620,6 +9308,7 @@
     },
     {
       "id": "65",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -8631,6 +9320,7 @@
     },
     {
       "id": "66",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "흑왕의 대검, 참마도, 승병의 화염도, 수인의 대곡도, 사냥개의 긴 이빨, 토룡의 비늘검, 흉조의 대도, 모르고트의 저주검",
       "combos": [
@@ -8642,6 +9332,7 @@
     },
     {
       "id": "67",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 세스타스, 스파이크 세스타스, 접목의 비룡, 철구권, 가시 철구권",
       "off_hand": "모든 주먹",
       "combos": [
@@ -8653,6 +9344,7 @@
     },
     {
       "id": "68",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 주먹",
       "combos": [
@@ -8668,6 +9360,7 @@
     },
     {
       "id": "69",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 주먹",
       "combos": [
@@ -8679,6 +9372,7 @@
     },
     {
       "id": "70",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -8690,6 +9384,7 @@
     },
     {
       "id": "71",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -8701,6 +9396,7 @@
     },
     {
       "id": "72",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -8712,6 +9408,7 @@
     },
     {
       "id": "73",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -8723,6 +9420,7 @@
     },
     {
       "id": "74",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -8734,6 +9432,7 @@
     },
     {
       "id": "75",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -8745,6 +9444,7 @@
     },
     {
       "id": "76",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -8756,6 +9456,7 @@
     },
     {
       "id": "77",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8767,6 +9468,7 @@
     },
     {
       "id": "78",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8778,6 +9480,7 @@
     },
     {
       "id": "79",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8789,6 +9492,7 @@
     },
     {
       "id": "80",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8800,6 +9504,7 @@
     },
     {
       "id": "81",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8811,6 +9516,7 @@
     },
     {
       "id": "82",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8822,6 +9528,7 @@
     },
     {
       "id": "83",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -8833,6 +9540,7 @@
     },
     {
       "id": "84",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -8844,6 +9552,7 @@
     },
     {
       "id": "85",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "벌레의 글레이브, 파문의 도끼창, 천한 병사의 톱, 글레이브, 천한 병사의 낫, 가고일의 도끼창, 가고일의 흑도끼창, 루체른, 밤기병의 글레이브, 황금 도끼창",
       "combos": [
@@ -8855,6 +9564,7 @@
     },
     {
       "id": "86",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -8874,6 +9584,7 @@
     },
     {
       "id": "87",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -8885,6 +9596,7 @@
     },
     {
       "id": "88",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -8896,6 +9608,7 @@
     },
     {
       "id": "89",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -8907,6 +9620,7 @@
     },
     {
       "id": "90",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8918,6 +9632,7 @@
     },
     {
       "id": "91",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8929,6 +9644,7 @@
     },
     {
       "id": "92",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8940,6 +9656,7 @@
     },
     {
       "id": "93",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8951,6 +9668,7 @@
     },
     {
       "id": "94",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8962,6 +9680,7 @@
     },
     {
       "id": "95",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8973,6 +9692,7 @@
     },
     {
       "id": "96",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "세스타스, 스파이크 세스타스",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -8992,6 +9712,7 @@
     },
     {
       "id": "97",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 채찍",
       "combos": [
@@ -9011,6 +9732,7 @@
     },
     {
       "id": "98",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "맨손, 접목의 비룡, 철구권, 가시 철구권, 카타르, 매달리는 뼈, 노장의 의족, 비문자의 파타",
       "off_hand": "모든 채찍",
       "combos": [
@@ -9022,6 +9744,7 @@
     },
     {
       "id": "99",
+      "weapon_class": "주먹 (FISTS)",
       "main_hand": "모든 주먹",
       "off_hand": "모든 낫",
       "combos": [
@@ -9033,6 +9756,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 채찍",
       "combos": [
@@ -9048,6 +9772,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 단검",
       "combos": [
@@ -9087,6 +9812,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 횃불",
       "combos": [
@@ -9118,6 +9844,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 발톱",
       "combos": [
@@ -9149,6 +9876,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 직검",
       "combos": [
@@ -9176,6 +9904,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 그레이트소드 (특대검)",
       "combos": [
@@ -9187,6 +9916,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 자검",
       "combos": [
@@ -9214,6 +9944,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 곡검",
       "combos": [
@@ -9237,6 +9968,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 도",
       "combos": [
@@ -9264,6 +9996,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -9287,6 +10020,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -9314,6 +10048,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -9337,6 +10072,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -9348,6 +10084,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -9371,6 +10108,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -9394,6 +10132,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 플레일",
       "combos": [
@@ -9405,6 +10144,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 특대 해머",
       "combos": [
@@ -9416,6 +10156,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -9431,6 +10172,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "채찍 (WHIPS)",
       "main_hand": "모든 채찍",
       "off_hand": "모든 주먹",
       "combos": [
@@ -9462,6 +10204,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "죄인의 방패",
       "combos": [
@@ -9477,6 +10220,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 단검",
       "combos": [
@@ -9492,6 +10236,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 횃불",
       "combos": [
@@ -9503,6 +10248,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 발톱",
       "combos": [
@@ -9514,6 +10260,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 직검",
       "combos": [
@@ -9525,6 +10272,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 자검",
       "combos": [
@@ -9536,6 +10284,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 곡검",
       "combos": [
@@ -9547,6 +10296,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 도",
       "combos": [
@@ -9558,6 +10308,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -9569,6 +10320,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -9580,6 +10332,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -9591,6 +10344,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -9602,6 +10356,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -9613,6 +10368,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -9624,6 +10380,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "죄인의 방패",
       "off_hand": "모든 주먹",
       "combos": [
@@ -9635,6 +10392,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "모든 소형 방패",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -9646,6 +10404,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "모든 소형 방패",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -9661,6 +10420,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "모든 소형 방패",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -9680,6 +10440,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "모든 소형 방패",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -9691,6 +10452,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "모든 소형 방패",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -9710,6 +10472,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "소형 방패 (SMALLSHIELDS)",
       "main_hand": "모든 소형 방패",
       "off_hand": "모든 채찍",
       "combos": [
@@ -9725,6 +10488,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "중형 방패 (MEDIUMSHIELDS)",
       "main_hand": "모든 중형 방패",
       "off_hand": "모든 대형 도끼",
       "combos": [
@@ -9736,6 +10500,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "중형 방패 (MEDIUMSHIELDS)",
       "main_hand": "모든 중형 방패",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -9747,6 +10512,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "중형 방패 (MEDIUMSHIELDS)",
       "main_hand": "모든 중형 방패",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -9766,6 +10532,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "중형 방패 (MEDIUMSHIELDS)",
       "main_hand": "모든 중형 방패",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -9777,6 +10544,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "중형 방패 (MEDIUMSHIELDS)",
       "main_hand": "모든 중형 방패",
       "off_hand": "자미엘의 곡검",
       "combos": [
@@ -9796,6 +10564,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "중형 방패 (MEDIUMSHIELDS)",
       "main_hand": "모든 중형 방패",
       "off_hand": "모든 채찍",
       "combos": [
@@ -9811,6 +10580,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 낫",
       "combos": [
@@ -9858,6 +10628,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 단검",
       "combos": [
@@ -9873,6 +10644,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "낫",
       "off_hand": "모든 단검",
       "combos": [
@@ -9884,6 +10656,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 단검",
       "combos": [
@@ -9903,6 +10676,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "묘지 낫, 광륜의 낫, 날개 낫",
       "off_hand": "모든 단검",
       "combos": [
@@ -9914,6 +10688,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 횃불",
       "combos": [
@@ -9933,6 +10708,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 발톱",
       "combos": [
@@ -9952,6 +10728,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 직검",
       "combos": [
@@ -9967,6 +10744,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 자검",
       "combos": [
@@ -9982,6 +10760,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 곡검",
       "combos": [
@@ -9997,6 +10776,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 도",
       "combos": [
@@ -10012,6 +10792,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "배틀 액스, 턱뼈 도끼, 고원의 도끼, 제물의 도끼, 파문의 검, 뒤틀린 도끼, 로제스의 도끼, 폭풍매의 도끼",
       "combos": [
@@ -10027,6 +10808,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "갈래 손도끼, 핸드 액스, 빙각의 손도끼",
       "combos": [
@@ -10042,6 +10824,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "철 나대, 축제의 나대",
       "combos": [
@@ -10057,6 +10840,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "철퇴, 곡선 곤봉, 워 피크, 바레의 꽃다발, 해머, 모닝 스타, 가시 곤봉, 수도승의 화염 망치, 사자들의 피리, 기드온의 왕홀, 녹스의 유수 해머, 고리 손가락, 마리카의 망치",
       "combos": [
@@ -10072,6 +10856,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "곤봉, 돌 곤봉",
       "combos": [
@@ -10087,6 +10872,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 대형 자검",
       "combos": [
@@ -10098,6 +10884,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 주먹",
       "combos": [
@@ -10117,6 +10904,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 대형 창",
       "combos": [
@@ -10128,6 +10916,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "할버드, 땅 잃은 기사의 도끼창, 노장의 군기, 용비늘 도끼창",
       "combos": [
@@ -10143,6 +10932,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "낫 (REAPERS)",
       "main_hand": "모든 낫",
       "off_hand": "모든 대형 자검",
       "combos": [

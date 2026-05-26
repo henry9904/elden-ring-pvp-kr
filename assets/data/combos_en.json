@@ -1,6 +1,35 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "setup_count": 761,
+  "weapon_classes": [
+    "🤚 Pure Off-Hand Combos",
+    "🗡️ Daggers",
+    "🔥 Torches",
+    "🐾 Claws",
+    "⚔️ Straight Swords",
+    "🌀 Twinblades",
+    "🗡️ Greatswords",
+    "⚔️ Colossal Swords",
+    "🔱 Thrusting Swords",
+    "⚔️ Curved Swords",
+    "🗡️ Katanas",
+    "🪓 Axes",
+    "🔨 Colossal Weapons",
+    "🪓 Greataxes",
+    "🔨 Hammers",
+    "⛓️ Flails",
+    "🔨 Greathammers",
+    "🏹 Spears",
+    "🏹 Greatspears",
+    "⚔️ Halberds",
+    "🔱 Heavy Thrusting Swords",
+    "⚔️ Curved Greatswords",
+    "👊 Fists",
+    "⛓️ Whips",
+    "🛡️ Smallshields",
+    "🛡️ Mediumshields",
+    "💀 Reapers"
+  ],
   "main_hands": [
     "Alabaster Lord's Sword",
     "Antspur Rapier",
@@ -367,6 +396,7 @@
   "setups": [
     {
       "id": "1",
+      "weapon_class": "🤚 Pure Off-Hand Combos",
       "main_hand": "Any",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -382,6 +412,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🤚 Pure Off-Hand Combos",
       "main_hand": "Any",
       "off_hand": "all greataxes",
       "combos": [
@@ -393,6 +424,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🤚 Pure Off-Hand Combos",
       "main_hand": "Any",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -404,6 +436,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🤚 Pure Off-Hand Combos",
       "main_hand": "Any",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -419,6 +452,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🤚 Pure Off-Hand Combos",
       "main_hand": "Any",
       "off_hand": "all reapers",
       "combos": [
@@ -434,6 +468,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all daggers",
       "combos": [
@@ -445,6 +480,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Black Knife, Misericorde, Scorpion's Stinger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Glintstone Kris, Erdsteel Dagger, Blade of Calling",
       "off_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Black Knife, Misericorde, Scorpion's Stinger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Glintstone Kris, Erdsteel Dagger, Blade of Calling",
       "combos": [
@@ -460,6 +496,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all greatswords",
       "combos": [
@@ -475,6 +512,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -486,6 +524,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -497,6 +536,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all greataxes",
       "combos": [
@@ -508,6 +548,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "all greataxes",
       "combos": [
@@ -519,6 +560,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "all greataxes",
       "combos": [
@@ -530,6 +572,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Misericorde, Scorpion's Stinger, Glintstone Kris",
       "off_hand": "all greataxes",
       "combos": [
@@ -541,6 +584,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all greatspears",
       "combos": [
@@ -552,6 +596,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "all greatspears",
       "combos": [
@@ -563,6 +608,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all greatspears",
       "combos": [
@@ -574,6 +620,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "all greatspears",
       "combos": [
@@ -585,6 +632,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Misericorde, Scorpion's Stinger, Glintstone Kris",
       "off_hand": "all greatspears",
       "combos": [
@@ -596,6 +644,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -607,6 +656,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -618,6 +668,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -629,6 +680,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -640,6 +692,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -651,6 +704,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -662,6 +716,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -673,6 +728,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -684,6 +740,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -695,6 +752,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -710,6 +768,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -729,6 +788,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -740,6 +800,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Misericorde, Scorpion's Stinger, Glintstone Kris",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -755,6 +816,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -766,6 +828,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -777,6 +840,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -788,6 +852,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Misericorde, Scorpion's Stinger, Glintstone Kris",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -799,6 +864,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -814,6 +880,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -825,6 +892,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -836,6 +904,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -847,6 +916,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -858,6 +928,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -869,6 +940,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -880,6 +952,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -899,6 +972,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all whips",
       "combos": [
@@ -918,6 +992,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Dagger, Parrying Dagger, Crystal Knife, Cinquedea, Bloodstained Dagger, Reduvia, Celebrant's Sickle, Great Knife, Ivory Sickle, Wakizashi",
       "off_hand": "all whips",
       "combos": [
@@ -929,6 +1004,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "Black Knife, Erdsteel Dagger, Blade of Calling",
       "off_hand": "all whips",
       "combos": [
@@ -940,6 +1016,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "🗡️ Daggers",
       "main_hand": "all daggers",
       "off_hand": "all reapers",
       "combos": [
@@ -955,6 +1032,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "all greatswords",
       "combos": [
@@ -966,6 +1044,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "all greataxes",
       "combos": [
@@ -977,6 +1056,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "all greatspears",
       "combos": [
@@ -988,6 +1068,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1007,6 +1088,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -1022,6 +1104,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -1033,6 +1116,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1052,6 +1136,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "all whips",
       "combos": [
@@ -1071,6 +1156,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🔥 Torches",
       "main_hand": "all torches",
       "off_hand": "all reapers",
       "combos": [
@@ -1082,6 +1168,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "combos": [
@@ -1093,6 +1180,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all claws",
       "combos": [
@@ -1104,6 +1192,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Raptor Talons",
       "off_hand": "Raptor Talons",
       "combos": [
@@ -1119,6 +1208,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all claws",
       "combos": [
@@ -1130,6 +1220,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "combos": [
@@ -1141,6 +1232,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Raptor Talons",
       "off_hand": "Raptor Talons",
       "combos": [
@@ -1160,6 +1252,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "all daggers",
       "combos": [
@@ -1171,6 +1264,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all daggers",
       "combos": [
@@ -1182,6 +1276,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all greatswords",
       "combos": [
@@ -1193,6 +1288,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all greataxes",
       "combos": [
@@ -1204,6 +1300,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "all greataxes",
       "combos": [
@@ -1215,6 +1312,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all greatspears",
       "combos": [
@@ -1226,6 +1324,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "all greatspears",
       "combos": [
@@ -1237,6 +1336,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Raptor Talons",
       "off_hand": "all greatspears",
       "combos": [
@@ -1248,6 +1348,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1259,6 +1360,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1270,6 +1372,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1281,6 +1384,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1292,6 +1396,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1303,6 +1408,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1314,6 +1420,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -1329,6 +1436,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -1340,6 +1448,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -1351,6 +1460,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1362,6 +1472,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1373,6 +1484,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1384,6 +1496,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1395,6 +1508,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1406,6 +1520,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "🐾 Claws",
       "main_hand": "Hookclaws, Venomous Fang, Bloodhound Claws",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1417,6 +1532,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all whips",
       "combos": [
@@ -1436,6 +1552,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "🐾 Claws",
       "main_hand": "all claws",
       "off_hand": "all reapers",
       "combos": [
@@ -1447,6 +1564,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "off_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "combos": [
@@ -1458,6 +1576,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Longsword, Lordsworn's Straight Sword, Weathered Straight Sword, Crystal Sword, Noble's Slender Sword, Short Sword, Broadsword, Cane Sword, Golden Epitaph, Coded Sword, Sword of Night and Flame, Carian Knight's Sword, Lazuli Glintstone Sword, Sword of St. Trina, Miquellan Knight's Sword, Regalia of Eochaid, Warhawk's Talon, Rotten Crystal Sword",
       "off_hand": "Longsword, Lordsworn's Straight Sword, Weathered Straight Sword, Crystal Sword, Noble's Slender Sword, Short Sword, Broadsword, Cane Sword, Golden Epitaph, Coded Sword, Sword of Night and Flame, Carian Knight's Sword, Lazuli Glintstone Sword, Sword of St. Trina, Miquellan Knight's Sword, Regalia of Eochaid, Warhawk's Talon, Rotten Crystal Sword",
       "combos": [
@@ -1469,6 +1588,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Ornamental Straight Sword",
       "off_hand": "Ornamental Straight Sword",
       "combos": [
@@ -1480,6 +1600,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "off_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "combos": [
@@ -1491,6 +1612,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Miquellan Knight's Sword",
       "off_hand": "Miquellan Knight's Sword",
       "combos": [
@@ -1502,6 +1624,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "all straight swords",
       "combos": [
@@ -1517,6 +1640,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Longsword, Lordsworn's Straight Sword, Weathered Straight Sword, Crystal Sword, Noble's Slender Sword, Ornamental Straight Sword, Golden Epitaph, Coded Sword, Sword of Night and Flame, Sword of St. Trina, Regalia of Eochaid, Rotten Crystal Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -1528,6 +1652,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Short Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -1539,6 +1664,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Broadsword, Cane Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -1550,6 +1676,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -1561,6 +1688,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Miquellan Knight's Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -1572,6 +1700,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Longsword, Lordsworn's Straight Sword, Weathered Straight Sword, Crystal Sword, Noble's Slender Sword, Ornamental Straight Sword, Golden Epitaph, Coded Sword, Sword of Night and Flame, Sword of St. Trina, Regalia of Eochaid, Rotten Crystal Sword",
       "off_hand": "all torches",
       "combos": [
@@ -1583,6 +1712,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Longsword, Lordsworn's Straight Sword, Weathered Straight Sword, Crystal Sword, Noble's Slender Sword, Ornamental Straight Sword, Golden Epitaph, Coded Sword, Sword of Night and Flame, Sword of St. Trina, Regalia of Eochaid, Rotten Crystal Sword",
       "off_hand": "all claws",
       "combos": [
@@ -1594,6 +1724,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Longsword, Lordsworn's Straight Sword, Weathered Straight Sword, Crystal Sword, Noble's Slender Sword, Ornamental Straight Sword, Golden Epitaph, Coded Sword, Sword of Night and Flame, Sword of St. Trina, Regalia of Eochaid, Rotten Crystal Sword",
       "off_hand": "all fists",
       "combos": [
@@ -1605,6 +1736,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "all greataxes",
       "combos": [
@@ -1616,6 +1748,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "all greatspears",
       "combos": [
@@ -1627,6 +1760,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "off_hand": "all greatspears",
       "combos": [
@@ -1638,6 +1772,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1657,6 +1792,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -1668,6 +1804,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1683,6 +1820,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -1694,6 +1832,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "Carian Knight's Sword, Lazuli Glintstone Sword",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -1705,6 +1844,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -1724,6 +1864,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "⚔️ Straight Swords",
       "main_hand": "all straight swords",
       "off_hand": "all whips",
       "combos": [
@@ -1739,6 +1880,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "Godskin Peeler",
       "off_hand": "Godskin Peeler",
       "combos": [
@@ -1754,6 +1896,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "Godskin Peeler",
       "off_hand": "all daggers",
       "combos": [
@@ -1769,6 +1912,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "all twinblades",
       "off_hand": "all greataxes",
       "combos": [
@@ -1780,6 +1924,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "all twinblades",
       "off_hand": "all greatspears",
       "combos": [
@@ -1791,6 +1936,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "all twinblades",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -1806,6 +1952,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "all twinblades",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -1817,6 +1964,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🌀 Twinblades",
       "main_hand": "all twinblades",
       "off_hand": "all whips",
       "combos": [
@@ -1828,6 +1976,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all greatswords",
       "combos": [
@@ -1847,6 +1996,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Alabaster Lord's Sword",
       "combos": [
@@ -1858,6 +2008,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "Dark Moon Greatsword",
       "combos": [
@@ -1869,6 +2020,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "Claymore",
       "combos": [
@@ -1880,6 +2032,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Inseparable Sword, Knight's Greatsword, Banished Knight's Greatsword",
       "off_hand": "Inseparable Sword, Knight's Greatsword, Banished Knight's Greatsword",
       "combos": [
@@ -1899,6 +2052,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Alabaster Lord's Sword",
       "combos": [
@@ -1914,6 +2068,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all greatswords",
       "combos": [
@@ -1925,6 +2080,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all daggers",
       "combos": [
@@ -1944,6 +2100,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -1955,6 +2112,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all daggers",
       "combos": [
@@ -1970,6 +2128,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all daggers",
       "combos": [
@@ -1985,6 +2144,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all torches",
       "combos": [
@@ -1996,6 +2156,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all torches",
       "combos": [
@@ -2007,6 +2168,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all torches",
       "combos": [
@@ -2022,6 +2184,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all torches",
       "combos": [
@@ -2033,6 +2196,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all claws",
       "combos": [
@@ -2044,6 +2208,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all claws",
       "combos": [
@@ -2055,6 +2220,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all claws",
       "combos": [
@@ -2070,6 +2236,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all claws",
       "combos": [
@@ -2081,6 +2248,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all straight swords",
       "combos": [
@@ -2092,6 +2260,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all straight swords",
       "combos": [
@@ -2103,6 +2272,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all straight swords",
       "combos": [
@@ -2114,6 +2284,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -2125,6 +2296,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -2136,6 +2308,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -2147,6 +2320,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all curved swords",
       "combos": [
@@ -2158,6 +2332,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all curved swords",
       "combos": [
@@ -2169,6 +2344,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all curved swords",
       "combos": [
@@ -2180,6 +2356,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all katanas",
       "combos": [
@@ -2191,6 +2368,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all katanas",
       "combos": [
@@ -2202,6 +2380,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all katanas",
       "combos": [
@@ -2213,6 +2392,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -2224,6 +2404,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -2235,6 +2416,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -2246,6 +2428,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -2257,6 +2440,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -2268,6 +2452,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -2279,6 +2464,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -2290,6 +2476,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -2301,6 +2488,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -2312,6 +2500,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -2323,6 +2512,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -2334,6 +2524,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -2345,6 +2536,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -2356,6 +2548,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -2367,6 +2560,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -2378,6 +2572,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -2389,6 +2584,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -2400,6 +2596,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all fists",
       "combos": [
@@ -2411,6 +2608,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Alabaster Lord's Sword",
       "off_hand": "all fists",
       "combos": [
@@ -2422,6 +2620,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Dark Moon Greatsword",
       "off_hand": "all fists",
       "combos": [
@@ -2437,6 +2636,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "Claymore",
       "off_hand": "all fists",
       "combos": [
@@ -2448,6 +2648,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all greatspears",
       "combos": [
@@ -2459,6 +2660,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -2474,6 +2676,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "🗡️ Greatswords",
       "main_hand": "all greatswords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -2485,6 +2688,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -2504,6 +2708,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Godslayer's Greatsword",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -2523,6 +2728,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -2538,6 +2744,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Godslayer's Greatsword",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -2561,6 +2768,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "off_hand": "all daggers",
       "combos": [
@@ -2576,6 +2784,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all daggers",
       "combos": [
@@ -2595,6 +2804,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Zweihander, Troll Knight's Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -2606,6 +2816,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Godslayer's Greatsword",
       "off_hand": "all daggers",
       "combos": [
@@ -2617,6 +2828,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all torches",
       "combos": [
@@ -2636,6 +2848,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all claws",
       "combos": [
@@ -2655,6 +2868,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all straight swords",
       "combos": [
@@ -2670,6 +2884,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all twinblades",
       "combos": [
@@ -2685,6 +2900,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all greatswords",
       "combos": [
@@ -2700,6 +2916,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -2715,6 +2932,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -2730,6 +2948,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -2745,6 +2964,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all curved swords",
       "combos": [
@@ -2760,6 +2980,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all katanas",
       "combos": [
@@ -2775,6 +2996,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -2790,6 +3012,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -2805,6 +3028,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -2820,6 +3044,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all greataxes",
       "combos": [
@@ -2835,6 +3060,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -2850,6 +3076,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -2865,6 +3092,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all flails",
       "combos": [
@@ -2880,6 +3108,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all greathammers",
       "combos": [
@@ -2895,6 +3124,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all spears",
       "combos": [
@@ -2910,6 +3140,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all greatspears",
       "combos": [
@@ -2925,6 +3156,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -2940,6 +3172,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -2955,6 +3188,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -2970,6 +3204,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -2985,6 +3220,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -3000,6 +3236,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -3015,6 +3252,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all fists",
       "combos": [
@@ -3034,6 +3272,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "all colossal swords",
       "off_hand": "all reapers",
       "combos": [
@@ -3049,6 +3288,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "off_hand": "all greatspears",
       "combos": [
@@ -3060,6 +3300,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "⚔️ Colossal Swords",
       "main_hand": "Godslayer's Greatsword",
       "off_hand": "all greatspears",
       "combos": [
@@ -3071,6 +3312,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "Rogier's Rapier",
       "combos": [
@@ -3094,6 +3336,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "all thrusting swords",
       "off_hand": "all daggers",
       "combos": [
@@ -3105,6 +3348,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "all thrusting swords",
       "off_hand": "all greataxes",
       "combos": [
@@ -3116,6 +3360,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "all greataxes",
       "combos": [
@@ -3127,6 +3372,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "all thrusting swords",
       "off_hand": "all greatspears",
       "combos": [
@@ -3138,6 +3384,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Cleanrot Knight's Sword, Rapier, Antspur Rapier",
       "off_hand": "all greatspears",
       "combos": [
@@ -3149,6 +3396,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "all greatspears",
       "combos": [
@@ -3160,6 +3408,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "all thrusting swords",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -3175,6 +3424,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -3194,6 +3444,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -3205,6 +3456,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "all thrusting swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -3216,6 +3468,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -3227,6 +3480,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -3246,6 +3500,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "all thrusting swords",
       "off_hand": "all whips",
       "combos": [
@@ -3257,6 +3512,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🔱 Thrusting Swords",
       "main_hand": "Rogier's Rapier",
       "off_hand": "all whips",
       "combos": [
@@ -3268,6 +3524,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Beastman's Curved Sword",
       "combos": [
@@ -3283,6 +3540,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Shamshir, Scimitar",
       "off_hand": "Shamshir, Scimitar",
       "combos": [
@@ -3294,6 +3552,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Beastman's Curved Sword",
       "combos": [
@@ -3305,6 +3564,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all daggers",
       "combos": [
@@ -3320,6 +3580,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Falchion, Bandit's Curved Sword, Scavenger's Curved Sword, Serpent-God's Curved Sword, Grossmesser, Shamshir, Scimitar, Magma Blade, Flowing Curved Sword, Wing of Astel, Eclipse Shotel, Mantis Blade",
       "off_hand": "all daggers",
       "combos": [
@@ -3331,6 +3592,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -3342,6 +3604,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all torches",
       "combos": [
@@ -3357,6 +3620,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all torches",
       "combos": [
@@ -3368,6 +3632,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all claws",
       "combos": [
@@ -3383,6 +3648,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all claws",
       "combos": [
@@ -3394,6 +3660,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all straight swords",
       "combos": [
@@ -3405,6 +3672,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all straight swords",
       "combos": [
@@ -3416,6 +3684,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all twinblades",
       "combos": [
@@ -3427,6 +3696,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all greatswords",
       "combos": [
@@ -3438,6 +3708,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -3449,6 +3720,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -3460,6 +3732,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -3471,6 +3744,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all curved swords",
       "combos": [
@@ -3482,6 +3756,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all katanas",
       "combos": [
@@ -3493,6 +3768,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all katanas",
       "combos": [
@@ -3504,6 +3780,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -3515,6 +3792,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -3526,6 +3804,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -3537,6 +3816,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -3548,6 +3828,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all greataxes",
       "combos": [
@@ -3559,6 +3840,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -3570,6 +3852,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -3581,6 +3864,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all flails",
       "combos": [
@@ -3592,6 +3876,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all greathammers",
       "combos": [
@@ -3603,6 +3888,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all spears",
       "combos": [
@@ -3614,6 +3900,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -3625,6 +3912,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -3636,6 +3924,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -3647,6 +3936,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Nox Flowing Sword, Shotel, Eclipse Shotel",
       "off_hand": "all fists",
       "combos": [
@@ -3662,6 +3952,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "Beastman's Curved Sword",
       "off_hand": "all fists",
       "combos": [
@@ -3673,6 +3964,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "all curved swords",
       "off_hand": "all greataxes",
       "combos": [
@@ -3684,6 +3976,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "all curved swords",
       "off_hand": "all greatspears",
       "combos": [
@@ -3695,6 +3988,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "all curved swords",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -3714,6 +4008,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "all curved swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -3725,6 +4020,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "all curved swords",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -3744,6 +4040,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "⚔️ Curved Swords",
       "main_hand": "all curved swords",
       "off_hand": "all whips",
       "combos": [
@@ -3759,6 +4056,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all katanas",
       "combos": [
@@ -3770,6 +4068,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "Uchigatana, Nagakiba, Hand of Malenia, Rivers of Blood, Moonveil, Dragonscale Blade",
       "off_hand": "all daggers",
       "combos": [
@@ -3781,6 +4080,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "Uchigatana, Hand of Malenia, Rivers of Blood, Moonveil, Dragonscale Blade",
       "off_hand": "all daggers",
       "combos": [
@@ -3792,6 +4092,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all daggers",
       "combos": [
@@ -3807,6 +4108,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "Meteoric Ore Blade",
       "off_hand": "all daggers",
       "combos": [
@@ -3818,6 +4120,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "Serpentbone Blade",
       "off_hand": "all daggers",
       "combos": [
@@ -3829,6 +4132,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all torches",
       "combos": [
@@ -3840,6 +4144,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all claws",
       "combos": [
@@ -3851,6 +4156,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all fists",
       "combos": [
@@ -3862,6 +4168,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all greataxes",
       "combos": [
@@ -3873,6 +4180,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all greatspears",
       "combos": [
@@ -3884,6 +4192,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -3903,6 +4212,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -3914,6 +4224,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -3925,6 +4236,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -3944,6 +4256,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🗡️ Katanas",
       "main_hand": "all katanas",
       "off_hand": "all whips",
       "combos": [
@@ -3959,6 +4272,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -3970,6 +4284,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -3981,6 +4296,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -3992,6 +4308,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Ripple Blade, Warped Axe",
       "off_hand": "Ripple Blade, Warped Axe",
       "combos": [
@@ -4003,6 +4320,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -4014,6 +4332,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "all greataxes",
       "combos": [
@@ -4025,6 +4344,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "all greataxes",
       "combos": [
@@ -4036,6 +4356,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "all greataxes",
       "combos": [
@@ -4047,6 +4368,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "all greatspears",
       "combos": [
@@ -4058,6 +4380,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "all greatspears",
       "combos": [
@@ -4069,6 +4392,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "all greatspears",
       "combos": [
@@ -4080,6 +4404,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4099,6 +4424,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4118,6 +4444,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -4129,6 +4456,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4148,6 +4476,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -4159,6 +4488,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -4170,6 +4500,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -4181,6 +4512,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -4200,6 +4532,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -4219,6 +4552,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -4238,6 +4572,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "off_hand": "all whips",
       "combos": [
@@ -4253,6 +4588,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "off_hand": "all whips",
       "combos": [
@@ -4268,6 +4604,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🪓 Axes",
       "main_hand": "Iron Cleaver, Celebrant's Cleaver",
       "off_hand": "all whips",
       "combos": [
@@ -4283,6 +4620,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Ghiza's Wheel",
       "combos": [
@@ -4294,6 +4632,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all daggers",
       "combos": [
@@ -4309,6 +4648,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all torches",
       "combos": [
@@ -4324,6 +4664,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all claws",
       "combos": [
@@ -4339,6 +4680,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all straight swords",
       "combos": [
@@ -4354,6 +4696,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all twinblades",
       "combos": [
@@ -4365,6 +4708,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all greatswords",
       "combos": [
@@ -4376,6 +4720,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -4387,6 +4732,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -4398,6 +4744,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -4413,6 +4760,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all curved swords",
       "combos": [
@@ -4424,6 +4772,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all katanas",
       "combos": [
@@ -4439,6 +4788,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -4450,6 +4800,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -4465,6 +4816,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -4476,6 +4828,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all greataxes",
       "combos": [
@@ -4487,6 +4840,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -4498,6 +4852,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -4509,6 +4864,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all flails",
       "combos": [
@@ -4520,6 +4876,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all greathammers",
       "combos": [
@@ -4531,6 +4888,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all spears",
       "combos": [
@@ -4542,6 +4900,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all greatspears",
       "combos": [
@@ -4553,6 +4912,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4564,6 +4924,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -4575,6 +4936,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -4586,6 +4948,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -4597,6 +4960,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -4608,6 +4972,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -4619,6 +4984,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all fists",
       "combos": [
@@ -4634,6 +5000,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "🔨 Colossal Weapons",
       "main_hand": "Ghiza's Wheel",
       "off_hand": "all reapers",
       "combos": [
@@ -4645,6 +5012,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all greataxes",
       "combos": [
@@ -4656,6 +5024,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all daggers",
       "combos": [
@@ -4667,6 +5036,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "Greataxe, Great Omenkiller Cleaver, Longhaft Axe, Rusted Anchor, Executioner's Greataxe, Gargoyle's Great Axe, Gargoyle's Black Axe, Winged Greathorn, Butchering Knife",
       "off_hand": "all daggers",
       "combos": [
@@ -4678,6 +5048,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all torches",
       "combos": [
@@ -4689,6 +5060,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "Greataxe, Great Omenkiller Cleaver, Longhaft Axe, Rusted Anchor, Executioner's Greataxe, Gargoyle's Great Axe, Gargoyle's Black Axe, Winged Greathorn, Butchering Knife",
       "off_hand": "all torches",
       "combos": [
@@ -4700,6 +5072,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all claws",
       "combos": [
@@ -4711,6 +5084,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "Greataxe, Great Omenkiller Cleaver, Longhaft Axe, Rusted Anchor, Executioner's Greataxe, Gargoyle's Great Axe, Gargoyle's Black Axe, Winged Greathorn, Butchering Knife",
       "off_hand": "all claws",
       "combos": [
@@ -4722,6 +5096,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all straight swords",
       "combos": [
@@ -4733,6 +5108,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -4744,6 +5120,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all curved swords",
       "combos": [
@@ -4755,6 +5132,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all katanas",
       "combos": [
@@ -4766,6 +5144,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -4777,6 +5156,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -4788,6 +5168,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -4799,6 +5180,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -4810,6 +5192,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -4821,6 +5204,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all fists",
       "combos": [
@@ -4832,6 +5216,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "Greataxe, Great Omenkiller Cleaver, Longhaft Axe, Rusted Anchor, Executioner's Greataxe, Gargoyle's Great Axe, Gargoyle's Black Axe, Winged Greathorn, Butchering Knife",
       "off_hand": "all fists",
       "combos": [
@@ -4843,6 +5228,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all greatspears",
       "combos": [
@@ -4854,6 +5240,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4869,6 +5256,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🪓 Greataxes",
       "main_hand": "all greataxes",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -4880,6 +5268,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Spiked Club",
       "off_hand": "Spiked Club",
       "combos": [
@@ -4891,6 +5280,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Morning Star, Scepter of the All-Knowing",
       "off_hand": "all daggers",
       "combos": [
@@ -4902,6 +5292,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Monk's Flamemace",
       "off_hand": "all daggers",
       "combos": [
@@ -4913,6 +5304,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "off_hand": "all greataxes",
       "combos": [
@@ -4924,6 +5316,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Club, Stone Club",
       "off_hand": "all greataxes",
       "combos": [
@@ -4935,6 +5328,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "off_hand": "all greatspears",
       "combos": [
@@ -4946,6 +5340,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Club, Stone Club",
       "off_hand": "all greatspears",
       "combos": [
@@ -4957,6 +5352,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4976,6 +5372,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Club, Stone Club",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -4995,6 +5392,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -5006,6 +5404,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Club, Stone Club",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -5017,6 +5416,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -5036,6 +5436,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Club, Stone Club",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -5055,6 +5456,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "off_hand": "all whips",
       "combos": [
@@ -5070,6 +5472,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🔨 Hammers",
       "main_hand": "Club, Stone Club",
       "off_hand": "all whips",
       "combos": [
@@ -5085,6 +5488,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all flails",
       "combos": [
@@ -5096,6 +5500,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all daggers",
       "combos": [
@@ -5107,6 +5512,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all torches",
       "combos": [
@@ -5118,6 +5524,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all claws",
       "combos": [
@@ -5129,6 +5536,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all straight swords",
       "combos": [
@@ -5140,6 +5548,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -5151,6 +5560,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all katanas",
       "combos": [
@@ -5162,6 +5572,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -5173,6 +5584,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all fists",
       "combos": [
@@ -5184,6 +5596,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all greatspears",
       "combos": [
@@ -5195,6 +5608,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -5210,6 +5624,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "⛓️ Flails",
       "main_hand": "all flails",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -5221,6 +5636,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🔨 Greathammers",
       "main_hand": "all greathammers",
       "off_hand": "all greathammers",
       "combos": [
@@ -5232,6 +5648,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🔨 Greathammers",
       "main_hand": "all greathammers",
       "off_hand": "all greatspears",
       "combos": [
@@ -5243,6 +5660,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🔨 Greathammers",
       "main_hand": "all greathammers",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -5258,6 +5676,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🔨 Greathammers",
       "main_hand": "all greathammers",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -5269,6 +5688,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "Short Spear, Cleanrot Spear",
       "combos": [
@@ -5280,6 +5700,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all daggers",
       "combos": [
@@ -5291,6 +5712,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🏹 Spears",
       "main_hand": "all spears",
       "off_hand": "all daggers",
       "combos": [
@@ -5302,6 +5724,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Spear, Crystal Spear, Clayman's Harpoon, Celebrant's Rib-Rake, Torchpole, Inquisitor's Girandole, Iron Spear, Rotten Crystal Spear, Bolt of Gransax, Cross-Naginata",
       "off_hand": "all daggers",
       "combos": [
@@ -5317,6 +5740,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Partisan, Spiked Spear, Death Ritual Spear",
       "off_hand": "all daggers",
       "combos": [
@@ -5332,6 +5756,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all torches",
       "combos": [
@@ -5343,6 +5768,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🏹 Spears",
       "main_hand": "all spears",
       "off_hand": "all torches",
       "combos": [
@@ -5354,6 +5780,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Partisan, Spiked Spear, Death Ritual Spear",
       "off_hand": "all torches",
       "combos": [
@@ -5369,6 +5796,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all claws",
       "combos": [
@@ -5380,6 +5808,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🏹 Spears",
       "main_hand": "all spears",
       "off_hand": "all claws",
       "combos": [
@@ -5391,6 +5820,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Partisan, Spiked Spear, Death Ritual Spear",
       "off_hand": "all claws",
       "combos": [
@@ -5406,6 +5836,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all straight swords",
       "combos": [
@@ -5417,6 +5848,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -5428,6 +5860,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all curved swords",
       "combos": [
@@ -5439,6 +5872,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all katanas",
       "combos": [
@@ -5450,6 +5884,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -5461,6 +5896,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -5472,6 +5908,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -5483,6 +5920,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -5494,6 +5932,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -5505,6 +5944,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -5516,6 +5956,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Cleanrot Spear",
       "off_hand": "all fists",
       "combos": [
@@ -5527,6 +5968,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🏹 Spears",
       "main_hand": "all spears",
       "off_hand": "all fists",
       "combos": [
@@ -5538,6 +5980,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Partisan, Spiked Spear, Death Ritual Spear",
       "off_hand": "all fists",
       "combos": [
@@ -5553,6 +5996,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Short Spear, Spear, Crystal Spear, Clayman's Harpoon, Celebrant's Rib-Rake, Torchpole, Inquisitor's Girandole, Iron Spear, Rotten Crystal Spear, Cleanrot Spear, Partisan, Spiked Spear, Pike, Bolt of Gransax, Death Ritual Spear",
       "off_hand": "all greatspears",
       "combos": [
@@ -5564,6 +6008,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🏹 Spears",
       "main_hand": "Cross-Naginata",
       "off_hand": "all greatspears",
       "combos": [
@@ -5575,6 +6020,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all daggers",
       "combos": [
@@ -5590,6 +6036,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all daggers",
       "combos": [
@@ -5605,6 +6052,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all daggers",
       "combos": [
@@ -5616,6 +6064,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Siluria's Tree, Vyke's War Spear, Lance, Treespear",
       "off_hand": "all daggers",
       "combos": [
@@ -5627,6 +6076,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all daggers",
       "combos": [
@@ -5638,6 +6088,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Serpent-Hunter",
       "off_hand": "all daggers",
       "combos": [
@@ -5653,6 +6104,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all daggers",
       "combos": [
@@ -5668,6 +6120,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all torches",
       "combos": [
@@ -5683,6 +6136,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all torches",
       "combos": [
@@ -5698,6 +6152,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all torches",
       "combos": [
@@ -5709,6 +6164,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all torches",
       "combos": [
@@ -5720,6 +6176,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all claws",
       "combos": [
@@ -5735,6 +6192,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all claws",
       "combos": [
@@ -5750,6 +6208,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all claws",
       "combos": [
@@ -5761,6 +6220,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all claws",
       "combos": [
@@ -5772,6 +6232,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all straight swords",
       "combos": [
@@ -5783,6 +6244,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all straight swords",
       "combos": [
@@ -5798,6 +6260,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all straight swords",
       "combos": [
@@ -5809,6 +6272,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all straight swords",
       "combos": [
@@ -5820,6 +6284,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all twinblades",
       "combos": [
@@ -5835,6 +6300,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all greatswords",
       "combos": [
@@ -5850,6 +6316,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -5861,6 +6328,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -5876,6 +6344,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -5887,6 +6356,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -5902,6 +6372,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -5913,6 +6384,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -5924,6 +6396,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all curved swords",
       "combos": [
@@ -5935,6 +6408,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all curved swords",
       "combos": [
@@ -5946,6 +6420,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all curved swords",
       "combos": [
@@ -5957,6 +6432,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all katanas",
       "combos": [
@@ -5968,6 +6444,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all katanas",
       "combos": [
@@ -5983,6 +6460,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all katanas",
       "combos": [
@@ -5994,6 +6472,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all katanas",
       "combos": [
@@ -6005,6 +6484,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -6016,6 +6496,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -6027,6 +6508,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -6038,6 +6520,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -6049,6 +6532,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -6064,6 +6548,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -6075,6 +6560,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -6086,6 +6572,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -6097,6 +6584,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -6108,6 +6596,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -6119,6 +6608,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all greataxes",
       "combos": [
@@ -6134,6 +6624,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -6145,6 +6636,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -6156,6 +6648,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -6167,6 +6660,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -6178,6 +6672,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -6189,6 +6684,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -6200,6 +6696,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all flails",
       "combos": [
@@ -6215,6 +6712,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all greathammers",
       "combos": [
@@ -6230,6 +6728,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all spears",
       "combos": [
@@ -6245,6 +6744,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all greatspears",
       "combos": [
@@ -6256,6 +6756,7 @@
     },
     {
       "id": "56",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -6271,6 +6772,7 @@
     },
     {
       "id": "57",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -6282,6 +6784,7 @@
     },
     {
       "id": "58",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -6293,6 +6796,7 @@
     },
     {
       "id": "59",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -6304,6 +6808,7 @@
     },
     {
       "id": "60",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -6315,6 +6820,7 @@
     },
     {
       "id": "61",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -6330,6 +6836,7 @@
     },
     {
       "id": "62",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all fists",
       "combos": [
@@ -6345,6 +6852,7 @@
     },
     {
       "id": "63",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Mohgwyn's Sacred Spear, Lance",
       "off_hand": "all fists",
       "combos": [
@@ -6360,6 +6868,7 @@
     },
     {
       "id": "64",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all fists",
       "combos": [
@@ -6371,6 +6880,7 @@
     },
     {
       "id": "65",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "Vyke's War Spear",
       "off_hand": "all fists",
       "combos": [
@@ -6382,6 +6892,7 @@
     },
     {
       "id": "66",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all reapers",
       "combos": [
@@ -6393,6 +6904,7 @@
     },
     {
       "id": "67",
+      "weapon_class": "🏹 Greatspears",
       "main_hand": "all greatspears",
       "off_hand": "all greatspears",
       "combos": [
@@ -6404,6 +6916,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -6415,6 +6928,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -6426,6 +6940,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "off_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -6441,6 +6956,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -6452,6 +6968,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -6463,6 +6980,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd, Loretta's War Sickle, Guardian's Swordspear",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd, Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -6474,6 +6992,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all halberds",
       "combos": [
@@ -6485,6 +7004,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -6496,6 +7016,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -6507,6 +7028,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "off_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -6518,6 +7040,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all daggers",
       "combos": [
@@ -6541,6 +7064,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all daggers",
       "combos": [
@@ -6560,6 +7084,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "all daggers",
       "combos": [
@@ -6579,6 +7104,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all torches",
       "combos": [
@@ -6598,6 +7124,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all torches",
       "combos": [
@@ -6609,6 +7136,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "all torches",
       "combos": [
@@ -6620,6 +7148,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all claws",
       "combos": [
@@ -6639,6 +7168,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all claws",
       "combos": [
@@ -6650,6 +7180,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "all claws",
       "combos": [
@@ -6661,6 +7192,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all straight swords",
       "combos": [
@@ -6680,6 +7212,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all straight swords",
       "combos": [
@@ -6691,6 +7224,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all twinblades",
       "combos": [
@@ -6702,6 +7236,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all greatswords",
       "combos": [
@@ -6713,6 +7248,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Greatsword, Watchdog's Greatsword, Troll's Golden Sword, Maliketh's Black Blade, Zweihander, Troll Knight's Sword, Starscourge Greatsword, Royal Greatsword, Ruins Greatsword, Grafted Blade Greatsword",
       "combos": [
@@ -6724,6 +7260,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -6735,6 +7272,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -6754,6 +7292,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -6765,6 +7304,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all curved swords",
       "combos": [
@@ -6780,6 +7320,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all curved swords",
       "combos": [
@@ -6791,6 +7332,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all katanas",
       "combos": [
@@ -6810,6 +7352,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all katanas",
       "combos": [
@@ -6821,6 +7364,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -6836,6 +7380,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -6847,6 +7392,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -6866,6 +7412,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -6877,6 +7424,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -6892,6 +7440,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -6903,6 +7452,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all greataxes",
       "combos": [
@@ -6914,6 +7464,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -6929,6 +7480,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -6940,6 +7492,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -6955,6 +7508,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -6966,6 +7520,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all flails",
       "combos": [
@@ -6977,6 +7532,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all greathammers",
       "combos": [
@@ -6988,6 +7544,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all spears",
       "combos": [
@@ -6999,6 +7556,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all greatspears",
       "combos": [
@@ -7010,6 +7568,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -7021,6 +7580,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "combos": [
@@ -7032,6 +7592,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -7047,6 +7608,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -7058,6 +7620,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -7069,6 +7632,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all fists",
       "combos": [
@@ -7088,6 +7652,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all fists",
       "combos": [
@@ -7099,6 +7664,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "off_hand": "all fists",
       "combos": [
@@ -7110,6 +7676,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "all halberds",
       "off_hand": "all reapers",
       "combos": [
@@ -7121,6 +7688,7 @@
     },
     {
       "id": "56",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all greatspears",
       "combos": [
@@ -7132,6 +7700,7 @@
     },
     {
       "id": "57",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Loretta's War Sickle, Guardian's Swordspear",
       "off_hand": "all greatspears",
       "combos": [
@@ -7143,6 +7712,7 @@
     },
     {
       "id": "58",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -7158,6 +7728,7 @@
     },
     {
       "id": "59",
+      "weapon_class": "⚔️ Halberds",
       "main_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -7169,6 +7740,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -7184,6 +7756,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Godskin Stitcher",
       "combos": [
@@ -7203,6 +7776,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Bloody Helice, Dragon King's Cragblade",
       "off_hand": "Bloody Helice, Dragon King's Cragblade",
       "combos": [
@@ -7214,6 +7788,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Godskin Stitcher",
       "combos": [
@@ -7225,6 +7800,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all daggers",
       "combos": [
@@ -7236,6 +7812,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Bloody Helice, Dragon King's Cragblade",
       "off_hand": "all daggers",
       "combos": [
@@ -7247,6 +7824,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all daggers",
       "combos": [
@@ -7262,6 +7840,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all daggers",
       "combos": [
@@ -7277,6 +7856,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all torches",
       "combos": [
@@ -7288,6 +7868,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Bloody Helice, Dragon King's Cragblade",
       "off_hand": "all torches",
       "combos": [
@@ -7299,6 +7880,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all torches",
       "combos": [
@@ -7314,6 +7896,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all claws",
       "combos": [
@@ -7325,6 +7908,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Bloody Helice, Dragon King's Cragblade",
       "off_hand": "all claws",
       "combos": [
@@ -7336,6 +7920,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all claws",
       "combos": [
@@ -7351,6 +7936,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all straight swords",
       "combos": [
@@ -7362,6 +7948,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all straight swords",
       "combos": [
@@ -7377,6 +7964,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all greatswords",
       "combos": [
@@ -7388,6 +7976,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -7399,6 +7988,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -7414,6 +8004,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all curved swords",
       "combos": [
@@ -7425,6 +8016,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all curved swords",
       "combos": [
@@ -7440,6 +8032,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all katanas",
       "combos": [
@@ -7451,6 +8044,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all katanas",
       "combos": [
@@ -7466,6 +8060,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -7477,6 +8072,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -7488,6 +8084,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -7499,6 +8096,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -7514,6 +8112,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -7529,6 +8128,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -7544,6 +8144,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all greataxes",
       "combos": [
@@ -7555,6 +8156,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -7566,6 +8168,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -7577,6 +8180,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -7592,6 +8196,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -7607,6 +8212,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all flails",
       "combos": [
@@ -7618,6 +8224,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all greathammers",
       "combos": [
@@ -7629,6 +8236,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -7640,6 +8248,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all fists",
       "combos": [
@@ -7651,6 +8260,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Bloody Helice, Dragon King's Cragblade",
       "off_hand": "all fists",
       "combos": [
@@ -7662,6 +8272,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "Godskin Stitcher",
       "off_hand": "all fists",
       "combos": [
@@ -7677,6 +8288,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all greataxes",
       "combos": [
@@ -7688,6 +8300,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all greatspears",
       "combos": [
@@ -7699,6 +8312,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -7714,6 +8328,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -7725,6 +8340,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "🔱 Heavy Thrusting Swords",
       "main_hand": "all heavy thrusting swords",
       "off_hand": "all whips",
       "combos": [
@@ -7736,6 +8352,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -7767,6 +8384,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "Magma Wyrm's Scalesword, Omen Cleaver",
       "off_hand": "Magma Wyrm's Scalesword, Omen Cleaver",
       "combos": [
@@ -7786,6 +8404,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "off_hand": "all daggers",
       "combos": [
@@ -7801,6 +8420,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "all curved greatswords",
       "off_hand": "all daggers",
       "combos": [
@@ -7816,6 +8436,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "all curved greatswords",
       "off_hand": "all torches",
       "combos": [
@@ -7827,6 +8448,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "all curved greatswords",
       "off_hand": "all claws",
       "combos": [
@@ -7838,6 +8460,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "all curved greatswords",
       "off_hand": "all fists",
       "combos": [
@@ -7849,6 +8472,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⚔️ Curved Greatswords",
       "main_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "off_hand": "all greatspears",
       "combos": [
@@ -7860,6 +8484,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "combos": [
@@ -7871,6 +8496,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist",
       "combos": [
@@ -7882,6 +8508,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "combos": [
@@ -7897,6 +8524,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Caestus, Spiked Caestus",
       "combos": [
@@ -7924,6 +8552,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "combos": [
@@ -7943,6 +8572,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all fists",
       "combos": [
@@ -7954,6 +8584,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist",
       "combos": [
@@ -7965,6 +8596,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Caestus, Spiked Caestus",
       "combos": [
@@ -7988,6 +8620,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "combos": [
@@ -8003,6 +8636,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all daggers",
       "combos": [
@@ -8014,6 +8648,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all daggers",
       "combos": [
@@ -8025,6 +8660,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all daggers",
       "combos": [
@@ -8040,6 +8676,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all daggers",
       "combos": [
@@ -8051,6 +8688,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all torches",
       "combos": [
@@ -8062,6 +8700,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all torches",
       "combos": [
@@ -8077,6 +8716,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all torches",
       "combos": [
@@ -8088,6 +8728,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all claws",
       "combos": [
@@ -8099,6 +8740,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all claws",
       "combos": [
@@ -8114,6 +8756,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all claws",
       "combos": [
@@ -8125,6 +8768,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all straight swords",
       "combos": [
@@ -8136,6 +8780,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all straight swords",
       "combos": [
@@ -8147,6 +8792,7 @@
     },
     {
       "id": "22",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all straight swords",
       "combos": [
@@ -8158,6 +8804,7 @@
     },
     {
       "id": "23",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all twinblades",
       "combos": [
@@ -8169,6 +8816,7 @@
     },
     {
       "id": "24",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all greatswords",
       "combos": [
@@ -8180,6 +8828,7 @@
     },
     {
       "id": "25",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all greatswords",
       "combos": [
@@ -8191,6 +8840,7 @@
     },
     {
       "id": "26",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all greatswords",
       "combos": [
@@ -8202,6 +8852,7 @@
     },
     {
       "id": "27",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Godslayer's Greatsword",
       "combos": [
@@ -8213,6 +8864,7 @@
     },
     {
       "id": "28",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -8224,6 +8876,7 @@
     },
     {
       "id": "29",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -8235,6 +8888,7 @@
     },
     {
       "id": "30",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -8246,6 +8900,7 @@
     },
     {
       "id": "31",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all curved swords",
       "combos": [
@@ -8257,6 +8912,7 @@
     },
     {
       "id": "32",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all curved swords",
       "combos": [
@@ -8268,6 +8924,7 @@
     },
     {
       "id": "33",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all curved swords",
       "combos": [
@@ -8279,6 +8936,7 @@
     },
     {
       "id": "34",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all katanas",
       "combos": [
@@ -8290,6 +8948,7 @@
     },
     {
       "id": "35",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all katanas",
       "combos": [
@@ -8301,6 +8960,7 @@
     },
     {
       "id": "36",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all katanas",
       "combos": [
@@ -8312,6 +8972,7 @@
     },
     {
       "id": "37",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -8323,6 +8984,7 @@
     },
     {
       "id": "38",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -8334,6 +8996,7 @@
     },
     {
       "id": "39",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -8345,6 +9008,7 @@
     },
     {
       "id": "40",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -8356,6 +9020,7 @@
     },
     {
       "id": "41",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -8367,6 +9032,7 @@
     },
     {
       "id": "42",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -8378,6 +9044,7 @@
     },
     {
       "id": "43",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -8389,6 +9056,7 @@
     },
     {
       "id": "44",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -8400,6 +9068,7 @@
     },
     {
       "id": "45",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -8411,6 +9080,7 @@
     },
     {
       "id": "46",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all greataxes",
       "combos": [
@@ -8422,6 +9092,7 @@
     },
     {
       "id": "47",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all greataxes",
       "combos": [
@@ -8433,6 +9104,7 @@
     },
     {
       "id": "48",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all greataxes",
       "combos": [
@@ -8444,6 +9116,7 @@
     },
     {
       "id": "49",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -8455,6 +9128,7 @@
     },
     {
       "id": "50",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -8466,6 +9140,7 @@
     },
     {
       "id": "51",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -8477,6 +9152,7 @@
     },
     {
       "id": "52",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -8488,6 +9164,7 @@
     },
     {
       "id": "53",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -8499,6 +9176,7 @@
     },
     {
       "id": "54",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -8510,6 +9188,7 @@
     },
     {
       "id": "55",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all flails",
       "combos": [
@@ -8521,6 +9200,7 @@
     },
     {
       "id": "56",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all flails",
       "combos": [
@@ -8532,6 +9212,7 @@
     },
     {
       "id": "57",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all flails",
       "combos": [
@@ -8543,6 +9224,7 @@
     },
     {
       "id": "58",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all greathammers",
       "combos": [
@@ -8554,6 +9236,7 @@
     },
     {
       "id": "59",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all greathammers",
       "combos": [
@@ -8565,6 +9248,7 @@
     },
     {
       "id": "60",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all greathammers",
       "combos": [
@@ -8576,6 +9260,7 @@
     },
     {
       "id": "61",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all spears",
       "combos": [
@@ -8587,6 +9272,7 @@
     },
     {
       "id": "62",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8598,6 +9284,7 @@
     },
     {
       "id": "63",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -8609,6 +9296,7 @@
     },
     {
       "id": "64",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -8620,6 +9308,7 @@
     },
     {
       "id": "65",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -8631,6 +9320,7 @@
     },
     {
       "id": "66",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "Onyx Lord's Greatsword, Dismounter, Monk's Flameblade, Beastman's Cleaver, Bloodhound's Fang, Magma Wyrm's Scalesword, Omen Cleaver, Morgott's Cursed Sword",
       "combos": [
@@ -8642,6 +9332,7 @@
     },
     {
       "id": "67",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Caestus, Spiked Caestus, Grafted Dragon, Iron Ball, Star Fist",
       "off_hand": "all fists",
       "combos": [
@@ -8653,6 +9344,7 @@
     },
     {
       "id": "68",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all fists",
       "combos": [
@@ -8668,6 +9360,7 @@
     },
     {
       "id": "69",
+      "weapon_class": "👊 Fists",
       "main_hand": "Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all fists",
       "combos": [
@@ -8679,6 +9372,7 @@
     },
     {
       "id": "70",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all greatswords",
       "combos": [
@@ -8690,6 +9384,7 @@
     },
     {
       "id": "71",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all greataxes",
       "combos": [
@@ -8701,6 +9396,7 @@
     },
     {
       "id": "72",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all greataxes",
       "combos": [
@@ -8712,6 +9408,7 @@
     },
     {
       "id": "73",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all greataxes",
       "combos": [
@@ -8723,6 +9420,7 @@
     },
     {
       "id": "74",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all greatspears",
       "combos": [
@@ -8734,6 +9432,7 @@
     },
     {
       "id": "75",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all greatspears",
       "combos": [
@@ -8745,6 +9444,7 @@
     },
     {
       "id": "76",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all greatspears",
       "combos": [
@@ -8756,6 +9456,7 @@
     },
     {
       "id": "77",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8767,6 +9468,7 @@
     },
     {
       "id": "78",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8778,6 +9480,7 @@
     },
     {
       "id": "79",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8789,6 +9492,7 @@
     },
     {
       "id": "80",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8800,6 +9504,7 @@
     },
     {
       "id": "81",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8811,6 +9516,7 @@
     },
     {
       "id": "82",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8822,6 +9528,7 @@
     },
     {
       "id": "83",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -8833,6 +9540,7 @@
     },
     {
       "id": "84",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -8844,6 +9552,7 @@
     },
     {
       "id": "85",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Pest's Glaive, Ripple Crescent Halberd, Vulgar Militia Saw, Glaive, Vulgar Militia Shotel, Gargoyle's Halberd, Gargoyle's Black Halberd, Lucerne, Nightrider Glaive, Golden Halberd",
       "combos": [
@@ -8855,6 +9564,7 @@
     },
     {
       "id": "86",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -8874,6 +9584,7 @@
     },
     {
       "id": "87",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -8885,6 +9596,7 @@
     },
     {
       "id": "88",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -8896,6 +9608,7 @@
     },
     {
       "id": "89",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -8907,6 +9620,7 @@
     },
     {
       "id": "90",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8918,6 +9632,7 @@
     },
     {
       "id": "91",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8929,6 +9644,7 @@
     },
     {
       "id": "92",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8940,6 +9656,7 @@
     },
     {
       "id": "93",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8951,6 +9668,7 @@
     },
     {
       "id": "94",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8962,6 +9680,7 @@
     },
     {
       "id": "95",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8973,6 +9692,7 @@
     },
     {
       "id": "96",
+      "weapon_class": "👊 Fists",
       "main_hand": "Caestus, Spiked Caestus",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -8992,6 +9712,7 @@
     },
     {
       "id": "97",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all whips",
       "combos": [
@@ -9011,6 +9732,7 @@
     },
     {
       "id": "98",
+      "weapon_class": "👊 Fists",
       "main_hand": "Unarmed, Grafted Dragon, Iron Ball, Star Fist, Katar, Clinging Bone, Veteran's Prosthesis, Cipher Pata",
       "off_hand": "all whips",
       "combos": [
@@ -9022,6 +9744,7 @@
     },
     {
       "id": "99",
+      "weapon_class": "👊 Fists",
       "main_hand": "all fists",
       "off_hand": "all reapers",
       "combos": [
@@ -9033,6 +9756,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all whips",
       "combos": [
@@ -9048,6 +9772,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all daggers",
       "combos": [
@@ -9087,6 +9812,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all torches",
       "combos": [
@@ -9118,6 +9844,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all claws",
       "combos": [
@@ -9149,6 +9876,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all straight swords",
       "combos": [
@@ -9176,6 +9904,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all greatswords",
       "combos": [
@@ -9187,6 +9916,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -9214,6 +9944,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all curved swords",
       "combos": [
@@ -9237,6 +9968,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all katanas",
       "combos": [
@@ -9264,6 +9996,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -9287,6 +10020,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -9314,6 +10048,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -9337,6 +10072,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all greataxes",
       "combos": [
@@ -9348,6 +10084,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -9371,6 +10108,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -9394,6 +10132,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all flails",
       "combos": [
@@ -9405,6 +10144,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all greathammers",
       "combos": [
@@ -9416,6 +10156,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -9431,6 +10172,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "⛓️ Whips",
       "main_hand": "all whips",
       "off_hand": "all fists",
       "combos": [
@@ -9462,6 +10204,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "Shield of the Guilty",
       "combos": [
@@ -9477,6 +10220,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all daggers",
       "combos": [
@@ -9492,6 +10236,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all torches",
       "combos": [
@@ -9503,6 +10248,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all claws",
       "combos": [
@@ -9514,6 +10260,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all straight swords",
       "combos": [
@@ -9525,6 +10272,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -9536,6 +10284,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all curved swords",
       "combos": [
@@ -9547,6 +10296,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all katanas",
       "combos": [
@@ -9558,6 +10308,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -9569,6 +10320,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -9580,6 +10332,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -9591,6 +10344,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -9602,6 +10356,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -9613,6 +10368,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -9624,6 +10380,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "Shield of the Guilty",
       "off_hand": "all fists",
       "combos": [
@@ -9635,6 +10392,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "all smallshields",
       "off_hand": "all greataxes",
       "combos": [
@@ -9646,6 +10404,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "all smallshields",
       "off_hand": "all greatspears",
       "combos": [
@@ -9661,6 +10420,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "all smallshields",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -9680,6 +10440,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "all smallshields",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -9691,6 +10452,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "all smallshields",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -9710,6 +10472,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "🛡️ Smallshields",
       "main_hand": "all smallshields",
       "off_hand": "all whips",
       "combos": [
@@ -9725,6 +10488,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "🛡️ Mediumshields",
       "main_hand": "all mediumshields",
       "off_hand": "all greataxes",
       "combos": [
@@ -9736,6 +10500,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "🛡️ Mediumshields",
       "main_hand": "all mediumshields",
       "off_hand": "all greatspears",
       "combos": [
@@ -9747,6 +10512,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "🛡️ Mediumshields",
       "main_hand": "all mediumshields",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -9766,6 +10532,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "🛡️ Mediumshields",
       "main_hand": "all mediumshields",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -9777,6 +10544,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "🛡️ Mediumshields",
       "main_hand": "all mediumshields",
       "off_hand": "Zamor Curved Sword",
       "combos": [
@@ -9796,6 +10564,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "🛡️ Mediumshields",
       "main_hand": "all mediumshields",
       "off_hand": "all whips",
       "combos": [
@@ -9811,6 +10580,7 @@
     },
     {
       "id": "1",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all reapers",
       "combos": [
@@ -9858,6 +10628,7 @@
     },
     {
       "id": "2",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all daggers",
       "combos": [
@@ -9873,6 +10644,7 @@
     },
     {
       "id": "3",
+      "weapon_class": "💀 Reapers",
       "main_hand": "Scythe",
       "off_hand": "all daggers",
       "combos": [
@@ -9884,6 +10656,7 @@
     },
     {
       "id": "4",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all daggers",
       "combos": [
@@ -9903,6 +10676,7 @@
     },
     {
       "id": "5",
+      "weapon_class": "💀 Reapers",
       "main_hand": "Grave Scythe, Halo Scythe, Winged Scythe",
       "off_hand": "all daggers",
       "combos": [
@@ -9914,6 +10688,7 @@
     },
     {
       "id": "6",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all torches",
       "combos": [
@@ -9933,6 +10708,7 @@
     },
     {
       "id": "7",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all claws",
       "combos": [
@@ -9952,6 +10728,7 @@
     },
     {
       "id": "8",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all straight swords",
       "combos": [
@@ -9967,6 +10744,7 @@
     },
     {
       "id": "9",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all thrusting swords",
       "combos": [
@@ -9982,6 +10760,7 @@
     },
     {
       "id": "10",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all curved swords",
       "combos": [
@@ -9997,6 +10776,7 @@
     },
     {
       "id": "11",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all katanas",
       "combos": [
@@ -10012,6 +10792,7 @@
     },
     {
       "id": "12",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "Battle Axe, Jawbone Axe, Highland Axe, Sacrificial Axe, Ripple Blade, Warped Axe, Rosus' Axe, Stormhawk Axe",
       "combos": [
@@ -10027,6 +10808,7 @@
     },
     {
       "id": "13",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "Forked Hatchet, Hand Axe, Icerind Hatchet",
       "combos": [
@@ -10042,6 +10824,7 @@
     },
     {
       "id": "14",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "Iron Cleaver, Celebrant's Cleaver",
       "combos": [
@@ -10057,6 +10840,7 @@
     },
     {
       "id": "15",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "Mace, Curved Club, Warpick, Varre's Bouquet, Hammer, Morning Star, Spiked Club, Monk's Flamemace, Envoy's Horn, Scepter of the All-Knowing, Nox Flowing Hammer, Ringed Finger, Marika's Hammer",
       "combos": [
@@ -10072,6 +10856,7 @@
     },
     {
       "id": "16",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "Club, Stone Club",
       "combos": [
@@ -10087,6 +10872,7 @@
     },
     {
       "id": "17",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all heavy thrusting swords",
       "combos": [
@@ -10098,6 +10884,7 @@
     },
     {
       "id": "18",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all fists",
       "combos": [
@@ -10117,6 +10904,7 @@
     },
     {
       "id": "19",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all greatspears",
       "combos": [
@@ -10128,6 +10916,7 @@
     },
     {
       "id": "20",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "Halberd, Banished Knight's Halberd, Commander's Standard, Dragon Halberd",
       "combos": [
@@ -10143,6 +10932,7 @@
     },
     {
       "id": "21",
+      "weapon_class": "💀 Reapers",
       "main_hand": "all reapers",
       "off_hand": "all heavy thrusting swords",
       "combos": [

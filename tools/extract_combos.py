@@ -15,6 +15,14 @@ EN_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_EN.archive.md"
 OUT_KR = REPO_ROOT / "assets" / "data" / "combos_kr.json"
 OUT_EN = REPO_ROOT / "assets" / "data" / "combos_en.json"
 
+# ## headers that contain no setups (navigation/notation sections)
+_SKIP_CLASS_PATTERNS = [
+    "Notation Guide", "Quick Navigation", "표기법 안내", "빠른 이동"
+]
+
+def _is_meta_section(header: str) -> bool:
+    return any(pat in header for pat in _SKIP_CLASS_PATTERNS)
+
 def parse_md(path: Path, default_label: str = "Any") -> dict:
     if not path.exists():
         return {}
@@ -24,24 +32,42 @@ def parse_md(path: Path, default_label: str = "Any") -> dict:
 
     setups = []
     current_setup = None
+    current_class = None
+    weapon_classes_ordered = []
+    seen_classes: set = set()
 
     for line in lines:
-        line = line.strip()
-        if line.startswith("### Setup"):
+        s = line.strip()
+
+        # ## headers set the current weapon class (skip meta sections)
+        if s.startswith("## ") and not s.startswith("### "):
+            raw = s[3:].strip()
+            if not _is_meta_section(raw):
+                current_class = raw
+
+        elif s.startswith("### Setup"):
             current_setup = {
-                "id": line.replace("### Setup", "").strip(),
+                "id": s.replace("### Setup", "").strip(),
+                "weapon_class": current_class or default_label,
                 "main_hand": default_label,
                 "off_hand": default_label,
                 "combos": []
             }
             setups.append(current_setup)
+            if current_class and current_class not in seen_classes:
+                weapon_classes_ordered.append(current_class)
+                seen_classes.add(current_class)
+
         elif current_setup:
-            if line.startswith("**우수") or line.startswith("**Main-Hand") or line.startswith("**Main Hand") or line.startswith("**Right Hand"):
-                current_setup["main_hand"] = line.split("**")[-1].strip().strip(":").strip()
-            elif line.startswith("**좌수") or line.startswith("**Off-Hand") or line.startswith("**Off Hand") or line.startswith("**Left Hand"):
-                current_setup["off_hand"] = line.split("**")[-1].strip().strip(":").strip()
-            elif line.startswith("|") and not ("|" in line and "---" in line) and not ("| 콤보" in line) and not ("| Combo" in line):
-                parts = [p.strip() for p in line.strip("|").split("|")]
+            if (s.startswith("**우수") or s.startswith("**Main-Hand")
+                    or s.startswith("**Main Hand") or s.startswith("**Right Hand")):
+                current_setup["main_hand"] = s.split("**")[-1].strip().strip(":").strip()
+            elif (s.startswith("**좌수") or s.startswith("**Off-Hand")
+                    or s.startswith("**Off Hand") or s.startswith("**Left Hand")):
+                current_setup["off_hand"] = s.split("**")[-1].strip().strip(":").strip()
+            elif (s.startswith("|") and "---" not in s
+                    and "| 콤보" not in s and "| Combo" not in s):
+                parts = [p.strip() for p in s.strip("|").split("|")]
                 if len(parts) >= 2:
                     combo = parts[0].replace("`", "").strip()
                     tightness = parts[1].strip()
@@ -50,21 +76,24 @@ def parse_md(path: Path, default_label: str = "Any") -> dict:
                             "combo": combo,
                             "tightness": tightness
                         })
-    
-    # Post-process to collect unique weapons for filters
-    main_hands = set()
-    off_hands = set()
+
+    # Collect unique weapon names for filter lists
+    main_hands: set = set()
+    off_hands: set = set()
     for s in setups:
         for w in s["main_hand"].split(","):
             val = w.strip()
-            if val: main_hands.add(val)
+            if val:
+                main_hands.add(val)
         for w in s["off_hand"].split(","):
             val = w.strip()
-            if val: off_hands.add(val)
-            
+            if val:
+                off_hands.add(val)
+
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "setup_count": len(setups),
+        "weapon_classes": weapon_classes_ordered,
         "main_hands": sorted(list(main_hands)),
         "off_hands": sorted(list(off_hands)),
         "setups": setups
@@ -77,7 +106,7 @@ def main():
 
     kr_data = parse_md(KR_PATH, default_label="조건 없음 (Any)")
     en_data = parse_md(EN_PATH, default_label="Any")
-    
+
     kr_json = json.dumps(kr_data, indent=2, ensure_ascii=False) + "\n"
     en_json = json.dumps(en_data, indent=2, ensure_ascii=False) + "\n"
 

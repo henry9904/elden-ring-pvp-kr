@@ -4,10 +4,17 @@
 
 <br>
 
-[![Ruleset](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/)
-[![Guides](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/)
-[![Info](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/)
-[![Lang](https://img.shields.io/badge/Lang-KR_|_EN-3498db?style=for-the-badge)](./)
+**🇰🇷 한국어 (Korean)**<br>
+[![Ruleset KR](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/Standard_DEN_Restrictions_KR.md)
+[![Guides KR](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/Build_Guide_KR.md)
+[![Info KR](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/PvP_Resources_KR.md)
+
+<br>
+
+**🇺🇸 English**<br>
+[![Ruleset EN](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/Standard_DEN_Restrictions_EN.md)
+[![Guides EN](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/Build_Guide_EN.md)
+[![Info EN](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/PvP_Resources_EN.md)
 
 [![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
 [![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)

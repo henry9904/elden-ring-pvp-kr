@@ -119,7 +119,6 @@ def export_json(conn, en_schema, kr_schema):
     weapon_classes = sorted(list(set(w['weapon_class'] for w in weapons_rows)))
     weapons_payload = {
         "schema_version": 1,
-        "generated_by": "tools/db_etl_pipeline.py",
         "weapon_count": len(weapons_rows),
         "weapon_classes": weapon_classes,
         "tiers": ["S", "A", "B", "C", "D", "E", "F"],

@@ -54,6 +54,9 @@ jobs:
       - name: Check animations.json is in sync with CSV source
         run: python tools/extract_animations.py --check
 
+      - name: Check combos.json is in sync with markdown sources
+        run: python tools/extract_combos.py --check
+
   build:
     name: Build Site
     runs-on: ubuntu-latest

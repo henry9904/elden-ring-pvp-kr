@@ -30,6 +30,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.instant
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -69,6 +70,8 @@ nav:
     - 무기 탐색기 / Weapon Explorer: tools/weapon-explorer.md
     - 공격 거리 탐색기 / Attack Range Explorer: tools/attack-range-explorer.md
     - 애니메이션 / Animations Explorer: tools/animations-explorer.md
+    - 트루콤보 탐색기 / True Combo Explorer (KR): tools/combo-explorer-kr.md
+    - True Combo Explorer (EN): tools/combo-explorer-en.md
   - 한국어:
     - 규정:
       - Standard DEN 결투 제한: ruleset/Standard_DEN_Restrictions_KR.md
@@ -76,6 +79,7 @@ nav:
       - 얼터너티브 룰셋: ruleset/Alternative_Ruleset_KR.md
     - 가이드:
       - 새 세이브 만들기: guides/New_Save_From_Scratch_KR.md
+      - MithMaps 가이드: guides/MithMaps_Guide_KR.md
       - 빌드 제작 가이드: guides/Build_Guide_KR.md
       - 노만 트윈블레이드: guides/Nohman_TB_Guide_KR.md
       - 특대검 가이드: guides/Colossal_Greatsword_Guide_KR.md
@@ -86,7 +90,6 @@ nav:
       - PvP 자료 모음: info/PvP_Resources_KR.md
       - PvP 용어 사전: info/PvP_Lexicon_KR.md
       - 트루콤보 레퍼런스: info/True_Combos_KR.md
-      - 트루콤보 데이터베이스: info/True_Combos_Mugen_KR.md
       - 스탯 분석: info/Stat_Analysis_KR.md
   - English:
     - Ruleset:
@@ -95,6 +98,7 @@ nav:
       - Alternative Ruleset: ruleset/Alternative_Ruleset_EN.md
     - Guides:
       - New Save From Scratch: guides/New_Save_From_Scratch_EN.md
+      - MithMaps Guide: guides/MithMaps_Guide_EN.md
       - Build Making Guide: guides/Build_Guide_EN.md
       - Nohman Twinblade Guide: guides/Nohman_TB_Guide_EN.md
       - Colossal Greatsword Guide: guides/Colossal_Greatsword_Guide_EN.md
@@ -105,5 +109,4 @@ nav:
       - PvP Resources: info/PvP_Resources_EN.md
       - PvP Lexicon: info/PvP_Lexicon_EN.md
       - True Combo Reference: info/True_Combos_EN.md
-      - True Combo Database: info/True_Combos_Mugen_EN.md
       - Stat Analysis: info/Stat_Analysis_EN.md

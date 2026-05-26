@@ -15,7 +15,7 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_PATH = REPO_ROOT / "docs" / "assets" / "data" / "weapons.json"
+OUTPUT_PATH = REPO_ROOT / "assets" / "data" / "weapons.json"
 
 # Each guide we know how to parse. The key is the displayed weapon class;
 # the value is metadata about how to find/interpret the table.

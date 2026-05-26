@@ -4,10 +4,17 @@
 
 <br>
 
-[![Ruleset](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/)
-[![Guides](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/)
-[![Info](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/)
-[![Lang](https://img.shields.io/badge/Lang-KR_|_EN-3498db?style=for-the-badge)](./)
+**🇰🇷 한국어 (Korean)**<br>
+[![Ruleset KR](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/Standard_DEN_Restrictions_KR.md)
+[![Guides KR](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/Build_Guide_KR.md)
+[![Info KR](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/PvP_Resources_KR.md)
+
+<br>
+
+**🇺🇸 English**<br>
+[![Ruleset EN](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/Standard_DEN_Restrictions_EN.md)
+[![Guides EN](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/Build_Guide_EN.md)
+[![Info EN](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/PvP_Resources_EN.md)
 
 [![CI](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/ci.yml)
 [![Deploy](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml/badge.svg)](https://github.com/henry9904/elden-ring-pvp-kr/actions/workflows/deploy.yml)
@@ -116,6 +123,8 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 | [📄 New_Save_From_Scratch_EN.md](./guides/New_Save_From_Scratch_EN.md) | New Save From Scratch — CE Setup Guide *(by Anti Mage Association)* |
 | [📄 Build_Guide_KR.md](./guides/Build_Guide_KR.md) | 빌드 제작 가이드 + 템플릿 빌드 *(by Pouya)* |
 | [📄 Build_Guide_EN.md](./guides/Build_Guide_EN.md) | Build Making Guide + Template Builds *(by Pouya)* |
+| [📄 MithMaps_Guide_KR.md](./guides/MithMaps_Guide_KR.md) | MithMaps 모드 가이드 한국어판 |
+| [📄 MithMaps_Guide_EN.md](./guides/MithMaps_Guide_EN.md) | MithMaps Mod Guide (English) |
 
 </details>
 
@@ -151,6 +160,25 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 
 ---
 
+### 📁 `tools/`
+
+<details markdown="1">
+<summary><b>Interactive Tools / 인터랙티브 도구</b></summary>
+
+<br>
+
+| 파일 | 설명 / Description |
+|------|-------------------|
+| [🔧 무기 탐색기 / Weapon Explorer](./tools/weapon-explorer.md) | 가이드 데이터 기반 무기 티어 검색 및 필터링 도구 |
+| [🔧 공격 거리 탐색기 / Attack Range Explorer](./tools/attack-range-explorer.md) | 무기별 사거리 및 히트박스 검색 도구 |
+| [🔧 애니메이션 탐색기 / Animations Explorer](./tools/animations-explorer.md) | 무기 모션 및 프레임 데이터 검색 도구 |
+| [🔧 트루콤보 탐색기 / True Combo Explorer (KR)](./tools/combo-explorer-kr.md) | 트루콤보 데이터베이스 한눈에 검색 및 필터링 |
+| [🔧 True Combo Explorer (EN)](./tools/combo-explorer-en.md) | Searchable Database for True Combos |
+
+</details>
+
+---
+
 ### 📁 `info/`
 
 <details markdown="1">
@@ -168,8 +196,6 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 | [📝 Elden_Ring_PvP_Lexicon.docx](./info/Elden_Ring_PvP_Lexicon.docx) | Original Lexicon DOCX |
 | [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference *(by Hamster)* |
 | [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 *(by Hamster)* |
-| [📄 True_Combos_Mugen_EN.md](./info/True_Combos_Mugen_EN.md) | True Combo Database — Frame Data *(by Halvard / Mugen)* |
-| [📄 True_Combos_Mugen_KR.md](./info/True_Combos_Mugen_KR.md) | 트루콤보 데이터베이스 — 프레임 데이터 한국어판 *(by Halvard / Mugen)* |
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 *(원문: Drake Ravenwolf / PvP 분석: sin)* |
 | [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis *(by Drake Ravenwolf / PvP analysis: sin)* |
 
@@ -196,6 +222,7 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 | 트루콤보 레퍼런스 / True Combo Reference | Hamster |
 | 트루콤보 데이터베이스 / True Combo Database | Halvard (Mugen) |
 | 스탯 분석 / Stat Analysis | Drake Ravenwolf *(PvP analysis: sin)* |
+| MithMaps 모드 및 커스텀 맵 / MithMaps Mod & Custom Maps | Mithsril, Hexwave |
 
 ---
 

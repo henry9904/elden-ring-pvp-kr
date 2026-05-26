@@ -187,7 +187,7 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
 
   let allCombos = [];
   let weaponClasses = [];
-  const filters = { search: "", weaponClass: "", mainHand: "", offHand: "" };
+  const filters = { search: "", weaponClasses: new Set(), mainHand: "", offHand: "" };
   const $ = id => document.getElementById(id);
   const parseList = s => String(s || "").split(",").map(w => w.trim()).filter(Boolean);
 
@@ -221,11 +221,11 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
     }
   }
 
-  // 현재 무기군 칩 + 반대쪽 select에 따라 두 무기 드롭다운을 재구성.
+  // 현재 선택된 무기군 칩(복수 선택 가능) + 반대쪽 select에 따라 드롭다운을 재구성.
   // 우수를 고르면 좌수 목록이 페어 가능한 무기들로 좁혀짐 (역방향도 동일).
   function rebuildSelects() {
-    const classCombos = filters.weaponClass
-      ? allCombos.filter(c => c.weapon_class === filters.weaponClass)
+    const classCombos = filters.weaponClasses.size > 0
+      ? allCombos.filter(c => filters.weaponClasses.has(c.weapon_class))
       : allCombos;
 
     const ohCombos = filters.mainHand
@@ -278,18 +278,33 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
       btn.className = "ce-chip";
       btn.dataset.class = cls;
       btn.textContent = cls;
-      btn.addEventListener("click", () => selectChip(btn));
+      btn.addEventListener("click", () => toggleChip(btn));
       bar.appendChild(btn);
     });
-    bar.querySelector('[data-class=""]').addEventListener("click", function() {
-      selectChip(this);
-    });
+    bar.querySelector('[data-class=""]').addEventListener("click", resetChips);
   }
 
-  function selectChip(el) {
+  function toggleChip(el) {
+    const cls = el.dataset.class;
+    if (filters.weaponClasses.has(cls)) {
+      filters.weaponClasses.delete(cls);
+      el.classList.remove("active");
+    } else {
+      filters.weaponClasses.add(cls);
+      el.classList.add("active");
+      $("ce-chips").querySelector('[data-class=""]').classList.remove("active");
+    }
+    if (filters.weaponClasses.size === 0) {
+      $("ce-chips").querySelector('[data-class=""]').classList.add("active");
+    }
+    rebuildSelects();
+    render();
+  }
+
+  function resetChips() {
+    filters.weaponClasses.clear();
     $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
-    el.classList.add("active");
-    filters.weaponClass = el.dataset.class;
+    $("ce-chips").querySelector('[data-class=""]').classList.add("active");
     rebuildSelects();
     render();
   }
@@ -311,7 +326,7 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
     });
     $("ce-reset").addEventListener("click", () => {
       filters.search = "";
-      filters.weaponClass = "";
+      filters.weaponClasses.clear();
       filters.mainHand = "";
       filters.offHand = "";
       $("ce-search").value = "";
@@ -324,10 +339,9 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
 
   function render() {
     const q = filters.search.trim();
-    const cls = filters.weaponClass;
 
     let filtered = allCombos.filter(c => {
-      if (cls && c.weapon_class !== cls) return false;
+      if (filters.weaponClasses.size > 0 && !filters.weaponClasses.has(c.weapon_class)) return false;
       if (filters.mainHand && !parseList(c.main_hand).includes(filters.mainHand)) return false;
       if (filters.offHand && !parseList(c.off_hand).includes(filters.offHand)) return false;
       if (q) {
@@ -349,7 +363,7 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
       groupMap.get(c.weapon_class).rows.push(c);
     });
 
-    const showGroupHeaders = !cls && groups.length > 1;
+    const showGroupHeaders = groups.length > 1;
     const tbody = $("ce-tbody");
     const parts = [];
 
@@ -374,8 +388,11 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
     $("ce-empty").hidden = filtered.length > 0;
 
     const setupCount = new Set(filtered.map(c => `${c.weapon_class}|${c.setup_id}`)).size;
+    const clsLabel = filters.weaponClasses.size > 0
+      ? `선택된 ${groups.length}개 무기군`
+      : `${groups.length}개 무기군`;
     $("ce-meta").textContent = filtered.length
-      ? `${filtered.length}개 콤보 / ${setupCount}개 셋업 / ${groups.length}개 무기군 표시 중`
+      ? `${filtered.length}개 콤보 / ${setupCount}개 셋업 / ${clsLabel} 표시 중`
       : "";
   }
 

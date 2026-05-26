@@ -187,7 +187,7 @@ title: True Combo Explorer (EN)
 
   let allCombos = [];
   let weaponClasses = [];
-  const filters = { search: "", weaponClass: "", mainHand: "", offHand: "" };
+  const filters = { search: "", weaponClasses: new Set(), mainHand: "", offHand: "" };
   const $ = id => document.getElementById(id);
   const parseList = s => String(s || "").split(",").map(w => w.trim()).filter(Boolean);
 
@@ -221,11 +221,11 @@ title: True Combo Explorer (EN)
     }
   }
 
-  // Repopulate the two weapon dropdowns based on current class chip + the OTHER select.
+  // Repopulate the two weapon dropdowns based on current class chip(s) + the OTHER select.
   // Picking a Main Hand narrows the Off Hand list to only pair-able weapons, and vice versa.
   function rebuildSelects() {
-    const classCombos = filters.weaponClass
-      ? allCombos.filter(c => c.weapon_class === filters.weaponClass)
+    const classCombos = filters.weaponClasses.size > 0
+      ? allCombos.filter(c => filters.weaponClasses.has(c.weapon_class))
       : allCombos;
 
     // Off-hand options: pairings allowed with current Main-Hand selection
@@ -280,18 +280,33 @@ title: True Combo Explorer (EN)
       btn.className = "ce-chip";
       btn.dataset.class = cls;
       btn.textContent = cls;
-      btn.addEventListener("click", () => selectChip(btn));
+      btn.addEventListener("click", () => toggleChip(btn));
       bar.appendChild(btn);
     });
-    bar.querySelector('[data-class=""]').addEventListener("click", function() {
-      selectChip(this);
-    });
+    bar.querySelector('[data-class=""]').addEventListener("click", resetChips);
   }
 
-  function selectChip(el) {
+  function toggleChip(el) {
+    const cls = el.dataset.class;
+    if (filters.weaponClasses.has(cls)) {
+      filters.weaponClasses.delete(cls);
+      el.classList.remove("active");
+    } else {
+      filters.weaponClasses.add(cls);
+      el.classList.add("active");
+      $("ce-chips").querySelector('[data-class=""]').classList.remove("active");
+    }
+    if (filters.weaponClasses.size === 0) {
+      $("ce-chips").querySelector('[data-class=""]').classList.add("active");
+    }
+    rebuildSelects();
+    render();
+  }
+
+  function resetChips() {
+    filters.weaponClasses.clear();
     $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
-    el.classList.add("active");
-    filters.weaponClass = el.dataset.class;
+    $("ce-chips").querySelector('[data-class=""]').classList.add("active");
     rebuildSelects();
     render();
   }
@@ -313,7 +328,7 @@ title: True Combo Explorer (EN)
     });
     $("ce-reset").addEventListener("click", () => {
       filters.search = "";
-      filters.weaponClass = "";
+      filters.weaponClasses.clear();
       filters.mainHand = "";
       filters.offHand = "";
       $("ce-search").value = "";
@@ -326,10 +341,9 @@ title: True Combo Explorer (EN)
 
   function render() {
     const q = filters.search.trim();
-    const cls = filters.weaponClass;
 
     let filtered = allCombos.filter(c => {
-      if (cls && c.weapon_class !== cls) return false;
+      if (filters.weaponClasses.size > 0 && !filters.weaponClasses.has(c.weapon_class)) return false;
       if (filters.mainHand && !parseList(c.main_hand).includes(filters.mainHand)) return false;
       if (filters.offHand && !parseList(c.off_hand).includes(filters.offHand)) return false;
       if (q) {
@@ -351,7 +365,8 @@ title: True Combo Explorer (EN)
       groupMap.get(c.weapon_class).rows.push(c);
     });
 
-    const showGroupHeaders = !cls && groups.length > 1;
+    // Show group headers when more than one class is visible
+    const showGroupHeaders = groups.length > 1;
     const tbody = $("ce-tbody");
     const parts = [];
 
@@ -376,8 +391,11 @@ title: True Combo Explorer (EN)
     $("ce-empty").hidden = filtered.length > 0;
 
     const setupCount = new Set(filtered.map(c => `${c.weapon_class}|${c.setup_id}`)).size;
+    const clsLabel = filters.weaponClasses.size > 0
+      ? `${groups.length} selected class${groups.length !== 1 ? "es" : ""}`
+      : `${groups.length} weapon class${groups.length !== 1 ? "es" : ""}`;
     $("ce-meta").textContent = filtered.length
-      ? `Showing ${filtered.length} combo${filtered.length !== 1 ? "s" : ""} from ${setupCount} setup${setupCount !== 1 ? "s" : ""} across ${groups.length} weapon class${groups.length !== 1 ? "es" : ""}`
+      ? `Showing ${filtered.length} combo${filtered.length !== 1 ? "s" : ""} from ${setupCount} setup${setupCount !== 1 ? "s" : ""} across ${clsLabel}`
       : "";
   }
 

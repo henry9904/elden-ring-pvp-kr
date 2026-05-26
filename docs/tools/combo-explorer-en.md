@@ -381,8 +381,9 @@ title: True Combo Explorer (EN)
       : "";
   }
 
+  const ESC_MAP = {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"};
   function esc(s) {
-    return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[c]);
+    return String(s).replace(/[&<>"']/g, c => ESC_MAP[c]);
   }
 
   if (document.readyState === "loading") {

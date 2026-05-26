@@ -379,8 +379,9 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
       : "";
   }
 
+  const ESC_MAP = {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"};
   function esc(s) {
-    return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[c]);
+    return String(s).replace(/[&<>"']/g, c => ESC_MAP[c]);
   }
 
   if (document.readyState === "loading") {

@@ -21,7 +21,7 @@
 
 ### 🌐 [웹사이트에서 보기 / Open the Site →](https://henry9904.github.io/elden-ring-pvp-kr/)
 
-검색·정렬 가능한 **무기 탐색기**, **공격 거리 탐색기**, **애니메이션 탐색기** 등 인터랙티브 도구는 웹사이트에서 사용할 수 있어요.
+검색·정렬 가능한 **무기 탐색기**, **공격 거리 탐색기**, **애니메이션 탐색기** 등 인터랙티브 도구는 웹사이트에서 사용할 수 있습니다.
 Interactive tools (weapon explorer, attack range explorer, animations & frame-data explorer) are available on the site.
 
 </div>
@@ -249,7 +249,7 @@ The existing Elden Ring PvP community possessed a vast amount of highly useful d
 
 ## 💬 피드백 / Feedback
 
-룰셋 내용에 대한 의견은 원문 커뮤니티 채널을 통해 전달해 주세요.
+룰셋 내용에 대한 의견은 원문 커뮤니티 채널을 통해 전달해 주십시오.
 번역 및 리디자인에 대한 수정 제안은 이 레포지토리의 **Issue**를 통해 남겨주시면 감사하겠습니다.
 
 For ruleset suggestions, please reach out through the original community channel.

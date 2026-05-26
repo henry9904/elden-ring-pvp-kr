@@ -69,6 +69,8 @@ nav:
     - 무기 탐색기 / Weapon Explorer: tools/weapon-explorer.md
     - 공격 거리 탐색기 / Attack Range Explorer: tools/attack-range-explorer.md
     - 애니메이션 / Animations Explorer: tools/animations-explorer.md
+    - 트루콤보 탐색기 / True Combo Explorer (KR): tools/combo-explorer-kr.md
+    - True Combo Explorer (EN): tools/combo-explorer-en.md
   - 한국어:
     - 규정:
       - Standard DEN 결투 제한: ruleset/Standard_DEN_Restrictions_KR.md
@@ -87,7 +89,6 @@ nav:
       - PvP 자료 모음: info/PvP_Resources_KR.md
       - PvP 용어 사전: info/PvP_Lexicon_KR.md
       - 트루콤보 레퍼런스: info/True_Combos_KR.md
-      - 트루콤보 데이터베이스: info/True_Combos_Mugen_KR.md
       - 스탯 분석: info/Stat_Analysis_KR.md
   - English:
     - Ruleset:
@@ -107,5 +108,4 @@ nav:
       - PvP Resources: info/PvP_Resources_EN.md
       - PvP Lexicon: info/PvP_Lexicon_EN.md
       - True Combo Reference: info/True_Combos_EN.md
-      - True Combo Database: info/True_Combos_Mugen_EN.md
       - Stat Analysis: info/Stat_Analysis_EN.md

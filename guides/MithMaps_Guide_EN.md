@@ -5,6 +5,7 @@
 
 ## 🛠️ Installation & Setup
 
+- **Download**: Download the latest version from the [🔗 MithMaps GitHub Page](https://github.com/Mithsril/MithMaps).
 - **Launch**: Use the `Launch MithMaps.bat` file to open the mod.
 - **Changing Password**: To change the password, use the seamless folder within **MithMaps**, NOT the DEN1 folder.
 - **File Extension**: The mod uses the file extension `.mith`, which can be added in:

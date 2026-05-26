@@ -30,8 +30,8 @@ def parse_md(path: Path) -> dict:
         if line.startswith("### Setup"):
             current_setup = {
                 "id": line.replace("### Setup", "").strip(),
-                "main_hand": "없음 / None",
-                "off_hand": "없음 / None",
+                "main_hand": "조건 없음 (Any)",
+                "off_hand": "조건 없음 (Any)",
                 "combos": []
             }
             setups.append(current_setup)

@@ -218,4 +218,4 @@ title: 무기 탐색기 / Weapon Explorer
 | [Halberd Guide](../guides/Halberd_Guide_EN.md) | eisenwave |
 | [Katana Guide](../guides/Katana_Guide_EN.md) | eisenwave |
 
-가이드 표가 수정되면 `python tools/extract_weapons.py`를 실행해 `docs/assets/data/weapons.json`을 재생성하고, CI가 마크다운 원본과 JSON이 일치하는지 자동으로 검증합니다.
+가이드 표가 수정되면 `python tools/extract_weapons.py`를 실행해 `assets/data/weapons.json`을 재생성하고, CI가 마크다운 원본과 JSON이 일치하는지 자동으로 검증합니다.

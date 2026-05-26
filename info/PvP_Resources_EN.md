@@ -39,6 +39,7 @@
 
 | Tool | Link |
 |------|------|
+| **MithMaps** — 2vs2 Tournament Mod (Hosted by Kai Dojo, etc.) | [🔗 GitHub](https://github.com/Mithsril/MithMaps) |
 | **Better Multiplayer** (DEN2) — navigate to latest version | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/BetterMultiplayer/releases) |
 | **DEN Maps** (DEN1) — navigate to latest version | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/DEN-Maps-Release/releases/tag/v1.7.0-beta19) |
 | **Steam P2P Info** — see latency between players in your world | [🔗 GitHub Releases](https://github.com/tremwil/SteamP2PInfo/releases) |

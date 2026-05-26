@@ -29,6 +29,34 @@ title: True Combo Explorer (EN)
   }
   .ce-search:focus { outline: 2px solid var(--md-primary-fg-color); outline-offset: -1px; }
 
+  .ce-select {
+    padding: 0.5rem 0.7rem;
+    border-radius: 8px;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    font-size: 0.85em;
+    max-width: 240px;
+    min-width: 170px;
+  }
+  .ce-select:focus { outline: 2px solid var(--md-primary-fg-color); outline-offset: -1px; }
+  .ce-btn {
+    padding: 0.5rem 0.85rem;
+    border-radius: 8px;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color--light);
+    font-size: 0.85em;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .ce-btn:hover { border-color: var(--md-primary-fg-color); color: var(--md-primary-fg-color); }
+  .ce-pair-hint {
+    font-size: 0.78em;
+    color: var(--md-primary-fg-color);
+    margin: -0.25rem 0 0.5rem;
+  }
+
   /* ── Chip bar ── */
   .ce-chip-bar {
     display: flex;
@@ -126,7 +154,15 @@ title: True Combo Explorer (EN)
     <div class="ce-search-wrap">
       <input type="text" id="ce-search" class="ce-search" placeholder="🔍 Search weapons or combo inputs (e.g. R1, L1, Dagger)...">
     </div>
+    <select id="ce-mh-select" class="ce-select" aria-label="Main hand filter">
+      <option value="">-- All Main Hand --</option>
+    </select>
+    <select id="ce-oh-select" class="ce-select" aria-label="Off hand filter">
+      <option value="">-- All Off Hand --</option>
+    </select>
+    <button id="ce-reset" class="ce-btn" type="button">Reset</button>
   </div>
+  <div class="ce-pair-hint" id="ce-pair-hint" hidden></div>
   <div class="ce-meta" id="ce-meta">Loading data...</div>
   <div style="overflow-x:auto;">
     <table class="ce-table">
@@ -151,8 +187,9 @@ title: True Combo Explorer (EN)
 
   let allCombos = [];
   let weaponClasses = [];
-  const filters = { search: "", weaponClass: "" };
+  const filters = { search: "", weaponClass: "", mainHand: "", offHand: "" };
   const $ = id => document.getElementById(id);
+  const parseList = s => String(s || "").split(",").map(w => w.trim()).filter(Boolean);
 
   async function init() {
     try {
@@ -177,9 +214,62 @@ title: True Combo Explorer (EN)
 
       buildChips();
       attachEvents();
+      rebuildSelects();
       render();
     } catch (err) {
       $("ce-meta").textContent = "Failed to load data: " + err.message;
+    }
+  }
+
+  // Repopulate the two weapon dropdowns based on current class chip + the OTHER select.
+  // Picking a Main Hand narrows the Off Hand list to only pair-able weapons, and vice versa.
+  function rebuildSelects() {
+    const classCombos = filters.weaponClass
+      ? allCombos.filter(c => c.weapon_class === filters.weaponClass)
+      : allCombos;
+
+    // Off-hand options: pairings allowed with current Main-Hand selection
+    const ohCombos = filters.mainHand
+      ? classCombos.filter(c => parseList(c.main_hand).includes(filters.mainHand))
+      : classCombos;
+    const ohSet = new Set();
+    ohCombos.forEach(c => parseList(c.off_hand).forEach(w => ohSet.add(w)));
+
+    // Main-hand options: pairings allowed with current Off-Hand selection
+    const mhCombos = filters.offHand
+      ? classCombos.filter(c => parseList(c.off_hand).includes(filters.offHand))
+      : classCombos;
+    const mhSet = new Set();
+    mhCombos.forEach(c => parseList(c.main_hand).forEach(w => mhSet.add(w)));
+
+    populateSelect("ce-mh-select", [...mhSet].sort(), filters.mainHand, "-- All Main Hand --", "mainHand");
+    populateSelect("ce-oh-select", [...ohSet].sort(), filters.offHand, "-- All Off Hand --", "offHand");
+
+    updatePairHint();
+  }
+
+  function populateSelect(id, items, current, placeholder, key) {
+    const sel = $(id);
+    const stillValid = current && items.includes(current);
+    sel.innerHTML = `<option value="">${placeholder}</option>` +
+      items.map(w => `<option value="${esc(w)}"${w === current ? " selected" : ""}>${esc(w)}</option>`).join("");
+    if (!stillValid && current) {
+      filters[key] = "";
+    }
+  }
+
+  function updatePairHint() {
+    const hint = $("ce-pair-hint");
+    if (filters.mainHand && !filters.offHand) {
+      const n = $("ce-oh-select").options.length - 1;
+      hint.textContent = `Off-Hand list narrowed to ${n} weapon${n !== 1 ? "s" : ""} that pair with "${filters.mainHand}".`;
+      hint.hidden = false;
+    } else if (filters.offHand && !filters.mainHand) {
+      const n = $("ce-mh-select").options.length - 1;
+      hint.textContent = `Main-Hand list narrowed to ${n} weapon${n !== 1 ? "s" : ""} that pair with "${filters.offHand}".`;
+      hint.hidden = false;
+    } else {
+      hint.hidden = true;
     }
   }
 
@@ -202,17 +292,34 @@ title: True Combo Explorer (EN)
     $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
     el.classList.add("active");
     filters.weaponClass = el.dataset.class;
+    rebuildSelects();
     render();
   }
 
   function attachEvents() {
     $("ce-search").addEventListener("input", e => {
       filters.search = e.target.value.toLowerCase();
-      // Clear chip selection when typing search
-      if (filters.search) {
-        $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
-        filters.weaponClass = "";
-      }
+      render();
+    });
+    $("ce-mh-select").addEventListener("change", e => {
+      filters.mainHand = e.target.value;
+      rebuildSelects();
+      render();
+    });
+    $("ce-oh-select").addEventListener("change", e => {
+      filters.offHand = e.target.value;
+      rebuildSelects();
+      render();
+    });
+    $("ce-reset").addEventListener("click", () => {
+      filters.search = "";
+      filters.weaponClass = "";
+      filters.mainHand = "";
+      filters.offHand = "";
+      $("ce-search").value = "";
+      $("ce-chips").querySelectorAll(".ce-chip").forEach(c => c.classList.remove("active"));
+      $("ce-chips").querySelector('[data-class=""]').classList.add("active");
+      rebuildSelects();
       render();
     });
   }
@@ -223,6 +330,8 @@ title: True Combo Explorer (EN)
 
     let filtered = allCombos.filter(c => {
       if (cls && c.weapon_class !== cls) return false;
+      if (filters.mainHand && !parseList(c.main_hand).includes(filters.mainHand)) return false;
+      if (filters.offHand && !parseList(c.off_hand).includes(filters.offHand)) return false;
       if (q) {
         const hay = `${c.weapon_class} ${c.main_hand} ${c.off_hand} ${c.combo} ${c.tightness}`.toLowerCase();
         if (!hay.includes(q)) return false;

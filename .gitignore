@@ -2,3 +2,10 @@ site/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Translation/automation work artifacts (do not commit to repo root)
+/bad_terms.txt
+/combos_list.txt
+/english_terms.txt
+/extracted_terms.txt
+/weapons_list.txt

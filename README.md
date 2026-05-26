@@ -123,6 +123,8 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 | [📄 New_Save_From_Scratch_EN.md](./guides/New_Save_From_Scratch_EN.md) | New Save From Scratch — CE Setup Guide *(by Anti Mage Association)* |
 | [📄 Build_Guide_KR.md](./guides/Build_Guide_KR.md) | 빌드 제작 가이드 + 템플릿 빌드 *(by Pouya)* |
 | [📄 Build_Guide_EN.md](./guides/Build_Guide_EN.md) | Build Making Guide + Template Builds *(by Pouya)* |
+| [📄 MithMaps_Guide_KR.md](./guides/MithMaps_Guide_KR.md) | MithMaps 모드 가이드 한국어판 |
+| [📄 MithMaps_Guide_EN.md](./guides/MithMaps_Guide_EN.md) | MithMaps Mod Guide (English) |
 
 </details>
 

@@ -28,6 +28,16 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 
 ---
 
+## 💡 프로젝트 소개 (About this Project)
+
+**"파편화된 고급 정보의 접근성과 가시성 문제 해결"**
+기존 엘든링 PvP 커뮤니티에는 수년 동안 쌓인 방대하고 유용한 고급 정보(콤보, 프레임 데이터, 빌드 등)가 많았습니다. 하지만 이 데이터들은 디스코드, 구글 시트 등으로 파편화되어 있어 초보자들의 접근성이 매우 떨어졌고 가시성도 좋지 못했습니다. 본 프로젝트는 이러한 비정형 데이터를 모아 시각적으로 탐색하기 편한 인터랙티브 웹사이트로 구축하여, **커뮤니티 유저들의 정보 접근성을 극대화하기 위한 목적**으로 시작되었습니다.
+
+**"Resolving the Accessibility Issues of Fragmented Advanced Data"**
+The existing Elden Ring PvP community possessed a vast amount of highly useful data accumulated over years. However, this data was severely fragmented across Discord and Google Sheets, resulting in poor accessibility and visibility. This project was initiated to consolidate this data into a visually intuitive interactive website, **with the primary goal of maximizing information accessibility for community users.**
+
+---
+
 > [!NOTE]
 > **Standard DEN Rules**은 일반 결투 및 래더에서 사용하는 기본 규정입니다.
 > **Tournament Ruleset**은 토너먼트 참가자를 위한 부록 규정입니다 (전회 3회 제한 등 추가 규칙 포함).

@@ -99,3 +99,31 @@ If any check fails, fix it before pushing. Do not push a broken state to `main` 
 - Do not regenerate JSON files using `--export` unless explicitly asked to do so.
 - Do not add URLs to markdown files without verifying they are reachable.
 - Do not modify `assets/data/*.json` directly; always go through the source files + extract scripts.
+
+---
+
+## AI Agent Mistakes Log
+
+이 섹션은 AI 에이전트가 이 레포에서 실수한 내용을 기록합니다.
+새로운 실수를 발견하면 아래에 추가하세요.
+
+형식:
+```
+### YYYY-MM-DD — Agent: [이름]
+**실수**: 무슨 일이 있었는지
+**영향**: 어떤 문제가 생겼는지
+**수정**: 어떻게 고쳤는지
+**교훈**: 다음에 뭘 확인해야 하는지
+```
+
+---
+
+### 2026-05-26 — Agent: Claude Code
+
+**실수**: `agents.md` (소문자)로 파일을 조회하려 했으나 실제 파일명은 `AGENTS.md` (대문자)라 파일을 찾지 못함.
+
+**영향**: 불필요한 오류 발생. 파일 존재 여부 파악에 추가 시간 소요.
+
+**수정**: 대문자 경로로 재조회.
+
+**교훈**: GitHub API는 파일명 대소문자를 구분함. 레포 루트 디렉토리를 먼저 조회해서 정확한 파일명을 확인한 뒤 접근할 것.

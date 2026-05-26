@@ -1,8 +1,35 @@
+"""
+Conservative weapon/term name normalizer for KR markdown files.
+
+Source of truth for these mappings is the Elden Ring namu.wiki entries
+(linked from project documentation). Re-verify against namu.wiki before
+adding entries; do not invent translations.
+
+Safety properties:
+  1. Token-boundary matching — a key is only replaced when its boundary
+     character is NOT a hangul syllable / Latin letter / digit /
+     underscore. So "낫" in "큰낫" is NOT touched.
+  2. Dry-run by default. Pass --apply to write.
+  3. Identity mappings (key == value) are skipped at runtime.
+  4. Only files in DEFAULT_TARGETS are touched. Extend with --target.
+  5. Substring collisions are reported but tolerated via length-desc
+     ordering (longer phrase replaced first).
+"""
+import argparse
 import re
+import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 KR_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_KR.archive.md"
+
+# Files this script may touch. Add files here deliberately; do not glob.
+DEFAULT_TARGETS = [KR_PATH]
+
+# Characters that, if adjacent to a match, mean it is part of a larger
+# token and should NOT be replaced. Korean syllables, Latin letters,
+# digits, underscore.
+_BOUNDARY = r'(?<![가-힣A-Za-z0-9_]){body}(?![가-힣A-Za-z0-9_])'
 
 TRANSLATIONS = {
     "Antspur Rapier": "개미가시 레이피어",
@@ -274,18 +301,88 @@ TRANSLATIONS = {
     "붉은 칠지인": "붉은 날개 칠지인"
 }
 
-def translate_file():
-    text = KR_PATH.read_text(encoding="utf-8")
-    
-    # Sort keys by length descending to prevent partial match overwrites
-    sorted_keys = sorted(TRANSLATIONS.keys(), key=len, reverse=True)
-    
-    for key in sorted_keys:
-        val = TRANSLATIONS[key]
-        text = text.replace(key, val)
-        
-    KR_PATH.write_text(text, encoding="utf-8")
-    print("Translation applied successfully!")
+def _compile(key: str) -> re.Pattern:
+    return re.compile(_BOUNDARY.format(body=re.escape(key)))
+
+
+def _active_keys(translations: dict) -> list[str]:
+    # Skip identity mappings, sort by length desc so longer phrases win.
+    return sorted(
+        (k for k, v in translations.items() if k != v),
+        key=len, reverse=True,
+    )
+
+
+def apply_translations(text: str, translations: dict) -> tuple[str, int]:
+    """Return (new_text, replacement_count), token-boundary safe."""
+    total = 0
+    for key in _active_keys(translations):
+        new_text, n = _compile(key).subn(translations[key], text)
+        if n:
+            text = new_text
+            total += n
+    return text, total
+
+
+def _audit(translations: dict) -> None:
+    identity = [k for k, v in translations.items() if k == v]
+    if identity:
+        print(f"  ⚠ skipping {len(identity)} identity mapping(s) (key == value)")
+
+    keys = list(translations.keys())
+    collisions = [
+        (a, b) for a in keys for b in keys
+        if a != b and a in b and translations.get(a) != a
+    ]
+    if collisions:
+        print(
+            f"  ℹ {len(collisions)} substring collision(s); "
+            "longer phrases are applied first to mitigate"
+        )
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument(
+        "--apply", action="store_true",
+        help="Write changes to disk. Without this flag, runs in dry-run mode.",
+    )
+    ap.add_argument(
+        "--target", action="append", type=Path, default=[],
+        metavar="PATH",
+        help="Additional file to translate (repeatable). DEFAULT_TARGETS are always included.",
+    )
+    args = ap.parse_args()
+
+    _audit(TRANSLATIONS)
+
+    targets = list(DEFAULT_TARGETS) + args.target
+    total_count = 0
+    files_changed = 0
+    for path in targets:
+        if not path.exists():
+            print(f"  skip (not found): {path}")
+            continue
+        original = path.read_text(encoding="utf-8")
+        new_text, count = apply_translations(original, TRANSLATIONS)
+        rel = path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
+        if count == 0:
+            print(f"  unchanged: {rel}")
+            continue
+        files_changed += 1
+        total_count += count
+        if args.apply:
+            path.write_text(new_text, encoding="utf-8")
+            print(f"  ✓ wrote {rel}  ({count} replacements)")
+        else:
+            print(f"  would change {rel}  ({count} replacements)")
+
+    mode = "applied" if args.apply else "dry-run"
+    print(f"\n[{mode}] {total_count} replacements across {files_changed} file(s)")
+    if not args.apply and total_count:
+        print("Re-run with --apply to write changes.")
+    return 0
+
 
 if __name__ == "__main__":
-    translate_file()
+    sys.exit(main())

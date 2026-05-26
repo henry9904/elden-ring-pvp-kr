@@ -5,7 +5,7 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
 # ⚔️ 트루콤보 탐색기 / True Combo Explorer (KR)
 
 > Mugen님의 트루콤보 데이터베이스를 한 눈에 검색하고 필터링하세요!
-> 
+>
 > 데이터 작성: **Halvard** (Mugen)
 
 <style>
@@ -60,7 +60,7 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
   let combos = [];
   let mainHands = [];
   let offHands = [];
-  
+
   const filters = {
     search: "",
     mainHand: "",
@@ -74,7 +74,7 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
       const res = await fetch(DATA_URL);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-      
+
       // Flatten the setups into individual combo rows
       data.setups.forEach(setup => {
         setup.combos.forEach(c => {
@@ -87,13 +87,13 @@ title: 트루콤보 탐색기 / True Combo Explorer (KR)
           });
         });
       });
-      
+
       mainHands = data.main_hands;
       offHands = data.off_hands;
-      
+
       buildSelect("we-mh-select", mainHands);
       buildSelect("we-oh-select", offHands);
-      
+
       attachEvents();
       render();
     } catch (err) {

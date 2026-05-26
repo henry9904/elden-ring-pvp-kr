@@ -5,7 +5,7 @@ title: True Combo Explorer (EN)
 # ⚔️ True Combo Explorer (EN)
 
 > Search, filter, and discover all true combos from Mugen's database!
-> 
+>
 > Data by: **Halvard** (Mugen)
 
 <style>
@@ -60,7 +60,7 @@ title: True Combo Explorer (EN)
   let combos = [];
   let mainHands = [];
   let offHands = [];
-  
+
   const filters = {
     search: "",
     mainHand: "",
@@ -74,7 +74,7 @@ title: True Combo Explorer (EN)
       const res = await fetch(DATA_URL);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-      
+
       // Flatten the setups into individual combo rows
       data.setups.forEach(setup => {
         setup.combos.forEach(c => {
@@ -87,13 +87,13 @@ title: True Combo Explorer (EN)
           });
         });
       });
-      
+
       mainHands = data.main_hands;
       offHands = data.off_hands;
-      
+
       buildSelect("we-mh-select", mainHands);
       buildSelect("we-oh-select", offHands);
-      
+
       attachEvents();
       render();
     } catch (err) {

@@ -11,7 +11,7 @@
 
 <br>
 
-**🇺🇸 English**<br>
+*EN English**<br>
 [![Ruleset EN](https://img.shields.io/badge/Ruleset-Standard_DEN-c0392b?style=for-the-badge)](./ruleset/Standard_DEN_Restrictions_EN.md)
 [![Guides EN](https://img.shields.io/badge/Guides-Weapons_&_Builds-e67e22?style=for-the-badge)](./guides/Build_Guide_EN.md)
 [![Info EN](https://img.shields.io/badge/Info-Lexicon_&_Stats-27ae60?style=for-the-badge)](./info/PvP_Resources_EN.md)

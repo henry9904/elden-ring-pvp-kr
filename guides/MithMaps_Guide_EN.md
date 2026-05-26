@@ -14,6 +14,7 @@
 ---
 
 ## 📍 Custom Maps
+
 Includes custom 2v2 and 3v3 maps that take place in the DEN1 map locations.
 
 | Map Name | Type | Creator |
@@ -33,9 +34,9 @@ Includes custom 2v2 and 3v3 maps that take place in the DEN1 map locations.
 - **Respawn Points**: Custom setable respawn points.
 - **Scoreboard**: An in-game scoreboard.
 - **Kill Script**: Built-in kill all mobs script.
-- **Invasions**: 
+- **Invasions**:
   - Invasions now work with only other people that have the mod.
-  - Invaders are now red instead of colorless like on seamless. 
+  - Invaders are now red instead of colorless like on seamless.
   - All vanilla areas + custom areas are invadable (This can be disabled in the seamless settings in the folder within MithMaps).
 
 ---
@@ -56,6 +57,7 @@ Includes custom 2v2 and 3v3 maps that take place in the DEN1 map locations.
 ---
 
 ## 📦 Included Mods (Seamless)
+
 Seamless mods now work, by default these mods are included:
 - **GG**: Player List Overlay for Seamless Co-op (Made by tomclark)
 - **Transparent UI DLC fixes** (Made by ShenDaiSword)
@@ -63,6 +65,7 @@ Seamless mods now work, by default these mods are included:
 ---
 
 ## ⚔️ New Weapons
+
 *Can be purchased at the Twin Maiden Husks in Roundtable Hold.*
 - **Void Blade**: A mixture of HTS, LGS, TS, CS, and Claymore. (Original model made by Conkin)
 - **Regal Maul**: A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, CW, and CGS. (Original model made by Cixler)
@@ -75,9 +78,11 @@ Seamless mods now work, by default these mods are included:
 > The following balance changes are **DISABLED FOR NOW DUE TO POPULAR DEMAND**. They are archived here for reference.
 
 ### Disabled Weapons
+
 - **BHS and QS** on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, Both Thrusting Shields.
 
 ### Nerfed Armor & Weapons
+
 - **Sword Lance and Milady**: Damage nerfed by 30%.
 - **Cleanrot**: Nerfed by 15%.
 - **Backhand Blades**: Nerfed by 10%.
@@ -86,10 +91,12 @@ Seamless mods now work, by default these mods are included:
 - **Royal Remains Set**: No longer provides a healing effect at low HP.
 
 ### Disabled Spells & Consumables
+
 - **Spells**: All healing and regen spells (except Beastial Vitality), Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb.
 - **Consumables**: Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestess Heart, Lamenter's Mask.
 
 ### To Do (Future Plans)
+
 - Remove Lightroll
 - Nerf Golem Arrow stun
 - Remove status bolts from Spread Crossbow
@@ -101,5 +108,6 @@ Seamless mods now work, by default these mods are included:
 ---
 
 ## 🙏 Credits
+
 Huge shoutout to the following people for helping me:
 **Molly, Hexwave, Emilia, Den Team**

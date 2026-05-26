@@ -203,6 +203,7 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 | 트루콤보 레퍼런스 / True Combo Reference | Hamster |
 | 트루콤보 데이터베이스 / True Combo Database | Halvard (Mugen) |
 | 스탯 분석 / Stat Analysis | Drake Ravenwolf *(PvP analysis: sin)* |
+| MithMaps 모드 및 커스텀 맵 / MithMaps Mod & Custom Maps | Mithsril, Hexwave |
 
 ---
 

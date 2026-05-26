@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_by": "tools/extract_weapons.py",
+  "generated_by": "tools/db_etl_pipeline.py",
   "weapon_count": 43,
   "weapon_classes": [
     "Halberd",

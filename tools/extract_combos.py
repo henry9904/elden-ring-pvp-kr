@@ -10,8 +10,8 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-KR_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_KR.md"
-EN_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_EN.md"
+KR_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_KR.archive.md"
+EN_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_EN.archive.md"
 OUT_KR = REPO_ROOT / "assets" / "data" / "combos_kr.json"
 OUT_EN = REPO_ROOT / "assets" / "data" / "combos_en.json"
 

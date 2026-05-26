@@ -160,6 +160,25 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 
 ---
 
+### 📁 `tools/`
+
+<details markdown="1">
+<summary><b>Interactive Tools / 인터랙티브 도구</b></summary>
+
+<br>
+
+| 파일 | 설명 / Description |
+|------|-------------------|
+| [🔧 무기 탐색기 / Weapon Explorer](./tools/weapon-explorer.md) | 가이드 데이터 기반 무기 티어 검색 및 필터링 도구 |
+| [🔧 공격 거리 탐색기 / Attack Range Explorer](./tools/attack-range-explorer.md) | 무기별 사거리 및 히트박스 검색 도구 |
+| [🔧 애니메이션 탐색기 / Animations Explorer](./tools/animations-explorer.md) | 무기 모션 및 프레임 데이터 검색 도구 |
+| [🔧 트루콤보 탐색기 / True Combo Explorer (KR)](./tools/combo-explorer-kr.md) | 트루콤보 데이터베이스 한눈에 검색 및 필터링 |
+| [🔧 True Combo Explorer (EN)](./tools/combo-explorer-en.md) | Searchable Database for True Combos |
+
+</details>
+
+---
+
 ### 📁 `info/`
 
 <details markdown="1">
@@ -177,8 +196,6 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 | [📝 Elden_Ring_PvP_Lexicon.docx](./info/Elden_Ring_PvP_Lexicon.docx) | Original Lexicon DOCX |
 | [📄 True_Combos_EN.md](./info/True_Combos_EN.md) | True Combo Reference *(by Hamster)* |
 | [📄 True_Combos_KR.md](./info/True_Combos_KR.md) | 트루콤보 레퍼런스 한국어판 *(by Hamster)* |
-| [📄 True_Combos_Mugen_EN.md](./info/True_Combos_Mugen_EN.md) | True Combo Database — Frame Data *(by Halvard / Mugen)* |
-| [📄 True_Combos_Mugen_KR.md](./info/True_Combos_Mugen_KR.md) | 트루콤보 데이터베이스 — 프레임 데이터 한국어판 *(by Halvard / Mugen)* |
 | [📄 Stat_Analysis_KR.md](./info/Stat_Analysis_KR.md) | PvP 스탯 효율 분석 한국어판 *(원문: Drake Ravenwolf / PvP 분석: sin)* |
 | [📄 Stat_Analysis_EN.md](./info/Stat_Analysis_EN.md) | PvP Stat Efficiency Analysis *(by Drake Ravenwolf / PvP analysis: sin)* |
 

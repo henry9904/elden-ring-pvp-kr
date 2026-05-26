@@ -169,11 +169,11 @@ Interactive tools (weapon explorer, attack range explorer, animations & frame-da
 
 | 파일 | 설명 / Description |
 |------|-------------------|
-| [🔧 무기 탐색기 / Weapon Explorer](./tools/weapon-explorer.md) | 가이드 데이터 기반 무기 티어 검색 및 필터링 도구 |
-| [🔧 공격 거리 탐색기 / Attack Range Explorer](./tools/attack-range-explorer.md) | 무기별 사거리 및 히트박스 검색 도구 |
-| [🔧 애니메이션 탐색기 / Animations Explorer](./tools/animations-explorer.md) | 무기 모션 및 프레임 데이터 검색 도구 |
-| [🔧 트루콤보 탐색기 / True Combo Explorer (KR)](./tools/combo-explorer-kr.md) | 트루콤보 데이터베이스 한눈에 검색 및 필터링 |
-| [🔧 True Combo Explorer (EN)](./tools/combo-explorer-en.md) | Searchable Database for True Combos |
+| [🔧 무기 탐색기 / Weapon Explorer](https://henry9904.github.io/elden-ring-pvp-kr/tools/weapon-explorer/) | 가이드 데이터 기반 무기 티어 검색 및 필터링 도구 |
+| [🔧 공격 거리 탐색기 / Attack Range Explorer](https://henry9904.github.io/elden-ring-pvp-kr/tools/attack-range-explorer/) | 무기별 사거리 및 히트박스 검색 도구 |
+| [🔧 애니메이션 탐색기 / Animations Explorer](https://henry9904.github.io/elden-ring-pvp-kr/tools/animations-explorer/) | 무기 모션 및 프레임 데이터 검색 도구 |
+| [🔧 트루콤보 탐색기 / True Combo Explorer (KR)](https://henry9904.github.io/elden-ring-pvp-kr/tools/combo-explorer-kr/) | 트루콤보 데이터베이스 한눈에 검색 및 필터링 |
+| [🔧 True Combo Explorer (EN)](https://henry9904.github.io/elden-ring-pvp-kr/tools/combo-explorer-en/) | Searchable Database for True Combos |
 
 </details>
 

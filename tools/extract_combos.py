@@ -15,31 +15,31 @@ EN_PATH = REPO_ROOT / "info" / "True_Combos_Mugen_EN.archive.md"
 OUT_KR = REPO_ROOT / "assets" / "data" / "combos_kr.json"
 OUT_EN = REPO_ROOT / "assets" / "data" / "combos_en.json"
 
-def parse_md(path: Path) -> dict:
+def parse_md(path: Path, default_label: str = "Any") -> dict:
     if not path.exists():
         return {}
-    
+
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
-    
+
     setups = []
     current_setup = None
-    
+
     for line in lines:
         line = line.strip()
         if line.startswith("### Setup"):
             current_setup = {
                 "id": line.replace("### Setup", "").strip(),
-                "main_hand": "조건 없음 (Any)",
-                "off_hand": "조건 없음 (Any)",
+                "main_hand": default_label,
+                "off_hand": default_label,
                 "combos": []
             }
             setups.append(current_setup)
         elif current_setup:
-            if line.startswith("**우수") or line.startswith("**Right Hand"):
-                current_setup["main_hand"] = line.split("**")[-1].strip().strip(":")
-            elif line.startswith("**좌수") or line.startswith("**Left Hand"):
-                current_setup["off_hand"] = line.split("**")[-1].strip().strip(":")
+            if line.startswith("**우수") or line.startswith("**Main-Hand") or line.startswith("**Main Hand") or line.startswith("**Right Hand"):
+                current_setup["main_hand"] = line.split("**")[-1].strip().strip(":").strip()
+            elif line.startswith("**좌수") or line.startswith("**Off-Hand") or line.startswith("**Off Hand") or line.startswith("**Left Hand"):
+                current_setup["off_hand"] = line.split("**")[-1].strip().strip(":").strip()
             elif line.startswith("|") and not ("|" in line and "---" in line) and not ("| 콤보" in line) and not ("| Combo" in line):
                 parts = [p.strip() for p in line.strip("|").split("|")]
                 if len(parts) >= 2:
@@ -75,8 +75,8 @@ def main():
     parser.add_argument("--check", action="store_true")
     args = parser.parse_args()
 
-    kr_data = parse_md(KR_PATH)
-    en_data = parse_md(EN_PATH)
+    kr_data = parse_md(KR_PATH, default_label="조건 없음 (Any)")
+    en_data = parse_md(EN_PATH, default_label="Any")
     
     kr_json = json.dumps(kr_data, indent=2, ensure_ascii=False) + "\n"
     en_json = json.dumps(en_data, indent=2, ensure_ascii=False) + "\n"

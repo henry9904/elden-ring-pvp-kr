@@ -1,0 +1,195 @@
+id,en,group,dlc
+191,Godrick's Great Rune,Great Rune,0
+192,Radahn's Great Rune,Great Rune,0
+193,Morgott's Great Rune,Great Rune,0
+194,Rykard's Great Rune,Great Rune,0
+195,Mohg's Great Rune,Great Rune,0
+196,Malenia's Great Rune,Great Rune,0
+380,Oil Pot,Pot,0
+450,Roped Oil Pot,Pot,0
+610,Albinauric Pot,Pot,0
+820,Boiled Crab,Edible,0
+830,Boiled Prawn,Edible,0
+1100,Pickled Turtle Neck,Edible,0
+1110,Immunizing Cured Meat,Edible,0
+1120,Invigorating Cured Meat,Edible,0
+1130,Clarifying Cured Meat,Edible,0
+1140,Dappled Cured Meat,Edible,0
+1150,Spellproof Dried Liver,Edible,0
+1160,Fireproof Dried Liver,Edible,0
+1170,Lightningproof Dried Liver,Edible,0
+1180,Holyproof Dried Liver,Edible,0
+1190,Silver-Pickled Fowl Foot,Edible,0
+1200,Gold-Pickled Fowl Foot,Edible,0
+1210,Exalted Flesh,Edible,0
+1235,Raw Meat Dumpling,Edible,0
+1290,Starlight Shards,Essential,0
+1310,Immunizing White Cured Meat,Edible,0
+1320,Invigorating White Cured Meat,Edible,0
+1330,Clarifying White Cured Meat,Edible,0
+1340,Dappled White Cured Meat,Edible,0
+1400,Fire Grease,Grease,0
+1410,Lightning Grease,Grease,0
+1420,Magic Grease,Grease,0
+1430,Holy Grease,Grease,0
+1440,Blood Grease,Grease,0
+1450,Soporific Grease,Grease,0
+1460,Poison Grease,Grease,0
+1470,Freezing Grease,Grease,0
+1480,Dragonwound Grease,Grease,0
+1490,Rot Grease,Grease,0
+1500,Drawstring Fire Grease,Grease,0
+1510,Drawstring Lightning Grease,Grease,0
+1520,Drawstring Magic Grease,Grease,0
+1530,Drawstring Holy Grease,Grease,0
+1540,Drawstring Blood Grease,Grease,0
+1550,Drawstring Soporific Grease,Grease,0
+1560,Drawstring Poison Grease,Grease,0
+1590,Drawstring Rot Grease,Grease,0
+1690,Shield Grease,Grease,0
+2100,Soft Cotton,Utility,0
+2120,Soap,Utility,0
+3310,Warming Stone,Throwable,0
+3311,Frenzyflame Stone,Throwable,0
+3350,Bewitching Branch,Throwable,0
+3360,Baldachin's Blessing,Offensive,0
+3361,Radiant Baldachin's Blessing,Offensive,0
+3500,Uplifting Aromatic,Aromatic,0
+3520,Ironjar Aromatic,Aromatic,0
+3550,Bloodboil Aromatic,Aromatic,0
+3610,Acid Spraymist,Aromatic,0
+4130,Terra Magica,Sorcery,0
+4140,Starlight,Sorcery,0
+4360,Rennala's Full Moon,Sorcery,0
+4361,Ranni's Dark Moon,Sorcery,0
+4400,Glintstone Icecrag,Sorcery,0
+4410,Zamor Ice Storm,Sorcery,0
+4420,Freezing Mist,Sorcery,0
+4431,Adula's Moonblade,Sorcery,0
+4460,Scholar's Armament,Sorcery,0
+4470,Scholar's Shield,Sorcery,0
+4480,Lucidity,Sorcery,0
+4490,Frozen Armament,Sorcery,0
+4660,Unseen Blade,Sorcery,0
+4670,Unseen Form,Sorcery,0
+4720,Gravity Well,Sorcery,0
+4721,Collapsing Stars,Sorcery,0
+4900,Briars of Sin,Sorcery,0
+4910,Briars of Punishment,Sorcery,0
+5020,Fia's Mist,Sorcery,0
+5040,Death Lightning,Incantation,0
+6040,"Flame, Cleanse Me",Incantation,0
+6050,"Flame, Grant Me Strength",Incantation,0
+6060,"Flame, Protect Me",Incantation,0
+6210,Black Flame,Incantation,0
+6230,Scouring Black Flame,Incantation,0
+6240,Black Flame Ritual,Incantation,0
+6250,Black Flame Blade,Incantation,0
+6260,Black Flame's Protection,Incantation,0
+6320,Bloodflame Blade,Incantation,0
+6330,Barrier of Gold,Incantation,0
+6340,Protection of the Erdtree,Incantation,0
+6420,Urgent Heal,Incantation,0
+6421,Heal,Incantation,0
+6422,Great Heal,Incantation,0
+6423,Lord's Heal,Incantation,0
+6424,Erdtree Heal,Incantation,0
+6430,Blessing's Boon,Incantation,0
+6431,Blessing of the Erdtree,Incantation,0
+6440,Cure Poison,Incantation,0
+6441,Lord's Aid,Incantation,0
+6450,Flame Fortification,Incantation,0
+6460,Magic Fortification,Incantation,0
+6470,Lightning Fortification,Incantation,0
+6480,Divine Fortification,Incantation,0
+6490,Lord's Divine Fortification,Incantation,0
+6500,Night Maiden's Mist,Sorcery,0
+6510,Assassin's Approach,Incantation,0
+6530,Darkness,Incantation,0
+6600,Golden Vow,Incantation,0
+6720,Elden Stars,Incantation,0
+6740,Immutable Shield,Incantation,0
+6770,Order's Blade,Incantation,0
+6780,Order Healing,Incantation,0
+6840,Bestial Vitality,Incantation,0
+6850,Bestial Constitution,Incantation,0
+6960,Electrify Armament,Incantation,0
+6970,Vyke's Dragonbolt,Incantation,0
+6971,Dragonbolt Blessing,Incantation,0
+7090,Greyoll's Roar,Incantation,0
+7230,Poison Armament,Incantation,0
+7330,Howl of Shabriri,Incantation,0
+7530,Black Blade,Incantation,0
+7900,Fire's Deadly Sin,Incantation,0
+7903,Golden Lightning Fortification,Incantation,0
+11000,Crimsonspill Crystal Tear,Crystal Tear,0
+11001,Greenspill Crystal Tear,Crystal Tear,0
+11003,Crimson Crystal Tear,Crystal Tear,0
+11005,Cerulean Crystal Tear,Crystal Tear,0
+11006,Speckled Hardtear,Crystal Tear,0
+11007,Crimson Bubbletear,Crystal Tear,0
+11008,Opaline Bubbletear,Crystal Tear,0
+11009,Crimsonburst Crystal Tear,Crystal Tear,0
+11010,Greenburst Crystal Tear,Crystal Tear,0
+11011,Opaline Hardtear,Crystal Tear,0
+11012,Winged Crystal Tear,Crystal Tear,0
+11013,Thorny Cracked Tear,Crystal Tear,0
+11014,Spiked Cracked Tear,Crystal Tear,0
+11015,Windy Crystal Tear,Crystal Tear,0
+11020,Crimsonwhorl Bubbletear,Crystal Tear,0
+11021,Strength-knot Crystal Tear,Crystal Tear,0
+11022,Dexterity-knot Crystal Tear,Crystal Tear,0
+11023,Intelligence-knot Crystal Tear,Crystal Tear,0
+11024,Faith-knot Crystal Tear,Crystal Tear,0
+11025,Cerulean Hidden Tear,Crystal Tear,0
+11026,Stonebarb Cracked Tear,Crystal Tear,0
+11028,Flame-Shrouding Cracked Tear,Crystal Tear,0
+11029,Magic-Shrouding Cracked Tear,Crystal Tear,0
+11030,Lightning-Shrouding Cracked Tear,Crystal Tear,0
+11031,Holy-Shrouding Cracked Tear,Crystal Tear,0
+2000380,Hefty Oil Pot,Pot,1
+2000910,Lulling Branch,Essential,1
+2001100,Dragon Communion Flesh,Edible,1
+2001105,Dragonscale Flesh,Edible,1
+2001110,Fingerprint Nostrum,Edible,1
+2001120,Spellproof Pickled Liver,Edible,1
+2001130,Fireproof Pickled Liver,Edible,1
+2001140,Lightningproof Pickled Liver,Edible,1
+2001150,Holyproof Pickled Liver,Edible,1
+2001160,Opaline Pickled Liver,Edible,1
+2001170,Well-Pickled Turtle Neck,Edible,1
+2001202,Scorpion Stew,Edible,1
+2001203,Gourmet Scorpion Stew,Edible,1
+2001210,Sacred Bloody Flesh,Edible,1
+2001220,Silver Horn Tender,Edible,1
+2001230,Golden Horn Tender,Edible,1
+2001400,Messmerfire Grease,Grease,1
+2001410,Dragonbolt Grease,Grease,1
+2001420,Royal Magic Grease,Grease,1
+2001430,Golden Grease,Grease,1
+2001450,Eternal Sleep Grease,Grease,1
+2001480,Dragon Communion Grease,Grease,1
+2001500,Drawstring Messmerfire Grease,Grease,1
+2001510,Drawstring Dragonbolt Grease,Grease,1
+2001520,Drawstring Royal Magic Grease,Grease,1
+2001530,Drawstring Golden Grease,Grease,1
+2001550,Drawstring Eternal Sleep Grease,Grease,1
+2001600,Festive Grease,Grease,1
+2002010,Rock Heart,Utility,1
+2002020,Priestess Heart,Utility,1
+2002030,Lamenter's Mask,Utility,1
+2002100,Ancient Dragon's Blessing,Offensive,1
+2003001,Spritestone,Throwable,1
+2003170,Golden Vow,Throwable,1
+2003310,Sunwarmth Stone,Throwable,1
+2003350,Charming Branch,Throwable,1
+2004900,Mantle of Thorns,Sorcery,1
+2004910,Impenetrable Thorns,Sorcery,1
+2006400,Heal from Afar,Incantation,1
+2006670,Minor Erdtree,Incantation,1
+2006910,Dragonbolt of Florissax,Incantation,1
+2011000,Viridian Hidden Tear,Crystal Tear,1
+2011020,Crimson-Sapping Cracked Tear,Crystal Tear,1
+2011030,Cerulean-Sapping Cracked Tear,Crystal Tear,1
+2011040,Oil-Soaked Tear,Crystal Tear,1
+2011050,Bloodsucking Cracked Tear,Crystal Tear,1

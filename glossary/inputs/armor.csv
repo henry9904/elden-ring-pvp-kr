@@ -1,0 +1,723 @@
+id,en,group,dlc
+40000,Iron Helmet,Head,0
+40100,Scale Armor,Body,0
+40200,Iron Gauntlets,Arms,0
+40300,Leather Trousers,Legs,0
+50000,Kaiden Helm,Head,0
+50100,Kaiden Armor,Body,0
+50200,Kaiden Gauntlets,Arms,0
+50300,Kaiden Trousers,Legs,0
+60000,Drake Knight Helm,Head,0
+60100,Drake Knight Armor,Body,0
+60200,Drake Knight Gauntlets,Arms,0
+60300,Drake Knight Greaves,Legs,0
+61000,Drake Knight Helm (Altered),Head,0
+61100,Drake Knight Armor (Altered),Body,0
+80000,Scaled Helm,Head,0
+80100,Scaled Armor,Body,0
+80200,Scaled Gauntlets,Arms,0
+80300,Scaled Greaves,Legs,0
+81100,Scaled Armor (Altered),Body,0
+90000,Perfumer Hood,Head,0
+90100,Perfumer Robe,Body,0
+90200,Perfumer Gloves,Arms,0
+90300,Perfumer Sarong,Legs,0
+91100,Perfumer Robe (Altered),Body,0
+100000,Traveler's Hat,Head,0
+100100,Perfumer's Traveling Garb,Body,0
+100200,Traveler's Gloves,Arms,0
+100300,Traveler's Slops,Legs,0
+101100,Perfumer's Traveling Garb (Altered),Body,0
+120000,Alberich's Pointed Hat,Head,0
+120100,Alberich's Robe,Body,0
+120200,Alberich's Bracers,Arms,0
+120300,Alberich's Trousers,Legs,0
+121000,Alberich's Pointed Hat (Altered),Head,0
+121100,Alberich's Robe (Altered),Body,0
+130000,Spellblade's Pointed Hat,Head,0
+130100,Spellblade's Traveling Attire,Body,0
+130200,Spellblade's Gloves,Arms,0
+130300,Spellblade's Trousers,Legs,0
+131100,Spellblade's Traveling Attire (Altered),Body,0
+140000,Bull-Goat Helm,Head,0
+140100,Bull-Goat Armor,Body,0
+140200,Bull-Goat Gauntlets,Arms,0
+140300,Bull-Goat Greaves,Legs,0
+150000,Iron Kasa,Head,0
+150100,Ronin's Armor,Body,0
+150200,Ronin's Gauntlets,Arms,0
+150300,Ronin's Greaves,Legs,0
+151100,Ronin's Armor (Altered),Body,0
+160000,Guilty Hood,Head,0
+160100,Cloth Garb,Body,0
+160300,Cloth Trousers,Legs,0
+170000,Black Wolf Mask,Head,0
+170100,Blaidd's Armor,Body,0
+170200,Blaidd's Gauntlets,Arms,0
+170300,Blaidd's Greaves,Legs,0
+171100,Blaidd's Armor (Altered),Body,0
+180000,Black Knife Hood,Head,0
+180100,Black Knife Armor,Body,0
+180200,Black Knife Gauntlets,Arms,0
+180300,Black Knife Greaves,Legs,0
+181100,Black Knife Armor (Altered),Body,0
+190000,Exile Hood,Head,0
+190100,Exile Armor,Body,0
+190200,Exile Gauntlets,Arms,0
+190300,Exile Greaves,Legs,0
+200000,Banished Knight Helm,Head,0
+200100,Banished Knight Armor,Body,0
+200200,Banished Knight Gauntlets,Arms,0
+200300,Banished Knight Greaves,Legs,0
+201000,Banished Knight Helm (Altered),Head,0
+201100,Banished Knight Armor (Altered),Body,0
+210000,Briar Helm,Head,0
+210100,Briar Armor,Body,0
+210200,Briar Gauntlets,Arms,0
+210300,Briar Greaves,Legs,0
+211100,Briar Armor (Altered),Body,0
+220000,Page Hood,Head,0
+220100,Page Garb,Body,0
+220300,Page Trousers,Legs,0
+221100,Page Garb (Altered),Body,0
+230000,Night's Cavalry Helm,Head,0
+230100,Night's Cavalry Armor,Body,0
+230200,Night's Cavalry Gauntlets,Arms,0
+230300,Night's Cavalry Greaves,Legs,0
+231000,Night's Cavalry Helm (Altered),Head,0
+231100,Night's Cavalry Armor (Altered),Body,0
+240000,Blue Silver Mail Hood,Head,0
+240100,Blue Silver Mail Armor,Body,0
+240200,Blue Silver Bracelets,Arms,0
+240300,Blue Silver Mail Skirt,Legs,0
+241100,Blue Silver Mail Armor (Altered),Body,0
+250000,Nomadic Merchant's Chapeau,Head,0
+250100,Nomadic Merchant's Finery,Body,0
+250300,Nomadic Merchant's Trousers,Legs,0
+251100,Nomadic Merchant's Finery (Altered),Body,0
+260000,Malformed Dragon Helm,Head,0
+260100,Malformed Dragon Armor,Body,0
+260200,Malformed Dragon Gauntlets,Arms,0
+260300,Malformed Dragon Greaves,Legs,0
+270000,Tree Sentinel Helm,Head,0
+270100,Tree Sentinel Armor,Body,0
+270200,Tree Sentinel Gauntlets,Arms,0
+270300,Tree Sentinel Greaves,Legs,0
+271100,Tree Sentinel Armor (Altered),Body,0
+280000,Royal Knight Helm,Head,0
+280100,Royal Knight Armor,Body,0
+280200,Royal Knight Gauntlets,Arms,0
+280300,Royal Knight Greaves,Legs,0
+281100,Royal Knight Armor (Altered),Body,0
+290000,Nox Monk Hood,Head,0
+290100,Nox Monk Armor,Body,0
+290200,Nox Bracelets,Arms,0
+290300,Nox Greaves,Legs,0
+291000,Nox Monk Hood (Altered),Head,0
+291100,Nox Monk Armor (Altered),Body,0
+292000,Nox Swordstress Crown,Head,0
+292100,Nox Swordstress Armor,Body,0
+293000,Night Maiden Twin Crown,Head,0
+293100,Night Maiden Armor,Body,0
+294000,Nox Swordstress Crown (Altered),Head,0
+294100,Nox Swordstress Armor (Altered),Body,0
+300000,Great Horned Headband,Head,0
+300100,Fur Raiment,Body,0
+300300,Fur Leggings,Legs,0
+301000,Shining Horned Headband,Head,0
+301100,Shaman Furs,Body,0
+301300,Shaman Leggings,Legs,0
+310000,Duelist Helm,Head,0
+310100,Gravekeeper Cloak,Body,0
+310300,Duelist Greaves,Legs,0
+311100,Gravekeeper Cloak (Altered),Body,0
+320000,Sanguine Noble Hood,Head,0
+320100,Sanguine Noble Robe,Body,0
+320300,Sanguine Noble Waistcloth,Legs,0
+330000,Guardian Mask,Head,0
+330100,Guardian Garb (Full Bloom),Body,0
+330200,Guardian Bracers,Arms,0
+330300,Guardian Greaves,Legs,0
+331100,Guardian Garb,Body,0
+340000,Cleanrot Helm,Head,0
+340100,Cleanrot Armor,Body,0
+340200,Cleanrot Gauntlets,Arms,0
+340300,Cleanrot Greaves,Legs,0
+341000,Cleanrot Helm (Altered),Head,0
+341100,Cleanrot Armor (Altered),Body,0
+350000,Fire Monk Hood,Head,0
+350100,Fire Monk Armor,Body,0
+350200,Fire Monk Gauntlets,Arms,0
+350300,Fire Monk Greaves,Legs,0
+351000,Blackflame Monk Hood,Head,0
+351100,Blackflame Monk Armor,Body,0
+351200,Blackflame Monk Gauntlets,Arms,0
+351300,Blackflame Monk Greaves,Legs,0
+360000,Fire Prelate Helm,Head,0
+360100,Fire Prelate Armor,Body,0
+360200,Fire Prelate Gauntlets,Arms,0
+360300,Fire Prelate Greaves,Legs,0
+361100,Fire Prelate Armor (Altered),Body,0
+370000,Aristocrat Headband,Head,0
+370100,Aristocrat Garb,Body,0
+370300,Aristocrat Boots,Legs,0
+371100,Aristocrat Garb (Altered),Body,0
+380000,Aristocrat Hat,Head,0
+380100,Aristocrat Coat,Body,0
+390000,Old Aristocrat Cowl,Head,0
+390100,Old Aristocrat Gown,Body,0
+390300,Old Aristocrat Shoes,Legs,0
+420000,Vulgar Militia Helm,Head,0
+420100,Vulgar Militia Armor,Body,0
+420200,Vulgar Militia Gauntlets,Arms,0
+420300,Vulgar Militia Greaves,Legs,0
+430000,Sage Hood,Head,0
+430100,Sage Robe,Body,0
+430300,Sage Trousers,Legs,0
+440000,Pumpkin Helm,Head,0
+460000,Elden Lord Crown,Head,0
+460100,Elden Lord Armor,Body,0
+460200,Elden Lord Bracers,Arms,0
+460300,Elden Lord Greaves,Legs,0
+461100,Elden Lord Armor (Altered),Body,0
+470000,Radahn's Redmane Helm,Head,0
+470100,Radahn's Lion Armor,Body,0
+470200,Radahn's Gauntlets,Arms,0
+470300,Radahn's Greaves,Legs,0
+471100,Radahn's Lion Armor (Altered),Body,0
+480100,Lord of Blood's Robe,Body,0
+481100,Lord of Blood's Robe (Altered),Body,0
+510000,Queen's Crescent Crown,Head,0
+510100,Queen's Robe,Body,0
+510200,Queen's Bracelets,Arms,0
+510300,Queen's Leggings,Legs,0
+520000,Godskin Apostle Hood,Head,0
+520100,Godskin Apostle Robe,Body,0
+520200,Godskin Apostle Bracelets,Arms,0
+520300,Godskin Apostle Trousers,Legs,0
+530000,Godskin Noble Hood,Head,0
+530100,Godskin Noble Robe,Body,0
+530200,Godskin Noble Bracelets,Arms,0
+530300,Godskin Noble Trousers,Legs,0
+540000,Depraved Perfumer Headscarf,Head,0
+540100,Depraved Perfumer Robe,Body,0
+540200,Depraved Perfumer Gloves,Arms,0
+540300,Depraved Perfumer Trousers,Legs,0
+541100,Depraved Perfumer Robe (Altered),Body,0
+570000,Crucible Axe Helm,Head,0
+570100,Crucible Axe Armor,Body,0
+570200,Crucible Gauntlets,Arms,0
+570300,Crucible Greaves,Legs,0
+571000,Crucible Tree Helm,Head,0
+571100,Crucible Tree Armor,Body,0
+572100,Crucible Axe Armor (Altered),Body,0
+573100,Crucible Tree Armor (Altered),Body,0
+580000,Lusat's Glintstone Crown,Head,0
+580100,Lusat's Robe,Body,0
+580200,Lusat's Manchettes,Arms,0
+580300,Old Sorcerer's Legwraps,Legs,0
+581000,Azur's Glintstone Crown,Head,0
+581100,Azur's Glintstone Robe,Body,0
+581200,Azur's Manchettes,Arms,0
+590000,All-Knowing Helm,Head,0
+590100,All-Knowing Armor,Body,0
+590200,All-Knowing Gauntlets,Arms,0
+590300,All-Knowing Greaves,Legs,0
+591100,All-Knowing Armor (Altered),Body,0
+600000,Twinned Helm,Head,0
+600100,Twinned Armor,Body,0
+600200,Twinned Gauntlets,Arms,0
+600300,Twinned Greaves,Legs,0
+601100,Twinned Armor (Altered),Body,0
+620000,Prophet Blindfold,Head,0
+620100,Corhyn's Robe,Body,0
+620300,Prophet Trousers,Legs,0
+621100,Prophet Robe (Altered),Body,0
+622100,Prophet Robe,Body,0
+630000,Astrologer Hood,Head,0
+630100,Astrologer Robe,Body,0
+630200,Astrologer Gloves,Arms,0
+630300,Astrologer Trousers,Legs,0
+631100,Astrologer Robe (Altered),Body,0
+640000,Lionel's Helm,Head,0
+640100,Lionel's Armor,Body,0
+640200,Lionel's Gauntlets,Arms,0
+640300,Lionel's Greaves,Legs,0
+641100,Lionel's Armor (Altered),Body,0
+650000,Hoslow's Helm,Head,0
+650100,Hoslow's Armor,Body,0
+650200,Hoslow's Gauntlets,Arms,0
+650300,Hoslow's Greaves,Legs,0
+651000,Diallos's Mask,Head,0
+652100,Hoslow's Armor (Altered),Body,0
+660000,Vagabond Knight Helm,Head,0
+660100,Vagabond Knight Armor,Body,0
+660200,Vagabond Knight Gauntlets,Arms,0
+660300,Vagabond Knight Greaves,Legs,0
+661100,Vagabond Knight Armor (Altered),Body,0
+670000,Blue Cloth Cowl,Head,0
+670100,Blue Cloth Vest,Body,0
+670200,Warrior Gauntlets,Arms,0
+670300,Warrior Greaves,Legs,0
+680000,White Mask,Head,0
+680100,War Surgeon Gown,Body,0
+680200,War Surgeon Gloves,Arms,0
+680300,War Surgeon Trousers,Legs,0
+681100,War Surgeon Gown (Altered),Body,0
+690000,Royal Remains Helm,Head,0
+690100,Royal Remains Armor,Body,0
+690200,Royal Remains Gauntlets,Arms,0
+690300,Royal Remains Greaves,Legs,0
+720000,Beast Champion Helm,Head,0
+720100,Beast Champion Armor,Body,0
+720200,Beast Champion Gauntlets,Arms,0
+720300,Beast Champion Greaves,Legs,0
+721100,Beast Champion Armor (Altered),Body,0
+730000,Champion Headband,Head,0
+730100,Champion Pauldron,Body,0
+730200,Champion Bracers,Arms,0
+730300,Champion Gaiters,Legs,0
+740000,Crimson Hood,Head,0
+740100,Noble's Traveling Garb,Body,0
+740200,Noble's Gloves,Arms,0
+740300,Noble's Trousers,Legs,0
+741000,Navy Hood,Head,0
+760000,Maliketh's Helm,Head,0
+760100,Maliketh's Armor,Body,0
+760200,Maliketh's Gauntlets,Arms,0
+760300,Maliketh's Greaves,Legs,0
+761100,Maliketh's Armor (Altered),Body,0
+770000,Malenia's Winged Helm,Head,0
+770100,Malenia's Armor,Body,0
+770200,Malenia's Gauntlet,Arms,0
+770300,Malenia's Greaves,Legs,0
+771100,Malenia's Armor (Altered),Body,0
+780000,Veteran's Helm,Head,0
+780100,Veteran's Armor,Body,0
+780200,Veteran's Gauntlets,Arms,0
+780300,Veteran's Greaves,Legs,0
+781100,Veteran's Armor (Altered),Body,0
+790000,Bloodhound Knight Helm,Head,0
+790100,Bloodhound Knight Armor,Body,0
+790200,Bloodhound Knight Gauntlets,Arms,0
+790300,Bloodhound Knight Greaves,Legs,0
+791100,Bloodhound Knight Armor (Altered),Body,0
+800000,Festive Hood,Head,0
+800100,Festive Garb,Body,0
+801000,Festive Hood (Altered),Head,0
+801100,Festive Garb (Altered),Body,0
+802000,Blue Festive Hood,Head,0
+802100,Blue Festive Garb,Body,0
+810000,Commoner's Headband,Head,0
+810100,Commoner's Garb,Body,0
+810300,Commoner's Shoes,Legs,0
+811000,Commoner's Headband (Altered),Head,0
+811100,Commoner's Garb (Altered),Body,0
+812000,Commoner's Simple Garb,Body,0
+812100,Commoner's Simple Garb (Altered),Body,0
+820000,Envoy Crown,Head,0
+830000,Twinsage Glintstone Crown,Head,0
+830100,Raya Lucarian Robe,Body,0
+830200,Sorcerer Manchettes,Arms,0
+830300,Sorcerer Leggings,Legs,0
+831000,Olivinus Glintstone Crown,Head,0
+832000,Lazuli Glintstone Crown,Head,0
+833000,Karolos Glintstone Crown,Head,0
+834000,Witch's Glintstone Crown,Head,0
+840000,Marionette Soldier Helm,Head,0
+840100,Marionette Soldier Armor,Body,0
+850000,Marionette Soldier Birdhelm,Head,0
+860000,Raging Wolf Helm,Head,0
+860100,Raging Wolf Armor,Body,0
+860200,Raging Wolf Gauntlets,Arms,0
+860300,Raging Wolf Greaves,Legs,0
+861100,Raging Wolf Armor (Altered),Body,0
+870000,Land of Reeds Helm,Head,0
+870100,Land of Reeds Armor,Body,0
+870200,Land of Reeds Gauntlets,Arms,0
+870300,Land of Reeds Greaves,Legs,0
+871100,Land of Reeds Armor (Altered),Body,0
+872000,Okina Mask,Head,0
+872100,White Reed Armor,Body,0
+872200,White Reed Gauntlets,Arms,0
+872300,White Reed Greaves,Legs,0
+880000,Confessor Hood,Head,0
+880100,Confessor Armor,Body,0
+880200,Confessor Gloves,Arms,0
+880300,Confessor Boots,Legs,0
+881000,Confessor Hood (Altered),Head,0
+881100,Confessor Armor (Altered),Body,0
+890000,Prisoner Iron Mask,Head,0
+890100,Prisoner Clothing,Body,0
+890300,Prisoner Trousers,Legs,0
+891000,Blackguard's Iron Mask,Head,0
+900000,Traveling Maiden Hood,Head,0
+900100,Traveling Maiden Robe,Body,0
+900200,Traveling Maiden Gloves,Arms,0
+900300,Traveling Maiden Boots,Legs,0
+901100,Traveling Maiden Robe (Altered),Body,0
+902000,Finger Maiden Fillet,Head,0
+902100,Finger Maiden Robe,Body,0
+902300,Finger Maiden Shoes,Legs,0
+903100,Finger Maiden Robe (Altered),Body,0
+910000,Preceptor's Big Hat,Head,0
+910100,Preceptor's Long Gown,Body,0
+910200,Preceptor's Gloves,Arms,0
+910300,Preceptor's Trousers,Legs,0
+911000,Mask of Confidence,Head,0
+911100,Preceptor's Long Gown (Altered),Body,0
+930000,Skeletal Mask,Head,0
+930100,Raptor's Black Feathers,Body,0
+930200,Bandit Manchettes,Arms,0
+930300,Bandit Boots,Legs,0
+931100,Bandit Garb,Body,0
+940000,Eccentric's Hood,Head,0
+940100,Eccentric's Armor,Body,0
+940200,Eccentric's Manchettes,Arms,0
+940300,Eccentric's Breeches,Legs,0
+941000,Eccentric's Hood (Altered),Head,0
+950000,Fingerprint Helm,Head,0
+950100,Fingerprint Armor,Body,0
+950200,Fingerprint Gauntlets,Arms,0
+950300,Fingerprint Greaves,Legs,0
+951100,Fingerprint Armor (Altered),Body,0
+960000,Consort's Mask,Head,0
+960100,Consort's Robe,Body,0
+960300,Consort's Trousers,Legs,0
+961000,Ruler's Mask,Head,0
+961100,Ruler's Robe,Body,0
+962100,Upper-Class Robe,Body,0
+963000,Marais Mask,Head,0
+963100,Marais Robe,Body,0
+963200,Bloodsoaked Manchettes,Arms,0
+964000,Bloodsoaked Mask,Head,0
+964100,Official's Attire,Body,0
+970000,Omen Helm,Head,0
+970100,Omen Armor,Body,0
+970200,Omen Gauntlets,Arms,0
+970300,Omen Greaves,Legs,0
+980000,Carian Knight Helm,Head,0
+980100,Carian Knight Armor,Body,0
+980200,Carian Knight Gauntlets,Arms,0
+980300,Carian Knight Greaves,Legs,0
+981100,Carian Knight Armor (Altered),Body,0
+990000,Hierodas Glintstone Crown,Head,0
+990100,Errant Sorcerer Robe,Body,0
+990200,Errant Sorcerer Manchettes,Arms,0
+990300,Errant Sorcerer Boots,Legs,0
+991100,Errant Sorcerer Robe (Altered),Body,0
+1000000,Haima Glintstone Crown,Head,0
+1000100,Battlemage Robe,Body,0
+1000200,Battlemage Manchettes,Arms,0
+1000300,Battlemage Legwraps,Legs,0
+1010000,Snow Witch Hat,Head,0
+1010100,Snow Witch Robe,Body,0
+1010300,Snow Witch Skirt,Legs,0
+1011100,Snow Witch Robe (Altered),Body,0
+1020100,Traveler's Clothes,Body,0
+1020200,Traveler's Manchettes,Arms,0
+1020300,Traveler's Boots,Legs,0
+1030000,Juvenile Scholar Cap,Head,0
+1030100,Juvenile Scholar Robe,Body,0
+1040000,Radiant Gold Mask,Head,0
+1040100,Goldmask's Rags,Body,0
+1040200,Gold Bracelets,Arms,0
+1040300,Gold Waistwrap,Legs,0
+1050100,Fell Omen Cloak,Body,0
+1060000,Albinauric Mask,Head,0
+1060100,Dirty Chainmail,Body,0
+1070000,Zamor Mask,Head,0
+1070100,Zamor Armor,Body,0
+1070200,Zamor Bracelets,Arms,0
+1070300,Zamor Legwraps,Legs,0
+1080000,Imp Head (Cat),Head,0
+1081000,Imp Head (Fanged),Head,0
+1082000,Imp Head (Long-Tongued),Head,0
+1083000,Imp Head (Corpse),Head,0
+1084000,Imp Head (Wolf),Head,0
+1085000,Imp Head (Elder),Head,0
+1090000,Silver Tear Mask,Head,0
+1100000,Chain Coif,Head,0
+1100100,Chain Armor,Body,0
+1100200,Gauntlets,Arms,0
+1100300,Chain Leggings,Legs,0
+1101000,Greathelm,Head,0
+1101100,Eye Surcoat,Body,0
+1102100,Tree Surcoat,Body,0
+1110000,Octopus Head,Head,0
+1120000,Jar,Head,0
+1130000,Mushroom Head,Head,0
+1130100,Mushroom Body,Body,0
+1130200,Mushroom Arms,Arms,0
+1130300,Mushroom Legs,Legs,0
+1300000,Nox Mirrorhelm,Head,0
+1301000,Iji's Mirrorhelm,Head,0
+1400000,Black Hood,Head,0
+1400100,Leather Armor,Body,0
+1400200,Leather Gloves,Arms,0
+1400300,Leather Boots,Legs,0
+1401000,Bandit Mask,Head,0
+1500000,Knight Helm,Head,0
+1500100,Knight Armor,Body,0
+1500200,Knight Gauntlets,Arms,0
+1500300,Knight Greaves,Legs,0
+1600000,Greathood,Head,0
+1700000,Godrick Soldier Helm,Head,0
+1700100,Tree-and-Beast Surcoat,Body,0
+1700200,Godrick Soldier Gauntlets,Arms,0
+1700300,Godrick Soldier Greaves,Legs,0
+1710000,Raya Lucarian Helm,Head,0
+1710100,Cuckoo Surcoat,Body,0
+1710200,Raya Lucarian Gauntlets,Arms,0
+1710300,Raya Lucarian Greaves,Legs,0
+1720000,Leyndell Soldier Helm,Head,0
+1720100,Erdtree Surcoat,Body,0
+1720200,Leyndell Soldier Gauntlets,Arms,0
+1720300,Leyndell Soldier Greaves,Legs,0
+1730000,Radahn Soldier Helm,Head,0
+1730100,Redmane Surcoat,Body,0
+1730200,Radahn Soldier Gauntlets,Arms,0
+1730300,Radahn Soldier Greaves,Legs,0
+1740100,Mausoleum Surcoat,Body,0
+1740200,Mausoleum Gauntlets,Arms,0
+1740300,Mausoleum Greaves,Legs,0
+1750000,Haligtree Helm,Head,0
+1750100,Haligtree Crest Surcoat,Body,0
+1750200,Haligtree Gauntlets,Arms,0
+1750300,Haligtree Greaves,Legs,0
+1760000,Gelmir Knight Helm,Head,0
+1760100,Gelmir Knight Armor,Body,0
+1760200,Gelmir Knight Gauntlets,Arms,0
+1760300,Gelmir Knight Greaves,Legs,0
+1761100,Gelmir Knight Armor (Altered),Body,0
+1770000,Godrick Knight Helm,Head,0
+1770100,Godrick Knight Armor,Body,0
+1770200,Godrick Knight Gauntlets,Arms,0
+1770300,Godrick Knight Greaves,Legs,0
+1771100,Godrick Knight Armor (Altered),Body,0
+1780000,Cuckoo Knight Helm,Head,0
+1780100,Cuckoo Knight Armor,Body,0
+1780200,Cuckoo Knight Gauntlets,Arms,0
+1780300,Cuckoo Knight Greaves,Legs,0
+1781100,Cuckoo Knight Armor (Altered),Body,0
+1790000,Leyndell Knight Helm,Head,0
+1790100,Leyndell Knight Armor,Body,0
+1790200,Leyndell Knight Gauntlets,Arms,0
+1790300,Leyndell Knight Greaves,Legs,0
+1791100,Leyndell Knight Armor (Altered),Body,0
+1800000,Redmane Knight Helm,Head,0
+1800100,Redmane Knight Armor,Body,0
+1800200,Redmane Knight Gauntlets,Arms,0
+1800300,Redmane Knight Greaves,Legs,0
+1801100,Redmane Knight Armor (Altered),Body,0
+1810100,Mausoleum Knight Armor,Body,0
+1810200,Mausoleum Knight Gauntlets,Arms,0
+1810300,Mausoleum Knight Greaves,Legs,0
+1811100,Mausoleum Knight Armor (Altered),Body,0
+1820000,Haligtree Knight Helm,Head,0
+1820100,Haligtree Knight Armor,Body,0
+1820200,Haligtree Knight Gauntlets,Arms,0
+1820300,Haligtree Knight Greaves,Legs,0
+1821100,Haligtree Knight Armor (Altered),Body,0
+1830000,Foot Soldier Cap,Head,0
+1830100,Chain-Draped Tabard,Body,0
+1830200,Foot Soldier Gauntlets,Arms,0
+1830300,Foot Soldier Greaves,Legs,0
+1840000,Foot Soldier Helmet,Head,0
+1840100,Foot Soldier Tabard,Body,0
+1850000,Gilded Foot Soldier Cap,Head,0
+1850100,Leather-Draped Tabard,Body,0
+1860000,Foot Soldier Helm,Head,0
+1860100,Scarlet Tabard,Body,0
+1870100,Bloodsoaked Tabard,Body,0
+1880000,Sacred Crown Helm,Head,0
+1880100,Ivory-Draped Tabard,Body,0
+1890000,Omensmirk Mask,Head,0
+1890100,Omenkiller Robe,Body,0
+1890200,Omenkiller Long Gloves,Arms,0
+1890300,Omenkiller Boots,Legs,0
+1900000,Ash-of-War Scarab,Head,0
+1901000,Incantation Scarab,Head,0
+1902000,Glintstone Scarab,Head,0
+1910000,Crimson Tear Scarab,Head,0
+1920000,Cerulean Tear Scarab,Head,0
+1930100,Deathbed Dress,Body,0
+1940000,Fia's Hood,Head,0
+1940100,Fia's Robe,Body,0
+1941100,Fia's Robe (Altered),Body,0
+1980000,Highwayman Hood,Head,0
+1980100,Highwayman Cloth Armor,Body,0
+1980200,Highwayman Gauntlets,Arms,0
+1990000,High Page Hood,Head,0
+1990100,High Page Clothes,Body,0
+1991100,High Page Clothes (Altered),Body,0
+2000000,Rotten Duelist Helm,Head,0
+2000100,Rotten Gravekeeper Cloak,Body,0
+2000300,Rotten Duelist Greaves,Legs,0
+2001100,Rotten Gravekeeper Cloak (Altered),Body,0
+2010000,Mushroom Crown,Head,0
+2020000,Black Dumpling,Head,0
+2030000,Lazuli Robe,Body,0
+3000000,Dane's Hat,Head,1
+3000100,Dryleaf Robe,Body,1
+3000200,Dryleaf Arm Wraps,Arms,1
+3000300,Dryleaf Cuissardes,Legs,1
+3001100,Dryleaf Robe (Altered),Body,1
+3010000,Gaius's Helm,Head,1
+3010100,Gaius's Armor,Body,1
+3010200,Gaius's Gauntlets,Arms,1
+3010300,Gaius's Greaves,Legs,1
+5000000,Oathseeker Knight Helm,Head,1
+5000100,Leda's Armor,Body,1
+5000200,Oathseeker Knight Gauntlets,Arms,1
+5000300,Oathseeker Knight Greaves,Legs,1
+5002100,Oathseeker Knight Armor,Body,1
+5010000,Verdigris Helm,Head,1
+5010100,Verdigris Armor,Body,1
+5010200,Verdigris Gauntlets,Arms,1
+5010300,Verdigris Greaves,Legs,1
+5020000,Pelt of Ralva,Head,1
+5020100,Iron Rivet Armor,Body,1
+5020200,Iron Rivet Gauntlets,Arms,1
+5020300,Iron Rivet Greaves,Legs,1
+5021000,Fang Helm,Head,1
+5030000,Thiollier's Mask,Head,1
+5030100,Thiollier's Garb,Body,1
+5030200,Thiollier's Gloves,Arms,1
+5030300,Thiollier's Trousers,Legs,1
+5031100,Thiollier's Garb (Altered),Body,1
+5060000,High Priest Hat,Head,1
+5060100,High Priest Robe,Body,1
+5060200,High Priest Gloves,Arms,1
+5060300,High Priest Undergarments,Legs,1
+5062100,Finger Robe,Body,1
+5070000,Caterpillar Mask,Head,1
+5070100,Braided Cord Robe,Body,1
+5070200,Braided Arm Wraps,Arms,1
+5070300,Soiled Loincloth,Legs,1
+5080000,Dancer's Hood,Head,1
+5080100,Dancer's Dress,Body,1
+5080200,Dancer's Bracer,Arms,1
+5080300,Dancer's Trousers,Legs,1
+5081100,Dancer's Dress (Altered),Body,1
+5090000,Helm of Night,Head,1
+5090100,Armor of Night,Body,1
+5090200,Gauntlets of Night,Arms,1
+5090300,Greaves of Night,Legs,1
+5100000,Igon's Helm,Head,1
+5100100,Igon's Armor,Body,1
+5100200,Igon's Gauntlets,Arms,1
+5100300,Igon's Loincloth,Legs,1
+5101000,Igon's Helm (Altered),Head,1
+5101100,Igon's Armor (Altered),Body,1
+5110000,Wise Man's Mask,Head,1
+5110100,Ansbach's Attire,Body,1
+5110200,Ansbach's Manchettes,Arms,1
+5110300,Ansbach's Boots,Legs,1
+5111100,Ansbach's Attire (Altered),Body,1
+5120000,Freyja's Helm,Head,1
+5120100,Freyja's Armor,Body,1
+5120200,Freyja's Gauntlets,Arms,1
+5120300,Freyja's Greaves,Legs,1
+5121100,Freyja's Armor (Altered),Body,1
+5130000,Helm of Solitude,Head,1
+5130100,Armor of Solitude,Body,1
+5130200,Gauntlets of Solitude,Arms,1
+5130300,Greaves of Solitude,Legs,1
+5131100,Armor of Solitude (Altered),Body,1
+5140000,Messmer Soldier Helm,Head,1
+5140100,Messmer Soldier Armor,Body,1
+5140200,Messmer Soldier Gauntlets,Arms,1
+5140300,Messmer Soldier Greaves,Legs,1
+5141100,Messmer Soldier Armor (Altered),Body,1
+5150000,Black Knight Helm,Head,1
+5150100,Black Knight Armor,Body,1
+5150200,Black Knight Gauntlets,Arms,1
+5150300,Black Knight Greaves,Legs,1
+5160000,Rakshasa Helm,Head,1
+5160100,Rakshasa Armor,Body,1
+5160200,Rakshasa Gauntlets,Arms,1
+5160300,Rakshasa Greaves,Legs,1
+5180000,Fire Knight Helm,Head,1
+5180100,Fire Knight Armor,Body,1
+5180200,Fire Knight Gauntlets,Arms,1
+5180300,Fire Knight Greaves,Legs,1
+5181100,Fire Knight Armor (Altered),Body,1
+5182000,Death Mask Helm,Head,1
+5183000,Winged Serpent Helm,Head,1
+5184000,Salza's Hood,Head,1
+5190000,Leather Headband,Head,1
+5190100,Gloried Attire,Body,1
+5190200,Leather Arm Wraps,Arms,1
+5190300,Leather Leg Wraps,Legs,1
+5191000,Leather Crown,Head,1
+5191100,Highland Attire,Body,1
+5200000,Death Knight Helm,Head,1
+5200100,Death Knight Armor,Body,1
+5200200,Death Knight Gauntlets,Arms,1
+5200300,Death Knight Greaves,Legs,1
+5210000,Curseblade Mask,Head,1
+5210100,Ascetic's Loincloth,Body,1
+5210200,Ascetic's Wrist Guards,Arms,1
+5210300,Ascetic's Ankle Guards,Legs,1
+5220000,Messmer's Helm,Head,1
+5220100,Messmer's Armor,Body,1
+5220200,Messmer's Gauntlets,Arms,1
+5220300,Messmer's Greaves,Legs,1
+5221000,Messmer's Helm (Altered),Head,1
+5230000,Gravebird Helm,Head,1
+5230100,Gravebird's Blackquill Armor,Body,1
+5230200,Gravebird Bracelets,Arms,1
+5230300,Gravebird Anklets,Legs,1
+5231100,Gravebird Armor,Body,1
+5240000,Common Soldier Helm,Head,1
+5240100,Common Soldier Cloth Armor,Body,1
+5240200,Common Soldier Gauntlets,Arms,1
+5240300,Common Soldier Greaves,Legs,1
+5250000,Horned Warrior Helm,Head,1
+5250100,Horned Warrior Armor,Body,1
+5250200,Horned Warrior Gauntlets,Arms,1
+5250300,Horned Warrior Greaves,Legs,1
+5252000,Divine Beast Helm,Head,1
+5252100,Divine Beast Warrior Armor,Body,1
+5253000,Divine Bird Helm,Head,1
+5253100,Divine Bird Warrior Armor,Body,1
+5253200,Divine Bird Warrior Gauntlets,Arms,1
+5253300,Divine Bird Warrior Greaves,Legs,1
+5260000,Rellana's Helm,Head,1
+5260100,Rellana's Armor,Body,1
+5260200,Rellana's Gloves,Arms,1
+5260300,Rellana's Greaves,Legs,1
+5270000,Young Lion's Helm,Head,1
+5270100,Young Lion's Armor,Body,1
+5270200,Young Lion's Gauntlets,Arms,1
+5270300,Young Lion's Greaves,Legs,1
+5271100,Young Lion's Armor (Altered),Body,1
+5272000,Circlet of Light,Head,1
+5280000,Shadow Militiaman Helm,Head,1
+5280100,Shadow Militiaman Armor,Body,1
+5280200,Shadow Militiaman Gauntlets,Arms,1
+5280300,Shadow Militiaman Greaves,Legs,1
+5290000,Divine Beast Head,Head,1
+5300000,St. Trina's Blossom,Head,1
+5310000,Crucible Hammer-Helm,Head,1
+5320000,Greatjar,Head,1
+5330000,Imp Head (Lion),Head,1
+5340000,Broken Gold Mask,Head,1
+5340100,Gold Tattoo (Chest),Body,1
+5340200,Gold Tattoo (Arm),Arms,1
+5340300,Gold Tattoo (Leg),Legs,1
+5350000,Silver Grooved Helm,Head,1
+5350100,Silver Grooved Armor,Body,1
+5350200,Silver Grooved Gauntlets,Arms,1
+5350300,Silver Grooved Greaves,Legs,1
+5351100,Silver Grooved Armor (Altered),Body,1
+5360000,Leontiel's Hat,Head,1
+5360100,Leontiel's Armor,Body,1
+5360200,Leontiel's Leather Gloves,Arms,1
+5360300,Leontiel's Boots,Legs,1
+5361000,Leontiel's Hat (Altered),Head,1
+5370000,Steel Helm,Head,1
+5370100,Steel Armor,Body,1
+5370200,Steel Gauntlets,Arms,1
+5370300,Steel Greaves,Legs,1

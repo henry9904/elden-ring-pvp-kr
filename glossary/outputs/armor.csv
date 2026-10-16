@@ -1,0 +1,723 @@
+id,en,ko,status,source,note
+40000,Iron Helmet,철제 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40100,Scale Armor,스케일 아머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40200,Iron Gauntlets,철 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40300,Leather Trousers,가죽 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+50000,Kaiden Helm,카이덴의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+50100,Kaiden Armor,카이덴의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+50200,Kaiden Gauntlets,카이덴의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+50300,Kaiden Trousers,카이덴의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+60000,Drake Knight Helm,용기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+60100,Drake Knight Armor,용기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+60200,Drake Knight Gauntlets,용기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+60300,Drake Knight Greaves,용기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61000,Drake Knight Helm (Altered),용기사의 투구(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61100,Drake Knight Armor (Altered),용기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+80000,Scaled Helm,비늘 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+80100,Scaled Armor,비늘 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+80200,Scaled Gauntlets,비늘 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+80300,Scaled Greaves,비늘 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+81100,Scaled Armor (Altered),비늘 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+90000,Perfumer Hood,조향사의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+90100,Perfumer Robe,조향사의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+90200,Perfumer Gloves,조향사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+90300,Perfumer Sarong,조향사의 허리끈,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+91100,Perfumer Robe (Altered),조향사의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+100000,Traveler's Hat,여행 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+100100,Perfumer's Traveling Garb,조향사의 여행복,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+100200,Traveler's Gloves,여행 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+100300,Traveler's Slops,여행 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+101100,Perfumer's Traveling Garb (Altered),조향사의 여행복(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+120000,Alberich's Pointed Hat,알베리히의 뾰족모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+120100,Alberich's Robe,알베리히의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+120200,Alberich's Bracers,알베리히의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+120300,Alberich's Trousers,알베리히의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+121000,Alberich's Pointed Hat (Altered),알베리히의 뾰족모자(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+121100,Alberich's Robe (Altered),알베리히의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+130000,Spellblade's Pointed Hat,마술검사의 뾰족모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+130100,Spellblade's Traveling Attire,마술검사의 여행복,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+130200,Spellblade's Gloves,마술검사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+130300,Spellblade's Trousers,마술검사의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+131100,Spellblade's Traveling Attire (Altered),마술검사의 여행복(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+140000,Bull-Goat Helm,큰 산양 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+140100,Bull-Goat Armor,큰 산양 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+140200,Bull-Goat Gauntlets,큰 산양 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+140300,Bull-Goat Greaves,큰 산양 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+150000,Iron Kasa,철 삿갓,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+150100,Ronin's Armor,떠돌이의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+150200,Ronin's Gauntlets,떠돌이의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+150300,Ronin's Greaves,떠돌이의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+151100,Ronin's Armor (Altered),떠돌이의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+160000,Guilty Hood,죄인의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+160100,Cloth Garb,천옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+160300,Cloth Trousers,천 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+170000,Black Wolf Mask,검은 늑대의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+170100,Blaidd's Armor,블라이드의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+170200,Blaidd's Gauntlets,블라이드의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+170300,Blaidd's Greaves,블라이드의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+171100,Blaidd's Armor (Altered),블라이드의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+180000,Black Knife Hood,검은 칼날의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+180100,Black Knife Armor,검은 칼날의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+180200,Black Knife Gauntlets,검은 칼날의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+180300,Black Knife Greaves,검은 칼날의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+181100,Black Knife Armor (Altered),검은 칼날의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+190000,Exile Hood,유배병의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+190100,Exile Armor,유배병의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+190200,Exile Gauntlets,유배병의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+190300,Exile Greaves,유배병의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+200000,Banished Knight Helm,땅 잃은 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+200100,Banished Knight Armor,땅 잃은 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+200200,Banished Knight Gauntlets,땅 잃은 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+200300,Banished Knight Greaves,땅 잃은 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+201000,Banished Knight Helm (Altered),땅 잃은 기사의 투구(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+201100,Banished Knight Armor (Altered),땅 잃은 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+210000,Briar Helm,철가시 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+210100,Briar Armor,철가시 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+210200,Briar Gauntlets,철가시 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+210300,Briar Greaves,철가시 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+211100,Briar Armor (Altered),철가시 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+220000,Page Hood,시종의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+220100,Page Garb,시종의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+220300,Page Trousers,시종의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+221100,Page Garb (Altered),시종의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+230000,Night's Cavalry Helm,밤 기병의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+230100,Night's Cavalry Armor,밤 기병의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+230200,Night's Cavalry Gauntlets,밤 기병의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+230300,Night's Cavalry Greaves,밤 기병의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+231000,Night's Cavalry Helm (Altered),밤 기병의 투구(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+231100,Night's Cavalry Armor (Altered),밤 기병의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+240000,Blue Silver Mail Hood,창은의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+240100,Blue Silver Mail Armor,창은의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+240200,Blue Silver Bracelets,창은의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+240300,Blue Silver Mail Skirt,창은의 스커트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+241100,Blue Silver Mail Armor (Altered),창은의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+250000,Nomadic Merchant's Chapeau,방랑 상인의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+250100,Nomadic Merchant's Finery,방랑 상인의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+250300,Nomadic Merchant's Trousers,방랑 상인의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+251100,Nomadic Merchant's Finery (Altered),방랑 상인의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+260000,Malformed Dragon Helm,이형의 용 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+260100,Malformed Dragon Armor,이형의 용 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+260200,Malformed Dragon Gauntlets,이형의 용 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+260300,Malformed Dragon Greaves,이형의 용 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+270000,Tree Sentinel Helm,트리 가드의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+270100,Tree Sentinel Armor,트리 가드의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+270200,Tree Sentinel Gauntlets,트리 가드의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+270300,Tree Sentinel Greaves,트리 가드의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+271100,Tree Sentinel Armor (Altered),트리 가드의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+280000,Royal Knight Helm,친위기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+280100,Royal Knight Armor,친위기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+280200,Royal Knight Gauntlets,친위기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+280300,Royal Knight Greaves,친위기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+281100,Royal Knight Armor (Altered),친위기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+290000,Nox Monk Hood,녹스 승려의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+290100,Nox Monk Armor,녹스 승려의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+290200,Nox Bracelets,녹스 승려의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+290300,Nox Greaves,녹스 승려의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+291000,Nox Monk Hood (Altered),녹스 승려의 후드(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+291100,Nox Monk Armor (Altered),녹스 승려의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+292000,Nox Swordstress Crown,녹스 검사의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+292100,Nox Swordstress Armor,녹스 검사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+293000,Night Maiden Twin Crown,밤 무녀의 쌍관,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+293100,Night Maiden Armor,밤 무녀의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+294000,Nox Swordstress Crown (Altered),녹스 검사의 모자(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+294100,Nox Swordstress Armor (Altered),녹스 검사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+300000,Great Horned Headband,큰 뿔 머리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+300100,Fur Raiment,모피옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+300300,Fur Leggings,모피 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+301000,Shining Horned Headband,빛의 뿔 머리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+301100,Shaman Furs,사제의 모피,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+301300,Shaman Leggings,사제의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+310000,Duelist Helm,투사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+310100,Gravekeeper Cloak,묘지기의 망토,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+310300,Duelist Greaves,투사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+311100,Gravekeeper Cloak (Altered),묘지기의 망토(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+320000,Sanguine Noble Hood,피의 귀족의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+320100,Sanguine Noble Robe,피의 귀족의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+320300,Sanguine Noble Waistcloth,피의 귀족의 허리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+330000,Guardian Mask,지키는 자의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+330100,Guardian Garb (Full Bloom),지키는 자의 옷(꽃),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+330200,Guardian Bracers,지키는 자의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+330300,Guardian Greaves,지키는 자의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+331100,Guardian Garb,지키는 자의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+340000,Cleanrot Helm,귀부기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+340100,Cleanrot Armor,귀부기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+340200,Cleanrot Gauntlets,귀부기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+340300,Cleanrot Greaves,귀부기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+341000,Cleanrot Helm (Altered),귀부기사의 투구(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+341100,Cleanrot Armor (Altered),귀부기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+350000,Fire Monk Hood,불 승병의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+350100,Fire Monk Armor,불 승병의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+350200,Fire Monk Gauntlets,불 승병의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+350300,Fire Monk Greaves,불 승병의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+351000,Blackflame Monk Hood,흑염 승병의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+351100,Blackflame Monk Armor,흑염 승병의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+351200,Blackflame Monk Gauntlets,흑염 승병의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+351300,Blackflame Monk Greaves,흑염 승병의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+360000,Fire Prelate Helm,불 주교의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+360100,Fire Prelate Armor,불 주교의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+360200,Fire Prelate Gauntlets,불 주교의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+360300,Fire Prelate Greaves,불 주교의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+361100,Fire Prelate Armor (Altered),불 주교의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+370000,Aristocrat Headband,귀인의 머리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+370100,Aristocrat Garb,귀인의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+370300,Aristocrat Boots,귀인의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+371100,Aristocrat Garb (Altered),귀인의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+380000,Aristocrat Hat,귀인의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+380100,Aristocrat Coat,귀인의 코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+390000,Old Aristocrat Cowl,늙은 귀인의 두건,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+390100,Old Aristocrat Gown,늙은 귀인의 긴 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+390300,Old Aristocrat Shoes,늙은 귀인의 단화,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+420000,Vulgar Militia Helm,천한 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+420100,Vulgar Militia Armor,천한 병사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+420200,Vulgar Militia Gauntlets,천한 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+420300,Vulgar Militia Greaves,천한 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+430000,Sage Hood,현자의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+430100,Sage Robe,현자의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+430300,Sage Trousers,현자의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+440000,Pumpkin Helm,호박 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+460000,Elden Lord Crown,엘데 왕의 관,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+460100,Elden Lord Armor,엘데 왕의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+460200,Elden Lord Bracers,엘데 왕의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+460300,Elden Lord Greaves,엘데 왕의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+461100,Elden Lord Armor (Altered),엘데 왕의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+470000,Radahn's Redmane Helm,라단의 적발 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+470100,Radahn's Lion Armor,라단의 사자 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+470200,Radahn's Gauntlets,라단의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+470300,Radahn's Greaves,라단의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+471100,Radahn's Lion Armor (Altered),라단의 사자 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+480100,Lord of Blood's Robe,피의 군주의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+481100,Lord of Blood's Robe (Altered),피의 군주의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+510000,Queen's Crescent Crown,여왕의 월관,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+510100,Queen's Robe,여왕의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+510200,Queen's Bracelets,여왕의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+510300,Queen's Leggings,여왕의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+520000,Godskin Apostle Hood,신의 살갗의 사도 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+520100,Godskin Apostle Robe,신의 살갗의 사도 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+520200,Godskin Apostle Bracelets,사도의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+520300,Godskin Apostle Trousers,사도의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+530000,Godskin Noble Hood,신의 살갗의 귀인 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+530100,Godskin Noble Robe,신의 살갗의 귀인 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+530200,Godskin Noble Bracelets,귀인의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+530300,Godskin Noble Trousers,귀인의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+540000,Depraved Perfumer Headscarf,타락 조향사의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+540100,Depraved Perfumer Robe,타락 조향사의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+540200,Depraved Perfumer Gloves,타락 조향사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+540300,Depraved Perfumer Trousers,타락 조향사의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+541100,Depraved Perfumer Robe (Altered),타락 조향사의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+570000,Crucible Axe Helm,도가니의 도끼 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+570100,Crucible Axe Armor,도가니의 도끼 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+570200,Crucible Gauntlets,도가니의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+570300,Crucible Greaves,도가니의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+571000,Crucible Tree Helm,도가니의 나무 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+571100,Crucible Tree Armor,도가니의 나무 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+572100,Crucible Axe Armor (Altered),도가니의 도끼 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+573100,Crucible Tree Armor (Altered),도가니의 나무 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+580000,Lusat's Glintstone Crown,루사트의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+580100,Lusat's Robe,루사트의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+580200,Lusat's Manchettes,루사트의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+580300,Old Sorcerer's Legwraps,옛 마술사의 다리 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+581000,Azur's Glintstone Crown,아줄의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+581100,Azur's Glintstone Robe,아줄의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+581200,Azur's Manchettes,아줄의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+590000,All-Knowing Helm,온 지혜의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+590100,All-Knowing Armor,온 지혜의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+590200,All-Knowing Gauntlets,온 지혜의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+590300,All-Knowing Greaves,온 지혜의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+591100,All-Knowing Armor (Altered),온 지혜의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+600000,Twinned Helm,쌍생아의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+600100,Twinned Armor,쌍생아의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+600200,Twinned Gauntlets,쌍생아의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+600300,Twinned Greaves,쌍생아의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+601100,Twinned Armor (Altered),쌍생아의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+620000,Prophet Blindfold,예언자의 눈가리개,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+620100,Corhyn's Robe,콜린의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+620300,Prophet Trousers,예언자의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+621100,Prophet Robe (Altered),예언자의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+622100,Prophet Robe,예언자의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+630000,Astrologer Hood,점성술 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+630100,Astrologer Robe,점성술 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+630200,Astrologer Gloves,점성술 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+630300,Astrologer Trousers,점성술 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+631100,Astrologer Robe (Altered),점성술 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+640000,Lionel's Helm,라이오넬의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+640100,Lionel's Armor,라이오넬의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+640200,Lionel's Gauntlets,라이오넬의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+640300,Lionel's Greaves,라이오넬의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+641100,Lionel's Armor (Altered),라이오넬의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+650000,Hoslow's Helm,호슬로의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+650100,Hoslow's Armor,호슬로의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+650200,Hoslow's Gauntlets,호슬로의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+650300,Hoslow's Greaves,호슬로의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+651000,Diallos's Mask,디아로스의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+652100,Hoslow's Armor (Altered),호슬로의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+660000,Vagabond Knight Helm,방랑기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+660100,Vagabond Knight Armor,방랑기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+660200,Vagabond Knight Gauntlets,방랑기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+660300,Vagabond Knight Greaves,방랑기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+661100,Vagabond Knight Armor (Altered),방랑기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+670000,Blue Cloth Cowl,푸른 천 두건,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+670100,Blue Cloth Vest,푸른 천 조끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+670200,Warrior Gauntlets,검사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+670300,Warrior Greaves,검사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+680000,White Mask,흰 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+680100,War Surgeon Gown,종군의사의 백의,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+680200,War Surgeon Gloves,종군의사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+680300,War Surgeon Trousers,종군의사의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+681100,War Surgeon Gown (Altered),종군의사의 백의(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+690000,Royal Remains Helm,왕의 유해의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+690100,Royal Remains Armor,왕의 유해의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+690200,Royal Remains Gauntlets,왕의 유해의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+690300,Royal Remains Greaves,왕의 유해의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+720000,Beast Champion Helm,짐승 모임 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+720100,Beast Champion Armor,짐승 모임 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+720200,Beast Champion Gauntlets,짐승 모임 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+720300,Beast Champion Greaves,짐승 모임 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+721100,Beast Champion Armor (Altered),짐승 모임 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+730000,Champion Headband,용사의 머리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+730100,Champion Pauldron,용사의 어깨갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+730200,Champion Bracers,용사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+730300,Champion Gaiters,용사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+740000,Crimson Hood,심홍색 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+740100,Noble's Traveling Garb,귀족의 여행복,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+740200,Noble's Gloves,귀족의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+740300,Noble's Trousers,귀족의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+741000,Navy Hood,진남색 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+760000,Maliketh's Helm,말리케스의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+760100,Maliketh's Armor,말리케스의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+760200,Maliketh's Gauntlets,말리케스의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+760300,Maliketh's Greaves,말리케스의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+761100,Maliketh's Armor (Altered),말리케스의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+770000,Malenia's Winged Helm,말레니아의 날개 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+770100,Malenia's Armor,말레니아의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+770200,Malenia's Gauntlet,말레니아의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+770300,Malenia's Greaves,말레니아의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+771100,Malenia's Armor (Altered),말레니아의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+780000,Veteran's Helm,노장의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+780100,Veteran's Armor,노장의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+780200,Veteran's Gauntlets,노장의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+780300,Veteran's Greaves,노장의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+781100,Veteran's Armor (Altered),노장의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+790000,Bloodhound Knight Helm,사냥개기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+790100,Bloodhound Knight Armor,사냥개기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+790200,Bloodhound Knight Gauntlets,사냥개기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+790300,Bloodhound Knight Greaves,사냥개기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+791100,Bloodhound Knight Armor (Altered),사냥개기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+800000,Festive Hood,축제 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+800100,Festive Garb,축제 예복,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+801000,Festive Hood (Altered),축제 후드(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+801100,Festive Garb (Altered),축제 예복(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+802000,Blue Festive Hood,파란 축제 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+802100,Blue Festive Garb,파란 축제 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+810000,Commoner's Headband,시민의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+810100,Commoner's Garb,시민의 웃옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+810300,Commoner's Shoes,시민의 신발,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+811000,Commoner's Headband (Altered),시민의 모자(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+811100,Commoner's Garb (Altered),시민의 웃옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+812000,Commoner's Simple Garb,시민의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+812100,Commoner's Simple Garb (Altered),시민의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+820000,Envoy Crown,사자들의 큰 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+830000,Twinsage Glintstone Crown,쌍현의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+830100,Raya Lucarian Robe,레아 루카리아의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+830200,Sorcerer Manchettes,마술사의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+830300,Sorcerer Leggings,마술사의 다리 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+831000,Olivinus Glintstone Crown,올리비니스의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+832000,Lazuli Glintstone Crown,라줄리의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+833000,Karolos Glintstone Crown,카롤로스의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+834000,Witch's Glintstone Crown,마녀의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+840000,Marionette Soldier Helm,인형 병사 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+840100,Marionette Soldier Armor,인형 병사 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+850000,Marionette Soldier Birdhelm,인형 병사 새 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+860000,Raging Wolf Helm,전투광의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+860100,Raging Wolf Armor,전투광의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+860200,Raging Wolf Gauntlets,전투광의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+860300,Raging Wolf Greaves,전투광의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+861100,Raging Wolf Armor (Altered),전투광의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+870000,Land of Reeds Helm,갈대의 땅의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+870100,Land of Reeds Armor,갈대의 땅의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+870200,Land of Reeds Gauntlets,갈대의 땅의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+870300,Land of Reeds Greaves,갈대의 땅의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+871100,Land of Reeds Armor (Altered),갈대의 땅의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+872000,Okina Mask,노인 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+872100,White Reed Armor,정예부대 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+872200,White Reed Gauntlets,정예부대 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+872300,White Reed Greaves,정예부대 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+880000,Confessor Hood,밀사의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+880100,Confessor Armor,밀사의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+880200,Confessor Gloves,밀사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+880300,Confessor Boots,밀사의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+881000,Confessor Hood (Altered),밀사의 후드(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+881100,Confessor Armor (Altered),밀사의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+890000,Prisoner Iron Mask,포로의 철 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+890100,Prisoner Clothing,포로복,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+890300,Prisoner Trousers,포로 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+891000,Blackguard's Iron Mask,불량배의 철 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+900000,Traveling Maiden Hood,여행 무녀의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+900100,Traveling Maiden Robe,여행 무녀의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+900200,Traveling Maiden Gloves,여행 무녀의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+900300,Traveling Maiden Boots,여행 무녀의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+901100,Traveling Maiden Robe (Altered),여행 무녀의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+902000,Finger Maiden Fillet,손가락 무녀의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+902100,Finger Maiden Robe,손가락 무녀의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+902300,Finger Maiden Shoes,손가락 무녀의 신발,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+903100,Finger Maiden Robe (Altered),손가락 무녀의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+910000,Preceptor's Big Hat,마술 교수의 큰 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+910100,Preceptor's Long Gown,마술 교수의 긴 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+910200,Preceptor's Gloves,마술 교수의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+910300,Preceptor's Trousers,마술 교수의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+911000,Mask of Confidence,비닉의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+911100,Preceptor's Long Gown (Altered),마술 교수의 긴 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+930000,Skeletal Mask,뼈 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+930100,Raptor's Black Feathers,맹금의 검은 깃털,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+930200,Bandit Manchettes,도적의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+930300,Bandit Boots,도적의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+931100,Bandit Garb,도적의 조끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+940000,Eccentric's Hood,기이한 기사의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+940100,Eccentric's Armor,기이한 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+940200,Eccentric's Manchettes,기이한 기사의 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+940300,Eccentric's Breeches,기이한 기사의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+941000,Eccentric's Hood (Altered),기이한 기사의 후드(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+950000,Fingerprint Helm,손가락 자국의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+950100,Fingerprint Armor,손가락 자국의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+950200,Fingerprint Gauntlets,손가락 자국의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+950300,Fingerprint Greaves,손가락 자국의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+951100,Fingerprint Armor (Altered),손가락 자국의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+960000,Consort's Mask,측비의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+960100,Consort's Robe,측비의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+960300,Consort's Trousers,측비의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+961000,Ruler's Mask,영주의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+961100,Ruler's Robe,영주의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+962100,Upper-Class Robe,상류의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+963000,Marais Mask,마레 가의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+963100,Marais Robe,마레 가의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+963200,Bloodsoaked Manchettes,피가 밴 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+964000,Bloodsoaked Mask,피가 밴 복면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+964100,Official's Attire,관리의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+970000,Omen Helm,흉조의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+970100,Omen Armor,흉조의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+970200,Omen Gauntlets,흉조의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+970300,Omen Greaves,흉조의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+980000,Carian Knight Helm,카리아 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+980100,Carian Knight Armor,카리아 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+980200,Carian Knight Gauntlets,카리아 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+980300,Carian Knight Greaves,카리아 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+981100,Carian Knight Armor (Altered),카리아 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+990000,Hierodas Glintstone Crown,야로다스의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+990100,Errant Sorcerer Robe,외톨이 마술사의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+990200,Errant Sorcerer Manchettes,외톨이 마술사의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+990300,Errant Sorcerer Boots,외톨이 마술사의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+991100,Errant Sorcerer Robe (Altered),외톨이 마술사의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1000000,Haima Glintstone Crown,하이마의 휘석 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1000100,Battlemage Robe,전쟁마술사의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1000200,Battlemage Manchettes,전쟁마술사의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1000300,Battlemage Legwraps,전쟁마술사의 다리 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1010000,Snow Witch Hat,눈 마녀의 뾰족모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1010100,Snow Witch Robe,눈 마녀의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1010300,Snow Witch Skirt,눈 마녀의 스커트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1011100,Snow Witch Robe (Altered),눈 마녀의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1020100,Traveler's Clothes,여행 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1020200,Traveler's Manchettes,여행 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1020300,Traveler's Boots,여행 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1030000,Juvenile Scholar Cap,유년 학도의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1030100,Juvenile Scholar Robe,유년 학도의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1040000,Radiant Gold Mask,빛나는 금가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1040100,Goldmask's Rags,금가면의 누더기천,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1040200,Gold Bracelets,금 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1040300,Gold Waistwrap,금 허리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1050100,Fell Omen Cloak,끔찍한 흉조의 망토,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1060000,Albinauric Mask,백금의 복면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1060100,Dirty Chainmail,더러워진 체인 메일,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1070000,Zamor Mask,자미엘의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1070100,Zamor Armor,자미엘의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1070200,Zamor Bracelets,자미엘의 팔 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1070300,Zamor Legwraps,자미엘의 다리 보호대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1080000,Imp Head (Cat),임프 머리(고양이),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1081000,Imp Head (Fanged),임프 머리(아귀),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1082000,Imp Head (Long-Tongued),임프 머리(설귀),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1083000,Imp Head (Corpse),임프 머리(망자),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1084000,Imp Head (Wolf),임프 머리(늑대),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1085000,Imp Head (Elder),임프 머리(장로),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1090000,Silver Tear Mask,은 물방울 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1100000,Chain Coif,체인 헬름,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1100100,Chain Armor,체인 아머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1100200,Gauntlets,건틀렛,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1100300,Chain Leggings,체인 레깅스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1101000,Greathelm,그레이트 헬름,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1101100,Eye Surcoat,눈동자 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1102100,Tree Surcoat,나무 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1110000,Octopus Head,문어머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1120000,Jar,항아리머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1130000,Mushroom Head,버섯머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1130100,Mushroom Body,버섯몸,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1130200,Mushroom Arms,버섯팔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1130300,Mushroom Legs,버섯다리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1300000,Nox Mirrorhelm,녹스의 거울 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1301000,Iji's Mirrorhelm,이지의 거울 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1400000,Black Hood,검은 천 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1400100,Leather Armor,가죽 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1400200,Leather Gloves,가죽 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1400300,Leather Boots,가죽 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1401000,Bandit Mask,도적의 마스크,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1500000,Knight Helm,기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1500100,Knight Armor,기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1500200,Knight Gauntlets,기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1500300,Knight Greaves,기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1600000,Greathood,그레이트 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1700000,Godrick Soldier Helm,고드릭 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1700100,Tree-and-Beast Surcoat,큰 나무와 짐승 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1700200,Godrick Soldier Gauntlets,고드릭 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1700300,Godrick Soldier Greaves,고드릭 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1710000,Raya Lucarian Helm,레아 루카리아 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1710100,Cuckoo Surcoat,뻐꾸기 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1710200,Raya Lucarian Gauntlets,레아 루카리아 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1710300,Raya Lucarian Greaves,레아 루카리아 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1720000,Leyndell Soldier Helm,로데일 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1720100,Erdtree Surcoat,황금 나무 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1720200,Leyndell Soldier Gauntlets,로데일 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1720300,Leyndell Soldier Greaves,로데일 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1730000,Radahn Soldier Helm,라단 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1730100,Redmane Surcoat,적사자 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1730200,Radahn Soldier Gauntlets,라단 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1730300,Radahn Soldier Greaves,라단 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1740100,Mausoleum Surcoat,영묘 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1740200,Mausoleum Gauntlets,영묘 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1740300,Mausoleum Greaves,영묘 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1750000,Haligtree Helm,성수 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1750100,Haligtree Crest Surcoat,성수 문양 서코트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1750200,Haligtree Gauntlets,성수 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1750300,Haligtree Greaves,성수 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1760000,Gelmir Knight Helm,겔미어 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1760100,Gelmir Knight Armor,겔미어 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1760200,Gelmir Knight Gauntlets,겔미어 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1760300,Gelmir Knight Greaves,겔미어 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1761100,Gelmir Knight Armor (Altered),겔미어 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1770000,Godrick Knight Helm,고드릭 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1770100,Godrick Knight Armor,고드릭 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1770200,Godrick Knight Gauntlets,고드릭 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1770300,Godrick Knight Greaves,고드릭 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1771100,Godrick Knight Armor (Altered),고드릭 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1780000,Cuckoo Knight Helm,뻐꾸기 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1780100,Cuckoo Knight Armor,뻐꾸기 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1780200,Cuckoo Knight Gauntlets,뻐꾸기 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1780300,Cuckoo Knight Greaves,뻐꾸기 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1781100,Cuckoo Knight Armor (Altered),뻐꾸기 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1790000,Leyndell Knight Helm,로데일 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1790100,Leyndell Knight Armor,로데일 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1790200,Leyndell Knight Gauntlets,로데일 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1790300,Leyndell Knight Greaves,로데일 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1791100,Leyndell Knight Armor (Altered),로데일 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1800000,Redmane Knight Helm,적사자 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1800100,Redmane Knight Armor,적사자 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1800200,Redmane Knight Gauntlets,적사자 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1800300,Redmane Knight Greaves,적사자 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1801100,Redmane Knight Armor (Altered),적사자 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1810100,Mausoleum Knight Armor,영묘 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1810200,Mausoleum Knight Gauntlets,영묘 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1810300,Mausoleum Knight Greaves,영묘 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1811100,Mausoleum Knight Armor (Altered),영묘 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1820000,Haligtree Knight Helm,성수 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1820100,Haligtree Knight Armor,성수 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1820200,Haligtree Knight Gauntlets,성수 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1820300,Haligtree Knight Greaves,성수 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1821100,Haligtree Knight Armor (Altered),성수 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1830000,Foot Soldier Cap,졸병의 철 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1830100,Chain-Draped Tabard,사슬 어깨망토 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1830200,Foot Soldier Gauntlets,졸병의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1830300,Foot Soldier Greaves,졸병의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1840000,Foot Soldier Helmet,졸병의 투구 덮개,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1840100,Foot Soldier Tabard,졸병의 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1850000,Gilded Foot Soldier Cap,졸병의 금 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1850100,Leather-Draped Tabard,가죽 어깨망토 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1860000,Foot Soldier Helm,졸병의 헬름,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1860100,Scarlet Tabard,붉은 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1870100,Bloodsoaked Tabard,피에 젖은 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1880000,Sacred Crown Helm,성관의 철 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1880100,Ivory-Draped Tabard,상아 어깨망토 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1890000,Omensmirk Mask,흉조를 비웃는 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1890100,Omenkiller Robe,흉조잡이의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1890200,Omenkiller Long Gloves,흉조잡이의 긴 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1890300,Omenkiller Boots,흉조잡이의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1900000,Ash-of-War Scarab,전회 스카라베,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1901000,Incantation Scarab,기도 스카라베,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1902000,Glintstone Scarab,휘석 스카라베,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1910000,Crimson Tear Scarab,붉은 물방울 스카라베,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1920000,Cerulean Tear Scarab,푸른 물방울 스카라베,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1930100,Deathbed Dress,동침의 드레스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1940000,Fia's Hood,피아의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1940100,Fia's Robe,피아의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1941100,Fia's Robe (Altered),피아의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1980000,Highwayman Hood,강도의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1980100,Highwayman Cloth Armor,강도의 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1980200,Highwayman Gauntlets,강도의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1990000,High Page Hood,상류 시종의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1990100,High Page Clothes,상류 시종의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1991100,High Page Clothes (Altered),상류 시종의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2000000,Rotten Duelist Helm,부패한 투사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2000100,Rotten Gravekeeper Cloak,부패한 묘지기의 망토,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2000300,Rotten Duelist Greaves,부패한 투사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2001100,Rotten Gravekeeper Cloak (Altered),부패한 묘지기의 망토(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2010000,Mushroom Crown,버섯 왕관,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2020000,Black Dumpling,검은 경단,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2030000,Lazuli Robe,라줄리의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3000000,Dane's Hat,단의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3000100,Dryleaf Robe,낙엽파의 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3000200,Dryleaf Arm Wraps,낙엽파의 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3000300,Dryleaf Cuissardes,낙엽파의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3001100,Dryleaf Robe (Altered),낙엽파의 로브(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3010000,Gaius's Helm,가이우스의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3010100,Gaius's Armor,가이우스의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3010200,Gaius's Gauntlets,가이우스의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3010300,Gaius's Greaves,가이우스의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5000000,Oathseeker Knight Helm,서약기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5000100,Leda's Armor,레다의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5000200,Oathseeker Knight Gauntlets,서약기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5000300,Oathseeker Knight Greaves,서약기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5002100,Oathseeker Knight Armor,서약기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5010000,Verdigris Helm,녹청 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5010100,Verdigris Armor,녹청 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5010200,Verdigris Gauntlets,녹청 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5010300,Verdigris Greaves,녹청 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5020000,Pelt of Ralva,랄바의 모피,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5020100,Iron Rivet Armor,철 못 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5020200,Iron Rivet Gauntlets,철 못 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5020300,Iron Rivet Greaves,철 못 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5021000,Fang Helm,엄니 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5030000,Thiollier's Mask,티에리에의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5030100,Thiollier's Garb,티에리에의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5030200,Thiollier's Gloves,티에리에의 긴 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5030300,Thiollier's Trousers,티에리에의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5031100,Thiollier's Garb (Altered),티에리에의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5060000,High Priest Hat,대사제의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5060100,High Priest Robe,대사제의 긴 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5060200,High Priest Gloves,대사제의 긴 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5060300,High Priest Undergarments,대사제의 속바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5062100,Finger Robe,손가락의 긴 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5070000,Caterpillar Mask,털벌레 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5070100,Braided Cord Robe,엮은 밧줄 로브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5070200,Braided Arm Wraps,밧줄 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5070300,Soiled Loincloth,꾀죄죄한 속옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5080000,Dancer's Hood,무희의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5080100,Dancer's Dress,무희의 드레스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5080200,Dancer's Bracer,무희의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5080300,Dancer's Trousers,무희의 바지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5081100,Dancer's Dress (Altered),무희의 드레스(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5090000,Helm of Night,밤의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5090100,Armor of Night,밤의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5090200,Gauntlets of Night,밤의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5090300,Greaves of Night,밤의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5100000,Igon's Helm,에이곤의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5100100,Igon's Armor,에이곤의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5100200,Igon's Gauntlets,에이곤의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5100300,Igon's Loincloth,에이곤의 허리끈,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5101000,Igon's Helm (Altered),에이곤의 투구(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5101100,Igon's Armor (Altered),에이곤의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5110000,Wise Man's Mask,늙은 현자의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5110100,Ansbach's Attire,안스바흐의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5110200,Ansbach's Manchettes,안스바흐의 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5110300,Ansbach's Boots,안스바흐의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5111100,Ansbach's Attire (Altered),안스바흐의 옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5120000,Freyja's Helm,프레이야의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5120100,Freyja's Armor,프레이야의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5120200,Freyja's Gauntlets,프레이야의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5120300,Freyja's Greaves,프레이야의 정강이받이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5121100,Freyja's Armor (Altered),프레이야의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5130000,Helm of Solitude,고립 감옥의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5130100,Armor of Solitude,고립 감옥의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5130200,Gauntlets of Solitude,고립 감옥의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5130300,Greaves of Solitude,고립 감옥의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5131100,Armor of Solitude (Altered),고립 감옥의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5140000,Messmer Soldier Helm,메스메르 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5140100,Messmer Soldier Armor,메스메르 병사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5140200,Messmer Soldier Gauntlets,메스메르 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5140300,Messmer Soldier Greaves,메스메르 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5141100,Messmer Soldier Armor (Altered),메스메르 병사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5150000,Black Knight Helm,흑기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5150100,Black Knight Armor,흑기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5150200,Black Knight Gauntlets,흑기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5150300,Black Knight Greaves,흑기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5160000,Rakshasa Helm,나찰의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5160100,Rakshasa Armor,나찰의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5160200,Rakshasa Gauntlets,나찰의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5160300,Rakshasa Greaves,나찰의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5180000,Fire Knight Helm,불의 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5180100,Fire Knight Armor,불의 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5180200,Fire Knight Gauntlets,불의 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5180300,Fire Knight Greaves,불의 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5181100,Fire Knight Armor (Altered),불의 기사의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5182000,Death Mask Helm,죽은 얼굴 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5183000,Winged Serpent Helm,날개 달린 뱀 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5184000,Salza's Hood,잘차의 후드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5190000,Leather Headband,가죽 머리띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5190100,Gloried Attire,영예의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5190200,Leather Arm Wraps,가죽 팔띠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5190300,Leather Leg Wraps,가죽 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5191000,Leather Crown,가죽 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5191100,Highland Attire,고지의 옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5200000,Death Knight Helm,죽음 기사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5200100,Death Knight Armor,죽음 기사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5200200,Death Knight Gauntlets,죽음 기사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5200300,Death Knight Greaves,죽음 기사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5210000,Curseblade Mask,주검사의 가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5210100,Ascetic's Loincloth,수행자의 허리끈,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5210200,Ascetic's Wrist Guards,수행자의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5210300,Ascetic's Ankle Guards,수행자의 발찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5220000,Messmer's Helm,메스메르의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5220100,Messmer's Armor,메스메르의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5220200,Messmer's Gauntlets,메스메르의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5220300,Messmer's Greaves,메스메르의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5221000,Messmer's Helm (Altered),메스메르의 투구(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5230000,Gravebird Helm,묘지기 새의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5230100,Gravebird's Blackquill Armor,묘지기 새의 깃털 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5230200,Gravebird Bracelets,묘지기 새의 팔찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5230300,Gravebird Anklets,묘지기 새의 발찌,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5231100,Gravebird Armor,묘지기 새의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5240000,Common Soldier Helm,졸병의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5240100,Common Soldier Cloth Armor,졸병의 천 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5240200,Common Soldier Gauntlets,졸병의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5240300,Common Soldier Greaves,졸병의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5250000,Horned Warrior Helm,뿔 전사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5250100,Horned Warrior Armor,뿔 전사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5250200,Horned Warrior Gauntlets,뿔 전사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5250300,Horned Warrior Greaves,뿔 전사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5252000,Divine Beast Helm,신수의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5252100,Divine Beast Warrior Armor,신수 전사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5253000,Divine Bird Helm,신조의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5253100,Divine Bird Warrior Armor,신조 전사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5253200,Divine Bird Warrior Gauntlets,신조 전사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5253300,Divine Bird Warrior Greaves,신조 전사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5260000,Rellana's Helm,렐라나의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5260100,Rellana's Armor,렐라나의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5260200,Rellana's Gloves,렐라나의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5260300,Rellana's Greaves,렐라나의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5270000,Young Lion's Helm,젊은 사자의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5270100,Young Lion's Armor,젊은 사자의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5270200,Young Lion's Gauntlets,젊은 사자의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5270300,Young Lion's Greaves,젊은 사자의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5271100,Young Lion's Armor (Altered),젊은 사자의 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5272000,Circlet of Light,빛의 관,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5280000,Shadow Militiaman Helm,그림자 천한 병사의 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5280100,Shadow Militiaman Armor,그림자 천한 병사의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5280200,Shadow Militiaman Gauntlets,그림자 천한 병사의 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5280300,Shadow Militiaman Greaves,그림자 천한 병사의 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5290000,Divine Beast Head,신수의 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5300000,St. Trina's Blossom,트리나의 한 송이 꽃,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5310000,Crucible Hammer-Helm,도가니의 망치 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5320000,Greatjar,큰 항아리머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5330000,Imp Head (Lion),임프 머리(사자),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5340000,Broken Gold Mask,파쇄된 금가면,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5340100,Gold Tattoo (Chest),황금의 문신(몸통),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5340200,Gold Tattoo (Arm),황금의 문신(팔),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5340300,Gold Tattoo (Leg),황금의 문신(다리),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5350000,Silver Grooved Helm,홈 파인 은 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5350100,Silver Grooved Armor,홈 파인 은 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5350200,Silver Grooved Gauntlets,홈 파인 은 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5350300,Silver Grooved Greaves,홈 파인 은 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5351100,Silver Grooved Armor (Altered),홈 파인 은 갑옷(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5360000,Leontiel's Hat,레오티엘의 모자,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5360100,Leontiel's Armor,레오티엘의 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5360200,Leontiel's Leather Gloves,레오티엘의 가죽 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5360300,Leontiel's Boots,레오티엘의 부츠,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5361000,Leontiel's Hat (Altered),레오티엘의 모자(경장),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5370000,Steel Helm,강철 투구,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5370100,Steel Armor,강철 갑옷,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5370200,Steel Gauntlets,강철 장갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5370300,Steel Greaves,강철 각반,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치

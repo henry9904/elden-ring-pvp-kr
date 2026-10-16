@@ -1,0 +1,488 @@
+id,en,group,dlc
+1000000,Dagger,Dagger,0
+1010000,Black Knife,Dagger,0
+1020000,Parrying Dagger,Dagger,0
+1030000,Miséricorde,Dagger,0
+1040000,Reduvia,Dagger,0
+1050000,Crystal Knife,Dagger,0
+1060000,Celebrant's Sickle,Dagger,0
+1070000,Glintstone Kris,Dagger,0
+1080000,Scorpion's Stinger,Dagger,0
+1090000,Great Knife,Dagger,0
+1100000,Wakizashi,Dagger,0
+1110000,Cinquedea,Dagger,0
+1130000,Ivory Sickle,Dagger,0
+1140000,Bloodstained Dagger,Dagger,0
+1150000,Erdsteel Dagger,Dagger,0
+1160000,Blade of Calling,Dagger,0
+1500000,Main-gauche,Dagger,1
+1510000,Fire Knight's Shortsword,Dagger,1
+2000000,Longsword,Straight Sword,0
+2010000,Short Sword,Straight Sword,0
+2020000,Broadsword,Straight Sword,0
+2040000,Lordsworn's Straight Sword,Straight Sword,0
+2050000,Weathered Straight Sword,Straight Sword,0
+2060000,Ornamental Straight Sword,Straight Sword,0
+2070000,Golden Epitaph,Straight Sword,0
+2080000,Nox Flowing Sword,Curved Sword,0
+2090000,Inseparable Sword,Greatsword,0
+2110000,Coded Sword,Straight Sword,0
+2140000,Sword of Night and Flame,Straight Sword,0
+2150000,Crystal Sword,Straight Sword,0
+2180000,Carian Knight's Sword,Straight Sword,0
+2190000,Sword of St. Trina,Straight Sword,0
+2200000,Miquellan Knight's Sword,Straight Sword,0
+2210000,Cane Sword,Straight Sword,0
+2220000,Regalia of Eochaid,Straight Sword,0
+2230000,Noble's Slender Sword,Straight Sword,0
+2240000,Warhawk's Talon,Straight Sword,0
+2250000,Lazuli Glintstone Sword,Straight Sword,0
+2260000,Rotten Crystal Sword,Straight Sword,0
+2510000,Velvet Sword of St. Trina,Straight Sword,1
+2520000,Star-Lined Sword,Katana,1
+2530000,Carian Sorcery Sword,Thrusting Sword,1
+2540000,Stone-Sheathed Sword,Straight Sword,1
+2550000,Sword of Light,Straight Sword,1
+2560000,Sword of Darkness,Straight Sword,1
+3000000,Bastard Sword,Greatsword,0
+3010000,Forked Greatsword,Greatsword,0
+3020000,Iron Greatsword,Greatsword,0
+3030000,Lordsworn's Greatsword,Greatsword,0
+3040000,Knight's Greatsword,Greatsword,0
+3050000,Flamberge,Greatsword,0
+3060000,Ordovis's Greatsword,Greatsword,0
+3070000,Alabaster Lord's Sword,Greatsword,0
+3080000,Banished Knight's Greatsword,Greatsword,0
+3090000,Dark Moon Greatsword,Greatsword,0
+3100000,Sacred Relic Sword,Greatsword,0
+3130000,Helphen's Steeple,Greatsword,0
+3140000,Blasphemous Blade,Greatsword,0
+3150000,Marais Executioner's Sword,Greatsword,0
+3160000,Sword of Milos,Greatsword,0
+3170000,Golden Order Greatsword,Greatsword,0
+3180000,Claymore,Greatsword,0
+3190000,Gargoyle's Greatsword,Greatsword,0
+3200000,Death's Poker,Greatsword,0
+3210000,Gargoyle's Blackblade,Greatsword,0
+3500000,Sword Lance,Heavy Thrusting Sword,1
+3510000,Greatsword of Damnation,Greatsword,1
+3520000,Lizard Greatsword,Greatsword,1
+3550000,Greatsword of Solitude,Greatsword,1
+3560000,Leontiel's Greatsword,Greatsword,1
+4000000,Greatsword,Colossal Sword,0
+4010000,Watchdog's Greatsword,Colossal Sword,0
+4020000,Maliketh's Black Blade,Colossal Sword,0
+4030000,Troll's Golden Sword,Colossal Sword,0
+4040000,Zweihander,Colossal Sword,0
+4050000,Starscourge Greatsword,Colossal Sword,0
+4060000,Royal Greatsword,Colossal Sword,0
+4070000,Godslayer's Greatsword,Colossal Sword,0
+4080000,Ruins Greatsword,Colossal Sword,0
+4100000,Grafted Blade Greatsword,Colossal Sword,0
+4110000,Troll Knight's Sword,Colossal Sword,0
+4500000,Ancient Meteoric Ore Greatsword,Colossal Sword,1
+4520000,Fire Knight's Greatsword,Colossal Sword,1
+4530000,Greatsword of Radahn (Lord),Colossal Sword,1
+4540000,Moonrithyll's Knight Sword,Colossal Sword,1
+4550000,Greatsword of Radahn (Light),Colossal Sword,1
+5000000,Estoc,Thrusting Sword,0
+5010000,Cleanrot Knight's Sword,Thrusting Sword,0
+5020000,Rapier,Thrusting Sword,0
+5030000,Rogier's Rapier,Thrusting Sword,0
+5040000,Antspur Rapier,Thrusting Sword,0
+5050000,Frozen Needle,Thrusting Sword,0
+5060000,Noble's Estoc,Thrusting Sword,0
+6000000,Bloody Helice,Heavy Thrusting Sword,0
+6010000,Godskin Stitcher,Heavy Thrusting Sword,0
+6020000,Great Épée,Heavy Thrusting Sword,0
+6040000,Dragon King's Cragblade,Heavy Thrusting Sword,0
+6500000,Queelign's Greatsword,Heavy Thrusting Sword,1
+7000000,Falchion,Curved Sword,0
+7010000,Beastman's Curved Sword,Curved Sword,0
+7020000,Shotel,Curved Sword,0
+7030000,Shamshir,Curved Sword,0
+7040000,Bandit's Curved Sword,Curved Sword,0
+7050000,Magma Blade,Curved Sword,0
+7060000,Flowing Curved Sword,Curved Sword,0
+7070000,Wing of Astel,Curved Sword,0
+7080000,Scavenger's Curved Sword,Curved Sword,0
+7100000,Eclipse Shotel,Curved Sword,0
+7110000,Serpent-God's Curved Sword,Curved Sword,0
+7120000,Mantis Blade,Curved Sword,0
+7140000,Scimitar,Curved Sword,0
+7150000,Grossmesser,Curved Sword,0
+7500000,Spirit Sword,Curved Sword,1
+7510000,Falx,Curved Sword,1
+7520000,Dancing Blade of Ranah,Curved Sword,1
+7530000,Horned Warrior's Sword,Curved Sword,1
+8010000,Onyx Lord's Greatsword,Curved Greatsword,0
+8020000,Dismounter,Curved Greatsword,0
+8030000,Bloodhound's Fang,Curved Greatsword,0
+8040000,Magma Wyrm's Scalesword,Curved Greatsword,0
+8050000,Zamor Curved Sword,Curved Greatsword,0
+8060000,Omen Cleaver,Curved Greatsword,0
+8070000,Monk's Flameblade,Curved Greatsword,0
+8080000,Beastman's Cleaver,Curved Greatsword,0
+8100000,Morgott's Cursed Sword,Curved Greatsword,0
+8500000,Putrescence Cleaver,Greataxe,1
+8510000,Freyja's Greatsword,Curved Greatsword,1
+8520000,Horned Warrior's Greatsword,Curved Greatsword,1
+8530000,Hefty Scimitar,Curved Greatsword,1
+9000000,Uchigatana,Katana,0
+9010000,Nagakiba,Katana,0
+9020000,Hand of Malenia,Katana,0
+9030000,Meteoric Ore Blade,Katana,0
+9040000,Rivers of Blood,Katana,0
+9060000,Moonveil,Katana,0
+9070000,Dragonscale Blade,Katana,0
+9080000,Serpentbone Blade,Katana,0
+9500000,Sword of Night,Katana,1
+10000000,Twinblade,Twinblade,0
+10010000,Godskin Peeler,Twinblade,0
+10030000,Twinned Knight Swords,Twinblade,0
+10050000,Eleonora's Poleblade,Twinblade,0
+10080000,Gargoyle's Twinblade,Twinblade,0
+10090000,Gargoyle's Black Blades,Twinblade,0
+10500000,Euporia,Twinblade,1
+10510000,Black Steel Twinblade,Twinblade,1
+11000000,Mace,Hammer,0
+11010000,Club,Hammer,0
+11030000,Curved Club,Hammer,0
+11040000,Warpick,Hammer,0
+11050000,Morning Star,Hammer,0
+11060000,Varré's Bouquet,Hammer,0
+11070000,Spiked Club,Hammer,0
+11080000,Hammer,Hammer,0
+11090000,Monk's Flamemace,Hammer,0
+11100000,Envoy's Horn,Hammer,0
+11110000,Scepter of the All-Knowing,Hammer,0
+11120000,Nox Flowing Hammer,Hammer,0
+11130000,Ringed Finger,Hammer,0
+11140000,Stone Club,Hammer,0
+11150000,Marika's Hammer,Hammer,0
+11500000,Flowerstone Gavel,Hammer,1
+12000000,Large Club,Great Hammer,0
+12010000,Greathorn Hammer,Great Hammer,0
+12020000,Battle Hammer,Great Hammer,0
+12060000,Great Mace,Great Hammer,0
+12080000,Curved Great Club,Great Hammer,0
+12130000,Celebrant's Skull,Great Hammer,0
+12140000,Pickaxe,Great Hammer,0
+12150000,Beastclaw Greathammer,Great Hammer,0
+12160000,Envoy's Long Horn,Great Hammer,0
+12170000,Cranial Vessel Candlestand,Great Hammer,0
+12180000,Great Stars,Great Hammer,0
+12190000,Brick Hammer,Great Hammer,0
+12200000,Devourer's Scepter,Great Hammer,0
+12210000,Rotten Battle Hammer,Great Hammer,0
+12500000,Smithscript Greathammer,Great Hammer,1
+12510000,Anvil Hammer,Colossal Weapon,1
+12520000,Black Steel Greathammer,Great Hammer,1
+12530000,Bloodfiend's Arm,Colossal Weapon,1
+13000000,Nightrider Flail,Flail,0
+13010000,Flail,Flail,0
+13020000,Family Heads,Flail,0
+13030000,Bastard's Stars,Flail,0
+13040000,Chainlink Flail,Flail,0
+13500000,Serpent Flail,Flail,1
+13510000,Golden Order Flail,Flail,1
+14000000,Battle Axe,Axe,0
+14010000,Forked Hatchet,Axe,0
+14020000,Hand Axe,Axe,0
+14030000,Jawbone Axe,Axe,0
+14040000,Iron Cleaver,Axe,0
+14050000,Ripple Blade,Axe,0
+14060000,Celebrant's Cleaver,Axe,0
+14080000,Icerind Hatchet,Axe,0
+14100000,Highland Axe,Axe,0
+14110000,Sacrificial Axe,Axe,0
+14120000,Rosus' Axe,Axe,0
+14140000,Stormhawk Axe,Axe,0
+14500000,Smithscript Axe,Axe,1
+14510000,Death Knight's Twin Axes,Axe,1
+14520000,Messmer Soldier's Axe,Axe,1
+14540000,Forked-Tongue Hatchet,Axe,1
+15000000,Greataxe,Greataxe,0
+15010000,Warped Axe,Axe,0
+15020000,Great Omenkiller Cleaver,Greataxe,0
+15030000,Crescent Moon Axe,Greataxe,0
+15040000,Axe of Godrick,Greataxe,0
+15050000,Longhaft Axe,Greataxe,0
+15060000,Rusted Anchor,Greataxe,0
+15080000,Executioner's Greataxe,Greataxe,0
+15110000,Winged Greathorn,Greataxe,0
+15120000,Butchering Knife,Greataxe,0
+15130000,Gargoyle's Great Axe,Greataxe,0
+15140000,Gargoyle's Black Axe,Greataxe,0
+15500000,Death Knight's Longhaft Axe,Greataxe,1
+15510000,Bonny Butchering Knife,Greataxe,0
+16000000,Short Spear,Spear,0
+16010000,Spear,Spear,0
+16020000,Crystal Spear,Spear,0
+16030000,Clayman's Harpoon,Spear,0
+16040000,Cleanrot Spear,Spear,0
+16050000,Partisan,Spear,0
+16060000,Celebrant's Rib-Rake,Spear,0
+16070000,Pike,Spear,0
+16080000,Torchpole,Spear,0
+16090000,Bolt of Gransax,Spear,0
+16110000,Cross-Naginata,Spear,0
+16120000,Death Ritual Spear,Spear,0
+16130000,Inquisitor's Girandole,Spear,0
+16140000,Spiked Spear,Spear,0
+16150000,Iron Spear,Spear,0
+16160000,Rotten Crystal Spear,Spear,0
+16500000,Smithscript Spear,Spear,1
+16520000,Swift Spear,Spear,1
+16540000,Bloodfiend's Fork,Spear,1
+16550000,Bloodfiend's Sacred Spear,Great Spear,1
+17010000,Mohgwyn's Sacred Spear,Great Spear,0
+17020000,Siluria's Tree,Great Spear,0
+17030000,Serpent-Hunter,Great Spear,0
+17050000,Vyke's War Spear,Great Spear,0
+17060000,Lance,Great Spear,0
+17070000,Treespear,Great Spear,0
+17500000,Spear of the Impaler,Great Spear,1
+17510000,Messmer Soldier's Spear,Great Spear,1
+17520000,Barbed Staff-Spear,Great Spear,1
+18000000,Halberd,Halberd,0
+18010000,Pest's Glaive,Halberd,0
+18020000,Lucerne,Halberd,0
+18030000,Banished Knight's Halberd,Halberd,0
+18040000,Commander's Standard,Halberd,0
+18050000,Nightrider Glaive,Halberd,0
+18060000,Ripple Crescent Halberd,Halberd,0
+18070000,Vulgar Militia Saw,Halberd,0
+18080000,Golden Halberd,Halberd,0
+18090000,Glaive,Halberd,0
+18100000,Loretta's War Sickle,Halberd,0
+18110000,Guardian's Swordspear,Halberd,0
+18130000,Vulgar Militia Shotel,Halberd,0
+18140000,Dragon Halberd,Halberd,0
+18150000,Gargoyle's Halberd,Halberd,0
+18160000,Gargoyle's Black Halberd,Halberd,0
+18500000,Spirit Glaive,Halberd,1
+18510000,Poleblade of the Bud,Halberd,1
+19000000,Scythe,Reaper,0
+19010000,Grave Scythe,Reaper,0
+19020000,Halo Scythe,Reaper,0
+19060000,Winged Scythe,Reaper,0
+19500000,Obsidian Lamina,Reaper,1
+20000000,Whip,Whip,0
+20020000,Thorned Whip,Whip,0
+20030000,Magma Whip Candlestick,Whip,0
+20050000,Hoslow's Petal Whip,Whip,0
+20060000,Giant's Red Braid,Whip,0
+20070000,Urumi,Whip,0
+20500000,Tooth Whip,Whip,1
+21000000,Caestus,Fist,0
+21010000,Spiked Caestus,Fist,0
+21060000,Grafted Dragon,Fist,0
+21070000,Iron Ball,Fist,0
+21080000,Star Fist,Fist,0
+21100000,Katar,Fist,0
+21110000,Clinging Bone,Fist,0
+21120000,Veteran's Prosthesis,Fist,0
+21130000,Cipher Pata,Fist,0
+21500000,Thiollier's Hidden Needle,Fist,1
+21510000,Pata,Fist,1
+21520000,Poisoned Hand,Fist,1
+21530000,Madding Hand,Fist,1
+21540000,Golem Fist,Fist,1
+21550000,Shield of Night,Small Shield,1
+22000000,Hookclaws,Claw,0
+22010000,Venomous Fang,Claw,0
+22020000,Bloodhound Claws,Claw,0
+22030000,Raptor Talons,Claw,0
+22500000,Claws of Night,Claw,1
+23000000,Prelate's Inferno Crozier,Colossal Weapon,0
+23010000,Watchdog's Staff,Colossal Weapon,0
+23020000,Great Club,Colossal Weapon,0
+23030000,Envoy's Greathorn,Colossal Weapon,0
+23040000,Duelist Greataxe,Colossal Weapon,0
+23050000,Axe of Godfrey,Colossal Weapon,0
+23060000,Dragon Greatclaw,Colossal Weapon,0
+23070000,Staff of the Avatar,Colossal Weapon,0
+23080000,Fallingstar Beast Jaw,Colossal Weapon,0
+23100000,Ghiza's Wheel,Colossal Weapon,0
+23110000,Giant-Crusher,Colossal Weapon,0
+23120000,Golem's Halberd,Colossal Weapon,0
+23130000,Troll's Hammer,Colossal Weapon,0
+23140000,Rotten Staff,Colossal Weapon,0
+23150000,Rotten Greataxe,Colossal Weapon,0
+23500000,Devonia's Hammer,Colossal Weapon,1
+23510000,Shadow Sunflower Blossom,Colossal Weapon,1
+23520000,Gazing Finger,Colossal Weapon,1
+24000000,Torch,Torch,0
+24020000,Steel-Wire Torch,Torch,0
+24040000,St. Trina's Torch,Torch,0
+24050000,Ghostflame Torch,Torch,0
+24060000,Beast-Repellent Torch,Torch,0
+24070000,Sentry's Torch,Torch,0
+24500000,Nanaya's Torch,Torch,1
+24510000,Lamenting Visage,Torch,1
+30000000,Buckler,Small Shield,0
+30010000,Perfumer's Shield,Small Shield,0
+30020000,Man-Serpent's Shield,Small Shield,0
+30030000,Rickety Shield,Small Shield,0
+30040000,Pillory Shield,Small Shield,0
+30060000,Beastman's Jar-Shield,Medium Shield,0
+30070000,Red Thorn Roundshield,Small Shield,0
+30080000,Scripture Wooden Shield,Small Shield,0
+30090000,Riveted Wooden Shield,Small Shield,0
+30100000,Blue-White Wooden Shield,Small Shield,0
+30110000,Rift Shield,Small Shield,0
+30120000,Iron Roundshield,Small Shield,0
+30130000,Gilded Iron Shield,Small Shield,0
+30140000,Ice Crest Shield,Small Shield,0
+30150000,Smoldering Shield,Small Shield,0
+30190000,Spiralhorn Shield,Small Shield,0
+30200000,Coil Shield,Small Shield,0
+30510000,Smithscript Shield,Small Shield,1
+31000000,Kite Shield,Medium Shield,0
+31010000,Marred Leather Shield,Medium Shield,0
+31020000,Marred Wooden Shield,Medium Shield,0
+31030000,Banished Knight's Shield,Medium Shield,0
+31040000,Albinauric Shield,Medium Shield,0
+31050000,Sun Realm Shield,Medium Shield,0
+31060000,Silver Mirrorshield,Medium Shield,0
+31070000,Round Shield,Medium Shield,0
+31080000,Scorpion Kite Shield,Medium Shield,0
+31090000,Twinbird Kite Shield,Medium Shield,0
+31100000,Blue-Gold Kite Shield,Medium Shield,0
+31130000,Brass Shield,Medium Shield,0
+31140000,Great Turtle Shell,Medium Shield,0
+31170000,Shield of the Guilty,Small Shield,0
+31190000,Carian Knight's Shield,Medium Shield,0
+31230000,Large Leather Shield,Medium Shield,0
+31240000,Horse Crest Wooden Shield,Medium Shield,0
+31250000,Candletree Wooden Shield,Medium Shield,0
+31260000,Flame Crest Wooden Shield,Medium Shield,0
+31270000,Hawk Crest Wooden Shield,Medium Shield,0
+31280000,Beast Crest Heater Shield,Medium Shield,0
+31290000,Red Crest Heater Shield,Medium Shield,0
+31300000,Blue Crest Heater Shield,Medium Shield,0
+31310000,Eclipse Crest Heater Shield,Medium Shield,0
+31320000,Inverted Hawk Heater Shield,Medium Shield,0
+31330000,Heater Shield,Medium Shield,0
+31340000,Black Leather Shield,Medium Shield,0
+31500000,Messmer Soldier Shield,Medium Shield,1
+31510000,Wolf Crest Shield,Medium Shield,1
+31520000,Serpent Crest Shield,Medium Shield,1
+31530000,Golden Lion Shield,Medium Shield,1
+31540000,Silver Grooved Shield,Medium Shield,1
+32000000,Dragon Towershield,Greatshield,0
+32020000,Distinguished Greatshield,Greatshield,0
+32030000,Crucible Hornshield,Greatshield,0
+32040000,Dragonclaw Shield,Greatshield,0
+32050000,Briar Greatshield,Greatshield,0
+32080000,Erdtree Greatshield,Greatshield,0
+32090000,Golden Beast Crest Shield,Greatshield,0
+32120000,Jellyfish Shield,Greatshield,0
+32130000,Fingerprint Stone Shield,Greatshield,0
+32140000,Icon Shield,Greatshield,0
+32150000,One-Eyed Shield,Greatshield,0
+32160000,Visage Shield,Greatshield,0
+32170000,Spiked Palisade Shield,Greatshield,0
+32190000,Manor Towershield,Greatshield,0
+32200000,Crossed-Tree Towershield,Greatshield,0
+32210000,Inverted Hawk Towershield,Greatshield,0
+32220000,Ant's Skull Plate,Greatshield,0
+32230000,Redmane Greatshield,Greatshield,0
+32240000,Eclipse Crest Greatshield,Greatshield,0
+32250000,Cuckoo Greatshield,Greatshield,0
+32260000,Golden Greatshield,Greatshield,0
+32270000,Gilded Greatshield,Greatshield,0
+32280000,Haligtree Crest Greatshield,Greatshield,0
+32290000,Wooden Greatshield,Greatshield,0
+32300000,Lordsworn's Shield,Greatshield,0
+32500000,Black Steel Greatshield,Greatshield,1
+32520000,Verdigris Greatshield,Greatshield,1
+33000000,Glintstone Staff,Glintstone Staff,0
+33040000,Crystal Staff,Glintstone Staff,0
+33050000,Gelmir Glintstone Staff,Glintstone Staff,0
+33060000,Demi-Human Queen's Staff,Glintstone Staff,0
+33090000,Carian Regal Scepter,Glintstone Staff,0
+33120000,Digger's Staff,Glintstone Staff,0
+33130000,Astrologer's Staff,Glintstone Staff,0
+33170000,Carian Glintblade Staff,Glintstone Staff,0
+33180000,Prince of Death's Staff,Glintstone Staff,0
+33190000,Albinauric Staff,Glintstone Staff,0
+33200000,Academy Glintstone Staff,Glintstone Staff,0
+33210000,Carian Glintstone Staff,Glintstone Staff,0
+33230000,Azur's Glintstone Staff,Glintstone Staff,0
+33240000,Lusat's Glintstone Staff,Glintstone Staff,0
+33250000,Meteorite Staff,Glintstone Staff,0
+33260000,Staff of the Guilty,Glintstone Staff,0
+33270000,Rotten Crystal Staff,Glintstone Staff,0
+33280000,Staff of Loss,Glintstone Staff,0
+33510000,Staff of the Great Beyond,Glintstone Staff,1
+33520000,Maternal Staff,Glintstone Staff,1
+34000000,Finger Seal,Sacred Seal,0
+34010000,Godslayer's Seal,Sacred Seal,0
+34020000,Giant's Seal,Sacred Seal,0
+34030000,Gravel Stone Seal,Sacred Seal,0
+34040000,Clawmark Seal,Sacred Seal,0
+34060000,Golden Order Seal,Sacred Seal,0
+34070000,Erdtree Seal,Sacred Seal,0
+34080000,Dragon Communion Seal,Sacred Seal,0
+34090000,Frenzied Flame Seal,Sacred Seal,0
+34500000,Dryleaf Seal,Sacred Seal,1
+34510000,Fire Knight's Seal,Sacred Seal,1
+34520000,Spiraltree Seal,Sacred Seal,1
+40000000,Shortbow,Light Bow,0
+40010000,Misbegotten Shortbow,Light Bow,0
+40020000,Red Branch Shortbow,Light Bow,0
+40030000,Harp Bow,Light Bow,0
+40050000,Composite Bow,Light Bow,0
+40500000,Bone Bow,Light Bow,1
+41000000,Longbow,Bow,0
+41010000,Albinauric Bow,Bow,0
+41020000,Horn Bow,Bow,0
+41030000,Erdtree Bow,Bow,0
+41040000,Serpent Bow,Bow,0
+41060000,Pulley Bow,Bow,0
+41070000,Black Bow,Bow,0
+41510000,Ansbach's Longbow,Bow,1
+42000000,Lion Greatbow,Greatbow,0
+42010000,Golem Greatbow,Greatbow,0
+42030000,Erdtree Greatbow,Greatbow,0
+42040000,Greatbow,Greatbow,0
+42500000,Igon's Greatbow,Greatbow,1
+43000000,Soldier's Crossbow,Crossbow,0
+43020000,Light Crossbow,Crossbow,0
+43030000,Heavy Crossbow,Crossbow,0
+43050000,Pulley Crossbow,Crossbow,0
+43060000,Full Moon Crossbow,Crossbow,0
+43080000,Arbalest,Crossbow,0
+43110000,Crepus's Black-Key Crossbow,Crossbow,0
+43500000,Repeating Crossbow,Crossbow,1
+43510000,Spread Crossbow,Crossbow,1
+44000000,Hand Ballista,Ballista,0
+44010000,Jar Cannon,Ballista,0
+44500000,Rabbath's Cannon,Ballista,1
+60500000,Dryleaf Arts,Hand-to-Hand,1
+60510000,Dane's Footwork,Hand-to-Hand,1
+61500000,Firespark Perfume Bottle,Perfume Bottle,1
+61510000,Chilling Perfume Bottle,Perfume Bottle,1
+61520000,Frenzyflame Perfume Bottle,Perfume Bottle,1
+61530000,Lightning Perfume Bottle,Perfume Bottle,1
+61540000,Deadly Poison Perfume Bottle,Perfume Bottle,1
+62500000,Dueling Shield,Thrusting Shield,1
+62510000,Carian Thrusting Shield,Thrusting Shield,1
+62520000,Ritual Thrusting Shield,Thrusting Shield,1
+63500000,Smithscript Dagger,Throwing Blade,1
+64500000,Backhand Blade,Backhand Blade,1
+64510000,Smithscript Cirque,Backhand Blade,1
+64520000,Curseblade's Cirque,Backhand Blade,1
+64530000,Reverse-Bladed Sword,Backhand Blade,1
+66500000,Great Katana,Great Katana,1
+66510000,Dragon-Hunter's Great Katana,Great Katana,1
+66520000,Rakshasa's Great Katana,Great Katana,1
+66530000,Reed Great Katana,Great Katana,1
+67500000,Milady,Light Greatsword,1
+67510000,Leda's Sword,Light Greatsword,1
+67520000,Rellana's Twin Blades,Light Greatsword,1
+67530000,Idus Sword,Light Greatsword,1
+68500000,Beast Claw,Beast Claw,1
+68510000,Red Bear's Claw,Beast Claw,1

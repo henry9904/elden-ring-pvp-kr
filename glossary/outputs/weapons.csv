@@ -1,0 +1,488 @@
+id,en,ko,status,source,note
+1000000,Dagger,대거,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1010000,Black Knife,검은 칼날,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1020000,Parrying Dagger,패링 대거,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1030000,Miséricorde,자비의 단검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1040000,Reduvia,레두비아,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1050000,Crystal Knife,결정 나이프,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1060000,Celebrant's Sickle,축제의 손낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1070000,Glintstone Kris,휘석 크리스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1080000,Scorpion's Stinger,전갈의 침,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1090000,Great Knife,대형 나이프,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1100000,Wakizashi,협차,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1110000,Cinquedea,친퀘디아,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1130000,Ivory Sickle,상아 손낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1140000,Bloodstained Dagger,피투성이 단도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1150000,Erdsteel Dagger,황동 단도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1160000,Blade of Calling,사명의 칼날,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1500000,Main-gauche,맹고슈,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+1510000,Fire Knight's Shortsword,불의 기사 단검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2000000,Longsword,롱 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2010000,Short Sword,숏 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2020000,Broadsword,브로드 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2040000,Lordsworn's Straight Sword,군주군의 직검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2050000,Weathered Straight Sword,낡은 직검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2060000,Ornamental Straight Sword,의장 직검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2070000,Golden Epitaph,황금 묘비,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2080000,Nox Flowing Sword,녹스의 유체검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2090000,Inseparable Sword,나뉘지 않는 쌍생아의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2110000,Coded Sword,비문자 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2140000,Sword of Night and Flame,밤과 불꽃의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2150000,Crystal Sword,결정검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2180000,Carian Knight's Sword,카리아의 기사검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2190000,Sword of St. Trina,트리나의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2200000,Miquellan Knight's Sword,미켈라의 기사검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2210000,Cane Sword,지팡이검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2220000,Regalia of Eochaid,에오히드의 보검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2230000,Noble's Slender Sword,귀인의 세검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2240000,Warhawk's Talon,전쟁매의 발톱검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2250000,Lazuli Glintstone Sword,라줄리의 휘석검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2260000,Rotten Crystal Sword,부패한 결정검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2510000,Velvet Sword of St. Trina,트리나의 보랏빛 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2520000,Star-Lined Sword,연성검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2530000,Carian Sorcery Sword,카리아의 마술검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2540000,Stone-Sheathed Sword,돌칼집의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2550000,Sword of Light,라이트 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+2560000,Sword of Darkness,다크 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3000000,Bastard Sword,바스타드 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3010000,Forked Greatsword,두갈래 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3020000,Iron Greatsword,철 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3030000,Lordsworn's Greatsword,군주군의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3040000,Knight's Greatsword,기사 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3050000,Flamberge,플랑베르주,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3060000,Ordovis's Greatsword,오르도비스의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3070000,Alabaster Lord's Sword,백왕의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3080000,Banished Knight's Greatsword,땅 잃은 기사의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3090000,Dark Moon Greatsword,암월의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3100000,Sacred Relic Sword,신이 남긴 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3130000,Helphen's Steeple,헬펜의 첨탑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3140000,Blasphemous Blade,모독의 성검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3150000,Marais Executioner's Sword,마레 가의 집행검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3160000,Sword of Milos,미에로스의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3170000,Golden Order Greatsword,황금률의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3180000,Claymore,클레이모어,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3190000,Gargoyle's Greatsword,가고일의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3200000,Death's Poker,죽음부지깽이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3210000,Gargoyle's Blackblade,가고일의 흑검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3500000,Sword Lance,소드랜스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3510000,Greatsword of Damnation,겁벌의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3520000,Lizard Greatsword,큰 도마뱀 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3550000,Greatsword of Solitude,고립 감옥의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+3560000,Leontiel's Greatsword,레오티엘의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4000000,Greatsword,그레이트 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4010000,Watchdog's Greatsword,파수견의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4020000,Maliketh's Black Blade,말리케스의 흑검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4030000,Troll's Golden Sword,트롤의 황금검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4040000,Zweihander,츠바이헨더,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4050000,Starscourge Greatsword,별 부수는 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4060000,Royal Greatsword,왕가의 그레이트 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4070000,Godslayer's Greatsword,신 사냥의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4080000,Ruins Greatsword,유적의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4100000,Grafted Blade Greatsword,검 잇기의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4110000,Troll Knight's Sword,거인의 마법검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4500000,Ancient Meteoric Ore Greatsword,옛 운철 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4520000,Fire Knight's Greatsword,불의 기사 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4530000,Greatsword of Radahn (Lord),라단의 대검(왕),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4540000,Moonrithyll's Knight Sword,문리델의 기사검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+4550000,Greatsword of Radahn (Light),라단의 대검(빛),ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5000000,Estoc,에스톡,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5010000,Cleanrot Knight's Sword,귀부기사의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5020000,Rapier,레이피어,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5030000,Rogier's Rapier,로지에르의 자검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5040000,Antspur Rapier,개미가시 레이피어,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5050000,Frozen Needle,빙결의 침,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+5060000,Noble's Estoc,귀인의 에스톡,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+6000000,Bloody Helice,피의 헬리케,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+6010000,Godskin Stitcher,신의 살갗 대자검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+6020000,Great Épée,그레이트 에페,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+6040000,Dragon King's Cragblade,용왕의 바위검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+6500000,Queelign's Greatsword,퀼라인의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7000000,Falchion,펄션,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7010000,Beastman's Curved Sword,수인의 곡도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7020000,Shotel,쇼텔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7030000,Shamshir,샴시르,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7040000,Bandit's Curved Sword,산적의 곡도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7050000,Magma Blade,용암도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7060000,Flowing Curved Sword,유수의 곡검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7070000,Wing of Astel,아스테르의 날개,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7080000,Scavenger's Curved Sword,시체 뒤지는 자의 곡검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7100000,Eclipse Shotel,일식의 쇼텔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7110000,Serpent-God's Curved Sword,뱀신의 곡도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7120000,Mantis Blade,당랑도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7140000,Scimitar,시미터,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7150000,Grossmesser,그로스메서,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7500000,Spirit Sword,영의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7510000,Falx,팔스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7520000,Dancing Blade of Ranah,라나의 무도검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+7530000,Horned Warrior's Sword,뿔 전사의 곡검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8010000,Onyx Lord's Greatsword,흑왕의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8020000,Dismounter,참마도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8030000,Bloodhound's Fang,사냥개의 긴 이빨,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8040000,Magma Wyrm's Scalesword,토룡의 비늘검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8050000,Zamor Curved Sword,자미엘의 곡검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8060000,Omen Cleaver,흉조의 아이 대도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8070000,Monk's Flameblade,승병의 화염도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8080000,Beastman's Cleaver,수인의 대곡도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8100000,Morgott's Cursed Sword,모르고트의 저주검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8500000,Putrescence Cleaver,수렁의 큰 나대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8510000,Freyja's Greatsword,프레이야의 대검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8520000,Horned Warrior's Greatsword,뿔 전사의 대곡검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+8530000,Hefty Scimitar,헤비 시미터,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9000000,Uchigatana,타도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9010000,Nagakiba,긴 이빨,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9020000,Hand of Malenia,말레니아의 의수도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9030000,Meteoric Ore Blade,운철도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9040000,Rivers of Blood,시산혈하,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9060000,Moonveil,명도 월은,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9070000,Dragonscale Blade,용비늘도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9080000,Serpentbone Blade,뱀 뼈의 도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+9500000,Sword of Night,밤의 칼날,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10000000,Twinblade,트윈 블레이드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10010000,Godskin Peeler,신의 살갗 쌍날검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10030000,Twinned Knight Swords,트윈 나이트소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10050000,Eleonora's Poleblade,엘레오노라의 쌍치도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10080000,Gargoyle's Twinblade,가고일의 쌍날검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10090000,Gargoyle's Black Blades,가고일의 흑쌍날검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10500000,Euporia,에우포리에,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+10510000,Black Steel Twinblade,흑철 쌍날검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11000000,Mace,메이스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11010000,Club,곤봉,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11030000,Curved Club,굽은 곤봉,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11040000,Warpick,워 피크,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11050000,Morning Star,모닝스타,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11060000,Varré's Bouquet,바레의 꽃다발,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11070000,Spiked Club,이빨 달린 곤봉,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11080000,Hammer,해머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11090000,Monk's Flamemace,승병의 화염망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11100000,Envoy's Horn,사자들의 피리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11110000,Scepter of the All-Knowing,온 지혜의 왕홀,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11120000,Nox Flowing Hammer,녹스의 유체망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11130000,Ringed Finger,반지손가락,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11140000,Stone Club,돌 곤봉,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11150000,Marika's Hammer,마리카의 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+11500000,Flowerstone Gavel,꽃바위 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12000000,Large Club,라지 클럽,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12010000,Greathorn Hammer,큰 뿔 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12020000,Battle Hammer,배틀 해머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12060000,Great Mace,그레이트 메이스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12080000,Curved Great Club,큰 굽은 곤봉,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12130000,Celebrant's Skull,축제의 큰 두개,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12140000,Pickaxe,곡괭이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12150000,Beastclaw Greathammer,짐승 발톱 대형 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12160000,Envoy's Long Horn,사자들의 긴 피리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12170000,Cranial Vessel Candlestand,존안의 촛대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12180000,Great Stars,그레이트스타즈,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12190000,Brick Hammer,적석 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12200000,Devourer's Scepter,세계 먹는 자의 왕홀,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12210000,Rotten Battle Hammer,부패한 배틀 해머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12500000,Smithscript Greathammer,유문의 대형 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12510000,Anvil Hammer,모루 해머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12520000,Black Steel Greathammer,흑철 대형 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+12530000,Bloodfiend's Arm,혈귀의 팔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13000000,Nightrider Flail,밤 기병의 철퇴,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13010000,Flail,철퇴,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13020000,Family Heads,가족의 머리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13030000,Bastard's Stars,떨어진 별들,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13040000,Chainlink Flail,편곤,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13500000,Serpent Flail,불뱀 철퇴,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+13510000,Golden Order Flail,황금률의 철퇴,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14000000,Battle Axe,배틀 액스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14010000,Forked Hatchet,두갈래 손도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14020000,Hand Axe,핸드 액스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14030000,Jawbone Axe,치열 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14040000,Iron Cleaver,철 나대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14050000,Ripple Blade,파문의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14060000,Celebrant's Cleaver,축제의 나대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14080000,Icerind Hatchet,빙각의 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14100000,Highland Axe,하이랜드 액스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14110000,Sacrificial Axe,산 제물 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14120000,Rosus' Axe,로제스의 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14140000,Stormhawk Axe,폭풍 매 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14500000,Smithscript Axe,유문 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14510000,Death Knight's Twin Axes,죽음 기사의 쌍도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14520000,Messmer Soldier's Axe,메스메르 병사의 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+14540000,Forked-Tongue Hatchet,두 갈래 혀 손도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15000000,Greataxe,그레이트 액스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15010000,Warped Axe,일그러진 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15020000,Great Omenkiller Cleaver,흉조잡이의 큰 나대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15030000,Crescent Moon Axe,초승달도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15040000,Axe of Godrick,고드릭의 왕 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15050000,Longhaft Axe,긴 자루 나대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15060000,Rusted Anchor,녹슨 닻,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15080000,Executioner's Greataxe,요참의 큰 나대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15110000,Winged Greathorn,날개의 큰 뿔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15120000,Butchering Knife,해체 식칼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15130000,Gargoyle's Great Axe,가고일의 대형 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15140000,Gargoyle's Black Axe,가고일의 흑도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15500000,Death Knight's Longhaft Axe,죽음 기사의 긴 자루 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+15510000,Bonny Butchering Knife,보니의 부엌칼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16000000,Short Spear,숏 스피어,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16010000,Spear,스피어,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16020000,Crystal Spear,결정창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16030000,Clayman's Harpoon,진흙인간의 작살,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16040000,Cleanrot Spear,귀부기사의 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16050000,Partisan,파르티잔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16060000,Celebrant's Rib-Rake,축제 늑골 쇠스랑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16070000,Pike,파이크,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16080000,Torchpole,막대기 토치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16090000,Bolt of Gransax,그랑삭스의 벼락,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16110000,Cross-Naginata,십문자치도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16120000,Death Ritual Spear,죽음 의례의 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16130000,Inquisitor's Girandole,책문 촛대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16140000,Spiked Spear,가시몽둥이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16150000,Iron Spear,철 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16160000,Rotten Crystal Spear,부패한 결정창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16500000,Smithscript Spear,유문 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16520000,Swift Spear,속창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16540000,Bloodfiend's Fork,혈귀의 포크,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+16550000,Bloodfiend's Sacred Spear,혈귀의 성창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17010000,Mohgwyn's Sacred Spear,모그윈의 성창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17020000,Siluria's Tree,실루리아의 나무창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17030000,Serpent-Hunter,큰 뱀 사냥꾼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17050000,Vyke's War Spear,바이크의 전투 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17060000,Lance,랜스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17070000,Treespear,트리 스피어,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17500000,Spear of the Impaler,가시공의 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17510000,Messmer Soldier's Spear,메스메르 병사의 창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+17520000,Barbed Staff-Spear,역가시 지팡이창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18000000,Halberd,할버드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18010000,Pest's Glaive,벌레의 글레이브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18020000,Lucerne,루체른,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18030000,Banished Knight's Halberd,땅 잃은 기사의 도끼창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18040000,Commander's Standard,노장의 군기,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18050000,Nightrider Glaive,밤 기병의 글레이브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18060000,Ripple Crescent Halberd,일그러진 파문 도끼창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18070000,Vulgar Militia Saw,천한 병사의 톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18080000,Golden Halberd,황금 할버드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18090000,Glaive,글레이브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18100000,Loretta's War Sickle,로레타의 전투 낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18110000,Guardian's Swordspear,수호자의 검창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18130000,Vulgar Militia Shotel,천한 병사의 쇼텔,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18140000,Dragon Halberd,용 할버드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18150000,Gargoyle's Halberd,가고일의 도끼창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18160000,Gargoyle's Black Halberd,가고일의 흑도끼창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18500000,Spirit Glaive,영혼의 글레이브,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+18510000,Poleblade of the Bud,꽃봉오리 치도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+19000000,Scythe,대낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+19010000,Grave Scythe,묘지의 대낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+19020000,Halo Scythe,광륜의 대낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+19060000,Winged Scythe,날개낫,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+19500000,Obsidian Lamina,흑요의 라미나,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20000000,Whip,채찍,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20020000,Thorned Whip,가시 채찍,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20030000,Magma Whip Candlestick,용암 채찍의 촛대,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20050000,Hoslow's Petal Whip,호슬로의 꽃잎,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20060000,Giant's Red Braid,거인의 적발,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20070000,Urumi,우루미,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+20500000,Tooth Whip,이빨 채찍,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21000000,Caestus,세스타스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21010000,Spiked Caestus,스파이크 세스타스,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21060000,Grafted Dragon,접목된 비룡,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21070000,Iron Ball,철구권,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21080000,Star Fist,가시 철구권,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21100000,Katar,카타르,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21110000,Clinging Bone,매달리는 손뼈,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21120000,Veteran's Prosthesis,노장의 의족,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21130000,Cipher Pata,비문자의 파타,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21500000,Thiollier's Hidden Needle,티에리에의 숨긴 침,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21510000,Pata,파타,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21520000,Poisoned Hand,독의 손,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21530000,Madding Hand,미친 손,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21540000,Golem Fist,골렘의 주먹,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+21550000,Shield of Night,밤의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+22000000,Hookclaws,갈고리 발톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+22010000,Venomous Fang,독사의 이빨,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+22020000,Bloodhound Claws,사냥개의 발톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+22030000,Raptor Talons,맹금의 발톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+22500000,Claws of Night,밤의 손톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23000000,Prelate's Inferno Crozier,주교의 대형 화염 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23010000,Watchdog's Staff,파수견의 석장,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23020000,Great Club,그레이트 클럽,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23030000,Envoy's Greathorn,사자들의 부채피리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23040000,Duelist Greataxe,투사의 대형 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23050000,Axe of Godfrey,고드프리의 왕 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23060000,Dragon Greatclaw,대룡조,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23070000,Staff of the Avatar,화신의 의장,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23080000,Fallingstar Beast Jaw,성수의 턱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23100000,Ghiza's Wheel,기자의 수레바퀴,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23110000,Giant-Crusher,거인 부수기,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23120000,Golem's Halberd,골렘의 도끼창,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23130000,Troll's Hammer,트롤 해머,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23140000,Rotten Staff,부패한 의장,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23150000,Rotten Greataxe,부패한 대형 도끼,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23500000,Devonia's Hammer,데보니아의 대형 망치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23510000,Shadow Sunflower Blossom,큰 영륜초 꽃,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+23520000,Gazing Finger,바라보는 손가락,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24000000,Torch,횃불,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24020000,Steel-Wire Torch,강선 토치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24040000,St. Trina's Torch,트리나의 등불,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24050000,Ghostflame Torch,영혼 불 토치,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24060000,Beast-Repellent Torch,짐승 쫓는 횃불,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24070000,Sentry's Torch,보초의 횃불,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24500000,Nanaya's Torch,나나야의 등불,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+24510000,Lamenting Visage,한탄하는 목,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30000000,Buckler,버클러,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30010000,Perfumer's Shield,조향사의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30020000,Man-Serpent's Shield,뱀인간의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30030000,Rickety Shield,거의 망가진 나무 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30040000,Pillory Shield,멍에 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30060000,Beastman's Jar-Shield,수인의 항아리 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30070000,Red Thorn Roundshield,붉은 가시 목제 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30080000,Scripture Wooden Shield,성구의 목제 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30090000,Riveted Wooden Shield,쇠 압정 목제 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30100000,Blue-White Wooden Shield,청백 목제 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30110000,Rift Shield,갈라짐의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30120000,Iron Roundshield,철제 원형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30130000,Gilded Iron Shield,금장 철제 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30140000,Ice Crest Shield,얼음 문양 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30150000,Smoldering Shield,그을림의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30190000,Spiralhorn Shield,뿔 회오리 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30200000,Coil Shield,똬리 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+30510000,Smithscript Shield,유문 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31000000,Kite Shield,카이트 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31010000,Marred Leather Shield,침식된 가죽 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31020000,Marred Wooden Shield,침식된 목제 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31030000,Banished Knight's Shield,땅 잃은 기사의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31040000,Albinauric Shield,백금의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31050000,Sun Realm Shield,태양 도읍의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31060000,Silver Mirrorshield,백은의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31070000,Round Shield,라운드 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31080000,Scorpion Kite Shield,전갈의 카이트 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31090000,Twinbird Kite Shield,쌍조의 카이트 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31100000,Blue-Gold Kite Shield,청금의 카이트 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31130000,Brass Shield,놋쇠 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31140000,Great Turtle Shell,큰 거북의 등딱지,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31170000,Shield of the Guilty,죄인의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31190000,Carian Knight's Shield,카리아의 기사 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31230000,Large Leather Shield,라지 레더 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31240000,Horse Crest Wooden Shield,말 문양 우드 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31250000,Candletree Wooden Shield,촛불나무 우드 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31260000,Flame Crest Wooden Shield,화염 문양 우드 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31270000,Hawk Crest Wooden Shield,매 문양 우드 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31280000,Beast Crest Heater Shield,짐승 문양 히터 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31290000,Red Crest Heater Shield,붉은 문양 히터 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31300000,Blue Crest Heater Shield,푸른 문양 히터 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31310000,Eclipse Crest Heater Shield,일식 문양 히터 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31320000,Inverted Hawk Heater Shield,뒤집힌 매 히터 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31330000,Heater Shield,히터 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31340000,Black Leather Shield,블랙 레더 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31500000,Messmer Soldier Shield,메스메르 병사의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31510000,Wolf Crest Shield,늑대 문양 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31520000,Serpent Crest Shield,뱀 문양 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31530000,Golden Lion Shield,황금 사자 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+31540000,Silver Grooved Shield,홈 파인 은 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32000000,Dragon Towershield,용의 타워 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32020000,Distinguished Greatshield,명가의 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32030000,Crucible Hornshield,도가니의 뿔 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32040000,Dragonclaw Shield,용 발톱의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32050000,Briar Greatshield,철가시 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32080000,Erdtree Greatshield,황금 나무의 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32090000,Golden Beast Crest Shield,짐승 문양 황금 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32120000,Jellyfish Shield,해파리의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32130000,Fingerprint Stone Shield,지문석의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32140000,Icon Shield,신성화의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32150000,One-Eyed Shield,외눈 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32160000,Visage Shield,안면 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32170000,Spiked Palisade Shield,압정 벽 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32190000,Manor Towershield,성관의 타워 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32200000,Crossed-Tree Towershield,교차수 타워 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32210000,Inverted Hawk Towershield,뒤집힌 매 타워 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32220000,Ant's Skull Plate,개미의 두갑,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32230000,Redmane Greatshield,붉은 사자의 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32240000,Eclipse Crest Greatshield,일식 문양 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32250000,Cuckoo Greatshield,뻐꾸기 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32260000,Golden Greatshield,황금의 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32270000,Gilded Greatshield,금장 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32280000,Haligtree Crest Greatshield,성수 문양 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32290000,Wooden Greatshield,목제 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32300000,Lordsworn's Shield,군주군의 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32500000,Black Steel Greatshield,흑철 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+32520000,Verdigris Greatshield,녹청 대형 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33000000,Glintstone Staff,휘석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33040000,Crystal Staff,결정 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33050000,Gelmir Glintstone Staff,겔미어의 휘석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33060000,Demi-Human Queen's Staff,아인 여왕의 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33090000,Carian Regal Scepter,카리아의 왕홀,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33120000,Digger's Staff,채석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33130000,Astrologer's Staff,별점 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33170000,Carian Glintblade Staff,카리아의 휘검 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33180000,Prince of Death's Staff,죽음의 왕자의 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33190000,Albinauric Staff,백금 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33200000,Academy Glintstone Staff,학원의 휘석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33210000,Carian Glintstone Staff,카리아의 휘석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33230000,Azur's Glintstone Staff,아줄의 휘석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33240000,Lusat's Glintstone Staff,루사트의 휘석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33250000,Meteorite Staff,운석 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33260000,Staff of the Guilty,죄인의 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33270000,Rotten Crystal Staff,부패한 결정 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33280000,Staff of Loss,상실의 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33510000,Staff of the Great Beyond,위대한 저편의 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+33520000,Maternal Staff,어머니의 지팡이,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34000000,Finger Seal,손가락의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34010000,Godslayer's Seal,신 사냥의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34020000,Giant's Seal,거인의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34030000,Gravel Stone Seal,조약돌의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34040000,Clawmark Seal,발톱 자국의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34060000,Golden Order Seal,황금률의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34070000,Erdtree Seal,황금 나무의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34080000,Dragon Communion Seal,용찬의 표식,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34090000,Frenzied Flame Seal,미친 불의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34500000,Dryleaf Seal,낙엽의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34510000,Fire Knight's Seal,불의 기사의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+34520000,Spiraltree Seal,나선 나무의 성인,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40000000,Shortbow,숏 보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40010000,Misbegotten Shortbow,혼종의 숏 보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40020000,Red Branch Shortbow,붉은 나무 숏 보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40030000,Harp Bow,하프 보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40050000,Composite Bow,컴포지트 보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+40500000,Bone Bow,뼈 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41000000,Longbow,롱보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41010000,Albinauric Bow,백금의 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41020000,Horn Bow,뿔 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41030000,Erdtree Bow,황금 나무의 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41040000,Serpent Bow,뱀 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41060000,Pulley Bow,도르래 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41070000,Black Bow,검은 활,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+41510000,Ansbach's Longbow,안스바흐의 장궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+42000000,Lion Greatbow,사자의 대궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+42010000,Golem Greatbow,골렘의 대궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+42030000,Erdtree Greatbow,황금 나무의 대궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+42040000,Greatbow,대궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+42500000,Igon's Greatbow,에이곤의 대궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43000000,Soldier's Crossbow,병사의 석궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43020000,Light Crossbow,라이트 크로스보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43030000,Heavy Crossbow,헤비 크로스보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43050000,Pulley Crossbow,도르래 석궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43060000,Full Moon Crossbow,월륜의 석궁,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43080000,Arbalest,아바레스트,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43110000,Crepus's Black-Key Crossbow,크레푸스의 흑건,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43500000,Repeating Crossbow,연노,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+43510000,Spread Crossbow,산탄 크로스보우,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+44000000,Hand Ballista,핸디 발리스타,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+44010000,Jar Cannon,대포 항아리,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+44500000,Rabbath's Cannon,라바스의 대포,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+60500000,Dryleaf Arts,낙엽 격투,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+60510000,Dane's Footwork,단류 발차기술,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61500000,Firespark Perfume Bottle,불꽃의 조향병,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61510000,Chilling Perfume Bottle,냉기의 조향병,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61520000,Frenzyflame Perfume Bottle,미친 불의 조향병,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61530000,Lightning Perfume Bottle,벼락의 조향병,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+61540000,Deadly Poison Perfume Bottle,맹독의 조향병,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+62500000,Dueling Shield,듀얼링 실드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+62510000,Carian Thrusting Shield,카리아의 관통 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+62520000,Ritual Thrusting Shield,봉투용 관통 방패,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+63500000,Smithscript Dagger,유문 단검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+64500000,Backhand Blade,역수검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+64510000,Smithscript Cirque,유문 차크람,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+64520000,Curseblade's Cirque,주검사의 차크람,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+64530000,Reverse-Bladed Sword,역날 곡검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+66500000,Great Katana,대도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+66510000,Dragon-Hunter's Great Katana,용 사냥꾼의 대도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+66520000,Rakshasa's Great Katana,나찰의 대도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+66530000,Reed Great Katana,갈대의 대형 도,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+67500000,Milady,레이디 소드,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+67510000,Leda's Sword,레다의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+67520000,Rellana's Twin Blades,렐라나의 쌍검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+67530000,Idus Sword,이데스의 검,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+68500000,Beast Claw,짐승 발톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치
+68510000,Red Bear's Claw,붉은곰의 발톱,ok,game-text,게임 텍스트(msg/korKR·engUS) 직접 대조 일치

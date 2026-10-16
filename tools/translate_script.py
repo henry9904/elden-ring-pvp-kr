@@ -16,6 +16,7 @@ Safety properties:
      ordering (longer phrase replaced first).
 """
 import argparse
+import csv
 import re
 import sys
 from pathlib import Path
@@ -341,7 +342,47 @@ def _audit(translations: dict) -> None:
         )
 
 
+# Categories of glossary/exports/names.csv that hold item names. "terms" is skipped on purpose:
+# its weapon-class names collide with weapon names (e.g. the weapon "Dagger" vs the class "Dagger").
+_GLOSSARY_CATEGORIES = {"weapons", "armor", "talismans", "goods"}
+GLOSSARY_CSV = REPO_ROOT / "glossary" / "exports" / "names.csv"
+
+
+def load_glossary() -> dict:
+    """English item name -> official Korean name, from the glossary export.
+
+    Names that map to more than one different Korean name are left out (ambiguous).
+    """
+    if not GLOSSARY_CSV.exists():
+        sys.exit(f"glossary export not found: {GLOSSARY_CSV} (run: python glossary/tools/export_names.py)")
+    found: dict = {}
+    with GLOSSARY_CSV.open(encoding="utf-8-sig", newline="") as f:
+        for row in csv.DictReader(f):
+            if row["category"] not in _GLOSSARY_CATEGORIES or not row["ko"]:
+                continue
+            found.setdefault(row["en"], set()).add(row["ko"])
+    return {en: next(iter(kos)) for en, kos in found.items() if len(kos) == 1}
+
+
+def with_glossary(translations: dict, glossary: dict) -> tuple[dict, list]:
+    """Copy of translations where English keys point at the glossary's Korean name.
+
+    Only keys that are exactly a known English item name are touched; the Korean -> Korean
+    correction keys stay as they are. Returns (new_translations, [(key, old, new), ...]).
+    """
+    merged = dict(translations)
+    changed = []
+    for key, old in translations.items():
+        new = glossary.get(key)
+        if new and new != old:
+            merged[key] = new
+            changed.append((key, old, new))
+    return merged, changed
+
+
 def main():
+    if not sys.stdout.isatty() and hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")  # readable output when piped (e.g. by an agent)
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument(
         "--apply", action="store_true",
@@ -352,9 +393,30 @@ def main():
         metavar="PATH",
         help="Additional file to translate (repeatable). DEFAULT_TARGETS are always included.",
     )
+    ap.add_argument(
+        "--use-glossary", action="store_true",
+        help="For English item names, use the Korean name from glossary/exports/names.csv "
+             "instead of the value in TRANSLATIONS.",
+    )
+    ap.add_argument(
+        "--glossary-report", action="store_true",
+        help="List English keys whose TRANSLATIONS value differs from the glossary, then exit.",
+    )
     args = ap.parse_args()
 
-    _audit(TRANSLATIONS)
+    translations = TRANSLATIONS
+    if args.use_glossary or args.glossary_report:
+        glossary = load_glossary()
+        translations, changed = with_glossary(TRANSLATIONS, glossary)
+        english_keys = [k for k in TRANSLATIONS if k in glossary]
+        print(f"  glossary: {len(english_keys)} English key(s) found in the glossary, "
+              f"{len(changed)} differ from TRANSLATIONS")
+        if args.glossary_report:
+            for key, old, new in changed:
+                print(f"    {key}: {old}  ->  {new}")
+            return 0
+
+    _audit(translations)
 
     targets = list(DEFAULT_TARGETS) + args.target
     total_count = 0
@@ -364,7 +426,7 @@ def main():
             print(f"  skip (not found): {path}")
             continue
         original = path.read_text(encoding="utf-8")
-        new_text, count = apply_translations(original, TRANSLATIONS)
+        new_text, count = apply_translations(original, translations)
         rel = path.relative_to(REPO_ROOT) if path.is_relative_to(REPO_ROOT) else path
         if count == 0:
             print(f"  unchanged: {rel}")

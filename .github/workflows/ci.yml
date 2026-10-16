@@ -64,6 +64,12 @@ jobs:
       - name: Verify DB ETL Pipeline executes successfully
         run: python tools/db_etl_pipeline.py
 
+      - name: Validate glossary outputs (no errors)
+        run: python glossary/tools/check_glossary.py all
+
+      - name: Check glossary exports are in sync with the master
+        run: python glossary/tools/export_names.py --check
+
   build:
     name: Build Site
     runs-on: ubuntu-latest

@@ -41,7 +41,7 @@
 |------|------|
 | **MithMaps** — 2vs2 Tournament Mod | [🔗 GitHub](https://github.com/Mithsril/MithMaps) |
 | **Better Multiplayer** (DEN2) — navigate to latest version | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/BetterMultiplayer/releases) |
-| **DEN Maps** (DEN1) — navigate to latest version | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/DEN-Maps-Release/releases/tag/v1.7.0-beta19) |
+| **DEN Maps** (DEN1) — navigate to latest version | [🔗 GitHub (DEN organization page)](https://github.com/DuelistEventNetwork) |
 | **Steam P2P Info** — see latency between players in your world | [🔗 GitHub Releases](https://github.com/tremwil/SteamP2PInfo/releases) |
 
 > [!CAUTION]

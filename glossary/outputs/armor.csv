@@ -27,7 +27,7 @@ id,en,ko,status,source,note
 100100,Perfumer's Traveling Garb,조향사의 여행복,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 100200,Traveler's Gloves,여행 장갑,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 100300,Traveler's Slops,여행 바지,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
-101100,Perfumer's Traveling Garb (Altered),조향자의 여행복(경장),ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
+101100,Perfumer's Traveling Garb (Altered),조향사의 여행복(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인 (이전: 조향자의 여행복(경장))"
 120000,Alberich's Pointed Hat,알베리히의 뾰족모자,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 120100,Alberich's Robe,알베리히의 옷,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 120200,Alberich's Bracers,알베리히의 장갑,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
@@ -558,166 +558,166 @@ id,en,ko,status,source,note
 2010000,Mushroom Crown,버섯 왕관,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 2020000,Black Dumpling,검은 경단,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 2030000,Lazuli Robe,라줄리의 로브,ok,other,공개 한영 ProtectorName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
-3000000,Dane's Hat,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Dane's Hat"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-3000100,Dryleaf Robe,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Dryleaf Robe' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-3000200,Dryleaf Arm Wraps,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Dryleaf Arm Wraps' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-3000300,Dryleaf Cuissardes,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Dryleaf Cuissardes' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-3001100,Dryleaf Robe (Altered),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Dryleaf Robe (Altered)' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-3010000,Gaius's Helm,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Gaius's Helm"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-3010100,Gaius's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Gaius's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-3010200,Gaius's Gauntlets,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Gaius's Gauntlets"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-3010300,Gaius's Greaves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Gaius's Greaves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5000000,Oathseeker Knight Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Oathseeker Knight Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5000100,Leda's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Leda's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5000200,Oathseeker Knight Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Oathseeker Knight Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5000300,Oathseeker Knight Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Oathseeker Knight Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5002100,Oathseeker Knight Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Oathseeker Knight Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5010000,Verdigris Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Verdigris Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5010100,Verdigris Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Verdigris Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5010200,Verdigris Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Verdigris Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5010300,Verdigris Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Verdigris Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5020000,Pelt of Ralva,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Pelt of Ralva' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5020100,Iron Rivet Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Iron Rivet Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5020200,Iron Rivet Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Iron Rivet Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5020300,Iron Rivet Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Iron Rivet Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5021000,Fang Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Fang Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5030000,Thiollier's Mask,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Thiollier's Mask"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5030100,Thiollier's Garb,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Thiollier's Garb"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5030200,Thiollier's Gloves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Thiollier's Gloves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5030300,Thiollier's Trousers,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Thiollier's Trousers"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5031100,Thiollier's Garb (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Thiollier's Garb (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5060000,High Priest Hat,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='High Priest Hat' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5060100,High Priest Robe,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='High Priest Robe' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5060200,High Priest Gloves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='High Priest Gloves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5060300,High Priest Undergarments,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='High Priest Undergarments' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5062100,Finger Robe,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Finger Robe' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5070000,Caterpillar Mask,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Caterpillar Mask' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5070100,Braided Cord Robe,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Braided Cord Robe' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5070200,Braided Arm Wraps,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Braided Arm Wraps' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5070300,Soiled Loincloth,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Soiled Loincloth' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5080000,Dancer's Hood,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Dancer's Hood"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5080100,Dancer's Dress,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Dancer's Dress"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5080200,Dancer's Bracer,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Dancer's Bracer"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5080300,Dancer's Trousers,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Dancer's Trousers"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5081100,Dancer's Dress (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Dancer's Dress (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5090000,Helm of Night,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Helm of Night' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5090100,Armor of Night,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Armor of Night' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5090200,Gauntlets of Night,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gauntlets of Night' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5090300,Greaves of Night,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Greaves of Night' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5100000,Igon's Helm,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Igon's Helm"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5100100,Igon's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Igon's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5100200,Igon's Gauntlets,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Igon's Gauntlets"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5100300,Igon's Loincloth,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Igon's Loincloth"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5101000,Igon's Helm (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Igon's Helm (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5101100,Igon's Armor (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Igon's Armor (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5110000,Wise Man's Mask,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Wise Man's Mask"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5110100,Ansbach's Attire,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ansbach's Attire"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5110200,Ansbach's Manchettes,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ansbach's Manchettes"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5110300,Ansbach's Boots,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ansbach's Boots"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5111100,Ansbach's Attire (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ansbach's Attire (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5120000,Freyja's Helm,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Freyja's Helm"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5120100,Freyja's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Freyja's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5120200,Freyja's Gauntlets,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Freyja's Gauntlets"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5120300,Freyja's Greaves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Freyja's Greaves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5121100,Freyja's Armor (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Freyja's Armor (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5130000,Helm of Solitude,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Helm of Solitude' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5130100,Armor of Solitude,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Armor of Solitude' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5130200,Gauntlets of Solitude,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gauntlets of Solitude' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5130300,Greaves of Solitude,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Greaves of Solitude' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5131100,Armor of Solitude (Altered),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Armor of Solitude (Altered)' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5140000,Messmer Soldier Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Messmer Soldier Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5140100,Messmer Soldier Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Messmer Soldier Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5140200,Messmer Soldier Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Messmer Soldier Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5140300,Messmer Soldier Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Messmer Soldier Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5141100,Messmer Soldier Armor (Altered),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Messmer Soldier Armor (Altered)' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5150000,Black Knight Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Black Knight Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5150100,Black Knight Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Black Knight Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5150200,Black Knight Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Black Knight Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5150300,Black Knight Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Black Knight Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5160000,Rakshasa Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Rakshasa Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5160100,Rakshasa Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Rakshasa Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5160200,Rakshasa Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Rakshasa Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5160300,Rakshasa Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Rakshasa Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5180000,Fire Knight Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Fire Knight Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5180100,Fire Knight Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Fire Knight Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5180200,Fire Knight Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Fire Knight Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5180300,Fire Knight Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Fire Knight Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5181100,Fire Knight Armor (Altered),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Fire Knight Armor (Altered)' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5182000,Death Mask Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Death Mask Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5183000,Winged Serpent Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Winged Serpent Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5184000,Salza's Hood,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Salza's Hood"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5190000,Leather Headband,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Leather Headband' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5190100,Gloried Attire,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gloried Attire' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5190200,Leather Arm Wraps,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Leather Arm Wraps' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5190300,Leather Leg Wraps,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Leather Leg Wraps' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5191000,Leather Crown,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Leather Crown' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5191100,Highland Attire,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Highland Attire' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5200000,Death Knight Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Death Knight Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5200100,Death Knight Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Death Knight Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5200200,Death Knight Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Death Knight Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5200300,Death Knight Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Death Knight Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5210000,Curseblade Mask,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Curseblade Mask' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5210100,Ascetic's Loincloth,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ascetic's Loincloth"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5210200,Ascetic's Wrist Guards,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ascetic's Wrist Guards"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5210300,Ascetic's Ankle Guards,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Ascetic's Ankle Guards"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5220000,Messmer's Helm,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Messmer's Helm"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5220100,Messmer's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Messmer's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5220200,Messmer's Gauntlets,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Messmer's Gauntlets"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5220300,Messmer's Greaves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Messmer's Greaves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5221000,Messmer's Helm (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Messmer's Helm (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5230000,Gravebird Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gravebird Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5230100,Gravebird's Blackquill Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Gravebird's Blackquill Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5230200,Gravebird Bracelets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gravebird Bracelets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5230300,Gravebird Anklets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gravebird Anklets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5231100,Gravebird Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Gravebird Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5240000,Common Soldier Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Common Soldier Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5240100,Common Soldier Cloth Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Common Soldier Cloth Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5240200,Common Soldier Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Common Soldier Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5240300,Common Soldier Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Common Soldier Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5250000,Horned Warrior Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Horned Warrior Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5250100,Horned Warrior Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Horned Warrior Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5250200,Horned Warrior Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Horned Warrior Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5250300,Horned Warrior Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Horned Warrior Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5252000,Divine Beast Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Beast Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5252100,Divine Beast Warrior Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Beast Warrior Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5253000,Divine Bird Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Bird Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5253100,Divine Bird Warrior Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Bird Warrior Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5253200,Divine Bird Warrior Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Bird Warrior Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5253300,Divine Bird Warrior Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Bird Warrior Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5260000,Rellana's Helm,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Rellana's Helm"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5260100,Rellana's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Rellana's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5260200,Rellana's Gloves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Rellana's Gloves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5260300,Rellana's Greaves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Rellana's Greaves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5270000,Young Lion's Helm,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Young Lion's Helm"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5270100,Young Lion's Armor,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Young Lion's Armor"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5270200,Young Lion's Gauntlets,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Young Lion's Gauntlets"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5270300,Young Lion's Greaves,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Young Lion's Greaves"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5271100,Young Lion's Armor (Altered),,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""Young Lion's Armor (Altered)"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5272000,Circlet of Light,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Circlet of Light' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5280000,Shadow Militiaman Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Shadow Militiaman Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5280100,Shadow Militiaman Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Shadow Militiaman Armor' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5280200,Shadow Militiaman Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Shadow Militiaman Gauntlets' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5280300,Shadow Militiaman Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Shadow Militiaman Greaves' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5290000,Divine Beast Head,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Divine Beast Head' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5300000,St. Trina's Blossom,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc=""St. Trina's Blossom"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)"
-5310000,Crucible Hammer-Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Crucible Hammer-Helm' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5320000,Greatjar,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Greatjar' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5330000,Imp Head (Lion),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: ProtectorName_dlc='Imp Head (Lion)' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/ProtectorName_dlc01.fmg.xml)
-5340000,Broken Gold Mask,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5340100,Gold Tattoo (Chest),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5340200,Gold Tattoo (Arm),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5340300,Gold Tattoo (Leg),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5350000,Silver Grooved Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5350100,Silver Grooved Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5350200,Silver Grooved Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5350300,Silver Grooved Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5351100,Silver Grooved Armor (Altered),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5360000,Leontiel's Hat,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5360100,Leontiel's Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5360200,Leontiel's Leather Gloves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5360300,Leontiel's Boots,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5361000,Leontiel's Hat (Altered),,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5370000,Steel Helm,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5370100,Steel Armor,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5370200,Steel Gauntlets,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
-5370300,Steel Greaves,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함
+3000000,Dane's Hat,단의 모자,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3000100,Dryleaf Robe,낙엽파의 로브,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3000200,Dryleaf Arm Wraps,낙엽파의 팔띠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3000300,Dryleaf Cuissardes,낙엽파의 부츠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3001100,Dryleaf Robe (Altered),낙엽파의 로브(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3010000,Gaius's Helm,가이우스의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3010100,Gaius's Armor,가이우스의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3010200,Gaius's Gauntlets,가이우스의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+3010300,Gaius's Greaves,가이우스의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5000000,Oathseeker Knight Helm,서약기사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5000100,Leda's Armor,레다의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5000200,Oathseeker Knight Gauntlets,서약기사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5000300,Oathseeker Knight Greaves,서약기사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5002100,Oathseeker Knight Armor,서약기사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5010000,Verdigris Helm,녹청 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5010100,Verdigris Armor,녹청 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5010200,Verdigris Gauntlets,녹청 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5010300,Verdigris Greaves,녹청 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5020000,Pelt of Ralva,랄바의 모피,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5020100,Iron Rivet Armor,철 못 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5020200,Iron Rivet Gauntlets,철 못 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5020300,Iron Rivet Greaves,철 못 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5021000,Fang Helm,엄니 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5030000,Thiollier's Mask,티에리에의 가면,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5030100,Thiollier's Garb,티에리에의 옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5030200,Thiollier's Gloves,티에리에의 긴 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5030300,Thiollier's Trousers,티에리에의 바지,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5031100,Thiollier's Garb (Altered),티에리에의 옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5060000,High Priest Hat,대사제의 모자,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5060100,High Priest Robe,대사제의 긴 옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5060200,High Priest Gloves,대사제의 긴 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5060300,High Priest Undergarments,대사제의 속바지,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5062100,Finger Robe,손가락의 긴 옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5070000,Caterpillar Mask,털벌레 가면,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5070100,Braided Cord Robe,엮은 밧줄 로브,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5070200,Braided Arm Wraps,밧줄 팔띠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5070300,Soiled Loincloth,꾀죄죄한 속옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5080000,Dancer's Hood,무희의 후드,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5080100,Dancer's Dress,무희의 드레스,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5080200,Dancer's Bracer,무희의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5080300,Dancer's Trousers,무희의 바지,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5081100,Dancer's Dress (Altered),무희의 드레스(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5090000,Helm of Night,밤의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5090100,Armor of Night,밤의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5090200,Gauntlets of Night,밤의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5090300,Greaves of Night,밤의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5100000,Igon's Helm,에이곤의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5100100,Igon's Armor,에이곤의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5100200,Igon's Gauntlets,에이곤의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5100300,Igon's Loincloth,에이곤의 허리끈,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5101000,Igon's Helm (Altered),에이곤의 투구(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5101100,Igon's Armor (Altered),에이곤의 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5110000,Wise Man's Mask,늙은 현자의 가면,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5110100,Ansbach's Attire,안스바흐의 옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5110200,Ansbach's Manchettes,안스바흐의 팔띠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5110300,Ansbach's Boots,안스바흐의 부츠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5111100,Ansbach's Attire (Altered),안스바흐의 옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5120000,Freyja's Helm,프레이야의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5120100,Freyja's Armor,프레이야의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5120200,Freyja's Gauntlets,프레이야의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5120300,Freyja's Greaves,프레이야의 정강이받이,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5121100,Freyja's Armor (Altered),프레이야의 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5130000,Helm of Solitude,고립 감옥의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5130100,Armor of Solitude,고립 감옥의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5130200,Gauntlets of Solitude,고립 감옥의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5130300,Greaves of Solitude,고립 감옥의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5131100,Armor of Solitude (Altered),고립 감옥의 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5140000,Messmer Soldier Helm,메스메르 병사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5140100,Messmer Soldier Armor,메스메르 병사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5140200,Messmer Soldier Gauntlets,메스메르 병사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5140300,Messmer Soldier Greaves,메스메르 병사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5141100,Messmer Soldier Armor (Altered),메스메르 병사의 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5150000,Black Knight Helm,흑기사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5150100,Black Knight Armor,흑기사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5150200,Black Knight Gauntlets,흑기사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5150300,Black Knight Greaves,흑기사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5160000,Rakshasa Helm,나찰의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5160100,Rakshasa Armor,나찰의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5160200,Rakshasa Gauntlets,나찰의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5160300,Rakshasa Greaves,나찰의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5180000,Fire Knight Helm,불의 기사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5180100,Fire Knight Armor,불의 기사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5180200,Fire Knight Gauntlets,불의 기사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5180300,Fire Knight Greaves,불의 기사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5181100,Fire Knight Armor (Altered),불의 기사의 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5182000,Death Mask Helm,죽은 얼굴 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5183000,Winged Serpent Helm,날개 달린 뱀 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5184000,Salza's Hood,잘차의 후드,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5190000,Leather Headband,가죽 머리띠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5190100,Gloried Attire,영예의 옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5190200,Leather Arm Wraps,가죽 팔띠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5190300,Leather Leg Wraps,가죽 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5191000,Leather Crown,가죽 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5191100,Highland Attire,고지의 옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5200000,Death Knight Helm,죽음 기사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5200100,Death Knight Armor,죽음 기사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5200200,Death Knight Gauntlets,죽음 기사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5200300,Death Knight Greaves,죽음 기사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5210000,Curseblade Mask,주검사의 가면,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5210100,Ascetic's Loincloth,수행자의 허리끈,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5210200,Ascetic's Wrist Guards,수행자의 팔찌,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5210300,Ascetic's Ankle Guards,수행자의 발찌,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5220000,Messmer's Helm,메스메르의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5220100,Messmer's Armor,메스메르의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5220200,Messmer's Gauntlets,메스메르의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5220300,Messmer's Greaves,메스메르의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5221000,Messmer's Helm (Altered),메스메르의 투구(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5230000,Gravebird Helm,묘지기 새의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5230100,Gravebird's Blackquill Armor,묘지기 새의 깃털 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5230200,Gravebird Bracelets,묘지기 새의 팔찌,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5230300,Gravebird Anklets,묘지기 새의 발찌,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5231100,Gravebird Armor,묘지기 새의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5240000,Common Soldier Helm,졸병의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5240100,Common Soldier Cloth Armor,졸병의 천 갑옷,unsure,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인; 같은 한국어 이름이 다른 아이템(Foot Soldier Tabard)에도 쓰임"
+5240200,Common Soldier Gauntlets,졸병의 장갑,unsure,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인; 같은 한국어 이름이 다른 아이템(Foot Soldier Gauntlets)에도 쓰임"
+5240300,Common Soldier Greaves,졸병의 각반,unsure,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인; 같은 한국어 이름이 다른 아이템(Foot Soldier Greaves)에도 쓰임"
+5250000,Horned Warrior Helm,뿔 전사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5250100,Horned Warrior Armor,뿔 전사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5250200,Horned Warrior Gauntlets,뿔 전사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5250300,Horned Warrior Greaves,뿔 전사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5252000,Divine Beast Helm,신수의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5252100,Divine Beast Warrior Armor,신수 전사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5253000,Divine Bird Helm,신조의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5253100,Divine Bird Warrior Armor,신조 전사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5253200,Divine Bird Warrior Gauntlets,신조 전사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5253300,Divine Bird Warrior Greaves,신조 전사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5260000,Rellana's Helm,렐라나의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5260100,Rellana's Armor,렐라나의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5260200,Rellana's Gloves,렐라나의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5260300,Rellana's Greaves,렐라나의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5270000,Young Lion's Helm,젊은 사자의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5270100,Young Lion's Armor,젊은 사자의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5270200,Young Lion's Gauntlets,젊은 사자의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5270300,Young Lion's Greaves,젊은 사자의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5271100,Young Lion's Armor (Altered),젊은 사자의 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5272000,Circlet of Light,빛의 관,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5280000,Shadow Militiaman Helm,그림자 천한 병사의 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5280100,Shadow Militiaman Armor,그림자 천한 병사의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5280200,Shadow Militiaman Gauntlets,그림자 천한 병사의 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5280300,Shadow Militiaman Greaves,그림자 천한 병사의 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5290000,Divine Beast Head,신수의 머리,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5300000,St. Trina's Blossom,트리나의 한 송이 꽃,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5310000,Crucible Hammer-Helm,도가니의 망치 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5320000,Greatjar,큰 항아리머리,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5330000,Imp Head (Lion),임프 머리(사자),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5340000,Broken Gold Mask,파쇄된 금가면,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5340100,Gold Tattoo (Chest),황금의 문신(몸통),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5340200,Gold Tattoo (Arm),황금의 문신(팔),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5340300,Gold Tattoo (Leg),황금의 문신(다리),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5350000,Silver Grooved Helm,홈 파인 은 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5350100,Silver Grooved Armor,홈 파인 은 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5350200,Silver Grooved Gauntlets,홈 파인 은 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5350300,Silver Grooved Greaves,홈 파인 은 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5351100,Silver Grooved Armor (Altered),홈 파인 은 갑옷(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5360000,Leontiel's Hat,레오티엘의 모자,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5360100,Leontiel's Armor,레오티엘의 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5360200,Leontiel's Leather Gloves,레오티엘의 가죽 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5360300,Leontiel's Boots,레오티엘의 부츠,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5361000,Leontiel's Hat (Altered),레오티엘의 모자(경장),ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5370000,Steel Helm,강철 투구,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5370100,Steel Armor,강철 갑옷,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5370200,Steel Gauntlets,강철 장갑,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+5370300,Steel Greaves,강철 각반,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"

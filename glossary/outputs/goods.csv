@@ -147,49 +147,49 @@ id,en,ko,status,source,note
 11029,Magic-Shrouding Cracked Tear,마력 두른 깨진 물방울,ok,other,공개 한영 GoodsName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 11030,Lightning-Shrouding Cracked Tear,벼락 두른 깨진 물방울,ok,other,공개 한영 GoodsName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
 11031,Holy-Shrouding Cracked Tear,신성 두른 깨진 물방울,ok,other,공개 한영 GoodsName 동일 ID 대조; KO: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/korkr/item.msgbnd.dcx.json; EN: https://raw.githubusercontent.com/elden-ring-data/msg/4bbba478e478e9018d0293e0b18cd8cf706199e9/engus/item.msgbnd.dcx.json; 로컬 게임 추출 아님
-2000380,Hefty Oil Pot,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Hefty Oil Pot' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2000910,Lulling Branch,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Lulling Branch' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001100,Dragon Communion Flesh,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Dragon Communion Flesh' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001105,Dragonscale Flesh,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Dragonscale Flesh' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001110,Fingerprint Nostrum,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Fingerprint Nostrum' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001120,Spellproof Pickled Liver,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Spellproof Pickled Liver' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001130,Fireproof Pickled Liver,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Fireproof Pickled Liver' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001140,Lightningproof Pickled Liver,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Lightningproof Pickled Liver' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001150,Holyproof Pickled Liver,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Holyproof Pickled Liver' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001160,Opaline Pickled Liver,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Opaline Pickled Liver' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001170,Well-Pickled Turtle Neck,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Well-Pickled Turtle Neck' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001202,Scorpion Stew,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Scorpion Stew' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001203,Gourmet Scorpion Stew,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Gourmet Scorpion Stew' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001210,Sacred Bloody Flesh,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Sacred Bloody Flesh' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001220,Silver Horn Tender,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Silver Horn Tender' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001230,Golden Horn Tender,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Golden Horn Tender' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001400,Messmerfire Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Messmerfire Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001410,Dragonbolt Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Dragonbolt Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001420,Royal Magic Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Royal Magic Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001430,Golden Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Golden Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001450,Eternal Sleep Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Eternal Sleep Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001480,Dragon Communion Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Dragon Communion Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001500,Drawstring Messmerfire Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Drawstring Messmerfire Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001510,Drawstring Dragonbolt Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Drawstring Dragonbolt Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001520,Drawstring Royal Magic Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Drawstring Royal Magic Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001530,Drawstring Golden Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Drawstring Golden Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001550,Drawstring Eternal Sleep Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Drawstring Eternal Sleep Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2001600,Festive Grease,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Festive Grease' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2002010,Rock Heart,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Rock Heart' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2002020,Priestess Heart,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Priestess Heart' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2002030,Lamenter's Mask,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc=""Lamenter's Mask"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)"
-2002100,Ancient Dragon's Blessing,,missing,,"확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc=""Ancient Dragon's Blessing"" (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)"
-2003001,Spritestone,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Spritestone' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2003170,Golden Vow,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Golden Vow' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2003310,Sunwarmth Stone,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Sunwarmth Stone' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2003350,Charming Branch,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Charming Branch' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2004900,Mantle of Thorns,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Mantle of Thorns' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2004910,Impenetrable Thorns,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Impenetrable Thorns' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2006400,Heal from Afar,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Heal from Afar' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2006670,Minor Erdtree,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Minor Erdtree' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2006910,Dragonbolt of Florissax,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Dragonbolt of Florissax' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2011000,Viridian Hidden Tear,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Viridian Hidden Tear' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2011020,Crimson-Sapping Cracked Tear,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Crimson-Sapping Cracked Tear' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2011030,Cerulean-Sapping Cracked Tear,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Cerulean-Sapping Cracked Tear' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2011040,Oil-Soaked Tear,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Oil-Soaked Tear' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
-2011050,Bloodsucking Cracked Tear,,missing,,확인한 공개 한영 이름 FMG와 나무위키에서 입력 ID의 한글명을 확인하지 못함; 영문 ID 근거: GoodsName_dlc='Bloodsucking Cracked Tear' (https://raw.githubusercontent.com/ividyon/Impalers-Archive/23fdb0e125ed27266b1fd82446c17d687ffcd15a/GameText/GR/data/INTERROOT_win64/msg/engUS/GoodsName_dlc01.fmg.xml)
+2000380,Hefty Oil Pot,큰 기름 항아리,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2000910,Lulling Branch,선잠의 가지,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001100,Dragon Communion Flesh,용찬의 고기 덩어리,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001105,Dragonscale Flesh,역린의 고기 덩어리,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001110,Fingerprint Nostrum,지문의 비약,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001120,Spellproof Pickled Liver,항마의 간 절임,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001130,Fireproof Pickled Liver,항염의 간 절임,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001140,Lightningproof Pickled Liver,항뢰의 간 절임,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001150,Holyproof Pickled Liver,항성의 간 절임,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001160,Opaline Pickled Liver,진주색의 간 절임,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001170,Well-Pickled Turtle Neck,거북 목 묵은 절임,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001202,Scorpion Stew,전갈조림,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001203,Gourmet Scorpion Stew,호화로운 전갈조림,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001210,Sacred Bloody Flesh,성스러운 피와 살,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001220,Silver Horn Tender,백은 뿔 화폐,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001230,Golden Horn Tender,황금 뿔 화폐,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001400,Messmerfire Grease,메스메르의 불기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001410,Dragonbolt Grease,용뢰기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001420,Royal Magic Grease,왕가의 마력기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001430,Golden Grease,황금기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001450,Eternal Sleep Grease,영면기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001480,Dragon Communion Grease,용찬기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001500,Drawstring Messmerfire Grease,끈 달린 메스메르의 불기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001510,Drawstring Dragonbolt Grease,끈 달린 용뢰기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001520,Drawstring Royal Magic Grease,끈 달린 왕가의 마력 기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001530,Drawstring Golden Grease,끈 달린 황금기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001550,Drawstring Eternal Sleep Grease,끈 달린 영면기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2001600,Festive Grease,축제기름,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2002010,Rock Heart,바위 심장,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2002020,Priestess Heart,무녀의 심장,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2002030,Lamenter's Mask,한탄하는 사람의 가면,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2002100,Ancient Dragon's Blessing,고룡의 은총,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2003001,Spritestone,정령석,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2003170,Golden Vow,황금 나무에 맹세코,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2003310,Sunwarmth Stone,양지석,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2003350,Charming Branch,매료의 나뭇가지,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2004900,Mantle of Thorns,가시 두르기,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2004910,Impenetrable Thorns,거절의 가시,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2006400,Heal from Afar,저편에서 온 회복,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2006670,Minor Erdtree,작은 황금 나무,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2006910,Dragonbolt of Florissax,플로삭스의 용뢰,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2011000,Viridian Hidden Tear,녹색 숨겨진 물방울,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2011020,Crimson-Sapping Cracked Tear,붉은 흡수의 깨진 물방울,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2011030,Cerulean-Sapping Cracked Tear,푸른 흡수의 깨진 물방울,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2011040,Oil-Soaked Tear,기름진 물방울,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"
+2011050,Bloodsucking Cracked Tear,흡혈의 깨진 물방울,ok,other,"names.txt(er-planner (2))에서 반영, 원 출처 미확인"

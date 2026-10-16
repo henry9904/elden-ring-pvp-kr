@@ -1,0 +1,76 @@
+id,en,group,dlc
+weaponType:Axe,Axe,weapon class,0
+weaponType:Backhand Blade,Backhand Blade,weapon class,0
+weaponType:Ballista,Ballista,weapon class,0
+weaponType:Beast Claw,Beast Claw,weapon class,0
+weaponType:Bow,Bow,weapon class,0
+weaponType:Claw,Claw,weapon class,0
+weaponType:Colossal Sword,Colossal Sword,weapon class,0
+weaponType:Colossal Weapon,Colossal Weapon,weapon class,0
+weaponType:Crossbow,Crossbow,weapon class,0
+weaponType:Curved Greatsword,Curved Greatsword,weapon class,0
+weaponType:Curved Sword,Curved Sword,weapon class,0
+weaponType:Dagger,Dagger,weapon class,0
+weaponType:Fist,Fist,weapon class,0
+weaponType:Flail,Flail,weapon class,0
+weaponType:Glintstone Staff,Glintstone Staff,weapon class,0
+weaponType:Great Hammer,Great Hammer,weapon class,0
+weaponType:Great Katana,Great Katana,weapon class,0
+weaponType:Great Spear,Great Spear,weapon class,0
+weaponType:Greataxe,Greataxe,weapon class,0
+weaponType:Greatbow,Greatbow,weapon class,0
+weaponType:Greatshield,Greatshield,weapon class,0
+weaponType:Greatsword,Greatsword,weapon class,0
+weaponType:Halberd,Halberd,weapon class,0
+weaponType:Hammer,Hammer,weapon class,0
+weaponType:Hand-to-Hand,Hand-to-Hand,weapon class,0
+weaponType:Heavy Thrusting Sword,Heavy Thrusting Sword,weapon class,0
+weaponType:Katana,Katana,weapon class,0
+weaponType:Light Bow,Light Bow,weapon class,0
+weaponType:Light Greatsword,Light Greatsword,weapon class,0
+weaponType:Medium Shield,Medium Shield,weapon class,0
+weaponType:Perfume Bottle,Perfume Bottle,weapon class,0
+weaponType:Reaper,Reaper,weapon class,0
+weaponType:Sacred Seal,Sacred Seal,weapon class,0
+weaponType:Small Shield,Small Shield,weapon class,0
+weaponType:Spear,Spear,weapon class,0
+weaponType:Straight Sword,Straight Sword,weapon class,0
+weaponType:Throwing Blade,Throwing Blade,weapon class,0
+weaponType:Thrusting Shield,Thrusting Shield,weapon class,0
+weaponType:Thrusting Sword,Thrusting Sword,weapon class,0
+weaponType:Torch,Torch,weapon class,0
+weaponType:Twinblade,Twinblade,weapon class,0
+weaponType:Whip,Whip,weapon class,0
+affinity:Standard,Standard,affinity,0
+affinity:Heavy,Heavy,affinity,0
+affinity:Keen,Keen,affinity,0
+affinity:Quality,Quality,affinity,0
+affinity:Fire,Fire,affinity,0
+affinity:Flame Art,Flame Art,affinity,0
+affinity:Lightning,Lightning,affinity,0
+affinity:Sacred,Sacred,affinity,0
+affinity:Magic,Magic,affinity,0
+affinity:Cold,Cold,affinity,0
+affinity:Poison,Poison,affinity,0
+affinity:Blood,Blood,affinity,0
+affinity:Occult,Occult,affinity,0
+stat:Strength,Strength,attribute,0
+stat:Dexterity,Dexterity,attribute,0
+stat:Intelligence,Intelligence,attribute,0
+stat:Faith,Faith,attribute,0
+stat:Arcane,Arcane,attribute,0
+damage:Physical,Physical,damage type,0
+damage:Magic,Magic,damage type,0
+damage:Fire,Fire,damage type,0
+damage:Lightning,Lightning,damage type,0
+damage:Holy,Holy,damage type,0
+status:Blood Loss,Blood Loss,status effect,0
+status:Frostbite,Frostbite,status effect,0
+status:Poison,Poison,status effect,0
+status:Scarlet Rot,Scarlet Rot,status effect,0
+status:Sleep,Sleep,status effect,0
+status:Madness,Madness,status effect,0
+armorPart:Helm,Helm,armor part,0
+armorPart:Chest Armor,Chest Armor,armor part,0
+armorPart:Gauntlets,Gauntlets,armor part,0
+armorPart:Leg Armor,Leg Armor,armor part,0

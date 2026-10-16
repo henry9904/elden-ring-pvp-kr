@@ -14,6 +14,7 @@ glossary/
   tools/     check_glossary.py    결과 검증·합치기
              build_master_db.py   마스터 테이블(SQLite) 만들기
              export_names.py      내보내기 만들기·검사
+             game_text.py         게임 텍스트 파일과 직접 대조 (로컬 전용)
   items.csv  모든 카테고리를 합친 최종 표 (--merge 하면 생김)
   master.db  마스터 테이블 (build_master_db.py 하면 생김, git에는 안 올림)
 ```

@@ -39,17 +39,16 @@
 
 - 행마다 `status`, `source`, `note`(근거 주소)를 남깁니다.
 - `source`는 `game-text`가 가장 믿을 수 있고, `namu`와 `other`는 나중에 게임 텍스트로 다시 대조할 대상입니다.
-- 신님이 직접 정리한 `names.txt`/`names.md`는 정답으로 보고 DLC 이름과 일부 값을 반영했습니다(`note`에 "names.txt … 반영"). 그 파일을 만든 스크립트와 게임 텍스트 자료는 신님 쪽에 있는 것으로 보이고, 이 저장소에는 없습니다. 받게 되면 `source`를 `game-text`로 올릴 수 있습니다.
+- `glossary/tools/game_text.py`가 게임의 텍스트 파일(UXM으로 푼 `msg/korKR`, `msg/engUS`)을 직접 읽어 대조합니다. 일치하는 행만 `--apply`로 `game-text`·`ok`가 됩니다. 게임이 깔린 Windows PC에서만 돌고 CI에서는 돌지 않습니다.
 - 추가할 것: 마스터에 **메타 정보**(게임 버전, DLC 포함 여부, 뽑은 날짜, 뽑은 방법)를 적습니다.
 - "공식 이름"이라는 표현은 `source`가 `game-text`인 행에만 씁니다.
 
 ## 지금 상태
 
-- 1,632개 중 ok 1,615, unsure 17, missing 0입니다.
-- 아이템 이름 1,599개(무기 487, 방어구 722, 탈리스만 154, 버프 194, 무기군 42)는 `items.csv`와 신님의 `names.csv`가 완전히 같습니다.
-- 게임 파일에서 직접 뽑은 행은 아직 없습니다. 대부분 `source`가 `other`입니다.
+- **1,632개 전부 `game-text`·`ok`입니다** (2026-10-16, 게임 텍스트 직접 대조). 신님의 `names-ko.generated.json`과도 모두 같습니다.
+- 용어 33개(변질·능력치·속성·상태이상·방어구 부위)는 메뉴 문구(GR_MenuText)로 확인했습니다. 공식 표기는 변질 Standard = **표준**, Scarlet Rot = **붉은 부패**입니다.
 - 화면 용어 284개(`glossary.csv`)는 직접 옮긴 것이고, 효과 이름 168개는 대부분 검토하지 않았다고 문서에 적혀 있습니다. 아직 이 구조에 들어오지 않았습니다.
-- 용어표가 두 개(`terms.csv` 75개, `glossary.csv` 284개)이고, `표준`/`일반`, `붉은 부패`/`부패` 두 곳의 표기가 서로 다릅니다.
+- 용어표가 두 개(`terms.csv` 75개, `glossary.csv` 284개)입니다. 빌드 플래너 쪽 `glossary.csv`의 `일반`(Standard), `부패`(Scarlet Rot)는 공식 표기와 다릅니다.
 
 ## 진행 순서
 
@@ -58,7 +57,7 @@
 3. ✅ 내보내기 스크립트와 CI 검사 (`export_names.py`, `check_glossary.py all`).
 4. ⬜ 용어표 합치기: `terms.csv`와 `glossary.csv`를 종류(domain)가 있는 하나의 용어 테이블로 합치고 충돌 2건을 해결합니다.
 5. ⬜ 메타 정보 추가: 게임 버전과 뽑은 날짜를 마스터에 기록합니다.
-6. ⬜ 게임 텍스트로 다시 대조: `other`/`namu` 행을 확인해서 맞으면 `game-text`로 올립니다. 게임 파일을 풀 도구가 필요합니다.
+6. ✅ 게임 텍스트로 다시 대조: `game_text.py`로 1,632개 전부 확인.
 7. 🔶 사용처 연결: 용어 사전 탐색기와 `translate_script.py --use-glossary`는 연결됨. `er-planner`는 내보내기 파일(`names.csv`)을 읽게 바꾸는 일이 남았고, 신님이 그쪽 저장소에서 따로 만들고 있어서 맞춰야 합니다.
 
 ## 지킬 원칙

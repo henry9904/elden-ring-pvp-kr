@@ -40,7 +40,7 @@ id,en,ko,status,source,note
 1. 엘든 링 설치 폴더를 찾습니다. 경로를 가정하지 말고 직접 찾으세요.
    - Steam 라이브러리 폴더 안의 `steamapps/common/ELDEN RING/Game` 입니다.
    - 라이브러리가 여러 드라이브에 있을 수 있으니, Steam 설치 폴더의 `steamapps/libraryfolders.vdf`를 읽어서 확인합니다.
-2. 게임 폴더의 `msg/korean`(한국어)과 `msg/engUS`(영어) 폴더에서 `item.msgbnd.dcx`, `item_dlc01.msgbnd.dcx`, `item_dlc02.msgbnd.dcx`를 찾습니다. DLC가 없으면 해당 파일이 없을 수 있습니다.
+2. 게임 폴더의 `msg/korKR`(한국어)과 `msg/engUS`(영어) 폴더에서 `item.msgbnd.dcx`, `item_dlc01.msgbnd.dcx`, `item_dlc02.msgbnd.dcx`를 찾습니다. DLC가 없으면 해당 파일이 없을 수 있습니다.
 3. 이 파일들은 FMG 텍스트 묶음입니다. 풀 때는 DSMapStudio/Smithbox, WitchyBND(또는 Yabber) 같은 공개 도구를 씁니다. 도구는 사용자 PC에 없으면 설치법만 알려 주고, 허락 없이 내려받아 실행하지 않습니다.
 4. 카테고리별로 보는 FMG는 다음과 같습니다. 이름 파일(`*Name.fmg`)만 봅니다. 설명, 캡션, 대사 파일은 쓰지 않습니다.
    - 무기: `WeaponName`

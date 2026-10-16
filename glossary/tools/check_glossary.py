@@ -115,10 +115,14 @@ def check_category(name: str):
     return errors, warnings, (summary, outputs)
 
 
-def main(argv=None):
-    # 출력을 파이프로 받는 도구(에이전트 등)에서도 한글이 깨지지 않게, 터미널이 아닐 때만 UTF-8 로 고정한다.
+def ensure_utf8_stdout():
+    """출력을 파이프로 받는 도구(에이전트 등)에서도 한글이 깨지지 않게, 터미널이 아닐 때만 UTF-8 로 고정한다."""
     if not sys.stdout.isatty() and hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
+
+
+def main(argv=None):
+    ensure_utf8_stdout()
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("category", choices=CATEGORIES + ["all"])
     parser.add_argument("--merge", action="store_true", help="오류가 없으면 glossary/items.csv 로 합친다")

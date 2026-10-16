@@ -9,9 +9,11 @@
 glossary/
   inputs/    영어 이름 목록 (id, 영어 이름). 수정하지 않는다
   outputs/   카테고리별 결과 (작업자가 채운다)
-  prompts/   AI 에이전트에게 줄 프롬프트 (공통 규칙 + 카테고리 5개)
-  tools/     check_glossary.py  결과 검증·합치기
-  items.csv  모든 카테고리를 합친 최종 표 (검증을 통과하면 생김)
+  prompts/   AI 에이전트에게 줄 프롬프트 (공통 규칙 + 카테고리 5개 + 한 번에 시키기용)
+  tools/     check_glossary.py    결과 검증·합치기
+             build_master_db.py   마스터 테이블(SQLite) 만들기
+  items.csv  모든 카테고리를 합친 최종 표 (--merge 하면 생김)
+  master.db  마스터 테이블 (build_master_db.py 하면 생김, git에는 안 올림)
 ```
 
 ## 작업 방법 (누구의 PC에서든 같음)
@@ -45,6 +47,9 @@ glossary/
 | `prompts/03_talismans.md` | `inputs/talismans.csv` (154) | `outputs/talismans.csv` |
 | `prompts/04_goods.md` | `inputs/goods.csv` (194) | `outputs/goods.csv` |
 | `prompts/05_terms.md` | `inputs/terms.csv` (75) | `outputs/terms.csv` |
+| `prompts/06_all_remaining.md` | 위 02~05를 한 에이전트가 이어서 | 위 네 개 |
+
+한 에이전트에게 02~05를 전부 맡기려면 `06_all_remaining.md`를 쓰세요. 게임 파일을 한 번만 풀어서 네 카테고리가 같이 씁니다.
 
 공통 규칙은 `prompts/00_common.md`에 있습니다. 카테고리 프롬프트가 가장 먼저 읽게 되어 있습니다.
 
@@ -70,6 +75,40 @@ id,en,ko,status,source,note
 
 `inputs/*.csv`의 영어 이름과 id는 `er-planner` 프로젝트가 가진 무기·방어구·탈리스만·버프 데이터에서 뽑았습니다. 소비 아이템과 주문은 그 프로젝트가 다루는 194개뿐이고, 게임의 전체 아이템 목록이 아닙니다. 범위를 넓히려면 `inputs/`에 같은 형식(`id,en,group,dlc`)으로 파일을 추가하고 `tools/check_glossary.py`의 `CATEGORIES`에 이름을 더하면 됩니다.
 
+## 마스터 테이블 (기준 데이터)
+
+```bash
+python glossary/tools/build_master_db.py
+```
+
+`inputs/`의 1,632행 전부가 `item_master` 테이블의 뼈대가 됩니다. 번역이 아직 없는 행은 `pending`으로 들어가므로, 일부만 끝난 상태에서도 만들 수 있고 몇 번을 돌려도 같은 결과입니다. 결과 파일에 검증 오류가 있으면 만들지 않습니다.
+
+| 요소 | 내용 |
+|---|---|
+| 기본 키 | `(category, item_id)` (id는 카테고리마다 겹칠 수 있어서 함께 씀) |
+| `game_id` | id가 숫자면 정수로도 저장 (조인용) |
+| 제약 | `ok`/`unsure`는 `ko_name` 필수, `missing`/`pending`은 `ko_name` 없음, `is_dlc`는 0/1 |
+| 참조 테이블 | `lookup_category`, `lookup_status`, `lookup_source` (외래 키로 연결) |
+| 뷰 | `v_translation_coverage` (카테고리별 진행률), `v_needs_review` (확인할 행) |
+
+진행 상황 보기:
+
+```sql
+SELECT * FROM v_translation_coverage;
+SELECT * FROM v_needs_review;
+```
+
+기존 ETL 데이터와 연결하기 (영어 이름 기준 조인). `python tools/db_etl_pipeline.py`로 만든 `assets/data/elden_ring.db`에서:
+
+```sql
+ATTACH 'glossary/master.db' AS m;
+SELECT w.name, m.ko_name
+FROM weapons w
+LEFT JOIN m.item_master m ON m.category = 'weapons' AND m.en_name = w.name;
+```
+
+`m.item_id IS NULL`인 행은 가이드 문서의 무기 이름이 게임의 이름 목록에 없다는 뜻이라, 오타나 표기 차이를 찾는 데이터 품질 검사로도 쓸 수 있습니다. 지금 `weapons` 43개는 전부 일치합니다.
+
 ## 이 표를 쓰는 곳
 
-- `tools/translate_script.py`: `TRANSLATIONS` 딕셔너리 대신 `items.csv`를 읽도록 바꾸는 것이 다음 단계입니다. 바꾸기 전에는 dry-run으로 달라지는 곳만 확인합니다.
+- `tools/translate_script.py`: `TRANSLATIONS` 딕셔너리 대신 `items.csv`(또는 `master.db`)를 읽도록 바꾸는 것이 다음 단계입니다. 바꾸기 전에는 dry-run으로 달라지는 곳만 확인합니다.

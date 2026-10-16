@@ -48,6 +48,10 @@ Run these from the `tools/` directory (they use relative imports).
 - The `--check` flag compares the on-disk JSON against what the script would generate. If they differ, CI fails.
 - Key order, whitespace, and encoding (`ensure_ascii=False`) must match exactly.
 
+**Glossary (`glossary/`):**
+- Edit only `glossary/outputs/*.csv`. Never edit `glossary/exports/*` or `assets/data/glossary_names.json` by hand — run `python glossary/tools/export_names.py` instead.
+- CI runs `check_glossary.py all` and `export_names.py --check`. See `glossary/ARCHITECTURE.md`.
+
 **ETL pipeline (`tools/db_etl_pipeline.py`):**
 - This script is verified to run in CI: `python tools/db_etl_pipeline.py`
 - It creates `assets/data/elden_ring.db` (gitignored — do not commit it).
@@ -77,6 +81,8 @@ Before pushing any commit, verify:
 - [ ] `cd tools && python extract_animations.py --check` → exits 0
 - [ ] `cd tools && python extract_combos.py --check` → exits 0
 - [ ] `cd tools && python db_etl_pipeline.py` → exits 0
+- [ ] `python glossary/tools/check_glossary.py all` → exits 0 (warnings are allowed)
+- [ ] `python glossary/tools/export_names.py --check` → exits 0
 - [ ] `mkdocs build --strict` → exits 0
 
 If any check fails, fix it before pushing. Do not push a broken state to `main` or any branch that CI watches.

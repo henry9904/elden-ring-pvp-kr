@@ -10,8 +10,10 @@ glossary/
   inputs/    영어 이름 목록 (id, 영어 이름). 수정하지 않는다
   outputs/   카테고리별 결과 (작업자가 채운다)
   prompts/   AI 에이전트에게 줄 프롬프트 (공통 규칙 + 카테고리 5개 + 한 번에 시키기용)
+  exports/   사용처용 파일 (names.csv, names.txt). export_names.py 가 만든다. 손으로 고치지 않는다
   tools/     check_glossary.py    결과 검증·합치기
              build_master_db.py   마스터 테이블(SQLite) 만들기
+             export_names.py      내보내기 만들기·검사
   items.csv  모든 카테고리를 합친 최종 표 (--merge 하면 생김)
   master.db  마스터 테이블 (build_master_db.py 하면 생김, git에는 안 올림)
 ```
@@ -109,6 +111,19 @@ LEFT JOIN m.item_master m ON m.category = 'weapons' AND m.en_name = w.name;
 
 `m.item_id IS NULL`인 행은 가이드 문서의 무기 이름이 게임의 이름 목록에 없다는 뜻이라, 오타나 표기 차이를 찾는 데이터 품질 검사로도 쓸 수 있습니다. 지금 `weapons` 43개는 전부 일치합니다.
 
+## 내보내기와 사용처
+
+```bash
+python glossary/tools/export_names.py          # exports/ 와 assets/data/glossary_names.json 다시 만들기
+python glossary/tools/export_names.py --check  # 디스크 파일이 마스터와 같은지 검사 (CI)
+```
+
+- **용어 사전 탐색기**: 사이트의 도구 메뉴(`docs/tools/glossary-explorer.md`)가 `assets/data/glossary_names.json`을 읽어 한국어·영어로 검색합니다.
+- **`translate_script.py`**: `--use-glossary`를 붙이면 영어 아이템 이름을 이 표의 한국어로 바꿉니다. `--glossary-report`는 기존 `TRANSLATIONS`와 달라지는 항목만 보여줍니다. 둘 다 파일을 쓰지 않는 dry-run이 기본입니다.
+
+구조 설명과 앞으로 할 일은 `ARCHITECTURE.md`에 있습니다.
+
 ## 이 표를 쓰는 곳
 
-- `tools/translate_script.py`: `TRANSLATIONS` 딕셔너리 대신 `items.csv`(또는 `master.db`)를 읽도록 바꾸는 것이 다음 단계입니다. 바꾸기 전에는 dry-run으로 달라지는 곳만 확인합니다.
+- `tools/translate_script.py`: `--use-glossary` 옵션으로 연결됨 (위 참고).
+- `er-planner`: `exports/names.csv`를 읽게 하는 일이 남아 있습니다.

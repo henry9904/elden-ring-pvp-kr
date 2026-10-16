@@ -1,0 +1,1633 @@
+category,id,en,ko,group,dlc,status,source
+weapons,1000000,Dagger,대거,Dagger,0,ok,namu
+weapons,1010000,Black Knife,검은 칼날,Dagger,0,ok,namu
+weapons,1020000,Parrying Dagger,패링 대거,Dagger,0,ok,namu
+weapons,1030000,Miséricorde,자비의 단검,Dagger,0,ok,namu
+weapons,1040000,Reduvia,레두비아,Dagger,0,ok,namu
+weapons,1050000,Crystal Knife,결정 나이프,Dagger,0,ok,namu
+weapons,1060000,Celebrant's Sickle,축제의 손낫,Dagger,0,ok,namu
+weapons,1070000,Glintstone Kris,휘석 크리스,Dagger,0,ok,namu
+weapons,1080000,Scorpion's Stinger,전갈의 침,Dagger,0,ok,namu
+weapons,1090000,Great Knife,대형 나이프,Dagger,0,ok,namu
+weapons,1100000,Wakizashi,협차,Dagger,0,ok,namu
+weapons,1110000,Cinquedea,친퀘디아,Dagger,0,ok,namu
+weapons,1130000,Ivory Sickle,상아 손낫,Dagger,0,ok,namu
+weapons,1140000,Bloodstained Dagger,피투성이 단도,Dagger,0,ok,namu
+weapons,1150000,Erdsteel Dagger,황동 단도,Dagger,0,ok,namu
+weapons,1160000,Blade of Calling,사명의 칼날,Dagger,0,ok,namu
+weapons,1500000,Main-gauche,맹고슈,Dagger,1,ok,namu
+weapons,1510000,Fire Knight's Shortsword,불의 기사 단검,Dagger,1,ok,namu
+weapons,2000000,Longsword,롱 소드,Straight Sword,0,ok,other
+weapons,2010000,Short Sword,숏 소드,Straight Sword,0,ok,namu
+weapons,2020000,Broadsword,브로드 소드,Straight Sword,0,ok,namu
+weapons,2040000,Lordsworn's Straight Sword,군주군의 직검,Straight Sword,0,ok,namu
+weapons,2050000,Weathered Straight Sword,낡은 직검,Straight Sword,0,ok,namu
+weapons,2060000,Ornamental Straight Sword,의장 직검,Straight Sword,0,ok,namu
+weapons,2070000,Golden Epitaph,황금 묘비,Straight Sword,0,ok,namu
+weapons,2080000,Nox Flowing Sword,녹스의 유체검,Curved Sword,0,ok,namu
+weapons,2090000,Inseparable Sword,나뉘지 않는 쌍생아의 검,Greatsword,0,ok,namu
+weapons,2110000,Coded Sword,비문자 검,Straight Sword,0,ok,namu
+weapons,2140000,Sword of Night and Flame,밤과 불꽃의 검,Straight Sword,0,ok,namu
+weapons,2150000,Crystal Sword,결정검,Straight Sword,0,ok,namu
+weapons,2180000,Carian Knight's Sword,카리아의 기사검,Straight Sword,0,ok,other
+weapons,2190000,Sword of St. Trina,트리나의 검,Straight Sword,0,ok,other
+weapons,2200000,Miquellan Knight's Sword,미켈라의 기사검,Straight Sword,0,ok,namu
+weapons,2210000,Cane Sword,지팡이검,Straight Sword,0,ok,namu
+weapons,2220000,Regalia of Eochaid,에오히드의 보검,Straight Sword,0,ok,namu
+weapons,2230000,Noble's Slender Sword,귀인의 세검,Straight Sword,0,ok,namu
+weapons,2240000,Warhawk's Talon,전쟁매의 발톱검,Straight Sword,0,ok,namu
+weapons,2250000,Lazuli Glintstone Sword,라줄리의 휘석검,Straight Sword,0,ok,namu
+weapons,2260000,Rotten Crystal Sword,부패한 결정검,Straight Sword,0,ok,namu
+weapons,2510000,Velvet Sword of St. Trina,트리나의 보랏빛 검,Straight Sword,1,ok,namu
+weapons,2520000,Star-Lined Sword,연성검,Katana,1,ok,namu
+weapons,2530000,Carian Sorcery Sword,카리아의 마술검,Thrusting Sword,1,ok,namu
+weapons,2540000,Stone-Sheathed Sword,돌칼집의 검,Straight Sword,1,ok,namu
+weapons,2550000,Sword of Light,라이트 소드,Straight Sword,1,ok,namu
+weapons,2560000,Sword of Darkness,다크 소드,Straight Sword,1,ok,namu
+weapons,3000000,Bastard Sword,바스타드 소드,Greatsword,0,ok,namu
+weapons,3010000,Forked Greatsword,두갈래 대검,Greatsword,0,ok,namu
+weapons,3020000,Iron Greatsword,철 대검,Greatsword,0,ok,namu
+weapons,3030000,Lordsworn's Greatsword,군주군의 대검,Greatsword,0,ok,namu
+weapons,3040000,Knight's Greatsword,기사 대검,Greatsword,0,ok,namu
+weapons,3050000,Flamberge,플랑베르주,Greatsword,0,ok,namu
+weapons,3060000,Ordovis's Greatsword,오르도비스의 대검,Greatsword,0,ok,namu
+weapons,3070000,Alabaster Lord's Sword,백왕의 검,Greatsword,0,ok,namu
+weapons,3080000,Banished Knight's Greatsword,땅 잃은 기사의 대검,Greatsword,0,ok,namu
+weapons,3090000,Dark Moon Greatsword,암월의 대검,Greatsword,0,ok,namu
+weapons,3100000,Sacred Relic Sword,신이 남긴 검,Greatsword,0,ok,namu
+weapons,3130000,Helphen's Steeple,헬펜의 첨탑,Greatsword,0,ok,namu
+weapons,3140000,Blasphemous Blade,모독의 성검,Greatsword,0,ok,namu
+weapons,3150000,Marais Executioner's Sword,마레 가의 집행검,Greatsword,0,ok,namu
+weapons,3160000,Sword of Milos,미에로스의 검,Greatsword,0,ok,namu
+weapons,3170000,Golden Order Greatsword,황금률의 대검,Greatsword,0,ok,namu
+weapons,3180000,Claymore,클레이모어,Greatsword,0,ok,namu
+weapons,3190000,Gargoyle's Greatsword,가고일의 대검,Greatsword,0,ok,namu
+weapons,3200000,Death's Poker,죽음부지깽이,Greatsword,0,ok,namu
+weapons,3210000,Gargoyle's Blackblade,가고일의 흑검,Greatsword,0,ok,namu
+weapons,3500000,Sword Lance,소드랜스,Heavy Thrusting Sword,1,ok,namu
+weapons,3510000,Greatsword of Damnation,겁벌의 대검,Greatsword,1,ok,namu
+weapons,3520000,Lizard Greatsword,큰 도마뱀 대검,Greatsword,1,ok,namu
+weapons,3550000,Greatsword of Solitude,고립 감옥의 대검,Greatsword,1,ok,namu
+weapons,3560000,Leontiel's Greatsword,레오티엘의 대검,Greatsword,1,unsure,namu
+weapons,4000000,Greatsword,그레이트 소드,Colossal Sword,0,ok,namu
+weapons,4010000,Watchdog's Greatsword,파수견의 대검,Colossal Sword,0,ok,namu
+weapons,4020000,Maliketh's Black Blade,말리케스의 흑검,Colossal Sword,0,ok,namu
+weapons,4030000,Troll's Golden Sword,트롤의 황금검,Colossal Sword,0,ok,namu
+weapons,4040000,Zweihander,츠바이헨더,Colossal Sword,0,ok,namu
+weapons,4050000,Starscourge Greatsword,별 부수는 대검,Colossal Sword,0,ok,namu
+weapons,4060000,Royal Greatsword,왕가의 그레이트 소드,Colossal Sword,0,ok,namu
+weapons,4070000,Godslayer's Greatsword,신 사냥의 검,Colossal Sword,0,ok,namu
+weapons,4080000,Ruins Greatsword,유적의 대검,Colossal Sword,0,ok,namu
+weapons,4100000,Grafted Blade Greatsword,검 잇기의 대검,Colossal Sword,0,ok,namu
+weapons,4110000,Troll Knight's Sword,거인의 마법검,Colossal Sword,0,ok,namu
+weapons,4500000,Ancient Meteoric Ore Greatsword,옛 운철 대검,Colossal Sword,1,ok,namu
+weapons,4520000,Fire Knight's Greatsword,불의 기사 대검,Colossal Sword,1,ok,namu
+weapons,4530000,Greatsword of Radahn (Lord),라단의 대검(왕),Colossal Sword,1,ok,namu
+weapons,4540000,Moonrithyll's Knight Sword,문리델의 기사검,Colossal Sword,1,ok,namu
+weapons,4550000,Greatsword of Radahn (Light),라단의 대검(빛),Colossal Sword,1,ok,namu
+weapons,5000000,Estoc,에스톡,Thrusting Sword,0,ok,namu
+weapons,5010000,Cleanrot Knight's Sword,귀부기사의 검,Thrusting Sword,0,ok,namu
+weapons,5020000,Rapier,레이피어,Thrusting Sword,0,ok,namu
+weapons,5030000,Rogier's Rapier,로지에르의 자검,Thrusting Sword,0,ok,namu
+weapons,5040000,Antspur Rapier,개미가시 레이피어,Thrusting Sword,0,ok,namu
+weapons,5050000,Frozen Needle,빙결의 침,Thrusting Sword,0,ok,namu
+weapons,5060000,Noble's Estoc,귀인의 에스톡,Thrusting Sword,0,ok,namu
+weapons,6000000,Bloody Helice,피의 헬리케,Heavy Thrusting Sword,0,ok,namu
+weapons,6010000,Godskin Stitcher,신의 살갗 대자검,Heavy Thrusting Sword,0,ok,namu
+weapons,6020000,Great Épée,그레이트 에페,Heavy Thrusting Sword,0,ok,namu
+weapons,6040000,Dragon King's Cragblade,용왕의 바위검,Heavy Thrusting Sword,0,ok,namu
+weapons,6500000,Queelign's Greatsword,퀼라인의 대검,Heavy Thrusting Sword,1,ok,namu
+weapons,7000000,Falchion,펄션,Curved Sword,0,ok,namu
+weapons,7010000,Beastman's Curved Sword,수인의 곡도,Curved Sword,0,ok,namu
+weapons,7020000,Shotel,쇼텔,Curved Sword,0,ok,namu
+weapons,7030000,Shamshir,샴시르,Curved Sword,0,ok,namu
+weapons,7040000,Bandit's Curved Sword,산적의 곡도,Curved Sword,0,ok,namu
+weapons,7050000,Magma Blade,용암도,Curved Sword,0,ok,namu
+weapons,7060000,Flowing Curved Sword,유수의 곡검,Curved Sword,0,ok,namu
+weapons,7070000,Wing of Astel,아스테르의 날개,Curved Sword,0,ok,namu
+weapons,7080000,Scavenger's Curved Sword,시체 뒤지는 자의 곡검,Curved Sword,0,ok,namu
+weapons,7100000,Eclipse Shotel,일식의 쇼텔,Curved Sword,0,ok,namu
+weapons,7110000,Serpent-God's Curved Sword,뱀신의 곡도,Curved Sword,0,ok,namu
+weapons,7120000,Mantis Blade,당랑도,Curved Sword,0,ok,namu
+weapons,7140000,Scimitar,시미터,Curved Sword,0,ok,namu
+weapons,7150000,Grossmesser,그로스메서,Curved Sword,0,ok,namu
+weapons,7500000,Spirit Sword,영의 검,Curved Sword,1,ok,namu
+weapons,7510000,Falx,팔스,Curved Sword,1,ok,namu
+weapons,7520000,Dancing Blade of Ranah,라나의 무도검,Curved Sword,1,ok,namu
+weapons,7530000,Horned Warrior's Sword,뿔 전사의 곡검,Curved Sword,1,ok,namu
+weapons,8010000,Onyx Lord's Greatsword,흑왕의 대검,Curved Greatsword,0,ok,namu
+weapons,8020000,Dismounter,참마도,Curved Greatsword,0,ok,namu
+weapons,8030000,Bloodhound's Fang,사냥개의 긴 이빨,Curved Greatsword,0,ok,namu
+weapons,8040000,Magma Wyrm's Scalesword,토룡의 비늘검,Curved Greatsword,0,ok,namu
+weapons,8050000,Zamor Curved Sword,자미엘의 곡검,Curved Greatsword,0,ok,namu
+weapons,8060000,Omen Cleaver,흉조의 아이 대도,Curved Greatsword,0,ok,namu
+weapons,8070000,Monk's Flameblade,승병의 화염도,Curved Greatsword,0,ok,namu
+weapons,8080000,Beastman's Cleaver,수인의 대곡도,Curved Greatsword,0,ok,namu
+weapons,8100000,Morgott's Cursed Sword,모르고트의 저주검,Curved Greatsword,0,ok,namu
+weapons,8500000,Putrescence Cleaver,수렁의 큰 나대,Greataxe,1,ok,namu
+weapons,8510000,Freyja's Greatsword,프레이야의 대검,Curved Greatsword,1,ok,namu
+weapons,8520000,Horned Warrior's Greatsword,뿔 전사의 대곡검,Curved Greatsword,1,ok,namu
+weapons,8530000,Hefty Scimitar,헤비 시미터,Curved Greatsword,1,unsure,namu
+weapons,9000000,Uchigatana,타도,Katana,0,ok,namu
+weapons,9010000,Nagakiba,긴 이빨,Katana,0,ok,namu
+weapons,9020000,Hand of Malenia,말레니아의 의수도,Katana,0,ok,namu
+weapons,9030000,Meteoric Ore Blade,운철도,Katana,0,ok,namu
+weapons,9040000,Rivers of Blood,시산혈하,Katana,0,ok,namu
+weapons,9060000,Moonveil,명도 월은,Katana,0,ok,namu
+weapons,9070000,Dragonscale Blade,용비늘도,Katana,0,ok,namu
+weapons,9080000,Serpentbone Blade,뱀 뼈의 도,Katana,0,ok,namu
+weapons,9500000,Sword of Night,밤의 칼날,Katana,1,ok,namu
+weapons,10000000,Twinblade,트윈 블레이드,Twinblade,0,ok,namu
+weapons,10010000,Godskin Peeler,신의 살갗 쌍날검,Twinblade,0,ok,namu
+weapons,10030000,Twinned Knight Swords,트윈 나이트소드,Twinblade,0,ok,namu
+weapons,10050000,Eleonora's Poleblade,엘레오노라의 쌍치도,Twinblade,0,ok,namu
+weapons,10080000,Gargoyle's Twinblade,가고일의 쌍날검,Twinblade,0,ok,namu
+weapons,10090000,Gargoyle's Black Blades,가고일의 흑쌍날검,Twinblade,0,ok,namu
+weapons,10500000,Euporia,에우포리에,Twinblade,1,ok,namu
+weapons,10510000,Black Steel Twinblade,흑철 쌍날검,Twinblade,1,ok,namu
+weapons,11000000,Mace,메이스,Hammer,0,ok,namu
+weapons,11010000,Club,곤봉,Hammer,0,ok,namu
+weapons,11030000,Curved Club,굽은 곤봉,Hammer,0,ok,namu
+weapons,11040000,Warpick,워 피크,Hammer,0,ok,namu
+weapons,11050000,Morning Star,모닝스타,Hammer,0,ok,namu
+weapons,11060000,Varré's Bouquet,바레의 꽃다발,Hammer,0,ok,namu
+weapons,11070000,Spiked Club,이빨 달린 곤봉,Hammer,0,ok,namu
+weapons,11080000,Hammer,해머,Hammer,0,ok,namu
+weapons,11090000,Monk's Flamemace,승병의 화염망치,Hammer,0,ok,namu
+weapons,11100000,Envoy's Horn,사자들의 피리,Hammer,0,ok,namu
+weapons,11110000,Scepter of the All-Knowing,온 지혜의 왕홀,Hammer,0,ok,namu
+weapons,11120000,Nox Flowing Hammer,녹스의 유체망치,Hammer,0,ok,namu
+weapons,11130000,Ringed Finger,반지손가락,Hammer,0,ok,namu
+weapons,11140000,Stone Club,돌 곤봉,Hammer,0,ok,namu
+weapons,11150000,Marika's Hammer,마리카의 망치,Hammer,0,ok,namu
+weapons,11500000,Flowerstone Gavel,꽃바위 망치,Hammer,1,ok,namu
+weapons,12000000,Large Club,라지 클럽,Great Hammer,0,ok,namu
+weapons,12010000,Greathorn Hammer,큰 뿔 망치,Great Hammer,0,ok,namu
+weapons,12020000,Battle Hammer,배틀 해머,Great Hammer,0,ok,namu
+weapons,12060000,Great Mace,그레이트 메이스,Great Hammer,0,ok,namu
+weapons,12080000,Curved Great Club,큰 굽은 곤봉,Great Hammer,0,ok,namu
+weapons,12130000,Celebrant's Skull,축제의 큰 두개,Great Hammer,0,ok,namu
+weapons,12140000,Pickaxe,곡괭이,Great Hammer,0,ok,namu
+weapons,12150000,Beastclaw Greathammer,짐승 발톱 대형 망치,Great Hammer,0,ok,namu
+weapons,12160000,Envoy's Long Horn,사자들의 긴 피리,Great Hammer,0,ok,namu
+weapons,12170000,Cranial Vessel Candlestand,존안의 촛대,Great Hammer,0,ok,namu
+weapons,12180000,Great Stars,그레이트스타즈,Great Hammer,0,ok,namu
+weapons,12190000,Brick Hammer,적석 망치,Great Hammer,0,ok,namu
+weapons,12200000,Devourer's Scepter,세계 먹는 자의 왕홀,Great Hammer,0,ok,namu
+weapons,12210000,Rotten Battle Hammer,부패한 배틀 해머,Great Hammer,0,ok,namu
+weapons,12500000,Smithscript Greathammer,유문의 대형 망치,Great Hammer,1,ok,namu
+weapons,12510000,Anvil Hammer,모루 해머,Colossal Weapon,1,ok,namu
+weapons,12520000,Black Steel Greathammer,흑철 대형 망치,Great Hammer,1,ok,namu
+weapons,12530000,Bloodfiend's Arm,혈귀의 팔,Colossal Weapon,1,ok,namu
+weapons,13000000,Nightrider Flail,밤 기병의 철퇴,Flail,0,ok,namu
+weapons,13010000,Flail,철퇴,Flail,0,ok,namu
+weapons,13020000,Family Heads,가족의 머리,Flail,0,ok,namu
+weapons,13030000,Bastard's Stars,떨어진 별들,Flail,0,ok,namu
+weapons,13040000,Chainlink Flail,편곤,Flail,0,ok,namu
+weapons,13500000,Serpent Flail,불뱀 철퇴,Flail,1,ok,namu
+weapons,13510000,Golden Order Flail,황금률의 철퇴,Flail,1,unsure,namu
+weapons,14000000,Battle Axe,배틀 액스,Axe,0,ok,namu
+weapons,14010000,Forked Hatchet,두갈래 손도끼,Axe,0,ok,namu
+weapons,14020000,Hand Axe,핸드 액스,Axe,0,ok,namu
+weapons,14030000,Jawbone Axe,치열 도끼,Axe,0,ok,namu
+weapons,14040000,Iron Cleaver,철 나대,Axe,0,ok,namu
+weapons,14050000,Ripple Blade,파문의 검,Axe,0,ok,namu
+weapons,14060000,Celebrant's Cleaver,축제의 나대,Axe,0,ok,namu
+weapons,14080000,Icerind Hatchet,빙각의 도끼,Axe,0,ok,namu
+weapons,14100000,Highland Axe,하이랜드 액스,Axe,0,ok,namu
+weapons,14110000,Sacrificial Axe,산 제물 도끼,Axe,0,ok,namu
+weapons,14120000,Rosus' Axe,로제스의 도끼,Axe,0,ok,namu
+weapons,14140000,Stormhawk Axe,폭풍 매 도끼,Axe,0,ok,namu
+weapons,14500000,Smithscript Axe,유문 도끼,Axe,1,ok,namu
+weapons,14510000,Death Knight's Twin Axes,죽음 기사의 쌍도끼,Axe,1,ok,namu
+weapons,14520000,Messmer Soldier's Axe,메스메르 병사의 도끼,Axe,1,ok,namu
+weapons,14540000,Forked-Tongue Hatchet,두 갈래 혀 손도끼,Axe,1,ok,namu
+weapons,15000000,Greataxe,그레이트 액스,Greataxe,0,ok,namu
+weapons,15010000,Warped Axe,일그러진 도끼,Axe,0,ok,namu
+weapons,15020000,Great Omenkiller Cleaver,흉조잡이의 큰 나대,Greataxe,0,ok,namu
+weapons,15030000,Crescent Moon Axe,초승달도끼,Greataxe,0,ok,namu
+weapons,15040000,Axe of Godrick,고드릭의 왕 도끼,Greataxe,0,ok,namu
+weapons,15050000,Longhaft Axe,긴 자루 나대,Greataxe,0,ok,namu
+weapons,15060000,Rusted Anchor,녹슨 닻,Greataxe,0,ok,namu
+weapons,15080000,Executioner's Greataxe,요참의 큰 나대,Greataxe,0,ok,namu
+weapons,15110000,Winged Greathorn,날개의 큰 뿔,Greataxe,0,ok,namu
+weapons,15120000,Butchering Knife,해체 식칼,Greataxe,0,ok,namu
+weapons,15130000,Gargoyle's Great Axe,가고일의 대형 도끼,Greataxe,0,ok,namu
+weapons,15140000,Gargoyle's Black Axe,가고일의 흑도끼,Greataxe,0,ok,namu
+weapons,15500000,Death Knight's Longhaft Axe,죽음 기사의 긴 자루 도끼,Greataxe,1,ok,namu
+weapons,15510000,Bonny Butchering Knife,보니의 부엌칼,Greataxe,0,ok,namu
+weapons,16000000,Short Spear,숏 스피어,Spear,0,ok,namu
+weapons,16010000,Spear,스피어,Spear,0,ok,namu
+weapons,16020000,Crystal Spear,결정창,Spear,0,ok,namu
+weapons,16030000,Clayman's Harpoon,진흙인간의 작살,Spear,0,unsure,other
+weapons,16040000,Cleanrot Spear,귀부기사의 창,Spear,0,ok,namu
+weapons,16050000,Partisan,파르티잔,Spear,0,ok,namu
+weapons,16060000,Celebrant's Rib-Rake,축제 늑골 쇠스랑,Spear,0,ok,namu
+weapons,16070000,Pike,파이크,Spear,0,ok,namu
+weapons,16080000,Torchpole,막대기 토치,Spear,0,ok,namu
+weapons,16090000,Bolt of Gransax,그랑삭스의 벼락,Spear,0,ok,namu
+weapons,16110000,Cross-Naginata,십문자치도,Spear,0,ok,namu
+weapons,16120000,Death Ritual Spear,죽음 의례의 창,Spear,0,ok,namu
+weapons,16130000,Inquisitor's Girandole,책문 촛대,Spear,0,ok,namu
+weapons,16140000,Spiked Spear,가시몽둥이,Spear,0,ok,namu
+weapons,16150000,Iron Spear,철 창,Spear,0,ok,namu
+weapons,16160000,Rotten Crystal Spear,부패한 결정창,Spear,0,ok,namu
+weapons,16500000,Smithscript Spear,유문 창,Spear,1,ok,namu
+weapons,16520000,Swift Spear,속창,Spear,1,ok,namu
+weapons,16540000,Bloodfiend's Fork,혈귀의 포크,Spear,1,ok,namu
+weapons,16550000,Bloodfiend's Sacred Spear,혈귀의 성창,Great Spear,1,ok,namu
+weapons,17010000,Mohgwyn's Sacred Spear,모그윈의 성창,Great Spear,0,ok,namu
+weapons,17020000,Siluria's Tree,실루리아의 나무창,Great Spear,0,unsure,other
+weapons,17030000,Serpent-Hunter,큰 뱀 사냥꾼,Great Spear,0,ok,namu
+weapons,17050000,Vyke's War Spear,바이크의 전투 창,Great Spear,0,ok,namu
+weapons,17060000,Lance,랜스,Great Spear,0,ok,namu
+weapons,17070000,Treespear,트리 스피어,Great Spear,0,ok,namu
+weapons,17500000,Spear of the Impaler,가시공의 창,Great Spear,1,ok,namu
+weapons,17510000,Messmer Soldier's Spear,메스메르 병사의 창,Great Spear,1,ok,namu
+weapons,17520000,Barbed Staff-Spear,역가시 지팡이창,Great Spear,1,ok,namu
+weapons,18000000,Halberd,할버드,Halberd,0,ok,namu
+weapons,18010000,Pest's Glaive,벌레의 글레이브,Halberd,0,ok,namu
+weapons,18020000,Lucerne,루체른,Halberd,0,ok,namu
+weapons,18030000,Banished Knight's Halberd,땅 잃은 기사의 도끼창,Halberd,0,ok,namu
+weapons,18040000,Commander's Standard,노장의 군기,Halberd,0,ok,namu
+weapons,18050000,Nightrider Glaive,밤 기병의 글레이브,Halberd,0,ok,namu
+weapons,18060000,Ripple Crescent Halberd,일그러진 파문 도끼창,Halberd,0,ok,namu
+weapons,18070000,Vulgar Militia Saw,천한 병사의 톱,Halberd,0,ok,namu
+weapons,18080000,Golden Halberd,황금 할버드,Halberd,0,ok,namu
+weapons,18090000,Glaive,글레이브,Halberd,0,ok,namu
+weapons,18100000,Loretta's War Sickle,로레타의 전투 낫,Halberd,0,ok,namu
+weapons,18110000,Guardian's Swordspear,수호자의 검창,Halberd,0,ok,namu
+weapons,18130000,Vulgar Militia Shotel,천한 병사의 쇼텔,Halberd,0,ok,namu
+weapons,18140000,Dragon Halberd,용 할버드,Halberd,0,ok,namu
+weapons,18150000,Gargoyle's Halberd,가고일의 도끼창,Halberd,0,ok,namu
+weapons,18160000,Gargoyle's Black Halberd,가고일의 흑도끼창,Halberd,0,ok,namu
+weapons,18500000,Spirit Glaive,영혼의 글레이브,Halberd,1,ok,namu
+weapons,18510000,Poleblade of the Bud,꽃봉오리 치도,Halberd,1,ok,namu
+weapons,19000000,Scythe,대낫,Reaper,0,ok,namu
+weapons,19010000,Grave Scythe,묘지의 대낫,Reaper,0,ok,namu
+weapons,19020000,Halo Scythe,광륜의 대낫,Reaper,0,ok,namu
+weapons,19060000,Winged Scythe,날개낫,Reaper,0,ok,namu
+weapons,19500000,Obsidian Lamina,흑요의 라미나,Reaper,1,ok,namu
+weapons,20000000,Whip,채찍,Whip,0,ok,namu
+weapons,20020000,Thorned Whip,가시 채찍,Whip,0,ok,namu
+weapons,20030000,Magma Whip Candlestick,용암 채찍의 촛대,Whip,0,ok,namu
+weapons,20050000,Hoslow's Petal Whip,호슬로의 꽃잎,Whip,0,ok,namu
+weapons,20060000,Giant's Red Braid,거인의 적발,Whip,0,ok,namu
+weapons,20070000,Urumi,우루미,Whip,0,ok,namu
+weapons,20500000,Tooth Whip,이빨 채찍,Whip,1,ok,namu
+weapons,21000000,Caestus,세스타스,Fist,0,ok,namu
+weapons,21010000,Spiked Caestus,스파이크 세스타스,Fist,0,ok,namu
+weapons,21060000,Grafted Dragon,접목된 비룡,Fist,0,ok,namu
+weapons,21070000,Iron Ball,철구권,Fist,0,ok,namu
+weapons,21080000,Star Fist,가시 철구권,Fist,0,ok,namu
+weapons,21100000,Katar,카타르,Fist,0,ok,namu
+weapons,21110000,Clinging Bone,매달리는 손뼈,Fist,0,ok,namu
+weapons,21120000,Veteran's Prosthesis,노장의 의족,Fist,0,ok,other
+weapons,21130000,Cipher Pata,비문자의 파타,Fist,0,ok,namu
+weapons,21500000,Thiollier's Hidden Needle,티에리에의 숨긴 침,Fist,1,ok,namu
+weapons,21510000,Pata,파타,Fist,1,ok,namu
+weapons,21520000,Poisoned Hand,독의 손,Fist,1,ok,namu
+weapons,21530000,Madding Hand,미친 손,Fist,1,ok,namu
+weapons,21540000,Golem Fist,골렘의 주먹,Fist,1,ok,namu
+weapons,21550000,Shield of Night,밤의 방패,Small Shield,1,ok,namu
+weapons,22000000,Hookclaws,갈고리 발톱,Claw,0,ok,namu
+weapons,22010000,Venomous Fang,독사의 이빨,Claw,0,ok,namu
+weapons,22020000,Bloodhound Claws,사냥개의 발톱,Claw,0,ok,namu
+weapons,22030000,Raptor Talons,맹금의 발톱,Claw,0,ok,namu
+weapons,22500000,Claws of Night,밤의 손톱,Claw,1,ok,namu
+weapons,23000000,Prelate's Inferno Crozier,주교의 대형 화염 망치,Colossal Weapon,0,ok,namu
+weapons,23010000,Watchdog's Staff,파수견의 석장,Colossal Weapon,0,ok,namu
+weapons,23020000,Great Club,그레이트 클럽,Colossal Weapon,0,ok,namu
+weapons,23030000,Envoy's Greathorn,사자들의 부채피리,Colossal Weapon,0,ok,namu
+weapons,23040000,Duelist Greataxe,투사의 대형 도끼,Colossal Weapon,0,ok,namu
+weapons,23050000,Axe of Godfrey,고드프리의 왕 도끼,Colossal Weapon,0,ok,namu
+weapons,23060000,Dragon Greatclaw,대룡조,Colossal Weapon,0,ok,namu
+weapons,23070000,Staff of the Avatar,화신의 의장,Colossal Weapon,0,ok,namu
+weapons,23080000,Fallingstar Beast Jaw,성수의 턱,Colossal Weapon,0,ok,namu
+weapons,23100000,Ghiza's Wheel,기자의 수레바퀴,Colossal Weapon,0,ok,namu
+weapons,23110000,Giant-Crusher,거인 부수기,Colossal Weapon,0,ok,namu
+weapons,23120000,Golem's Halberd,골렘의 도끼창,Colossal Weapon,0,ok,namu
+weapons,23130000,Troll's Hammer,트롤 해머,Colossal Weapon,0,ok,namu
+weapons,23140000,Rotten Staff,부패한 의장,Colossal Weapon,0,ok,namu
+weapons,23150000,Rotten Greataxe,부패한 대형 도끼,Colossal Weapon,0,ok,namu
+weapons,23500000,Devonia's Hammer,데보니아의 대형 망치,Colossal Weapon,1,ok,namu
+weapons,23510000,Shadow Sunflower Blossom,큰 영륜초 꽃,Colossal Weapon,1,ok,namu
+weapons,23520000,Gazing Finger,바라보는 손가락,Colossal Weapon,1,ok,namu
+weapons,24000000,Torch,횃불,Torch,0,ok,namu
+weapons,24020000,Steel-Wire Torch,강선 토치,Torch,0,ok,namu
+weapons,24040000,St. Trina's Torch,트리나의 등불,Torch,0,ok,namu
+weapons,24050000,Ghostflame Torch,영혼 불 토치,Torch,0,ok,namu
+weapons,24060000,Beast-Repellent Torch,짐승 쫓는 횃불,Torch,0,ok,namu
+weapons,24070000,Sentry's Torch,보초의 횃불,Torch,0,ok,namu
+weapons,24500000,Nanaya's Torch,나나야의 등불,Torch,1,ok,namu
+weapons,24510000,Lamenting Visage,한탄하는 목,Torch,1,ok,namu
+weapons,30000000,Buckler,버클러,Small Shield,0,ok,namu
+weapons,30010000,Perfumer's Shield,조향사의 방패,Small Shield,0,ok,namu
+weapons,30020000,Man-Serpent's Shield,뱀인간의 방패,Small Shield,0,ok,namu
+weapons,30030000,Rickety Shield,거의 망가진 나무 방패,Small Shield,0,ok,namu
+weapons,30040000,Pillory Shield,멍에 방패,Small Shield,0,ok,namu
+weapons,30060000,Beastman's Jar-Shield,수인의 항아리 방패,Medium Shield,0,ok,namu
+weapons,30070000,Red Thorn Roundshield,붉은 가시 목제 방패,Small Shield,0,ok,namu
+weapons,30080000,Scripture Wooden Shield,성구의 목제 방패,Small Shield,0,ok,namu
+weapons,30090000,Riveted Wooden Shield,쇠 압정 목제 방패,Small Shield,0,ok,namu
+weapons,30100000,Blue-White Wooden Shield,청백 목제 방패,Small Shield,0,ok,namu
+weapons,30110000,Rift Shield,갈라짐의 방패,Small Shield,0,ok,namu
+weapons,30120000,Iron Roundshield,철제 원형 방패,Small Shield,0,ok,namu
+weapons,30130000,Gilded Iron Shield,금장 철제 방패,Small Shield,0,ok,namu
+weapons,30140000,Ice Crest Shield,얼음 문양 방패,Small Shield,0,ok,namu
+weapons,30150000,Smoldering Shield,그을림의 방패,Small Shield,0,ok,namu
+weapons,30190000,Spiralhorn Shield,뿔 회오리 방패,Small Shield,0,ok,namu
+weapons,30200000,Coil Shield,똬리 방패,Small Shield,0,ok,namu
+weapons,30510000,Smithscript Shield,유문 방패,Small Shield,1,ok,namu
+weapons,31000000,Kite Shield,카이트 실드,Medium Shield,0,ok,namu
+weapons,31010000,Marred Leather Shield,침식된 가죽 방패,Medium Shield,0,ok,namu
+weapons,31020000,Marred Wooden Shield,침식된 목제 방패,Medium Shield,0,ok,namu
+weapons,31030000,Banished Knight's Shield,땅 잃은 기사의 방패,Medium Shield,0,ok,namu
+weapons,31040000,Albinauric Shield,백금의 방패,Medium Shield,0,ok,namu
+weapons,31050000,Sun Realm Shield,태양 도읍의 방패,Medium Shield,0,ok,namu
+weapons,31060000,Silver Mirrorshield,백은의 방패,Medium Shield,0,ok,namu
+weapons,31070000,Round Shield,라운드 실드,Medium Shield,0,ok,namu
+weapons,31080000,Scorpion Kite Shield,전갈의 카이트 실드,Medium Shield,0,ok,namu
+weapons,31090000,Twinbird Kite Shield,쌍조의 카이트 실드,Medium Shield,0,ok,namu
+weapons,31100000,Blue-Gold Kite Shield,청금의 카이트 실드,Medium Shield,0,ok,namu
+weapons,31130000,Brass Shield,놋쇠 방패,Medium Shield,0,ok,namu
+weapons,31140000,Great Turtle Shell,큰 거북의 등딱지,Medium Shield,0,ok,namu
+weapons,31170000,Shield of the Guilty,죄인의 방패,Small Shield,0,ok,namu
+weapons,31190000,Carian Knight's Shield,카리아의 기사 방패,Medium Shield,0,ok,namu
+weapons,31230000,Large Leather Shield,라지 레더 실드,Medium Shield,0,ok,namu
+weapons,31240000,Horse Crest Wooden Shield,말 문양 우드 실드,Medium Shield,0,unsure,other
+weapons,31250000,Candletree Wooden Shield,촛불나무 우드 실드,Medium Shield,0,ok,namu
+weapons,31260000,Flame Crest Wooden Shield,화염 문양 우드 실드,Medium Shield,0,ok,namu
+weapons,31270000,Hawk Crest Wooden Shield,매 문양 우드 실드,Medium Shield,0,ok,namu
+weapons,31280000,Beast Crest Heater Shield,짐승 문양 히터 실드,Medium Shield,0,ok,namu
+weapons,31290000,Red Crest Heater Shield,붉은 문양 히터 실드,Medium Shield,0,ok,namu
+weapons,31300000,Blue Crest Heater Shield,푸른 문양 히터 실드,Medium Shield,0,ok,namu
+weapons,31310000,Eclipse Crest Heater Shield,일식 문양 히터 실드,Medium Shield,0,ok,namu
+weapons,31320000,Inverted Hawk Heater Shield,뒤집힌 매 히터 실드,Medium Shield,0,ok,namu
+weapons,31330000,Heater Shield,히터 실드,Medium Shield,0,ok,namu
+weapons,31340000,Black Leather Shield,블랙 레더 실드,Medium Shield,0,ok,namu
+weapons,31500000,Messmer Soldier Shield,메스메르 병사의 방패,Medium Shield,1,ok,namu
+weapons,31510000,Wolf Crest Shield,늑대 문양 방패,Medium Shield,1,ok,namu
+weapons,31520000,Serpent Crest Shield,뱀 문양 방패,Medium Shield,1,ok,namu
+weapons,31530000,Golden Lion Shield,황금 사자 방패,Medium Shield,1,ok,namu
+weapons,31540000,Silver Grooved Shield,홈 파인 은 방패,Medium Shield,1,unsure,namu
+weapons,32000000,Dragon Towershield,용의 타워 실드,Greatshield,0,ok,namu
+weapons,32020000,Distinguished Greatshield,명가의 대형 방패,Greatshield,0,ok,namu
+weapons,32030000,Crucible Hornshield,도가니의 뿔 방패,Greatshield,0,ok,namu
+weapons,32040000,Dragonclaw Shield,용 발톱의 방패,Greatshield,0,ok,namu
+weapons,32050000,Briar Greatshield,철가시 대형 방패,Greatshield,0,ok,namu
+weapons,32080000,Erdtree Greatshield,황금 나무의 대형 방패,Greatshield,0,ok,namu
+weapons,32090000,Golden Beast Crest Shield,짐승 문양 황금 방패,Greatshield,0,ok,namu
+weapons,32120000,Jellyfish Shield,해파리의 방패,Greatshield,0,ok,namu
+weapons,32130000,Fingerprint Stone Shield,지문석의 방패,Greatshield,0,ok,namu
+weapons,32140000,Icon Shield,신성화의 방패,Greatshield,0,ok,namu
+weapons,32150000,One-Eyed Shield,외눈 방패,Greatshield,0,ok,namu
+weapons,32160000,Visage Shield,안면 방패,Greatshield,0,ok,namu
+weapons,32170000,Spiked Palisade Shield,압정 벽 방패,Greatshield,0,ok,namu
+weapons,32190000,Manor Towershield,성관의 타워 실드,Greatshield,0,ok,namu
+weapons,32200000,Crossed-Tree Towershield,교차수 타워 실드,Greatshield,0,ok,namu
+weapons,32210000,Inverted Hawk Towershield,뒤집힌 매 타워 실드,Greatshield,0,ok,namu
+weapons,32220000,Ant's Skull Plate,개미의 두갑,Greatshield,0,ok,namu
+weapons,32230000,Redmane Greatshield,붉은 사자의 대형 방패,Greatshield,0,ok,namu
+weapons,32240000,Eclipse Crest Greatshield,일식 문양 대형 방패,Greatshield,0,ok,namu
+weapons,32250000,Cuckoo Greatshield,뻐꾸기 대형 방패,Greatshield,0,ok,namu
+weapons,32260000,Golden Greatshield,황금의 대형 방패,Greatshield,0,ok,namu
+weapons,32270000,Gilded Greatshield,금장 대형 방패,Greatshield,0,ok,namu
+weapons,32280000,Haligtree Crest Greatshield,성수 문양 대형 방패,Greatshield,0,ok,namu
+weapons,32290000,Wooden Greatshield,목제 대형 방패,Greatshield,0,ok,namu
+weapons,32300000,Lordsworn's Shield,군주군의 방패,Greatshield,0,ok,namu
+weapons,32500000,Black Steel Greatshield,흑철 대형 방패,Greatshield,1,ok,namu
+weapons,32520000,Verdigris Greatshield,녹청 대형 방패,Greatshield,1,ok,namu
+weapons,33000000,Glintstone Staff,휘석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33040000,Crystal Staff,결정 지팡이,Glintstone Staff,0,ok,namu
+weapons,33050000,Gelmir Glintstone Staff,겔미어의 휘석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33060000,Demi-Human Queen's Staff,아인 여왕의 지팡이,Glintstone Staff,0,ok,namu
+weapons,33090000,Carian Regal Scepter,카리아의 왕홀,Glintstone Staff,0,ok,namu
+weapons,33120000,Digger's Staff,채석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33130000,Astrologer's Staff,별점 지팡이,Glintstone Staff,0,ok,namu
+weapons,33170000,Carian Glintblade Staff,카리아의 휘검 지팡이,Glintstone Staff,0,ok,namu
+weapons,33180000,Prince of Death's Staff,죽음의 왕자의 지팡이,Glintstone Staff,0,ok,namu
+weapons,33190000,Albinauric Staff,백금 지팡이,Glintstone Staff,0,ok,namu
+weapons,33200000,Academy Glintstone Staff,학원의 휘석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33210000,Carian Glintstone Staff,카리아의 휘석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33230000,Azur's Glintstone Staff,아줄의 휘석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33240000,Lusat's Glintstone Staff,루사트의 휘석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33250000,Meteorite Staff,운석 지팡이,Glintstone Staff,0,ok,namu
+weapons,33260000,Staff of the Guilty,죄인의 지팡이,Glintstone Staff,0,ok,namu
+weapons,33270000,Rotten Crystal Staff,부패한 결정 지팡이,Glintstone Staff,0,ok,namu
+weapons,33280000,Staff of Loss,상실의 지팡이,Glintstone Staff,0,ok,namu
+weapons,33510000,Staff of the Great Beyond,위대한 저편의 지팡이,Glintstone Staff,1,ok,namu
+weapons,33520000,Maternal Staff,어머니의 지팡이,Glintstone Staff,1,ok,namu
+weapons,34000000,Finger Seal,손가락의 성인,Sacred Seal,0,ok,namu
+weapons,34010000,Godslayer's Seal,신 사냥의 성인,Sacred Seal,0,ok,namu
+weapons,34020000,Giant's Seal,거인의 성인,Sacred Seal,0,ok,namu
+weapons,34030000,Gravel Stone Seal,조약돌의 성인,Sacred Seal,0,ok,namu
+weapons,34040000,Clawmark Seal,발톱 자국의 성인,Sacred Seal,0,ok,namu
+weapons,34060000,Golden Order Seal,황금률의 성인,Sacred Seal,0,ok,namu
+weapons,34070000,Erdtree Seal,황금 나무의 성인,Sacred Seal,0,ok,namu
+weapons,34080000,Dragon Communion Seal,용찬의 표식,Sacred Seal,0,ok,namu
+weapons,34090000,Frenzied Flame Seal,미친 불의 성인,Sacred Seal,0,ok,namu
+weapons,34500000,Dryleaf Seal,낙엽의 성인,Sacred Seal,1,ok,namu
+weapons,34510000,Fire Knight's Seal,불의 기사의 성인,Sacred Seal,1,ok,namu
+weapons,34520000,Spiraltree Seal,나선 나무의 성인,Sacred Seal,1,ok,namu
+weapons,40000000,Shortbow,숏 보우,Light Bow,0,ok,namu
+weapons,40010000,Misbegotten Shortbow,혼종의 숏 보우,Light Bow,0,ok,namu
+weapons,40020000,Red Branch Shortbow,붉은 나무 숏 보우,Light Bow,0,ok,namu
+weapons,40030000,Harp Bow,하프 보우,Light Bow,0,ok,namu
+weapons,40050000,Composite Bow,컴포지트 보우,Light Bow,0,ok,namu
+weapons,40500000,Bone Bow,뼈 활,Light Bow,1,ok,namu
+weapons,41000000,Longbow,롱보우,Bow,0,ok,namu
+weapons,41010000,Albinauric Bow,백금의 활,Bow,0,ok,namu
+weapons,41020000,Horn Bow,뿔 활,Bow,0,ok,namu
+weapons,41030000,Erdtree Bow,황금 나무의 활,Bow,0,ok,namu
+weapons,41040000,Serpent Bow,뱀 활,Bow,0,ok,namu
+weapons,41060000,Pulley Bow,도르래 활,Bow,0,ok,namu
+weapons,41070000,Black Bow,검은 활,Bow,0,ok,namu
+weapons,41510000,Ansbach's Longbow,안스바흐의 장궁,Bow,1,ok,namu
+weapons,42000000,Lion Greatbow,사자의 대궁,Greatbow,0,ok,namu
+weapons,42010000,Golem Greatbow,골렘의 대궁,Greatbow,0,ok,namu
+weapons,42030000,Erdtree Greatbow,황금 나무의 대궁,Greatbow,0,ok,namu
+weapons,42040000,Greatbow,대궁,Greatbow,0,ok,namu
+weapons,42500000,Igon's Greatbow,에이곤의 대궁,Greatbow,1,ok,namu
+weapons,43000000,Soldier's Crossbow,병사의 석궁,Crossbow,0,ok,namu
+weapons,43020000,Light Crossbow,라이트 크로스보우,Crossbow,0,ok,namu
+weapons,43030000,Heavy Crossbow,헤비 크로스보우,Crossbow,0,ok,namu
+weapons,43050000,Pulley Crossbow,도르래 석궁,Crossbow,0,ok,namu
+weapons,43060000,Full Moon Crossbow,월륜의 석궁,Crossbow,0,ok,namu
+weapons,43080000,Arbalest,아바레스트,Crossbow,0,ok,namu
+weapons,43110000,Crepus's Black-Key Crossbow,크레푸스의 흑건,Crossbow,0,ok,namu
+weapons,43500000,Repeating Crossbow,연노,Crossbow,1,ok,namu
+weapons,43510000,Spread Crossbow,산탄 크로스보우,Crossbow,1,ok,namu
+weapons,44000000,Hand Ballista,핸디 발리스타,Ballista,0,ok,namu
+weapons,44010000,Jar Cannon,대포 항아리,Ballista,0,ok,namu
+weapons,44500000,Rabbath's Cannon,라바스의 대포,Ballista,1,ok,namu
+weapons,60500000,Dryleaf Arts,낙엽 격투,Hand-to-Hand,1,ok,namu
+weapons,60510000,Dane's Footwork,단류 발차기술,Hand-to-Hand,1,ok,namu
+weapons,61500000,Firespark Perfume Bottle,불꽃의 조향병,Perfume Bottle,1,ok,namu
+weapons,61510000,Chilling Perfume Bottle,냉기의 조향병,Perfume Bottle,1,ok,namu
+weapons,61520000,Frenzyflame Perfume Bottle,미친 불의 조향병,Perfume Bottle,1,ok,namu
+weapons,61530000,Lightning Perfume Bottle,벼락의 조향병,Perfume Bottle,1,ok,namu
+weapons,61540000,Deadly Poison Perfume Bottle,맹독의 조향병,Perfume Bottle,1,ok,namu
+weapons,62500000,Dueling Shield,듀얼링 실드,Thrusting Shield,1,ok,namu
+weapons,62510000,Carian Thrusting Shield,카리아의 관통 방패,Thrusting Shield,1,ok,namu
+weapons,62520000,Ritual Thrusting Shield,봉투용 관통 방패,Thrusting Shield,1,unsure,namu
+weapons,63500000,Smithscript Dagger,유문 단검,Throwing Blade,1,ok,namu
+weapons,64500000,Backhand Blade,역수검,Backhand Blade,1,ok,namu
+weapons,64510000,Smithscript Cirque,유문 차크람,Backhand Blade,1,ok,namu
+weapons,64520000,Curseblade's Cirque,주검사의 차크람,Backhand Blade,1,ok,namu
+weapons,64530000,Reverse-Bladed Sword,역날 곡검,Backhand Blade,1,unsure,namu
+weapons,66500000,Great Katana,대도,Great Katana,1,ok,namu
+weapons,66510000,Dragon-Hunter's Great Katana,용 사냥꾼의 대도,Great Katana,1,ok,namu
+weapons,66520000,Rakshasa's Great Katana,나찰의 대도,Great Katana,1,ok,namu
+weapons,66530000,Reed Great Katana,갈대의 대형 도,Great Katana,1,unsure,namu
+weapons,67500000,Milady,레이디 소드,Light Greatsword,1,ok,namu
+weapons,67510000,Leda's Sword,레다의 검,Light Greatsword,1,ok,namu
+weapons,67520000,Rellana's Twin Blades,렐라나의 쌍검,Light Greatsword,1,unsure,namu
+weapons,67530000,Idus Sword,이데스의 검,Light Greatsword,1,unsure,namu
+weapons,68500000,Beast Claw,짐승 발톱,Beast Claw,1,ok,namu
+weapons,68510000,Red Bear's Claw,붉은곰의 발톱,Beast Claw,1,ok,namu
+armor,40000,Iron Helmet,철제 투구,Head,0,ok,other
+armor,40100,Scale Armor,스케일 아머,Body,0,ok,other
+armor,40200,Iron Gauntlets,철 장갑,Arms,0,ok,other
+armor,40300,Leather Trousers,가죽 바지,Legs,0,ok,other
+armor,50000,Kaiden Helm,카이덴의 투구,Head,0,ok,other
+armor,50100,Kaiden Armor,카이덴의 갑옷,Body,0,ok,other
+armor,50200,Kaiden Gauntlets,카이덴의 장갑,Arms,0,ok,other
+armor,50300,Kaiden Trousers,카이덴의 바지,Legs,0,ok,other
+armor,60000,Drake Knight Helm,용기사의 투구,Head,0,ok,other
+armor,60100,Drake Knight Armor,용기사의 갑옷,Body,0,ok,other
+armor,60200,Drake Knight Gauntlets,용기사의 장갑,Arms,0,ok,other
+armor,60300,Drake Knight Greaves,용기사의 각반,Legs,0,ok,other
+armor,61000,Drake Knight Helm (Altered),용기사의 투구(경장),Head,0,ok,other
+armor,61100,Drake Knight Armor (Altered),용기사의 갑옷(경장),Body,0,ok,other
+armor,80000,Scaled Helm,비늘 투구,Head,0,ok,other
+armor,80100,Scaled Armor,비늘 갑옷,Body,0,ok,other
+armor,80200,Scaled Gauntlets,비늘 장갑,Arms,0,ok,other
+armor,80300,Scaled Greaves,비늘 각반,Legs,0,ok,other
+armor,81100,Scaled Armor (Altered),비늘 갑옷(경장),Body,0,ok,other
+armor,90000,Perfumer Hood,조향사의 후드,Head,0,ok,other
+armor,90100,Perfumer Robe,조향사의 로브,Body,0,ok,other
+armor,90200,Perfumer Gloves,조향사의 장갑,Arms,0,ok,other
+armor,90300,Perfumer Sarong,조향사의 허리끈,Legs,0,ok,other
+armor,91100,Perfumer Robe (Altered),조향사의 로브(경장),Body,0,ok,other
+armor,100000,Traveler's Hat,여행 모자,Head,0,ok,other
+armor,100100,Perfumer's Traveling Garb,조향사의 여행복,Body,0,ok,other
+armor,100200,Traveler's Gloves,여행 장갑,Arms,0,ok,other
+armor,100300,Traveler's Slops,여행 바지,Legs,0,ok,other
+armor,101100,Perfumer's Traveling Garb (Altered),조향사의 여행복(경장),Body,0,ok,other
+armor,120000,Alberich's Pointed Hat,알베리히의 뾰족모자,Head,0,ok,other
+armor,120100,Alberich's Robe,알베리히의 옷,Body,0,ok,other
+armor,120200,Alberich's Bracers,알베리히의 장갑,Arms,0,ok,other
+armor,120300,Alberich's Trousers,알베리히의 바지,Legs,0,ok,other
+armor,121000,Alberich's Pointed Hat (Altered),알베리히의 뾰족모자(경장),Head,0,ok,other
+armor,121100,Alberich's Robe (Altered),알베리히의 옷(경장),Body,0,ok,other
+armor,130000,Spellblade's Pointed Hat,마술검사의 뾰족모자,Head,0,ok,other
+armor,130100,Spellblade's Traveling Attire,마술검사의 여행복,Body,0,ok,other
+armor,130200,Spellblade's Gloves,마술검사의 장갑,Arms,0,ok,other
+armor,130300,Spellblade's Trousers,마술검사의 바지,Legs,0,ok,other
+armor,131100,Spellblade's Traveling Attire (Altered),마술검사의 여행복(경장),Body,0,ok,other
+armor,140000,Bull-Goat Helm,큰 산양 투구,Head,0,ok,other
+armor,140100,Bull-Goat Armor,큰 산양 갑옷,Body,0,ok,other
+armor,140200,Bull-Goat Gauntlets,큰 산양 장갑,Arms,0,ok,other
+armor,140300,Bull-Goat Greaves,큰 산양 각반,Legs,0,ok,other
+armor,150000,Iron Kasa,철 삿갓,Head,0,ok,other
+armor,150100,Ronin's Armor,떠돌이의 갑옷,Body,0,ok,other
+armor,150200,Ronin's Gauntlets,떠돌이의 장갑,Arms,0,ok,other
+armor,150300,Ronin's Greaves,떠돌이의 각반,Legs,0,ok,other
+armor,151100,Ronin's Armor (Altered),떠돌이의 갑옷(경장),Body,0,ok,other
+armor,160000,Guilty Hood,죄인의 후드,Head,0,ok,other
+armor,160100,Cloth Garb,천옷,Body,0,ok,other
+armor,160300,Cloth Trousers,천 바지,Legs,0,ok,other
+armor,170000,Black Wolf Mask,검은 늑대의 가면,Head,0,ok,other
+armor,170100,Blaidd's Armor,블라이드의 갑옷,Body,0,ok,other
+armor,170200,Blaidd's Gauntlets,블라이드의 장갑,Arms,0,ok,other
+armor,170300,Blaidd's Greaves,블라이드의 각반,Legs,0,ok,other
+armor,171100,Blaidd's Armor (Altered),블라이드의 갑옷(경장),Body,0,ok,other
+armor,180000,Black Knife Hood,검은 칼날의 후드,Head,0,ok,other
+armor,180100,Black Knife Armor,검은 칼날의 갑옷,Body,0,ok,other
+armor,180200,Black Knife Gauntlets,검은 칼날의 장갑,Arms,0,ok,other
+armor,180300,Black Knife Greaves,검은 칼날의 각반,Legs,0,ok,other
+armor,181100,Black Knife Armor (Altered),검은 칼날의 갑옷(경장),Body,0,ok,other
+armor,190000,Exile Hood,유배병의 후드,Head,0,ok,other
+armor,190100,Exile Armor,유배병의 갑옷,Body,0,ok,other
+armor,190200,Exile Gauntlets,유배병의 장갑,Arms,0,ok,other
+armor,190300,Exile Greaves,유배병의 각반,Legs,0,ok,other
+armor,200000,Banished Knight Helm,땅 잃은 기사의 투구,Head,0,ok,other
+armor,200100,Banished Knight Armor,땅 잃은 기사의 갑옷,Body,0,ok,other
+armor,200200,Banished Knight Gauntlets,땅 잃은 기사의 장갑,Arms,0,ok,other
+armor,200300,Banished Knight Greaves,땅 잃은 기사의 각반,Legs,0,ok,other
+armor,201000,Banished Knight Helm (Altered),땅 잃은 기사의 투구(경장),Head,0,ok,other
+armor,201100,Banished Knight Armor (Altered),땅 잃은 기사의 갑옷(경장),Body,0,ok,other
+armor,210000,Briar Helm,철가시 투구,Head,0,ok,other
+armor,210100,Briar Armor,철가시 갑옷,Body,0,ok,other
+armor,210200,Briar Gauntlets,철가시 장갑,Arms,0,ok,other
+armor,210300,Briar Greaves,철가시 각반,Legs,0,ok,other
+armor,211100,Briar Armor (Altered),철가시 갑옷(경장),Body,0,ok,other
+armor,220000,Page Hood,시종의 후드,Head,0,ok,other
+armor,220100,Page Garb,시종의 옷,Body,0,ok,other
+armor,220300,Page Trousers,시종의 바지,Legs,0,ok,other
+armor,221100,Page Garb (Altered),시종의 옷(경장),Body,0,ok,other
+armor,230000,Night's Cavalry Helm,밤 기병의 투구,Head,0,ok,other
+armor,230100,Night's Cavalry Armor,밤 기병의 갑옷,Body,0,ok,other
+armor,230200,Night's Cavalry Gauntlets,밤 기병의 장갑,Arms,0,ok,other
+armor,230300,Night's Cavalry Greaves,밤 기병의 각반,Legs,0,ok,other
+armor,231000,Night's Cavalry Helm (Altered),밤 기병의 투구(경장),Head,0,ok,other
+armor,231100,Night's Cavalry Armor (Altered),밤 기병의 갑옷(경장),Body,0,ok,other
+armor,240000,Blue Silver Mail Hood,창은의 후드,Head,0,ok,other
+armor,240100,Blue Silver Mail Armor,창은의 갑옷,Body,0,ok,other
+armor,240200,Blue Silver Bracelets,창은의 팔찌,Arms,0,ok,other
+armor,240300,Blue Silver Mail Skirt,창은의 스커트,Legs,0,ok,other
+armor,241100,Blue Silver Mail Armor (Altered),창은의 갑옷(경장),Body,0,ok,other
+armor,250000,Nomadic Merchant's Chapeau,방랑 상인의 모자,Head,0,ok,other
+armor,250100,Nomadic Merchant's Finery,방랑 상인의 옷,Body,0,ok,other
+armor,250300,Nomadic Merchant's Trousers,방랑 상인의 바지,Legs,0,ok,other
+armor,251100,Nomadic Merchant's Finery (Altered),방랑 상인의 옷(경장),Body,0,ok,other
+armor,260000,Malformed Dragon Helm,이형의 용 투구,Head,0,ok,other
+armor,260100,Malformed Dragon Armor,이형의 용 갑옷,Body,0,ok,other
+armor,260200,Malformed Dragon Gauntlets,이형의 용 장갑,Arms,0,ok,other
+armor,260300,Malformed Dragon Greaves,이형의 용 각반,Legs,0,ok,other
+armor,270000,Tree Sentinel Helm,트리 가드의 투구,Head,0,ok,other
+armor,270100,Tree Sentinel Armor,트리 가드의 갑옷,Body,0,ok,other
+armor,270200,Tree Sentinel Gauntlets,트리 가드의 장갑,Arms,0,ok,other
+armor,270300,Tree Sentinel Greaves,트리 가드의 각반,Legs,0,ok,other
+armor,271100,Tree Sentinel Armor (Altered),트리 가드의 갑옷(경장),Body,0,ok,other
+armor,280000,Royal Knight Helm,친위기사의 투구,Head,0,ok,other
+armor,280100,Royal Knight Armor,친위기사의 갑옷,Body,0,ok,other
+armor,280200,Royal Knight Gauntlets,친위기사의 장갑,Arms,0,ok,other
+armor,280300,Royal Knight Greaves,친위기사의 각반,Legs,0,ok,other
+armor,281100,Royal Knight Armor (Altered),친위기사의 갑옷(경장),Body,0,ok,other
+armor,290000,Nox Monk Hood,녹스 승려의 후드,Head,0,ok,other
+armor,290100,Nox Monk Armor,녹스 승려의 갑옷,Body,0,ok,other
+armor,290200,Nox Bracelets,녹스 승려의 팔찌,Arms,0,unsure,other
+armor,290300,Nox Greaves,녹스 승려의 각반,Legs,0,unsure,other
+armor,291000,Nox Monk Hood (Altered),녹스 승려의 후드(경장),Head,0,ok,other
+armor,291100,Nox Monk Armor (Altered),녹스 승려의 갑옷(경장),Body,0,ok,other
+armor,292000,Nox Swordstress Crown,녹스 검사의 모자,Head,0,ok,other
+armor,292100,Nox Swordstress Armor,녹스 검사의 갑옷,Body,0,ok,other
+armor,293000,Night Maiden Twin Crown,밤 무녀의 쌍관,Head,0,ok,other
+armor,293100,Night Maiden Armor,밤 무녀의 갑옷,Body,0,ok,other
+armor,294000,Nox Swordstress Crown (Altered),녹스 검사의 모자(경장),Head,0,ok,other
+armor,294100,Nox Swordstress Armor (Altered),녹스 검사의 갑옷(경장),Body,0,ok,other
+armor,300000,Great Horned Headband,큰 뿔 머리띠,Head,0,ok,other
+armor,300100,Fur Raiment,모피옷,Body,0,ok,other
+armor,300300,Fur Leggings,모피 각반,Legs,0,ok,other
+armor,301000,Shining Horned Headband,빛의 뿔 머리띠,Head,0,ok,other
+armor,301100,Shaman Furs,사제의 모피,Body,0,ok,other
+armor,301300,Shaman Leggings,사제의 각반,Legs,0,ok,other
+armor,310000,Duelist Helm,투사의 투구,Head,0,ok,other
+armor,310100,Gravekeeper Cloak,묘지기의 망토,Body,0,ok,other
+armor,310300,Duelist Greaves,투사의 각반,Legs,0,ok,other
+armor,311100,Gravekeeper Cloak (Altered),묘지기의 망토(경장),Body,0,ok,other
+armor,320000,Sanguine Noble Hood,피의 귀족의 후드,Head,0,ok,other
+armor,320100,Sanguine Noble Robe,피의 귀족의 로브,Body,0,ok,other
+armor,320300,Sanguine Noble Waistcloth,피의 귀족의 허리띠,Legs,0,ok,other
+armor,330000,Guardian Mask,지키는 자의 가면,Head,0,ok,other
+armor,330100,Guardian Garb (Full Bloom),지키는 자의 옷(꽃),Body,0,ok,other
+armor,330200,Guardian Bracers,지키는 자의 장갑,Arms,0,ok,other
+armor,330300,Guardian Greaves,지키는 자의 각반,Legs,0,ok,other
+armor,331100,Guardian Garb,지키는 자의 옷,Body,0,ok,other
+armor,340000,Cleanrot Helm,귀부기사의 투구,Head,0,ok,other
+armor,340100,Cleanrot Armor,귀부기사의 갑옷,Body,0,ok,other
+armor,340200,Cleanrot Gauntlets,귀부기사의 장갑,Arms,0,ok,other
+armor,340300,Cleanrot Greaves,귀부기사의 각반,Legs,0,ok,other
+armor,341000,Cleanrot Helm (Altered),귀부기사의 투구(경장),Head,0,ok,other
+armor,341100,Cleanrot Armor (Altered),귀부기사의 갑옷(경장),Body,0,ok,other
+armor,350000,Fire Monk Hood,불 승병의 투구,Head,0,ok,other
+armor,350100,Fire Monk Armor,불 승병의 갑옷,Body,0,ok,other
+armor,350200,Fire Monk Gauntlets,불 승병의 장갑,Arms,0,ok,other
+armor,350300,Fire Monk Greaves,불 승병의 각반,Legs,0,ok,other
+armor,351000,Blackflame Monk Hood,흑염 승병의 투구,Head,0,ok,other
+armor,351100,Blackflame Monk Armor,흑염 승병의 갑옷,Body,0,ok,other
+armor,351200,Blackflame Monk Gauntlets,흑염 승병의 장갑,Arms,0,ok,other
+armor,351300,Blackflame Monk Greaves,흑염 승병의 각반,Legs,0,ok,other
+armor,360000,Fire Prelate Helm,불 주교의 투구,Head,0,ok,other
+armor,360100,Fire Prelate Armor,불 주교의 갑옷,Body,0,ok,other
+armor,360200,Fire Prelate Gauntlets,불 주교의 장갑,Arms,0,ok,other
+armor,360300,Fire Prelate Greaves,불 주교의 각반,Legs,0,ok,other
+armor,361100,Fire Prelate Armor (Altered),불 주교의 갑옷(경장),Body,0,ok,other
+armor,370000,Aristocrat Headband,귀인의 머리띠,Head,0,ok,other
+armor,370100,Aristocrat Garb,귀인의 옷,Body,0,ok,other
+armor,370300,Aristocrat Boots,귀인의 부츠,Legs,0,ok,other
+armor,371100,Aristocrat Garb (Altered),귀인의 옷(경장),Body,0,ok,other
+armor,380000,Aristocrat Hat,귀인의 모자,Head,0,ok,other
+armor,380100,Aristocrat Coat,귀인의 코트,Body,0,ok,other
+armor,390000,Old Aristocrat Cowl,늙은 귀인의 두건,Head,0,ok,other
+armor,390100,Old Aristocrat Gown,늙은 귀인의 긴 옷,Body,0,ok,other
+armor,390300,Old Aristocrat Shoes,늙은 귀인의 단화,Legs,0,ok,other
+armor,420000,Vulgar Militia Helm,천한 병사의 투구,Head,0,ok,other
+armor,420100,Vulgar Militia Armor,천한 병사의 갑옷,Body,0,ok,other
+armor,420200,Vulgar Militia Gauntlets,천한 병사의 장갑,Arms,0,ok,other
+armor,420300,Vulgar Militia Greaves,천한 병사의 각반,Legs,0,ok,other
+armor,430000,Sage Hood,현자의 후드,Head,0,ok,other
+armor,430100,Sage Robe,현자의 로브,Body,0,ok,other
+armor,430300,Sage Trousers,현자의 바지,Legs,0,ok,other
+armor,440000,Pumpkin Helm,호박 투구,Head,0,ok,other
+armor,460000,Elden Lord Crown,엘데 왕의 관,Head,0,ok,other
+armor,460100,Elden Lord Armor,엘데 왕의 갑옷,Body,0,ok,other
+armor,460200,Elden Lord Bracers,엘데 왕의 장갑,Arms,0,ok,other
+armor,460300,Elden Lord Greaves,엘데 왕의 각반,Legs,0,ok,other
+armor,461100,Elden Lord Armor (Altered),엘데 왕의 갑옷(경장),Body,0,ok,other
+armor,470000,Radahn's Redmane Helm,라단의 적발 투구,Head,0,ok,other
+armor,470100,Radahn's Lion Armor,라단의 사자 갑옷,Body,0,ok,other
+armor,470200,Radahn's Gauntlets,라단의 장갑,Arms,0,ok,other
+armor,470300,Radahn's Greaves,라단의 각반,Legs,0,ok,other
+armor,471100,Radahn's Lion Armor (Altered),라단의 사자 갑옷(경장),Body,0,ok,other
+armor,480100,Lord of Blood's Robe,피의 군주의 옷,Body,0,ok,other
+armor,481100,Lord of Blood's Robe (Altered),피의 군주의 옷(경장),Body,0,ok,other
+armor,510000,Queen's Crescent Crown,여왕의 월관,Head,0,ok,other
+armor,510100,Queen's Robe,여왕의 로브,Body,0,ok,other
+armor,510200,Queen's Bracelets,여왕의 팔찌,Arms,0,ok,other
+armor,510300,Queen's Leggings,여왕의 바지,Legs,0,ok,other
+armor,520000,Godskin Apostle Hood,신의 살갗의 사도 후드,Head,0,ok,other
+armor,520100,Godskin Apostle Robe,신의 살갗의 사도 로브,Body,0,ok,other
+armor,520200,Godskin Apostle Bracelets,사도의 팔찌,Arms,0,ok,other
+armor,520300,Godskin Apostle Trousers,사도의 바지,Legs,0,ok,other
+armor,530000,Godskin Noble Hood,신의 살갗의 귀인 후드,Head,0,ok,other
+armor,530100,Godskin Noble Robe,신의 살갗의 귀인 로브,Body,0,ok,other
+armor,530200,Godskin Noble Bracelets,귀인의 팔찌,Arms,0,ok,other
+armor,530300,Godskin Noble Trousers,귀인의 바지,Legs,0,ok,other
+armor,540000,Depraved Perfumer Headscarf,타락 조향사의 모자,Head,0,ok,other
+armor,540100,Depraved Perfumer Robe,타락 조향사의 로브,Body,0,ok,other
+armor,540200,Depraved Perfumer Gloves,타락 조향사의 장갑,Arms,0,ok,other
+armor,540300,Depraved Perfumer Trousers,타락 조향사의 바지,Legs,0,ok,other
+armor,541100,Depraved Perfumer Robe (Altered),타락 조향사의 로브(경장),Body,0,ok,other
+armor,570000,Crucible Axe Helm,도가니의 도끼 투구,Head,0,ok,other
+armor,570100,Crucible Axe Armor,도가니의 도끼 갑옷,Body,0,ok,other
+armor,570200,Crucible Gauntlets,도가니의 장갑,Arms,0,ok,other
+armor,570300,Crucible Greaves,도가니의 각반,Legs,0,ok,other
+armor,571000,Crucible Tree Helm,도가니의 나무 투구,Head,0,ok,other
+armor,571100,Crucible Tree Armor,도가니의 나무 갑옷,Body,0,ok,other
+armor,572100,Crucible Axe Armor (Altered),도가니의 도끼 갑옷(경장),Body,0,ok,other
+armor,573100,Crucible Tree Armor (Altered),도가니의 나무 갑옷(경장),Body,0,ok,other
+armor,580000,Lusat's Glintstone Crown,루사트의 휘석 머리,Head,0,ok,other
+armor,580100,Lusat's Robe,루사트의 로브,Body,0,ok,other
+armor,580200,Lusat's Manchettes,루사트의 팔 보호대,Arms,0,ok,other
+armor,580300,Old Sorcerer's Legwraps,옛 마술사의 다리 보호대,Legs,0,ok,other
+armor,581000,Azur's Glintstone Crown,아줄의 휘석 머리,Head,0,ok,other
+armor,581100,Azur's Glintstone Robe,아줄의 로브,Body,0,ok,other
+armor,581200,Azur's Manchettes,아줄의 팔 보호대,Arms,0,ok,other
+armor,590000,All-Knowing Helm,온 지혜의 투구,Head,0,ok,other
+armor,590100,All-Knowing Armor,온 지혜의 갑옷,Body,0,ok,other
+armor,590200,All-Knowing Gauntlets,온 지혜의 장갑,Arms,0,ok,other
+armor,590300,All-Knowing Greaves,온 지혜의 각반,Legs,0,ok,other
+armor,591100,All-Knowing Armor (Altered),온 지혜의 갑옷(경장),Body,0,ok,other
+armor,600000,Twinned Helm,쌍생아의 투구,Head,0,ok,other
+armor,600100,Twinned Armor,쌍생아의 갑옷,Body,0,ok,other
+armor,600200,Twinned Gauntlets,쌍생아의 장갑,Arms,0,ok,other
+armor,600300,Twinned Greaves,쌍생아의 각반,Legs,0,ok,other
+armor,601100,Twinned Armor (Altered),쌍생아의 갑옷(경장),Body,0,ok,other
+armor,620000,Prophet Blindfold,예언자의 눈가리개,Head,0,ok,other
+armor,620100,Corhyn's Robe,콜린의 로브,Body,0,ok,other
+armor,620300,Prophet Trousers,예언자의 바지,Legs,0,ok,other
+armor,621100,Prophet Robe (Altered),예언자의 로브(경장),Body,0,ok,other
+armor,622100,Prophet Robe,예언자의 로브,Body,0,ok,other
+armor,630000,Astrologer Hood,점성술 후드,Head,0,ok,other
+armor,630100,Astrologer Robe,점성술 로브,Body,0,ok,other
+armor,630200,Astrologer Gloves,점성술 장갑,Arms,0,ok,other
+armor,630300,Astrologer Trousers,점성술 바지,Legs,0,ok,other
+armor,631100,Astrologer Robe (Altered),점성술 로브(경장),Body,0,ok,other
+armor,640000,Lionel's Helm,라이오넬의 투구,Head,0,ok,other
+armor,640100,Lionel's Armor,라이오넬의 갑옷,Body,0,ok,other
+armor,640200,Lionel's Gauntlets,라이오넬의 장갑,Arms,0,ok,other
+armor,640300,Lionel's Greaves,라이오넬의 각반,Legs,0,ok,other
+armor,641100,Lionel's Armor (Altered),라이오넬의 갑옷(경장),Body,0,ok,other
+armor,650000,Hoslow's Helm,호슬로의 투구,Head,0,ok,other
+armor,650100,Hoslow's Armor,호슬로의 갑옷,Body,0,ok,other
+armor,650200,Hoslow's Gauntlets,호슬로의 장갑,Arms,0,ok,other
+armor,650300,Hoslow's Greaves,호슬로의 각반,Legs,0,ok,other
+armor,651000,Diallos's Mask,디아로스의 투구,Head,0,ok,other
+armor,652100,Hoslow's Armor (Altered),호슬로의 갑옷(경장),Body,0,ok,other
+armor,660000,Vagabond Knight Helm,방랑기사의 투구,Head,0,ok,other
+armor,660100,Vagabond Knight Armor,방랑기사의 갑옷,Body,0,ok,other
+armor,660200,Vagabond Knight Gauntlets,방랑기사의 장갑,Arms,0,ok,other
+armor,660300,Vagabond Knight Greaves,방랑기사의 각반,Legs,0,ok,other
+armor,661100,Vagabond Knight Armor (Altered),방랑기사의 갑옷(경장),Body,0,ok,other
+armor,670000,Blue Cloth Cowl,푸른 천 두건,Head,0,ok,other
+armor,670100,Blue Cloth Vest,푸른 천 조끼,Body,0,ok,other
+armor,670200,Warrior Gauntlets,검사의 장갑,Arms,0,ok,other
+armor,670300,Warrior Greaves,검사의 각반,Legs,0,ok,other
+armor,680000,White Mask,흰 가면,Head,0,ok,other
+armor,680100,War Surgeon Gown,종군의사의 백의,Body,0,ok,other
+armor,680200,War Surgeon Gloves,종군의사의 장갑,Arms,0,ok,other
+armor,680300,War Surgeon Trousers,종군의사의 바지,Legs,0,ok,other
+armor,681100,War Surgeon Gown (Altered),종군의사의 백의(경장),Body,0,ok,other
+armor,690000,Royal Remains Helm,왕의 유해의 투구,Head,0,ok,other
+armor,690100,Royal Remains Armor,왕의 유해의 갑옷,Body,0,ok,other
+armor,690200,Royal Remains Gauntlets,왕의 유해의 장갑,Arms,0,ok,other
+armor,690300,Royal Remains Greaves,왕의 유해의 각반,Legs,0,ok,other
+armor,720000,Beast Champion Helm,짐승 모임 투구,Head,0,ok,other
+armor,720100,Beast Champion Armor,짐승 모임 갑옷,Body,0,ok,other
+armor,720200,Beast Champion Gauntlets,짐승 모임 장갑,Arms,0,ok,other
+armor,720300,Beast Champion Greaves,짐승 모임 각반,Legs,0,ok,other
+armor,721100,Beast Champion Armor (Altered),짐승 모임 갑옷(경장),Body,0,ok,other
+armor,730000,Champion Headband,용사의 머리띠,Head,0,ok,other
+armor,730100,Champion Pauldron,용사의 어깨갑옷,Body,0,ok,other
+armor,730200,Champion Bracers,용사의 장갑,Arms,0,ok,other
+armor,730300,Champion Gaiters,용사의 각반,Legs,0,ok,other
+armor,740000,Crimson Hood,심홍색 후드,Head,0,ok,other
+armor,740100,Noble's Traveling Garb,귀족의 여행복,Body,0,ok,other
+armor,740200,Noble's Gloves,귀족의 장갑,Arms,0,ok,other
+armor,740300,Noble's Trousers,귀족의 바지,Legs,0,ok,other
+armor,741000,Navy Hood,진남색 후드,Head,0,ok,other
+armor,760000,Maliketh's Helm,말리케스의 투구,Head,0,ok,other
+armor,760100,Maliketh's Armor,말리케스의 갑옷,Body,0,ok,other
+armor,760200,Maliketh's Gauntlets,말리케스의 장갑,Arms,0,ok,other
+armor,760300,Maliketh's Greaves,말리케스의 각반,Legs,0,ok,other
+armor,761100,Maliketh's Armor (Altered),말리케스의 갑옷(경장),Body,0,ok,other
+armor,770000,Malenia's Winged Helm,말레니아의 날개 투구,Head,0,ok,other
+armor,770100,Malenia's Armor,말레니아의 갑옷,Body,0,ok,other
+armor,770200,Malenia's Gauntlet,말레니아의 장갑,Arms,0,ok,other
+armor,770300,Malenia's Greaves,말레니아의 각반,Legs,0,ok,other
+armor,771100,Malenia's Armor (Altered),말레니아의 갑옷(경장),Body,0,ok,other
+armor,780000,Veteran's Helm,노장의 투구,Head,0,ok,other
+armor,780100,Veteran's Armor,노장의 갑옷,Body,0,ok,other
+armor,780200,Veteran's Gauntlets,노장의 장갑,Arms,0,ok,other
+armor,780300,Veteran's Greaves,노장의 각반,Legs,0,ok,other
+armor,781100,Veteran's Armor (Altered),노장의 갑옷(경장),Body,0,ok,other
+armor,790000,Bloodhound Knight Helm,사냥개기사의 투구,Head,0,ok,other
+armor,790100,Bloodhound Knight Armor,사냥개기사의 갑옷,Body,0,ok,other
+armor,790200,Bloodhound Knight Gauntlets,사냥개기사의 장갑,Arms,0,ok,other
+armor,790300,Bloodhound Knight Greaves,사냥개기사의 각반,Legs,0,ok,other
+armor,791100,Bloodhound Knight Armor (Altered),사냥개기사의 갑옷(경장),Body,0,ok,other
+armor,800000,Festive Hood,축제 후드,Head,0,ok,other
+armor,800100,Festive Garb,축제 예복,Body,0,ok,other
+armor,801000,Festive Hood (Altered),축제 후드(경장),Head,0,ok,other
+armor,801100,Festive Garb (Altered),축제 예복(경장),Body,0,ok,other
+armor,802000,Blue Festive Hood,파란 축제 후드,Head,0,ok,other
+armor,802100,Blue Festive Garb,파란 축제 옷,Body,0,ok,other
+armor,810000,Commoner's Headband,시민의 모자,Head,0,ok,other
+armor,810100,Commoner's Garb,시민의 웃옷,Body,0,ok,other
+armor,810300,Commoner's Shoes,시민의 신발,Legs,0,ok,other
+armor,811000,Commoner's Headband (Altered),시민의 모자(경장),Head,0,ok,other
+armor,811100,Commoner's Garb (Altered),시민의 웃옷(경장),Body,0,ok,other
+armor,812000,Commoner's Simple Garb,시민의 옷,Body,0,ok,other
+armor,812100,Commoner's Simple Garb (Altered),시민의 옷(경장),Body,0,ok,other
+armor,820000,Envoy Crown,사자들의 큰 머리,Head,0,ok,other
+armor,830000,Twinsage Glintstone Crown,쌍현의 휘석 머리,Head,0,ok,other
+armor,830100,Raya Lucarian Robe,레아 루카리아의 로브,Body,0,ok,other
+armor,830200,Sorcerer Manchettes,마술사의 팔 보호대,Arms,0,ok,other
+armor,830300,Sorcerer Leggings,마술사의 다리 보호대,Legs,0,ok,other
+armor,831000,Olivinus Glintstone Crown,올리비니스의 휘석 머리,Head,0,ok,other
+armor,832000,Lazuli Glintstone Crown,라줄리의 휘석 머리,Head,0,ok,other
+armor,833000,Karolos Glintstone Crown,카롤로스의 휘석 머리,Head,0,ok,other
+armor,834000,Witch's Glintstone Crown,마녀의 휘석 머리,Head,0,ok,other
+armor,840000,Marionette Soldier Helm,인형 병사 투구,Head,0,ok,other
+armor,840100,Marionette Soldier Armor,인형 병사 갑옷,Body,0,ok,other
+armor,850000,Marionette Soldier Birdhelm,인형 병사 새 투구,Head,0,ok,other
+armor,860000,Raging Wolf Helm,전투광의 투구,Head,0,ok,other
+armor,860100,Raging Wolf Armor,전투광의 갑옷,Body,0,ok,other
+armor,860200,Raging Wolf Gauntlets,전투광의 장갑,Arms,0,ok,other
+armor,860300,Raging Wolf Greaves,전투광의 각반,Legs,0,ok,other
+armor,861100,Raging Wolf Armor (Altered),전투광의 갑옷(경장),Body,0,ok,other
+armor,870000,Land of Reeds Helm,갈대의 땅의 투구,Head,0,ok,other
+armor,870100,Land of Reeds Armor,갈대의 땅의 갑옷,Body,0,ok,other
+armor,870200,Land of Reeds Gauntlets,갈대의 땅의 장갑,Arms,0,ok,other
+armor,870300,Land of Reeds Greaves,갈대의 땅의 각반,Legs,0,ok,other
+armor,871100,Land of Reeds Armor (Altered),갈대의 땅의 갑옷(경장),Body,0,ok,other
+armor,872000,Okina Mask,노인 가면,Head,0,ok,other
+armor,872100,White Reed Armor,정예부대 갑옷,Body,0,ok,other
+armor,872200,White Reed Gauntlets,정예부대 장갑,Arms,0,ok,other
+armor,872300,White Reed Greaves,정예부대 각반,Legs,0,ok,other
+armor,880000,Confessor Hood,밀사의 후드,Head,0,ok,other
+armor,880100,Confessor Armor,밀사의 옷,Body,0,ok,other
+armor,880200,Confessor Gloves,밀사의 장갑,Arms,0,ok,other
+armor,880300,Confessor Boots,밀사의 부츠,Legs,0,ok,other
+armor,881000,Confessor Hood (Altered),밀사의 후드(경장),Head,0,ok,other
+armor,881100,Confessor Armor (Altered),밀사의 옷(경장),Body,0,ok,other
+armor,890000,Prisoner Iron Mask,포로의 철 가면,Head,0,ok,other
+armor,890100,Prisoner Clothing,포로복,Body,0,ok,other
+armor,890300,Prisoner Trousers,포로 바지,Legs,0,ok,other
+armor,891000,Blackguard's Iron Mask,불량배의 철 가면,Head,0,ok,other
+armor,900000,Traveling Maiden Hood,여행 무녀의 후드,Head,0,ok,other
+armor,900100,Traveling Maiden Robe,여행 무녀의 로브,Body,0,ok,other
+armor,900200,Traveling Maiden Gloves,여행 무녀의 장갑,Arms,0,ok,other
+armor,900300,Traveling Maiden Boots,여행 무녀의 부츠,Legs,0,ok,other
+armor,901100,Traveling Maiden Robe (Altered),여행 무녀의 로브(경장),Body,0,ok,other
+armor,902000,Finger Maiden Fillet,손가락 무녀의 모자,Head,0,ok,other
+armor,902100,Finger Maiden Robe,손가락 무녀의 로브,Body,0,ok,other
+armor,902300,Finger Maiden Shoes,손가락 무녀의 신발,Legs,0,ok,other
+armor,903100,Finger Maiden Robe (Altered),손가락 무녀의 로브(경장),Body,0,ok,other
+armor,910000,Preceptor's Big Hat,마술 교수의 큰 모자,Head,0,ok,other
+armor,910100,Preceptor's Long Gown,마술 교수의 긴 옷,Body,0,ok,other
+armor,910200,Preceptor's Gloves,마술 교수의 장갑,Arms,0,ok,other
+armor,910300,Preceptor's Trousers,마술 교수의 바지,Legs,0,ok,other
+armor,911000,Mask of Confidence,비닉의 가면,Head,0,ok,other
+armor,911100,Preceptor's Long Gown (Altered),마술 교수의 긴 옷(경장),Body,0,ok,other
+armor,930000,Skeletal Mask,뼈 가면,Head,0,ok,other
+armor,930100,Raptor's Black Feathers,맹금의 검은 깃털,Body,0,ok,other
+armor,930200,Bandit Manchettes,도적의 팔 보호대,Arms,0,ok,other
+armor,930300,Bandit Boots,도적의 부츠,Legs,0,ok,other
+armor,931100,Bandit Garb,도적의 조끼,Body,0,ok,other
+armor,940000,Eccentric's Hood,기이한 기사의 후드,Head,0,ok,other
+armor,940100,Eccentric's Armor,기이한 기사의 갑옷,Body,0,ok,other
+armor,940200,Eccentric's Manchettes,기이한 기사의 팔띠,Arms,0,ok,other
+armor,940300,Eccentric's Breeches,기이한 기사의 바지,Legs,0,ok,other
+armor,941000,Eccentric's Hood (Altered),기이한 기사의 후드(경장),Head,0,ok,other
+armor,950000,Fingerprint Helm,손가락 자국의 투구,Head,0,ok,other
+armor,950100,Fingerprint Armor,손가락 자국의 갑옷,Body,0,ok,other
+armor,950200,Fingerprint Gauntlets,손가락 자국의 장갑,Arms,0,ok,other
+armor,950300,Fingerprint Greaves,손가락 자국의 각반,Legs,0,ok,other
+armor,951100,Fingerprint Armor (Altered),손가락 자국의 갑옷(경장),Body,0,ok,other
+armor,960000,Consort's Mask,측비의 가면,Head,0,ok,other
+armor,960100,Consort's Robe,측비의 로브,Body,0,ok,other
+armor,960300,Consort's Trousers,측비의 바지,Legs,0,ok,other
+armor,961000,Ruler's Mask,영주의 가면,Head,0,ok,other
+armor,961100,Ruler's Robe,영주의 로브,Body,0,ok,other
+armor,962100,Upper-Class Robe,상류의 로브,Body,0,ok,other
+armor,963000,Marais Mask,마레 가의 가면,Head,0,ok,other
+armor,963100,Marais Robe,마레 가의 로브,Body,0,ok,other
+armor,963200,Bloodsoaked Manchettes,피가 밴 팔띠,Arms,0,ok,other
+armor,964000,Bloodsoaked Mask,피가 밴 복면,Head,0,ok,other
+armor,964100,Official's Attire,관리의 옷,Body,0,ok,other
+armor,970000,Omen Helm,흉조의 투구,Head,0,ok,other
+armor,970100,Omen Armor,흉조의 갑옷,Body,0,ok,other
+armor,970200,Omen Gauntlets,흉조의 장갑,Arms,0,ok,other
+armor,970300,Omen Greaves,흉조의 각반,Legs,0,ok,other
+armor,980000,Carian Knight Helm,카리아 기사의 투구,Head,0,ok,other
+armor,980100,Carian Knight Armor,카리아 기사의 갑옷,Body,0,ok,other
+armor,980200,Carian Knight Gauntlets,카리아 기사의 장갑,Arms,0,ok,other
+armor,980300,Carian Knight Greaves,카리아 기사의 각반,Legs,0,ok,other
+armor,981100,Carian Knight Armor (Altered),카리아 기사의 갑옷(경장),Body,0,ok,other
+armor,990000,Hierodas Glintstone Crown,야로다스의 휘석 머리,Head,0,ok,other
+armor,990100,Errant Sorcerer Robe,외톨이 마술사의 로브,Body,0,ok,other
+armor,990200,Errant Sorcerer Manchettes,외톨이 마술사의 팔 보호대,Arms,0,ok,other
+armor,990300,Errant Sorcerer Boots,외톨이 마술사의 부츠,Legs,0,ok,other
+armor,991100,Errant Sorcerer Robe (Altered),외톨이 마술사의 로브(경장),Body,0,ok,other
+armor,1000000,Haima Glintstone Crown,하이마의 휘석 머리,Head,0,ok,other
+armor,1000100,Battlemage Robe,전쟁마술사의 로브,Body,0,ok,other
+armor,1000200,Battlemage Manchettes,전쟁마술사의 팔 보호대,Arms,0,ok,other
+armor,1000300,Battlemage Legwraps,전쟁마술사의 다리 보호대,Legs,0,ok,other
+armor,1010000,Snow Witch Hat,눈 마녀의 뾰족모자,Head,0,ok,other
+armor,1010100,Snow Witch Robe,눈 마녀의 로브,Body,0,ok,other
+armor,1010300,Snow Witch Skirt,눈 마녀의 스커트,Legs,0,ok,other
+armor,1011100,Snow Witch Robe (Altered),눈 마녀의 로브(경장),Body,0,ok,other
+armor,1020100,Traveler's Clothes,여행 옷,Body,0,ok,other
+armor,1020200,Traveler's Manchettes,여행 팔띠,Arms,0,ok,other
+armor,1020300,Traveler's Boots,여행 부츠,Legs,0,ok,other
+armor,1030000,Juvenile Scholar Cap,유년 학도의 모자,Head,0,ok,other
+armor,1030100,Juvenile Scholar Robe,유년 학도의 로브,Body,0,ok,other
+armor,1040000,Radiant Gold Mask,빛나는 금가면,Head,0,ok,other
+armor,1040100,Goldmask's Rags,금가면의 누더기천,Body,0,ok,other
+armor,1040200,Gold Bracelets,금 팔 보호대,Arms,0,ok,other
+armor,1040300,Gold Waistwrap,금 허리띠,Legs,0,ok,other
+armor,1050100,Fell Omen Cloak,끔찍한 흉조의 망토,Body,0,ok,other
+armor,1060000,Albinauric Mask,백금의 복면,Head,0,ok,other
+armor,1060100,Dirty Chainmail,더러워진 체인 메일,Body,0,ok,other
+armor,1070000,Zamor Mask,자미엘의 가면,Head,0,ok,other
+armor,1070100,Zamor Armor,자미엘의 갑옷,Body,0,ok,other
+armor,1070200,Zamor Bracelets,자미엘의 팔 보호대,Arms,0,ok,other
+armor,1070300,Zamor Legwraps,자미엘의 다리 보호대,Legs,0,ok,other
+armor,1080000,Imp Head (Cat),임프 머리(고양이),Head,0,ok,other
+armor,1081000,Imp Head (Fanged),임프 머리(아귀),Head,0,ok,other
+armor,1082000,Imp Head (Long-Tongued),임프 머리(설귀),Head,0,ok,other
+armor,1083000,Imp Head (Corpse),임프 머리(망자),Head,0,ok,other
+armor,1084000,Imp Head (Wolf),임프 머리(늑대),Head,0,ok,other
+armor,1085000,Imp Head (Elder),임프 머리(장로),Head,0,ok,other
+armor,1090000,Silver Tear Mask,은 물방울 가면,Head,0,ok,other
+armor,1100000,Chain Coif,체인 헬름,Head,0,ok,other
+armor,1100100,Chain Armor,체인 아머,Body,0,ok,other
+armor,1100200,Gauntlets,건틀렛,Arms,0,ok,other
+armor,1100300,Chain Leggings,체인 레깅스,Legs,0,ok,other
+armor,1101000,Greathelm,그레이트 헬름,Head,0,ok,other
+armor,1101100,Eye Surcoat,눈동자 서코트,Body,0,ok,other
+armor,1102100,Tree Surcoat,나무 서코트,Body,0,ok,other
+armor,1110000,Octopus Head,문어머리,Head,0,ok,other
+armor,1120000,Jar,항아리머리,Head,0,ok,other
+armor,1130000,Mushroom Head,버섯머리,Head,0,ok,other
+armor,1130100,Mushroom Body,버섯몸,Body,0,ok,other
+armor,1130200,Mushroom Arms,버섯팔,Arms,0,ok,other
+armor,1130300,Mushroom Legs,버섯다리,Legs,0,ok,other
+armor,1300000,Nox Mirrorhelm,녹스의 거울 투구,Head,0,ok,other
+armor,1301000,Iji's Mirrorhelm,이지의 거울 투구,Head,0,ok,other
+armor,1400000,Black Hood,검은 천 후드,Head,0,ok,other
+armor,1400100,Leather Armor,가죽 갑옷,Body,0,ok,other
+armor,1400200,Leather Gloves,가죽 장갑,Arms,0,ok,other
+armor,1400300,Leather Boots,가죽 부츠,Legs,0,ok,other
+armor,1401000,Bandit Mask,도적의 마스크,Head,0,ok,other
+armor,1500000,Knight Helm,기사의 투구,Head,0,ok,other
+armor,1500100,Knight Armor,기사의 갑옷,Body,0,ok,other
+armor,1500200,Knight Gauntlets,기사의 장갑,Arms,0,ok,other
+armor,1500300,Knight Greaves,기사의 각반,Legs,0,ok,other
+armor,1600000,Greathood,그레이트 후드,Head,0,ok,other
+armor,1700000,Godrick Soldier Helm,고드릭 병사의 투구,Head,0,ok,other
+armor,1700100,Tree-and-Beast Surcoat,큰 나무와 짐승 서코트,Body,0,ok,other
+armor,1700200,Godrick Soldier Gauntlets,고드릭 병사의 장갑,Arms,0,ok,other
+armor,1700300,Godrick Soldier Greaves,고드릭 병사의 각반,Legs,0,ok,other
+armor,1710000,Raya Lucarian Helm,레아 루카리아 병사의 투구,Head,0,ok,other
+armor,1710100,Cuckoo Surcoat,뻐꾸기 서코트,Body,0,ok,other
+armor,1710200,Raya Lucarian Gauntlets,레아 루카리아 병사의 장갑,Arms,0,ok,other
+armor,1710300,Raya Lucarian Greaves,레아 루카리아 병사의 각반,Legs,0,ok,other
+armor,1720000,Leyndell Soldier Helm,로데일 병사의 투구,Head,0,ok,other
+armor,1720100,Erdtree Surcoat,황금 나무 서코트,Body,0,ok,other
+armor,1720200,Leyndell Soldier Gauntlets,로데일 병사의 장갑,Arms,0,ok,other
+armor,1720300,Leyndell Soldier Greaves,로데일 병사의 각반,Legs,0,ok,other
+armor,1730000,Radahn Soldier Helm,라단 병사의 투구,Head,0,ok,other
+armor,1730100,Redmane Surcoat,적사자 서코트,Body,0,ok,other
+armor,1730200,Radahn Soldier Gauntlets,라단 병사의 장갑,Arms,0,ok,other
+armor,1730300,Radahn Soldier Greaves,라단 병사의 각반,Legs,0,ok,other
+armor,1740100,Mausoleum Surcoat,영묘 서코트,Body,0,ok,other
+armor,1740200,Mausoleum Gauntlets,영묘 병사의 장갑,Arms,0,ok,other
+armor,1740300,Mausoleum Greaves,영묘 병사의 각반,Legs,0,ok,other
+armor,1750000,Haligtree Helm,성수 병사의 투구,Head,0,ok,other
+armor,1750100,Haligtree Crest Surcoat,성수 문양 서코트,Body,0,ok,other
+armor,1750200,Haligtree Gauntlets,성수 병사의 장갑,Arms,0,ok,other
+armor,1750300,Haligtree Greaves,성수 병사의 각반,Legs,0,ok,other
+armor,1760000,Gelmir Knight Helm,겔미어 기사의 투구,Head,0,ok,other
+armor,1760100,Gelmir Knight Armor,겔미어 기사의 갑옷,Body,0,ok,other
+armor,1760200,Gelmir Knight Gauntlets,겔미어 기사의 장갑,Arms,0,ok,other
+armor,1760300,Gelmir Knight Greaves,겔미어 기사의 각반,Legs,0,ok,other
+armor,1761100,Gelmir Knight Armor (Altered),겔미어 기사의 갑옷(경장),Body,0,ok,other
+armor,1770000,Godrick Knight Helm,고드릭 기사의 투구,Head,0,ok,other
+armor,1770100,Godrick Knight Armor,고드릭 기사의 갑옷,Body,0,ok,other
+armor,1770200,Godrick Knight Gauntlets,고드릭 기사의 장갑,Arms,0,ok,other
+armor,1770300,Godrick Knight Greaves,고드릭 기사의 각반,Legs,0,ok,other
+armor,1771100,Godrick Knight Armor (Altered),고드릭 기사의 갑옷(경장),Body,0,ok,other
+armor,1780000,Cuckoo Knight Helm,뻐꾸기 기사의 투구,Head,0,ok,other
+armor,1780100,Cuckoo Knight Armor,뻐꾸기 기사의 갑옷,Body,0,ok,other
+armor,1780200,Cuckoo Knight Gauntlets,뻐꾸기 기사의 장갑,Arms,0,ok,other
+armor,1780300,Cuckoo Knight Greaves,뻐꾸기 기사의 각반,Legs,0,ok,other
+armor,1781100,Cuckoo Knight Armor (Altered),뻐꾸기 기사의 갑옷(경장),Body,0,ok,other
+armor,1790000,Leyndell Knight Helm,로데일 기사의 투구,Head,0,ok,other
+armor,1790100,Leyndell Knight Armor,로데일 기사의 갑옷,Body,0,ok,other
+armor,1790200,Leyndell Knight Gauntlets,로데일 기사의 장갑,Arms,0,ok,other
+armor,1790300,Leyndell Knight Greaves,로데일 기사의 각반,Legs,0,ok,other
+armor,1791100,Leyndell Knight Armor (Altered),로데일 기사의 갑옷(경장),Body,0,ok,other
+armor,1800000,Redmane Knight Helm,적사자 기사의 투구,Head,0,ok,other
+armor,1800100,Redmane Knight Armor,적사자 기사의 갑옷,Body,0,ok,other
+armor,1800200,Redmane Knight Gauntlets,적사자 기사의 장갑,Arms,0,ok,other
+armor,1800300,Redmane Knight Greaves,적사자 기사의 각반,Legs,0,ok,other
+armor,1801100,Redmane Knight Armor (Altered),적사자 기사의 갑옷(경장),Body,0,ok,other
+armor,1810100,Mausoleum Knight Armor,영묘 기사의 갑옷,Body,0,ok,other
+armor,1810200,Mausoleum Knight Gauntlets,영묘 기사의 장갑,Arms,0,ok,other
+armor,1810300,Mausoleum Knight Greaves,영묘 기사의 각반,Legs,0,ok,other
+armor,1811100,Mausoleum Knight Armor (Altered),영묘 기사의 갑옷(경장),Body,0,ok,other
+armor,1820000,Haligtree Knight Helm,성수 기사의 투구,Head,0,ok,other
+armor,1820100,Haligtree Knight Armor,성수 기사의 갑옷,Body,0,ok,other
+armor,1820200,Haligtree Knight Gauntlets,성수 기사의 장갑,Arms,0,ok,other
+armor,1820300,Haligtree Knight Greaves,성수 기사의 각반,Legs,0,ok,other
+armor,1821100,Haligtree Knight Armor (Altered),성수 기사의 갑옷(경장),Body,0,ok,other
+armor,1830000,Foot Soldier Cap,졸병의 철 모자,Head,0,ok,other
+armor,1830100,Chain-Draped Tabard,사슬 어깨망토 천 갑옷,Body,0,ok,other
+armor,1830200,Foot Soldier Gauntlets,졸병의 장갑,Arms,0,ok,other
+armor,1830300,Foot Soldier Greaves,졸병의 각반,Legs,0,ok,other
+armor,1840000,Foot Soldier Helmet,졸병의 투구 덮개,Head,0,ok,other
+armor,1840100,Foot Soldier Tabard,졸병의 천 갑옷,Body,0,ok,other
+armor,1850000,Gilded Foot Soldier Cap,졸병의 금 모자,Head,0,ok,other
+armor,1850100,Leather-Draped Tabard,가죽 어깨망토 천 갑옷,Body,0,ok,other
+armor,1860000,Foot Soldier Helm,졸병의 헬름,Head,0,ok,other
+armor,1860100,Scarlet Tabard,붉은 천 갑옷,Body,0,ok,other
+armor,1870100,Bloodsoaked Tabard,피에 젖은 천 갑옷,Body,0,ok,other
+armor,1880000,Sacred Crown Helm,성관의 철 투구,Head,0,ok,other
+armor,1880100,Ivory-Draped Tabard,상아 어깨망토 천 갑옷,Body,0,ok,other
+armor,1890000,Omensmirk Mask,흉조를 비웃는 가면,Head,0,ok,other
+armor,1890100,Omenkiller Robe,흉조잡이의 로브,Body,0,ok,other
+armor,1890200,Omenkiller Long Gloves,흉조잡이의 긴 장갑,Arms,0,ok,other
+armor,1890300,Omenkiller Boots,흉조잡이의 부츠,Legs,0,ok,other
+armor,1900000,Ash-of-War Scarab,전회 스카라베,Head,0,ok,other
+armor,1901000,Incantation Scarab,기도 스카라베,Head,0,ok,other
+armor,1902000,Glintstone Scarab,휘석 스카라베,Head,0,ok,other
+armor,1910000,Crimson Tear Scarab,붉은 물방울 스카라베,Head,0,ok,other
+armor,1920000,Cerulean Tear Scarab,푸른 물방울 스카라베,Head,0,ok,other
+armor,1930100,Deathbed Dress,동침의 드레스,Body,0,ok,other
+armor,1940000,Fia's Hood,피아의 후드,Head,0,ok,other
+armor,1940100,Fia's Robe,피아의 로브,Body,0,ok,other
+armor,1941100,Fia's Robe (Altered),피아의 로브(경장),Body,0,ok,other
+armor,1980000,Highwayman Hood,강도의 후드,Head,0,ok,other
+armor,1980100,Highwayman Cloth Armor,강도의 천 갑옷,Body,0,ok,other
+armor,1980200,Highwayman Gauntlets,강도의 장갑,Arms,0,ok,other
+armor,1990000,High Page Hood,상류 시종의 후드,Head,0,ok,other
+armor,1990100,High Page Clothes,상류 시종의 옷,Body,0,ok,other
+armor,1991100,High Page Clothes (Altered),상류 시종의 옷(경장),Body,0,ok,other
+armor,2000000,Rotten Duelist Helm,부패한 투사의 투구,Head,0,ok,other
+armor,2000100,Rotten Gravekeeper Cloak,부패한 묘지기의 망토,Body,0,ok,other
+armor,2000300,Rotten Duelist Greaves,부패한 투사의 각반,Legs,0,ok,other
+armor,2001100,Rotten Gravekeeper Cloak (Altered),부패한 묘지기의 망토(경장),Body,0,ok,other
+armor,2010000,Mushroom Crown,버섯 왕관,Head,0,ok,other
+armor,2020000,Black Dumpling,검은 경단,Head,0,ok,other
+armor,2030000,Lazuli Robe,라줄리의 로브,Body,0,ok,other
+armor,3000000,Dane's Hat,단의 모자,Head,1,ok,other
+armor,3000100,Dryleaf Robe,낙엽파의 로브,Body,1,ok,other
+armor,3000200,Dryleaf Arm Wraps,낙엽파의 팔띠,Arms,1,ok,other
+armor,3000300,Dryleaf Cuissardes,낙엽파의 부츠,Legs,1,ok,other
+armor,3001100,Dryleaf Robe (Altered),낙엽파의 로브(경장),Body,1,ok,other
+armor,3010000,Gaius's Helm,가이우스의 투구,Head,1,ok,other
+armor,3010100,Gaius's Armor,가이우스의 갑옷,Body,1,ok,other
+armor,3010200,Gaius's Gauntlets,가이우스의 장갑,Arms,1,ok,other
+armor,3010300,Gaius's Greaves,가이우스의 각반,Legs,1,ok,other
+armor,5000000,Oathseeker Knight Helm,서약기사의 투구,Head,1,ok,other
+armor,5000100,Leda's Armor,레다의 갑옷,Body,1,ok,other
+armor,5000200,Oathseeker Knight Gauntlets,서약기사의 장갑,Arms,1,ok,other
+armor,5000300,Oathseeker Knight Greaves,서약기사의 각반,Legs,1,ok,other
+armor,5002100,Oathseeker Knight Armor,서약기사의 갑옷,Body,1,ok,other
+armor,5010000,Verdigris Helm,녹청 투구,Head,1,ok,other
+armor,5010100,Verdigris Armor,녹청 갑옷,Body,1,ok,other
+armor,5010200,Verdigris Gauntlets,녹청 장갑,Arms,1,ok,other
+armor,5010300,Verdigris Greaves,녹청 각반,Legs,1,ok,other
+armor,5020000,Pelt of Ralva,랄바의 모피,Head,1,ok,other
+armor,5020100,Iron Rivet Armor,철 못 갑옷,Body,1,ok,other
+armor,5020200,Iron Rivet Gauntlets,철 못 장갑,Arms,1,ok,other
+armor,5020300,Iron Rivet Greaves,철 못 각반,Legs,1,ok,other
+armor,5021000,Fang Helm,엄니 투구,Head,1,ok,other
+armor,5030000,Thiollier's Mask,티에리에의 가면,Head,1,ok,other
+armor,5030100,Thiollier's Garb,티에리에의 옷,Body,1,ok,other
+armor,5030200,Thiollier's Gloves,티에리에의 긴 장갑,Arms,1,ok,other
+armor,5030300,Thiollier's Trousers,티에리에의 바지,Legs,1,ok,other
+armor,5031100,Thiollier's Garb (Altered),티에리에의 옷(경장),Body,1,ok,other
+armor,5060000,High Priest Hat,대사제의 모자,Head,1,ok,other
+armor,5060100,High Priest Robe,대사제의 긴 옷,Body,1,ok,other
+armor,5060200,High Priest Gloves,대사제의 긴 장갑,Arms,1,ok,other
+armor,5060300,High Priest Undergarments,대사제의 속바지,Legs,1,ok,other
+armor,5062100,Finger Robe,손가락의 긴 옷,Body,1,ok,other
+armor,5070000,Caterpillar Mask,털벌레 가면,Head,1,ok,other
+armor,5070100,Braided Cord Robe,엮은 밧줄 로브,Body,1,ok,other
+armor,5070200,Braided Arm Wraps,밧줄 팔띠,Arms,1,ok,other
+armor,5070300,Soiled Loincloth,꾀죄죄한 속옷,Legs,1,ok,other
+armor,5080000,Dancer's Hood,무희의 후드,Head,1,ok,other
+armor,5080100,Dancer's Dress,무희의 드레스,Body,1,ok,other
+armor,5080200,Dancer's Bracer,무희의 장갑,Arms,1,ok,other
+armor,5080300,Dancer's Trousers,무희의 바지,Legs,1,ok,other
+armor,5081100,Dancer's Dress (Altered),무희의 드레스(경장),Body,1,ok,other
+armor,5090000,Helm of Night,밤의 투구,Head,1,ok,other
+armor,5090100,Armor of Night,밤의 갑옷,Body,1,ok,other
+armor,5090200,Gauntlets of Night,밤의 장갑,Arms,1,ok,other
+armor,5090300,Greaves of Night,밤의 각반,Legs,1,ok,other
+armor,5100000,Igon's Helm,에이곤의 투구,Head,1,ok,other
+armor,5100100,Igon's Armor,에이곤의 갑옷,Body,1,ok,other
+armor,5100200,Igon's Gauntlets,에이곤의 장갑,Arms,1,ok,other
+armor,5100300,Igon's Loincloth,에이곤의 허리끈,Legs,1,ok,other
+armor,5101000,Igon's Helm (Altered),에이곤의 투구(경장),Head,1,ok,other
+armor,5101100,Igon's Armor (Altered),에이곤의 갑옷(경장),Body,1,ok,other
+armor,5110000,Wise Man's Mask,늙은 현자의 가면,Head,1,ok,other
+armor,5110100,Ansbach's Attire,안스바흐의 옷,Body,1,ok,other
+armor,5110200,Ansbach's Manchettes,안스바흐의 팔띠,Arms,1,ok,other
+armor,5110300,Ansbach's Boots,안스바흐의 부츠,Legs,1,ok,other
+armor,5111100,Ansbach's Attire (Altered),안스바흐의 옷(경장),Body,1,ok,other
+armor,5120000,Freyja's Helm,프레이야의 투구,Head,1,ok,other
+armor,5120100,Freyja's Armor,프레이야의 갑옷,Body,1,ok,other
+armor,5120200,Freyja's Gauntlets,프레이야의 장갑,Arms,1,ok,other
+armor,5120300,Freyja's Greaves,프레이야의 정강이받이,Legs,1,ok,other
+armor,5121100,Freyja's Armor (Altered),프레이야의 갑옷(경장),Body,1,ok,other
+armor,5130000,Helm of Solitude,고립 감옥의 투구,Head,1,ok,other
+armor,5130100,Armor of Solitude,고립 감옥의 갑옷,Body,1,ok,other
+armor,5130200,Gauntlets of Solitude,고립 감옥의 장갑,Arms,1,ok,other
+armor,5130300,Greaves of Solitude,고립 감옥의 각반,Legs,1,ok,other
+armor,5131100,Armor of Solitude (Altered),고립 감옥의 갑옷(경장),Body,1,ok,other
+armor,5140000,Messmer Soldier Helm,메스메르 병사의 투구,Head,1,ok,other
+armor,5140100,Messmer Soldier Armor,메스메르 병사의 갑옷,Body,1,ok,other
+armor,5140200,Messmer Soldier Gauntlets,메스메르 병사의 장갑,Arms,1,ok,other
+armor,5140300,Messmer Soldier Greaves,메스메르 병사의 각반,Legs,1,ok,other
+armor,5141100,Messmer Soldier Armor (Altered),메스메르 병사의 갑옷(경장),Body,1,ok,other
+armor,5150000,Black Knight Helm,흑기사의 투구,Head,1,ok,other
+armor,5150100,Black Knight Armor,흑기사의 갑옷,Body,1,ok,other
+armor,5150200,Black Knight Gauntlets,흑기사의 장갑,Arms,1,ok,other
+armor,5150300,Black Knight Greaves,흑기사의 각반,Legs,1,ok,other
+armor,5160000,Rakshasa Helm,나찰의 투구,Head,1,ok,other
+armor,5160100,Rakshasa Armor,나찰의 갑옷,Body,1,ok,other
+armor,5160200,Rakshasa Gauntlets,나찰의 장갑,Arms,1,ok,other
+armor,5160300,Rakshasa Greaves,나찰의 각반,Legs,1,ok,other
+armor,5180000,Fire Knight Helm,불의 기사의 투구,Head,1,ok,other
+armor,5180100,Fire Knight Armor,불의 기사의 갑옷,Body,1,ok,other
+armor,5180200,Fire Knight Gauntlets,불의 기사의 장갑,Arms,1,ok,other
+armor,5180300,Fire Knight Greaves,불의 기사의 각반,Legs,1,ok,other
+armor,5181100,Fire Knight Armor (Altered),불의 기사의 갑옷(경장),Body,1,ok,other
+armor,5182000,Death Mask Helm,죽은 얼굴 투구,Head,1,ok,other
+armor,5183000,Winged Serpent Helm,날개 달린 뱀 투구,Head,1,ok,other
+armor,5184000,Salza's Hood,잘차의 후드,Head,1,ok,other
+armor,5190000,Leather Headband,가죽 머리띠,Head,1,ok,other
+armor,5190100,Gloried Attire,영예의 옷,Body,1,ok,other
+armor,5190200,Leather Arm Wraps,가죽 팔띠,Arms,1,ok,other
+armor,5190300,Leather Leg Wraps,가죽 각반,Legs,1,ok,other
+armor,5191000,Leather Crown,가죽 투구,Head,1,ok,other
+armor,5191100,Highland Attire,고지의 옷,Body,1,ok,other
+armor,5200000,Death Knight Helm,죽음 기사의 투구,Head,1,ok,other
+armor,5200100,Death Knight Armor,죽음 기사의 갑옷,Body,1,ok,other
+armor,5200200,Death Knight Gauntlets,죽음 기사의 장갑,Arms,1,ok,other
+armor,5200300,Death Knight Greaves,죽음 기사의 각반,Legs,1,ok,other
+armor,5210000,Curseblade Mask,주검사의 가면,Head,1,ok,other
+armor,5210100,Ascetic's Loincloth,수행자의 허리끈,Body,1,ok,other
+armor,5210200,Ascetic's Wrist Guards,수행자의 팔찌,Arms,1,ok,other
+armor,5210300,Ascetic's Ankle Guards,수행자의 발찌,Legs,1,ok,other
+armor,5220000,Messmer's Helm,메스메르의 투구,Head,1,ok,other
+armor,5220100,Messmer's Armor,메스메르의 갑옷,Body,1,ok,other
+armor,5220200,Messmer's Gauntlets,메스메르의 장갑,Arms,1,ok,other
+armor,5220300,Messmer's Greaves,메스메르의 각반,Legs,1,ok,other
+armor,5221000,Messmer's Helm (Altered),메스메르의 투구(경장),Head,1,ok,other
+armor,5230000,Gravebird Helm,묘지기 새의 투구,Head,1,ok,other
+armor,5230100,Gravebird's Blackquill Armor,묘지기 새의 깃털 갑옷,Body,1,ok,other
+armor,5230200,Gravebird Bracelets,묘지기 새의 팔찌,Arms,1,ok,other
+armor,5230300,Gravebird Anklets,묘지기 새의 발찌,Legs,1,ok,other
+armor,5231100,Gravebird Armor,묘지기 새의 갑옷,Body,1,ok,other
+armor,5240000,Common Soldier Helm,졸병의 투구,Head,1,ok,other
+armor,5240100,Common Soldier Cloth Armor,졸병의 천 갑옷,Body,1,unsure,other
+armor,5240200,Common Soldier Gauntlets,졸병의 장갑,Arms,1,unsure,other
+armor,5240300,Common Soldier Greaves,졸병의 각반,Legs,1,unsure,other
+armor,5250000,Horned Warrior Helm,뿔 전사의 투구,Head,1,ok,other
+armor,5250100,Horned Warrior Armor,뿔 전사의 갑옷,Body,1,ok,other
+armor,5250200,Horned Warrior Gauntlets,뿔 전사의 장갑,Arms,1,ok,other
+armor,5250300,Horned Warrior Greaves,뿔 전사의 각반,Legs,1,ok,other
+armor,5252000,Divine Beast Helm,신수의 투구,Head,1,ok,other
+armor,5252100,Divine Beast Warrior Armor,신수 전사의 갑옷,Body,1,ok,other
+armor,5253000,Divine Bird Helm,신조의 투구,Head,1,ok,other
+armor,5253100,Divine Bird Warrior Armor,신조 전사의 갑옷,Body,1,ok,other
+armor,5253200,Divine Bird Warrior Gauntlets,신조 전사의 장갑,Arms,1,ok,other
+armor,5253300,Divine Bird Warrior Greaves,신조 전사의 각반,Legs,1,ok,other
+armor,5260000,Rellana's Helm,렐라나의 투구,Head,1,ok,other
+armor,5260100,Rellana's Armor,렐라나의 갑옷,Body,1,ok,other
+armor,5260200,Rellana's Gloves,렐라나의 장갑,Arms,1,ok,other
+armor,5260300,Rellana's Greaves,렐라나의 각반,Legs,1,ok,other
+armor,5270000,Young Lion's Helm,젊은 사자의 투구,Head,1,ok,other
+armor,5270100,Young Lion's Armor,젊은 사자의 갑옷,Body,1,ok,other
+armor,5270200,Young Lion's Gauntlets,젊은 사자의 장갑,Arms,1,ok,other
+armor,5270300,Young Lion's Greaves,젊은 사자의 각반,Legs,1,ok,other
+armor,5271100,Young Lion's Armor (Altered),젊은 사자의 갑옷(경장),Body,1,ok,other
+armor,5272000,Circlet of Light,빛의 관,Head,1,ok,other
+armor,5280000,Shadow Militiaman Helm,그림자 천한 병사의 투구,Head,1,ok,other
+armor,5280100,Shadow Militiaman Armor,그림자 천한 병사의 갑옷,Body,1,ok,other
+armor,5280200,Shadow Militiaman Gauntlets,그림자 천한 병사의 장갑,Arms,1,ok,other
+armor,5280300,Shadow Militiaman Greaves,그림자 천한 병사의 각반,Legs,1,ok,other
+armor,5290000,Divine Beast Head,신수의 머리,Head,1,ok,other
+armor,5300000,St. Trina's Blossom,트리나의 한 송이 꽃,Head,1,ok,other
+armor,5310000,Crucible Hammer-Helm,도가니의 망치 투구,Head,1,ok,other
+armor,5320000,Greatjar,큰 항아리머리,Head,1,ok,other
+armor,5330000,Imp Head (Lion),임프 머리(사자),Head,1,ok,other
+armor,5340000,Broken Gold Mask,파쇄된 금가면,Head,1,ok,other
+armor,5340100,Gold Tattoo (Chest),황금의 문신(몸통),Body,1,ok,other
+armor,5340200,Gold Tattoo (Arm),황금의 문신(팔),Arms,1,ok,other
+armor,5340300,Gold Tattoo (Leg),황금의 문신(다리),Legs,1,ok,other
+armor,5350000,Silver Grooved Helm,홈 파인 은 투구,Head,1,ok,other
+armor,5350100,Silver Grooved Armor,홈 파인 은 갑옷,Body,1,ok,other
+armor,5350200,Silver Grooved Gauntlets,홈 파인 은 장갑,Arms,1,ok,other
+armor,5350300,Silver Grooved Greaves,홈 파인 은 각반,Legs,1,ok,other
+armor,5351100,Silver Grooved Armor (Altered),홈 파인 은 갑옷(경장),Body,1,ok,other
+armor,5360000,Leontiel's Hat,레오티엘의 모자,Head,1,ok,other
+armor,5360100,Leontiel's Armor,레오티엘의 갑옷,Body,1,ok,other
+armor,5360200,Leontiel's Leather Gloves,레오티엘의 가죽 장갑,Arms,1,ok,other
+armor,5360300,Leontiel's Boots,레오티엘의 부츠,Legs,1,ok,other
+armor,5361000,Leontiel's Hat (Altered),레오티엘의 모자(경장),Head,1,ok,other
+armor,5370000,Steel Helm,강철 투구,Head,1,ok,other
+armor,5370100,Steel Armor,강철 갑옷,Body,1,ok,other
+armor,5370200,Steel Gauntlets,강철 장갑,Arms,1,ok,other
+armor,5370300,Steel Greaves,강철 각반,Legs,1,ok,other
+talismans,1000,Crimson Amber Medallion,붉은 호박 메달리온,Talisman,0,ok,other
+talismans,1001,Crimson Amber Medallion +1,붉은 호박 메달리온+1,Talisman,0,ok,other
+talismans,1002,Crimson Amber Medallion +2,붉은 호박 메달리온+2,Talisman,0,ok,other
+talismans,1010,Cerulean Amber Medallion,푸른 호박 메달리온,Talisman,0,ok,other
+talismans,1011,Cerulean Amber Medallion +1,푸른 호박 메달리온+1,Talisman,0,ok,other
+talismans,1012,Cerulean Amber Medallion +2,푸른 호박 메달리온+2,Talisman,0,ok,other
+talismans,1020,Viridian Amber Medallion,녹색 호박 메달리온,Talisman,0,ok,other
+talismans,1021,Viridian Amber Medallion +1,녹색 호박 메달리온+1,Talisman,0,ok,other
+talismans,1022,Viridian Amber Medallion +2,녹색 호박 메달리온+2,Talisman,0,ok,other
+talismans,1030,Arsenal Charm,무구 덩어리 부적,Talisman,0,ok,other
+talismans,1031,Arsenal Charm +1,무구 덩어리 부적+1,Talisman,0,ok,other
+talismans,1032,Great-Jar's Arsenal,큰 항아리의 무구 덩어리,Talisman,0,ok,other
+talismans,1040,Erdtree's Favor,황금 나무의 은총,Talisman,0,ok,other
+talismans,1041,Erdtree's Favor +1,황금 나무의 은총+1,Talisman,0,ok,other
+talismans,1042,Erdtree's Favor +2,황금 나무의 은총+2,Talisman,0,ok,other
+talismans,1050,Radagon's Scarseal,라다곤의 각인,Talisman,0,ok,other
+talismans,1051,Radagon's Soreseal,라다곤의 문드러진 각인,Talisman,0,ok,other
+talismans,1060,Starscourge Heirloom,별 부수기의 전승,Talisman,0,ok,other
+talismans,1070,Prosthesis-Wearer Heirloom,의수 검사의 전승,Talisman,0,ok,other
+talismans,1080,Stargazer Heirloom,별 보는 소녀의 전승,Talisman,0,ok,other
+talismans,1090,Two Fingers Heirloom,두 손가락의 전승,Talisman,0,ok,other
+talismans,1100,Silver Scarab,은 스카라베,Talisman,0,ok,other
+talismans,1110,Gold Scarab,금 스카라베,Talisman,0,ok,other
+talismans,1140,Moon of Nokstella,녹스텔라의 달,Talisman,0,ok,other
+talismans,1150,Green Turtle Talisman,녹색 거북 탈리스만,Talisman,0,ok,other
+talismans,1160,Stalwart Horn Charm,강건의 뿔 장식,Talisman,0,ok,other
+talismans,1161,Stalwart Horn Charm +1,강건의 뿔 장식+1,Talisman,0,ok,other
+talismans,1170,Immunizing Horn Charm,면역의 뿔 장식,Talisman,0,ok,other
+talismans,1171,Immunizing Horn Charm +1,면역의 뿔 장식+1,Talisman,0,ok,other
+talismans,1180,Clarifying Horn Charm,이성의 뿔 장식,Talisman,0,ok,other
+talismans,1181,Clarifying Horn Charm +1,이성의 뿔 장식+1,Talisman,0,ok,other
+talismans,1190,Prince of Death's Pustule,죽음의 왕자의 부스럼,Talisman,0,ok,other
+talismans,1191,Prince of Death's Cyst,죽음의 왕자의 업창,Talisman,0,ok,other
+talismans,1200,Mottled Necklace,얼룩색 목걸이,Talisman,0,ok,other
+talismans,1201,Mottled Necklace +1,얼룩색 목걸이+1,Talisman,0,ok,other
+talismans,1210,Bull-Goat's Talisman,큰 산양 탈리스만,Talisman,0,ok,other
+talismans,1220,Marika's Scarseal,마리카의 각인,Talisman,0,ok,other
+talismans,1221,Marika's Soreseal,마리카의 문드러진 각인,Talisman,0,ok,other
+talismans,1230,Warrior Jar Shard,전사 항아리의 파편,Talisman,0,ok,other
+talismans,1231,Shard of Alexander,알렉산더의 파편,Talisman,0,ok,other
+talismans,1250,Millicent's Prosthesis,밀리센트의 의수,Talisman,0,ok,other
+talismans,2000,Magic Scorpion Charm,마력 전갈,Talisman,0,ok,other
+talismans,2010,Lightning Scorpion Charm,벼락 전갈,Talisman,0,ok,other
+talismans,2020,Fire Scorpion Charm,화염 전갈,Talisman,0,ok,other
+talismans,2030,Sacred Scorpion Charm,신성한 전갈,Talisman,0,ok,other
+talismans,2040,Red-Feathered Branchsword,붉은 날개 칠지인,Talisman,0,ok,other
+talismans,2050,Ritual Sword Talisman,봉투검의 탈리스만,Talisman,0,ok,other
+talismans,2060,Spear Talisman,창의 탈리스만,Talisman,0,ok,other
+talismans,2070,Hammer Talisman,망치의 탈리스만,Talisman,0,ok,other
+talismans,2080,Winged Sword Insignia,유익검의 휘장,Talisman,0,ok,other
+talismans,2081,Rotten Winged Sword Insignia,부패 익검의 휘장,Talisman,0,ok,other
+talismans,2090,Dagger Talisman,단검의 탈리스만,Talisman,0,ok,other
+talismans,2100,Arrow's Reach Talisman,먼 화살의 탈리스만,Talisman,0,ok,other
+talismans,2110,Blue Dancer Charm,푸른 무희,Talisman,0,ok,other
+talismans,2120,Twinblade Talisman,쌍날검의 탈리스만,Talisman,0,ok,other
+talismans,2130,Axe Talisman,도끼의 탈리스만,Talisman,0,ok,other
+talismans,2140,Lance Talisman,랜스의 탈리스만,Talisman,0,ok,other
+talismans,2150,Arrow's Sting Talisman,튼튼한 화살의 탈리스만,Talisman,0,ok,other
+talismans,2160,Lord of Blood's Exultation,피의 군주의 환희,Talisman,0,ok,other
+talismans,2170,Kindred of Rot's Exultation,부패 권속의 환희,Talisman,0,ok,other
+talismans,2180,Claw Talisman,손톱의 탈리스만,Talisman,0,ok,other
+talismans,2190,Roar Medallion,포효의 메달리온,Talisman,0,ok,other
+talismans,2200,Curved Sword Talisman,곡검의 탈리스만,Talisman,0,ok,other
+talismans,2210,Companion Jar,벗 항아리,Talisman,0,ok,other
+talismans,2220,Perfumer's Talisman,조향사의 탈리스만,Talisman,0,ok,other
+talismans,3000,Graven-School Talisman,마술사 구 탈리스만,Talisman,0,ok,other
+talismans,3001,Graven-Mass Talisman,마술사 덩어리 탈리스만,Talisman,0,ok,other
+talismans,3040,Faithful's Canvas Talisman,신도의 서포,Talisman,0,ok,other
+talismans,3050,Flock's Canvas Talisman,모인 신도의 서포,Talisman,0,ok,other
+talismans,3060,Old Lord's Talisman,옛 왕의 탈리스만,Talisman,0,ok,other
+talismans,3070,Radagon Icon,라다곤의 초상,Talisman,0,ok,other
+talismans,3080,Primal Glintstone Blade,원휘석 칼날,Talisman,0,ok,other
+talismans,3090,Godfrey Icon,고드프리의 초상,Talisman,0,ok,other
+talismans,4000,Dragoncrest Shield Talisman,용 표식 방패의 탈리스만,Talisman,0,ok,other
+talismans,4001,Dragoncrest Shield Talisman +1,용 표식 방패의 탈리스만+1,Talisman,0,ok,other
+talismans,4002,Dragoncrest Shield Talisman +2,용 표식 방패의 탈리스만+2,Talisman,0,ok,other
+talismans,4003,Dragoncrest Greatshield Talisman,용 표식 대형 방패의 탈리스만,Talisman,0,ok,other
+talismans,4010,Spelldrake Talisman,마력 용 표식의 탈리스만,Talisman,0,ok,other
+talismans,4011,Spelldrake Talisman +1,마력 용 표식의 탈리스만+1,Talisman,0,ok,other
+talismans,4012,Spelldrake Talisman +2,마력 용 표식의 탈리스만+2,Talisman,0,ok,other
+talismans,4020,Flamedrake Talisman,염룡 표식의 탈리스만,Talisman,0,ok,other
+talismans,4021,Flamedrake Talisman +1,염룡 표식의 탈리스만+1,Talisman,0,ok,other
+talismans,4022,Flamedrake Talisman +2,염룡 표식의 탈리스만+2,Talisman,0,ok,other
+talismans,4030,Boltdrake Talisman,뇌룡 표식의 탈리스만,Talisman,0,ok,other
+talismans,4031,Boltdrake Talisman +1,뇌룡 표식의 탈리스만+1,Talisman,0,ok,other
+talismans,4032,Boltdrake Talisman +2,뇌룡 표식의 탈리스만+2,Talisman,0,ok,other
+talismans,4040,Haligdrake Talisman,성룡 표식의 탈리스만,Talisman,0,ok,other
+talismans,4041,Haligdrake Talisman +1,성룡 표식의 탈리스만+1,Talisman,0,ok,other
+talismans,4042,Haligdrake Talisman +2,성룡 표식의 탈리스만+2,Talisman,0,ok,other
+talismans,4050,Pearldrake Talisman,진주룡 표식의 탈리스만,Talisman,0,ok,other
+talismans,4051,Pearldrake Talisman +1,진주룡 표식의 탈리스만+1,Talisman,0,ok,other
+talismans,4052,Pearldrake Talisman +2,진주룡 표식의 탈리스만+2,Talisman,0,ok,other
+talismans,4060,Crucible Scale Talisman,도가니 비늘의 탈리스만,Talisman,0,ok,other
+talismans,4070,Crucible Feather Talisman,도가니 날개의 탈리스만,Talisman,0,ok,other
+talismans,4080,Blue-Feathered Branchsword,푸른 날개 칠지인,Talisman,0,ok,other
+talismans,4090,Ritual Shield Talisman,봉투방패의 탈리스만,Talisman,0,ok,other
+talismans,4100,Greatshield Talisman,대형 방패의 탈리스만,Talisman,0,ok,other
+talismans,4110,Crucible Knot Talisman,도가니 혹의 탈리스만,Talisman,0,ok,other
+talismans,5000,Crimson Seed Talisman,붉은 종자의 탈리스만,Talisman,0,ok,other
+talismans,5010,Cerulean Seed Talisman,푸른 종자의 탈리스만,Talisman,0,ok,other
+talismans,5020,Blessed Dew Talisman,은혜의 물방울의 탈리스만,Talisman,0,ok,other
+talismans,5030,Taker's Cameo,약탈의 카메오,Talisman,0,ok,other
+talismans,5040,Godskin Swaddling Cloth,신의 살갗의 강보,Talisman,0,ok,other
+talismans,5050,Assassin's Crimson Dagger,붉은 흉악한 칼날,Talisman,0,ok,other
+talismans,5060,Assassin's Cerulean Dagger,푸른 흉악한 칼날,Talisman,0,ok,other
+talismans,6000,Crepus's Vial,크레푸스의 작은 병,Talisman,0,ok,other
+talismans,6010,Concealing Veil,몸 가리는 베일,Talisman,0,ok,other
+talismans,6020,Carian Filigreed Crest,카리아의 휘장,Talisman,0,ok,other
+talismans,6040,Longtail Cat Talisman,긴 꼬리 고양이 탈리스만,Talisman,0,ok,other
+talismans,6050,Shabriri's Woe,샤브리리의 화,Talisman,0,ok,other
+talismans,6060,Daedicar's Woe,디디카의 화,Talisman,0,ok,other
+talismans,6070,Sacrificial Twig,희생의 가는 가지,Talisman,0,ok,other
+talismans,6080,Furled Finger's Trick-Mirror,갈고리 손가락의 위장 거울,Talisman,0,ok,other
+talismans,6090,Host's Trick-Mirror,주인의 위장 거울,Talisman,0,ok,other
+talismans,6110,Ancestral Spirit's Horn,선조령의 뿔,Talisman,0,ok,other
+talismans,7000,Crimson Amber Medallion +3,붉은 호박 메달리온+3,Talisman,1,ok,other
+talismans,7010,Cerulean Amber Medallion +3,푸른 호박 메달리온+3,Talisman,1,ok,other
+talismans,7020,Viridian Amber Medallion +3,녹색 호박 메달리온+3,Talisman,1,ok,other
+talismans,7030,Two-Headed Turtle Talisman,쌍두 거북 탈리스만,Talisman,1,ok,other
+talismans,7040,Stalwart Horn Charm +2,강건의 뿔 장식+2,Talisman,1,ok,other
+talismans,7050,Immunizing Horn Charm +2,면역의 뿔 장식+2,Talisman,1,ok,other
+talismans,7060,Clarifying Horn Charm +2,이성의 뿔 장식+2,Talisman,1,ok,other
+talismans,7080,Mottled Necklace +2,얼룩색 목걸이+2,Talisman,1,ok,other
+talismans,7090,Spelldrake Talisman +3,마력 용 표식의 탈리스만+3,Talisman,1,ok,other
+talismans,7100,Flamedrake Talisman +3,염룡 표식의 탈리스만+3,Talisman,1,ok,other
+talismans,7110,Boltdrake Talisman +3,뇌룡 표식의 탈리스만+3,Talisman,1,ok,other
+talismans,7120,Golden Braid,황금의 땋은 머리카락,Talisman,1,ok,other
+talismans,7130,Pearldrake Talisman +3,진주룡 표식의 탈리스만+3,Talisman,1,ok,other
+talismans,7140,Crimson Seed Talisman +1,붉은 종자의 탈리스만+1,Talisman,1,ok,other
+talismans,7150,Cerulean Seed Talisman +1,푸른 종자의 탈리스만+1,Talisman,1,ok,other
+talismans,8000,Blessed Blue Dew Talisman,은혜의 푸른 물방울 탈리스만,Talisman,1,ok,other
+talismans,8010,Fine Crucible Feather Talisman,도가니 얇은 날개의 탈리스만,Talisman,1,ok,other
+talismans,8020,Outer God Heirloom,외부의 신 전승,Talisman,1,ok,other
+talismans,8030,Shattered Stone Talisman,깨진 돌의 탈리스만,Talisman,1,ok,other
+talismans,8040,Two-Handed Sword Talisman,양손검의 탈리스만,Talisman,1,ok,other
+talismans,8050,Crusade Insignia,성전의 휘장,Talisman,1,ok,other
+talismans,8060,Aged One's Exultation,노인의 환희,Talisman,1,ok,other
+talismans,8070,Arrow's Soaring Sting Talisman,먼 튼튼한 화살의 탈리스만,Talisman,1,ok,other
+talismans,8090,Pearl Shield Talisman,진주 방패의 탈리스만,Talisman,1,ok,other
+talismans,8100,Dried Bouquet,마른 꽃다발,Talisman,1,ok,other
+talismans,8110,Smithing Talisman,단조술의 탈리스만,Talisman,1,ok,other
+talismans,8120,Ailment Talisman,병의 탈리스만,Talisman,1,ok,other
+talismans,8130,Retaliatory Crossed-Tree,되받아 치는 교차수,Talisman,1,ok,other
+talismans,8140,Lacerating Crossed-Tree,꿰뚫는 교차수,Talisman,1,ok,other
+talismans,8150,Sharpshot Talisman,조준하는 활의 탈리스만,Talisman,1,ok,other
+talismans,8160,St. Trina's Smile,트리나의 미소,Talisman,1,ok,other
+talismans,8170,Talisman of the Dread,폭룡의 탈리스만,Talisman,1,ok,other
+talismans,8180,Enraged Divine Beast,미친 듯이 날뛰는 신수,Talisman,1,ok,other
+talismans,8190,Beloved Stardust,사랑스러운 별가루,Talisman,1,ok,other
+talismans,8200,Talisman of Lord's Bestowal,왕의 수여 탈리스만,Talisman,1,ok,other
+talismans,8210,Verdigris Discus,녹청 원반,Talisman,1,ok,other
+talismans,8220,Rellana's Cameo,렐라나의 카메오,Talisman,1,ok,other
+talismans,8230,Blade of Mercy,자비의 칼날,Talisman,1,ok,other
+talismans,8240,Talisman of All Crucibles,모든 도가니의 탈리스만,Talisman,1,ok,other
+goods,191,Godrick's Great Rune,고드릭의 거대한 룬,Great Rune,0,ok,other
+goods,192,Radahn's Great Rune,라단의 거대한 룬,Great Rune,0,ok,other
+goods,193,Morgott's Great Rune,모르고트의 거대한 룬,Great Rune,0,ok,other
+goods,194,Rykard's Great Rune,라이커드의 거대한 룬,Great Rune,0,ok,other
+goods,195,Mohg's Great Rune,모그의 거대한 룬,Great Rune,0,ok,other
+goods,196,Malenia's Great Rune,말레니아의 거대한 룬,Great Rune,0,ok,other
+goods,380,Oil Pot,기름 항아리,Pot,0,ok,other
+goods,450,Roped Oil Pot,끈 달린 기름 항아리,Pot,0,ok,other
+goods,610,Albinauric Pot,백금 항아리,Pot,0,ok,other
+goods,820,Boiled Crab,삶은 게,Edible,0,ok,other
+goods,830,Boiled Prawn,삶은 새우,Edible,0,ok,other
+goods,1100,Pickled Turtle Neck,거북 목 절임,Edible,0,ok,other
+goods,1110,Immunizing Cured Meat,면역의 육포,Edible,0,ok,other
+goods,1120,Invigorating Cured Meat,강건의 육포,Edible,0,ok,other
+goods,1130,Clarifying Cured Meat,이성의 육포,Edible,0,ok,other
+goods,1140,Dappled Cured Meat,얼룩색 육포,Edible,0,ok,other
+goods,1150,Spellproof Dried Liver,항마의 말린 간,Edible,0,ok,other
+goods,1160,Fireproof Dried Liver,항염의 말린 간,Edible,0,ok,other
+goods,1170,Lightningproof Dried Liver,항뢰의 말린 간,Edible,0,ok,other
+goods,1180,Holyproof Dried Liver,항성의 말린 간,Edible,0,ok,other
+goods,1190,Silver-Pickled Fowl Foot,새 다리 백은 절임,Edible,0,ok,other
+goods,1200,Gold-Pickled Fowl Foot,새 다리 황금 절임,Edible,0,ok,other
+goods,1210,Exalted Flesh,용사의 고깃덩어리,Edible,0,ok,other
+goods,1235,Raw Meat Dumpling,날고기경단,Edible,0,ok,other
+goods,1290,Starlight Shards,별빛 조각,Essential,0,ok,other
+goods,1310,Immunizing White Cured Meat,면역의 흰 육포,Edible,0,ok,other
+goods,1320,Invigorating White Cured Meat,강건의 흰 육포,Edible,0,ok,other
+goods,1330,Clarifying White Cured Meat,이성의 흰 육포,Edible,0,ok,other
+goods,1340,Dappled White Cured Meat,얼룩색 흰 육포,Edible,0,ok,other
+goods,1400,Fire Grease,불기름,Grease,0,ok,other
+goods,1410,Lightning Grease,벼락기름,Grease,0,ok,other
+goods,1420,Magic Grease,마력기름,Grease,0,ok,other
+goods,1430,Holy Grease,신성기름,Grease,0,ok,other
+goods,1440,Blood Grease,피기름,Grease,0,ok,other
+goods,1450,Soporific Grease,수면기름,Grease,0,ok,other
+goods,1460,Poison Grease,독기름,Grease,0,ok,other
+goods,1470,Freezing Grease,빙결기름,Grease,0,ok,other
+goods,1480,Dragonwound Grease,용상기름,Grease,0,ok,other
+goods,1490,Rot Grease,부패기름,Grease,0,ok,other
+goods,1500,Drawstring Fire Grease,끈 달린 불기름,Grease,0,ok,other
+goods,1510,Drawstring Lightning Grease,끈 달린 벼락기름,Grease,0,ok,other
+goods,1520,Drawstring Magic Grease,끈 달린 마력기름,Grease,0,ok,other
+goods,1530,Drawstring Holy Grease,끈 달린 신성기름,Grease,0,ok,other
+goods,1540,Drawstring Blood Grease,끈 달린 피기름,Grease,0,ok,other
+goods,1550,Drawstring Soporific Grease,끈 달린 수면기름,Grease,0,ok,other
+goods,1560,Drawstring Poison Grease,끈 달린 독기름,Grease,0,ok,other
+goods,1590,Drawstring Rot Grease,끈 달린 부패기름,Grease,0,ok,other
+goods,1690,Shield Grease,방패기름,Grease,0,ok,other
+goods,2100,Soft Cotton,폭신한 면,Utility,0,ok,other
+goods,2120,Soap,비누,Utility,0,ok,other
+goods,3310,Warming Stone,따스함의 돌,Throwable,0,ok,other
+goods,3311,Frenzyflame Stone,미친 불의 돌,Throwable,0,ok,other
+goods,3350,Bewitching Branch,유혹의 나뭇가지,Throwable,0,ok,other
+goods,3360,Baldachin's Blessing,휘장의 은총,Offensive,0,ok,other
+goods,3361,Radiant Baldachin's Blessing,빛 비치는 휘장의 은총,Offensive,0,ok,other
+goods,3500,Uplifting Aromatic,고양의 향기,Aromatic,0,ok,other
+goods,3520,Ironjar Aromatic,철 항아리 향약,Aromatic,0,ok,other
+goods,3550,Bloodboil Aromatic,광열의 향약,Aromatic,0,ok,other
+goods,3610,Acid Spraymist,산 분무,Aromatic,0,ok,other
+goods,4130,Terra Magica,마술의 땅,Sorcery,0,ok,other
+goods,4140,Starlight,별 등불,Sorcery,0,ok,other
+goods,4360,Rennala's Full Moon,레날라의 만월,Sorcery,0,ok,other
+goods,4361,Ranni's Dark Moon,라니의 암월,Sorcery,0,ok,other
+goods,4400,Glintstone Icecrag,휘석의 얼음덩어리,Sorcery,0,ok,other
+goods,4410,Zamor Ice Storm,자미엘의 얼음 폭풍,Sorcery,0,ok,other
+goods,4420,Freezing Mist,얼음의 안개,Sorcery,0,ok,other
+goods,4431,Adula's Moonblade,아듀라의 달의 검,Sorcery,0,ok,other
+goods,4460,Scholar's Armament,마력의 무기,Sorcery,0,ok,other
+goods,4470,Scholar's Shield,마력의 방패,Sorcery,0,ok,other
+goods,4480,Lucidity,냉정,Sorcery,0,ok,other
+goods,4490,Frozen Armament,빙결의 무기,Sorcery,0,ok,other
+goods,4660,Unseen Blade,보이지 않는 칼날,Sorcery,0,ok,other
+goods,4670,Unseen Form,보이지 않는 모습,Sorcery,0,ok,other
+goods,4720,Gravity Well,중력탄,Sorcery,0,ok,other
+goods,4721,Collapsing Stars,별 부수기,Sorcery,0,ok,other
+goods,4900,Briars of Sin,죄의 가시,Sorcery,0,ok,other
+goods,4910,Briars of Punishment,벌의 가시,Sorcery,0,ok,other
+goods,5020,Fia's Mist,피아의 안개,Sorcery,0,ok,other
+goods,5040,Death Lightning,죽음의 뇌격,Incantation,0,ok,other
+goods,6040,"Flame, Cleanse Me",불의 치유여,Incantation,0,ok,other
+goods,6050,"Flame, Grant Me Strength","불이여, 힘을!",Incantation,0,ok,other
+goods,6060,"Flame, Protect Me",불의 수호여,Incantation,0,ok,other
+goods,6210,Black Flame,흑염,Incantation,0,ok,other
+goods,6230,Scouring Black Flame,쓸어버리는 흑염,Incantation,0,ok,other
+goods,6240,Black Flame Ritual,흑염의 의식,Incantation,0,ok,other
+goods,6250,Black Flame Blade,흑염의 칼날,Incantation,0,ok,other
+goods,6260,Black Flame's Protection,흑염의 수호,Incantation,0,ok,other
+goods,6320,Bloodflame Blade,혈염의 칼날,Incantation,0,ok,other
+goods,6330,Barrier of Gold,황금의 마력 방호,Incantation,0,ok,other
+goods,6340,Protection of the Erdtree,황금 나무의 수호,Incantation,0,ok,other
+goods,6420,Urgent Heal,성급한 회복,Incantation,0,ok,other
+goods,6421,Heal,회복,Incantation,0,ok,other
+goods,6422,Great Heal,대 회복,Incantation,0,ok,other
+goods,6423,Lord's Heal,왕의 회복,Incantation,0,ok,other
+goods,6424,Erdtree Heal,황금 나무의 회복,Incantation,0,ok,other
+goods,6430,Blessing's Boon,은혜의 축복,Incantation,0,ok,other
+goods,6431,Blessing of the Erdtree,황금 나무의 은혜,Incantation,0,ok,other
+goods,6440,Cure Poison,독의 치유,Incantation,0,ok,other
+goods,6441,Lord's Aid,왕의 치유,Incantation,0,ok,other
+goods,6450,Flame Fortification,화염 방호,Incantation,0,ok,other
+goods,6460,Magic Fortification,마력 방호,Incantation,0,ok,other
+goods,6470,Lightning Fortification,벼락 방호,Incantation,0,ok,other
+goods,6480,Divine Fortification,신성 방호,Incantation,0,ok,other
+goods,6490,Lord's Divine Fortification,왕의 신성 방호,Incantation,0,ok,other
+goods,6500,Night Maiden's Mist,밤 무녀의 안개,Sorcery,0,ok,other
+goods,6510,Assassin's Approach,암부의 보법,Incantation,0,ok,other
+goods,6530,Darkness,어둠,Incantation,0,ok,other
+goods,6600,Golden Vow,황금 나무에 맹세코,Incantation,0,ok,other
+goods,6720,Elden Stars,엘데의 유성,Incantation,0,ok,other
+goods,6740,Immutable Shield,불역의 방패,Incantation,0,ok,other
+goods,6770,Order's Blade,성률의 검,Incantation,0,ok,other
+goods,6780,Order Healing,성률의 치료,Incantation,0,ok,other
+goods,6840,Bestial Vitality,짐승의 생명,Incantation,0,ok,other
+goods,6850,Bestial Constitution,짐승의 강건,Incantation,0,ok,other
+goods,6960,Electrify Armament,벼락의 무기,Incantation,0,ok,other
+goods,6970,Vyke's Dragonbolt,바이크의 용뢰,Incantation,0,ok,other
+goods,6971,Dragonbolt Blessing,용뢰의 가호,Incantation,0,ok,other
+goods,7090,Greyoll's Roar,그레이오르의 포효,Incantation,0,ok,other
+goods,7230,Poison Armament,독 칼날,Incantation,0,ok,other
+goods,7330,Howl of Shabriri,샤브리리의 외침,Incantation,0,ok,other
+goods,7530,Black Blade,흑검,Incantation,0,ok,other
+goods,7900,Fire's Deadly Sin,불의 대죄,Incantation,0,ok,other
+goods,7903,Golden Lightning Fortification,황금의 벼락 방호,Incantation,0,ok,other
+goods,11000,Crimsonspill Crystal Tear,넘친 붉은 결정 물방울,Crystal Tear,0,ok,other
+goods,11001,Greenspill Crystal Tear,넘친 초록 결정 물방울,Crystal Tear,0,ok,other
+goods,11003,Crimson Crystal Tear,붉은 결정 물방울,Crystal Tear,0,ok,other
+goods,11005,Cerulean Crystal Tear,푸른 결정 물방울,Crystal Tear,0,ok,other
+goods,11006,Speckled Hardtear,얼룩색 굳은 물방울,Crystal Tear,0,ok,other
+goods,11007,Crimson Bubbletear,붉은 거품 물방울,Crystal Tear,0,ok,other
+goods,11008,Opaline Bubbletear,진주색 거품 물방울,Crystal Tear,0,ok,other
+goods,11009,Crimsonburst Crystal Tear,샘솟는 붉은 결정 물방울,Crystal Tear,0,ok,other
+goods,11010,Greenburst Crystal Tear,샘솟는 초록 결정 물방울,Crystal Tear,0,ok,other
+goods,11011,Opaline Hardtear,진주색 굳은 물방울,Crystal Tear,0,ok,other
+goods,11012,Winged Crystal Tear,날개 결정 물방울,Crystal Tear,0,ok,other
+goods,11013,Thorny Cracked Tear,가시 깨진 물방울,Crystal Tear,0,ok,other
+goods,11014,Spiked Cracked Tear,큰 가시 깨진 물방울,Crystal Tear,0,ok,other
+goods,11015,Windy Crystal Tear,바람 결정 물방울,Crystal Tear,0,ok,other
+goods,11020,Crimsonwhorl Bubbletear,붉은 소용돌이 거품 물방울,Crystal Tear,0,ok,other
+goods,11021,Strength-knot Crystal Tear,근력의 혹 결정 물방울,Crystal Tear,0,ok,other
+goods,11022,Dexterity-knot Crystal Tear,기량의 혹 결정 물방울,Crystal Tear,0,ok,other
+goods,11023,Intelligence-knot Crystal Tear,지력의 혹 결정 물방울,Crystal Tear,0,ok,other
+goods,11024,Faith-knot Crystal Tear,신앙의 혹 결정 물방울,Crystal Tear,0,ok,other
+goods,11025,Cerulean Hidden Tear,푸른 숨겨진 물방울,Crystal Tear,0,ok,other
+goods,11026,Stonebarb Cracked Tear,바위 가시 깨진 물방울,Crystal Tear,0,ok,other
+goods,11028,Flame-Shrouding Cracked Tear,불꽃 두른 깨진 물방울,Crystal Tear,0,ok,other
+goods,11029,Magic-Shrouding Cracked Tear,마력 두른 깨진 물방울,Crystal Tear,0,ok,other
+goods,11030,Lightning-Shrouding Cracked Tear,벼락 두른 깨진 물방울,Crystal Tear,0,ok,other
+goods,11031,Holy-Shrouding Cracked Tear,신성 두른 깨진 물방울,Crystal Tear,0,ok,other
+goods,2000380,Hefty Oil Pot,큰 기름 항아리,Pot,1,ok,other
+goods,2000910,Lulling Branch,선잠의 가지,Essential,1,ok,other
+goods,2001100,Dragon Communion Flesh,용찬의 고기 덩어리,Edible,1,ok,other
+goods,2001105,Dragonscale Flesh,역린의 고기 덩어리,Edible,1,ok,other
+goods,2001110,Fingerprint Nostrum,지문의 비약,Edible,1,ok,other
+goods,2001120,Spellproof Pickled Liver,항마의 간 절임,Edible,1,ok,other
+goods,2001130,Fireproof Pickled Liver,항염의 간 절임,Edible,1,ok,other
+goods,2001140,Lightningproof Pickled Liver,항뢰의 간 절임,Edible,1,ok,other
+goods,2001150,Holyproof Pickled Liver,항성의 간 절임,Edible,1,ok,other
+goods,2001160,Opaline Pickled Liver,진주색의 간 절임,Edible,1,ok,other
+goods,2001170,Well-Pickled Turtle Neck,거북 목 묵은 절임,Edible,1,ok,other
+goods,2001202,Scorpion Stew,전갈조림,Edible,1,ok,other
+goods,2001203,Gourmet Scorpion Stew,호화로운 전갈조림,Edible,1,ok,other
+goods,2001210,Sacred Bloody Flesh,성스러운 피와 살,Edible,1,ok,other
+goods,2001220,Silver Horn Tender,백은 뿔 화폐,Edible,1,ok,other
+goods,2001230,Golden Horn Tender,황금 뿔 화폐,Edible,1,ok,other
+goods,2001400,Messmerfire Grease,메스메르의 불기름,Grease,1,ok,other
+goods,2001410,Dragonbolt Grease,용뢰기름,Grease,1,ok,other
+goods,2001420,Royal Magic Grease,왕가의 마력기름,Grease,1,ok,other
+goods,2001430,Golden Grease,황금기름,Grease,1,ok,other
+goods,2001450,Eternal Sleep Grease,영면기름,Grease,1,ok,other
+goods,2001480,Dragon Communion Grease,용찬기름,Grease,1,ok,other
+goods,2001500,Drawstring Messmerfire Grease,끈 달린 메스메르의 불기름,Grease,1,ok,other
+goods,2001510,Drawstring Dragonbolt Grease,끈 달린 용뢰기름,Grease,1,ok,other
+goods,2001520,Drawstring Royal Magic Grease,끈 달린 왕가의 마력 기름,Grease,1,ok,other
+goods,2001530,Drawstring Golden Grease,끈 달린 황금기름,Grease,1,ok,other
+goods,2001550,Drawstring Eternal Sleep Grease,끈 달린 영면기름,Grease,1,ok,other
+goods,2001600,Festive Grease,축제기름,Grease,1,ok,other
+goods,2002010,Rock Heart,바위 심장,Utility,1,ok,other
+goods,2002020,Priestess Heart,무녀의 심장,Utility,1,ok,other
+goods,2002030,Lamenter's Mask,한탄하는 사람의 가면,Utility,1,ok,other
+goods,2002100,Ancient Dragon's Blessing,고룡의 은총,Offensive,1,ok,other
+goods,2003001,Spritestone,정령석,Throwable,1,ok,other
+goods,2003170,Golden Vow,황금 나무에 맹세코,Throwable,1,ok,other
+goods,2003310,Sunwarmth Stone,양지석,Throwable,1,ok,other
+goods,2003350,Charming Branch,매료의 나뭇가지,Throwable,1,ok,other
+goods,2004900,Mantle of Thorns,가시 두르기,Sorcery,1,ok,other
+goods,2004910,Impenetrable Thorns,거절의 가시,Sorcery,1,ok,other
+goods,2006400,Heal from Afar,저편에서 온 회복,Incantation,1,ok,other
+goods,2006670,Minor Erdtree,작은 황금 나무,Incantation,1,ok,other
+goods,2006910,Dragonbolt of Florissax,플로삭스의 용뢰,Incantation,1,ok,other
+goods,2011000,Viridian Hidden Tear,녹색 숨겨진 물방울,Crystal Tear,1,ok,other
+goods,2011020,Crimson-Sapping Cracked Tear,붉은 흡수의 깨진 물방울,Crystal Tear,1,ok,other
+goods,2011030,Cerulean-Sapping Cracked Tear,푸른 흡수의 깨진 물방울,Crystal Tear,1,ok,other
+goods,2011040,Oil-Soaked Tear,기름진 물방울,Crystal Tear,1,ok,other
+goods,2011050,Bloodsucking Cracked Tear,흡혈의 깨진 물방울,Crystal Tear,1,ok,other
+terms,weaponType:Axe,Axe,도끼,weapon class,0,ok,other
+terms,weaponType:Backhand Blade,Backhand Blade,역수검,weapon class,0,ok,namu
+terms,weaponType:Ballista,Ballista,발리스타,weapon class,0,ok,other
+terms,weaponType:Beast Claw,Beast Claw,짐승 발톱,weapon class,0,ok,namu
+terms,weaponType:Bow,Bow,활,weapon class,0,ok,other
+terms,weaponType:Claw,Claw,손톱,weapon class,0,ok,other
+terms,weaponType:Colossal Sword,Colossal Sword,특대검,weapon class,0,ok,other
+terms,weaponType:Colossal Weapon,Colossal Weapon,특대형 무기,weapon class,0,ok,other
+terms,weaponType:Crossbow,Crossbow,석궁,weapon class,0,ok,other
+terms,weaponType:Curved Greatsword,Curved Greatsword,대곡검,weapon class,0,ok,other
+terms,weaponType:Curved Sword,Curved Sword,곡검,weapon class,0,ok,other
+terms,weaponType:Dagger,Dagger,단검,weapon class,0,ok,other
+terms,weaponType:Fist,Fist,주먹,weapon class,0,ok,other
+terms,weaponType:Flail,Flail,철퇴,weapon class,0,ok,other
+terms,weaponType:Glintstone Staff,Glintstone Staff,지팡이,weapon class,0,ok,other
+terms,weaponType:Great Hammer,Great Hammer,대형 망치,weapon class,0,ok,other
+terms,weaponType:Great Katana,Great Katana,대형 도,weapon class,0,ok,namu
+terms,weaponType:Great Spear,Great Spear,대형 창,weapon class,0,ok,other
+terms,weaponType:Greataxe,Greataxe,대형 도끼,weapon class,0,ok,other
+terms,weaponType:Greatbow,Greatbow,대궁,weapon class,0,ok,other
+terms,weaponType:Greatshield,Greatshield,대형 방패,weapon class,0,ok,other
+terms,weaponType:Greatsword,Greatsword,대검,weapon class,0,ok,other
+terms,weaponType:Halberd,Halberd,도끼창,weapon class,0,ok,other
+terms,weaponType:Hammer,Hammer,망치,weapon class,0,ok,other
+terms,weaponType:Hand-to-Hand,Hand-to-Hand,격투,weapon class,0,ok,namu
+terms,weaponType:Heavy Thrusting Sword,Heavy Thrusting Sword,대자검,weapon class,0,ok,other
+terms,weaponType:Katana,Katana,도,weapon class,0,ok,other
+terms,weaponType:Light Bow,Light Bow,소형 활,weapon class,0,ok,other
+terms,weaponType:Light Greatsword,Light Greatsword,경대검,weapon class,0,ok,namu
+terms,weaponType:Medium Shield,Medium Shield,중형 방패,weapon class,0,ok,other
+terms,weaponType:Perfume Bottle,Perfume Bottle,조향병,weapon class,0,ok,namu
+terms,weaponType:Reaper,Reaper,낫,weapon class,0,ok,other
+terms,weaponType:Sacred Seal,Sacred Seal,성인,weapon class,0,ok,other
+terms,weaponType:Small Shield,Small Shield,소형 방패,weapon class,0,ok,other
+terms,weaponType:Spear,Spear,창,weapon class,0,ok,other
+terms,weaponType:Straight Sword,Straight Sword,직검,weapon class,0,ok,other
+terms,weaponType:Throwing Blade,Throwing Blade,투척검,weapon class,0,ok,namu
+terms,weaponType:Thrusting Shield,Thrusting Shield,관통 방패,weapon class,0,ok,namu
+terms,weaponType:Thrusting Sword,Thrusting Sword,자검,weapon class,0,ok,other
+terms,weaponType:Torch,Torch,횃불,weapon class,0,ok,other
+terms,weaponType:Twinblade,Twinblade,쌍날검,weapon class,0,ok,other
+terms,weaponType:Whip,Whip,채찍,weapon class,0,ok,other
+terms,affinity:Standard,Standard,표준,affinity,0,ok,other
+terms,affinity:Heavy,Heavy,중후,affinity,0,ok,other
+terms,affinity:Keen,Keen,예리,affinity,0,ok,other
+terms,affinity:Quality,Quality,상질,affinity,0,ok,other
+terms,affinity:Fire,Fire,화염,affinity,0,ok,other
+terms,affinity:Flame Art,Flame Art,화염술,affinity,0,ok,other
+terms,affinity:Lightning,Lightning,벼락,affinity,0,ok,other
+terms,affinity:Sacred,Sacred,신성,affinity,0,ok,other
+terms,affinity:Magic,Magic,마력,affinity,0,ok,other
+terms,affinity:Cold,Cold,냉기,affinity,0,ok,other
+terms,affinity:Poison,Poison,독,affinity,0,ok,other
+terms,affinity:Blood,Blood,피,affinity,0,ok,other
+terms,affinity:Occult,Occult,신비,affinity,0,ok,other
+terms,stat:Strength,Strength,근력,attribute,0,ok,other
+terms,stat:Dexterity,Dexterity,기량,attribute,0,ok,other
+terms,stat:Intelligence,Intelligence,지력,attribute,0,ok,other
+terms,stat:Faith,Faith,신앙,attribute,0,ok,other
+terms,stat:Arcane,Arcane,신비,attribute,0,ok,other
+terms,damage:Physical,Physical,물리,damage type,0,ok,other
+terms,damage:Magic,Magic,마력,damage type,0,ok,other
+terms,damage:Fire,Fire,화염,damage type,0,ok,other
+terms,damage:Lightning,Lightning,벼락,damage type,0,ok,other
+terms,damage:Holy,Holy,신성,damage type,0,ok,other
+terms,status:Blood Loss,Blood Loss,출혈,status effect,0,ok,other
+terms,status:Frostbite,Frostbite,동상,status effect,0,ok,other
+terms,status:Poison,Poison,독,status effect,0,ok,other
+terms,status:Scarlet Rot,Scarlet Rot,붉은 부패,status effect,0,ok,other
+terms,status:Sleep,Sleep,수면,status effect,0,ok,other
+terms,status:Madness,Madness,발광,status effect,0,ok,other
+terms,armorPart:Helm,Helm,투구,armor part,0,ok,other
+terms,armorPart:Chest Armor,Chest Armor,갑옷,armor part,0,ok,other
+terms,armorPart:Gauntlets,Gauntlets,장갑,armor part,0,ok,other
+terms,armorPart:Leg Armor,Leg Armor,각반,armor part,0,ok,other

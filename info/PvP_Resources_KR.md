@@ -42,7 +42,7 @@
 |------|------|
 | **MithMaps** — 2vs2 토너먼트 모드 | [🔗 GitHub](https://github.com/Mithsril/MithMaps) |
 | **Better Multiplayer** (DEN2) — 최신 버전으로 받을 것 | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/BetterMultiplayer/releases) |
-| **DEN Maps** (DEN1) — 최신 버전으로 받을 것 | [🔗 GitHub Releases](https://github.com/DuelistEventNetwork/DEN-Maps-Release/releases/tag/v1.7.0-beta19) |
+| **DEN Maps** (DEN1) — 최신 버전으로 받을 것 | [🔗 GitHub (DEN 조직 페이지)](https://github.com/DuelistEventNetwork) |
 | **Steam P2P Info** — 같은 월드 플레이어와의 레이턴시 확인 | [🔗 GitHub Releases](https://github.com/tremwil/SteamP2PInfo/releases) |
 
 > [!CAUTION]
